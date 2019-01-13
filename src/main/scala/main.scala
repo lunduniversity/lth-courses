@@ -1,24 +1,56 @@
-package se.lth.courses
+import Data._
+import Grid.StringToFile
+
+object Main {
+  def main(args: Array[String]): Unit = args.toList match {
+    case "--download":: xs => DownloadAllCoursePlans(xs)
+    case "--words"::xs     => PrintStatistics(xs)
+    case _                 => PrintStatistics()
+  }
+}
 
 object DownloadAllCoursePlans {
   def now = System.currentTimeMillis
-  def main(args: Array[String]): Unit = {
-    require(args.nonEmpty, "args empty; missing <year>, use e.g: 18_19")
+
+  def apply(args: List[String]): Unit = {
+    val year = args.lift(0).getOrElse(defaultYear)
+    println(s"Downloading course plans to data/$year/plans/")
+
     val t0 = now
     def elapsed = (now - t0)/1000
-    else {
-      import se.bjornregnell.tabular.Grid.StringToFile
-      val year = args(0)
 
-      println(s"Downloading course plans to data/$year/plans...")
-      import Data._
-      for (courseId <- courseIds) {
-        print(s"$courseId, ")
-        downloadPlanText(courseId, year).toFile(s"data/$year/$courseId.txt")
-        downloadPlanHtml(courseId, year).toFile(s"data/$year/$courseId.html")
-      }
-      println(s"READY! Total download time = $elapsed seconds")
+
+    for (courseId <- courseIds) {
+      print(s"$courseId, ")
+      val planHtml = downloadPlanHtml(courseId, year)
+      planHtml.toFile(s"data/$year/$courseId.html")
+      planToTxt(planHtml).toFile(s"data/$year/$courseId.txt")
     }
+    println(s"READY! Total download time = $elapsed seconds")
   }
 
+}
+
+object PrintStatistics {
+
+  def apply(args: List[String] = List()): Unit = {
+    val words = if (args.isEmpty) digiwords else args.toVector
+    val digiCourses = oblDigi(words).sorted
+    val n = digiCourses.length
+    val percent = n * 100 / obl.size
+    val stats = s"""
+    |  *** COURSES AT LTH 20$defaultYear ***
+    |
+    |                      courses: ${overview.nRows}
+    |           obligatory courses: ${obl.size}
+    |          alt.-oblig. courses: ${altObl.size}
+    |             elective courses: ${elect.size}
+    |
+    |  filtered obligatory courses: $n ($percent%)
+    |  containing at least one of these strings: ${words.mkString(" ")}
+    |
+    |${digiCourses.mkString(",")}
+    |""".stripMargin
+    println(stats)
+  }
 }
