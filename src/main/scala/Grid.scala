@@ -1,5 +1,4 @@
-package se.bjornregnell.tabular
-
+/** A companion to Grid with types and settings for tabular data. */
 object Grid {
   object Settings {
     var defaultDelim = '\t'
@@ -39,6 +38,7 @@ object Grid {
   }
 }
 
+/** An immutable data structure for manipulating tabular data. */
 case class Grid(headings: Grid.Row, data: Grid.Matrix) {
   import Grid._
   import Settings._
@@ -167,5 +167,4 @@ case class Grid(headings: Grid.Row, data: Grid.Matrix) {
       data.map(_.mkString("", delim.toString, "\n")).mkString
 
   def toFile(file: String, delim: Char = defaultDelim, enc: String = defaultEnc): Unit = csv(delim).toFile(file, enc)
-  // java.nio.file.Files.write(java.nio.file.Paths.get(file), csv(delim).getBytes(enc))
 }
