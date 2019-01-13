@@ -1,2 +1,20 @@
-*.class
-*.log
+**/tmp
+**/old
+
+# Latex
+**/*.aux
+**/*.log
+**/*.nav
+**/*.out
+**/*.snm
+**/*.vrb
+**/*.synctex.gz
+**/*.synctex.gz(busy)
+**/*.toc
+
+# Java / Scala
+**/*.class
+
+# Sbt
+
+**/target
