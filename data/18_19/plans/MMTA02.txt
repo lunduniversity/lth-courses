@@ -1,0 +1,93 @@
+
+
+Kursplan för
+Introduktion till maskinteknik
+Introduction to Mechanical Engineering
+MMTA02, 6 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning M
+Beslutsdatum: 2018-03-27
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: M1
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+ 
+
+Att förse studenten med grundläggande tekniska ramar och en
+insikt om maskinämnets teknikbas.
+Att väcka en nyfikenhet inför maskintekniks olika
+ämnesområden genom att kombinera experimentella studier med
+teoretiska frågeställningar kopplat till en fysisk produkt.
+Att ge övning i att arbeta i projektform.
+Att ge övning i både skriftlig och muntlig presentation.
+
+ 
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+visa insikt om teknikbasen för Maskinteknik.
+visa insikt om kopplingen mellan praktiska fungerande
+system/produkter och de teoretiska kunskaper som erfordras för att
+utveckla ett system/produkt.
+i grupp kunna beskriva funktion hos ingående komponenter i en
+sammansatt produkt, inom anvisade ramar.
+i grupp kunna beskriva samspel mellan komponenter i en
+sammansatt produkt, inom anvisade ramar.
+i grupp kunna genomföra ett projektarbete bestående av
+konstruktion/produktutveckling samt tillverkning.
+i grupp kunna dokumentera och beskriva ett projektarbete i en
+teknisk rapport.
+i grupp kunna ge en muntlig presentation för att beskriva ett
+projektarbete.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+i grupp, kunna utföra enklare experiment på en maskinteknisk
+produkt, enligt givna instruktioner.
+kunna tolka tekniska instruktioner.
+i grupp kunna skapa enklare ritningar m.h.a. CAD.
+i grupp kunna utföra enklare tillverknings- och
+monteringsarbeten.
+
+
+Kursinnehåll
+Under första halvan av kursen arbetar teknologerna i
+laborationsform med uppgifter kopplade till en kommersiell produkt.
+Laborationsuppgifterna baseras på maskintekniks teknikbas, så som
+produktutveckling/design, tillverkningsteknik, materialteknik,
+maskinelement etc. Laborationerna föregås av föreläsningar
+inom respektive ämnesområde av specialister. Utgångspunkten är
+att den praktiskt tillämpade funktionen/processen skall stå i
+centrum för verksamheten i kursen.
+Under andra halvan av kursen arbetar teknologerna med ett
+konstruktions-/produktutvecklingsprojekt. I projektet ingår även
+en hel del enklare tillverknings- och monteringsarbete.
+Projektarbetet ska förutom en tillverkad produkt även resultera i
+både en skriftlig rapport och en muntlig presentation varför
+föreläsningar gällande skriftlig och muntlig presentationsteknik
+ges under projektets gång.
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: Obligatoriska laborationer och obligatorisk projektuppgift med både skriftlig och muntlig presentation.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: MMTA01
+Kurslitteratur
+
+Kurskompendium sammanställd av institutionen.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Hans Walter, hans.walter@iprod.lth.se
+Hemsida: http://www.iprod.lth.se
+
+
+

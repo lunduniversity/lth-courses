@@ -1,0 +1,78 @@
+
+
+Kursplan för
+Biologisk översiktskurs
+Biology, Introductory Course
+EXTG15, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning W
+Beslutsdatum: 2018-03-22
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Alternativobligatorisk för: Pi3
+Valfri för: E4, F4
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Kursen syftar till att ge en översiktlig introduktion till
+grundläggande biologi samt till modellerings- och
+beräkningsmetoder som är vanliga inom biologi.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna redogöra för grundläggande cellbiologiska begrepp
+kunna förklara evolutionens mekanismer
+kunna presentera de olika biologiska
+organisationsnivåerna
+kunna redogöra för grundläggande genetiska begrepp och
+förstå hur nedärvning fungerar
+självständigt kunna använda olika beräknings- och
+modelleringsmetoder som används inom biologi
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna visa förmåga på hur man tillämpar de biologiska
+beräkningsmetoder som ingår i kursen
+ha en biologisk allmänbildning som är tillräcklig för att
+kunna på egen hand tillämpa kunskaper i matematik, statistik och
+datavetenskap på biologiska problem.
+
+
+Kursinnehåll
+Cellens uppbyggnad och funktion. Nukleinsyrornas struktur och
+replikation. Proteinsyntesen. Genreglering. Genomets och proteomets
+struktur. Fysiologiska grundbegrepp. Den klassiska genetikens
+lagar. Populationsgenetik. Evolutionslära. Ekologiska och
+populationsbiologiska grundbegrepp och modeller.
+Metoder och begrepp som är vanliga inom teoretisk biologi som
+populationsgenetik, bioinformatik, populationsekologi och
+spelteori. Kursen innehåller också exempel på matematiska
+tillämpningar av biologiska analysverktyg såsom genetiska
+algoritmer, neurala nätverk och cellulära automater.
+Programmeringsspråket på övningarna är MATLAB, varför en viss
+vana med detta är en fördel.
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: Ingen tentamen. Betygssättningen grundas på inlämnade och godkända övningsuppgifter. Den biologiska allmänbildningsdelen (dvs de för kursen unika föreläsningarna) tenteras genom närvaro på dessa föreläsningar. För godkänt krävs närvaro på 90% av föreläsningarna.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: FMAF05 System och transformer eller motsvarande.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: EXTG10, TEK290, EXTG11
+Kurslitteratur
+
+Biologiinnehållet i kursen täcks av Mader, S: Biology, senaste upplagan, McGraw-Hill, beräkningsövningarna finns beskrivna i utdelade kompendier och övningsinstruktioner.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Anders.Brodin, Anders.Brodin@biol.lu.se
+Hemsida: http://www.biologi.lu.se/utbildning/grund-och-avancerad-utbildning/kurser/kurser-grundniva/biologiska-kurser-pa-grundniva-for-teknologer
+Övrig information: Kursen är alternativobligatorisk under tredje året på civilingenjörsutbildningen i teknisk matematik. Kursen samkörs med kursen EXTG11 Biologisk modellering som utgör de teoretiska och beräkningstekniska delarna av EXTG15.
+
+
+

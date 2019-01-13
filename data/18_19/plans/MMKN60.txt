@@ -1,0 +1,115 @@
+
+
+Kursplan för
+Produktutvecklingsprojekt
+Product Development Project
+MMKN60, 15 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning M
+Beslutsdatum: 2018-03-27
+Allmänna uppgifter
+Valfri för: M4
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Syftet med kursen är att ge kunskaper och insikter i planering,
+genomförande och styrning av ett industriellt utvecklingsprojekt,
+där målet är konstruktion, tillverkning och utprovning av en
+fungerande teknisk lösning (primärprodukt/prototyp).
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+utifrån ett i samverkan med ett industriföretag framtagen
+projektbeskrivning, självständigt eller i grupp, kunna planera
+och genomföra ett komplext produktutvecklingsprojekt i samverkan
+med företaget
+aktivt kunna tillämpa kunskaper från grundläggande kurser
+inom maskintekniken för att skapa nya och/eller förbättrade
+konstruktionslösningar
+kunna kommunicera den för projektarbetet nödvändiga
+informationsutbytet - muntligen, i skrift och i de övriga former
+som kan vara aktuella för att förmedla resultat såsom fysiska
+och digitala modeller
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+i grupp kunna genomföra ett komplext produktutvecklingsprojekt
+för ett industriföretag eller en institution
+aktivt kunna bidra vid montering och utprovning av framtagna
+prototyper/primärprodukt
+inför ett industriföretag muntligen och skriftligen,
+självständigt eller i grupp, kunna redovisa och i dialog
+föredra resultatet från olika faser av ett utvecklingsprojekt - i
+form av resultat och process
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+reflektera över utfört projekt och baserat därpå kunna ge
+rekommendationer för fortsatt utvecklingsarbete
+
+
+Kursinnehåll
+Utvecklingsprojektet genomförs under ett helt läsår, dvs
+under fyra läsperioder. Arbetet utförs i form av grupparbete om
+3–5 teknologer per grupp. Utvecklingsprojekten, som till
+dominerande del utföres i samarbete med industrin, omfattar
+följande etapper: Principkonstruktion, Primärkonstruktion I och
+Primärkonstruktion II.
+Innan etapparbetet i Primärkonstruktion I kan
+påbörjas, ges två föreläsningar, som komplement till tidigare
+föreläst teori i kursen Utvecklingsmetodik MMK040.
+Principkonstruktion – Med utgångspunkt ifrån ett
+materiellt behov eller given produktuppgift skall ett principiellt
+produktförslag, en konceptlösning, tas fram.
+Primärkonstruktion I – Utifrån det i föregående
+etapp framtagna princip- /konceptlösningen utvecklas en
+preliminärt användningsriktig produkt fram t o m ett komplett
+tillverkningsunderlag. Om möjligt, uppdelas
+primärkonstruktionsarbetet så att varje gruppmedlem enskilt
+utför del av utvecklingsarbetet.
+Primärkonstruktion II – Den framtagna primärprodukten
+(ev. prototypen) tillverkas. När produkten tillverkats, monteras
+denna av gruppen, som även utprovar produkten. Resultaten från
+utprovningen, bl.a. innehållande eventuella rekommendationer för
+produktens vidare utveckling, dokumenteras i en slutrapport.
+Produkt- och utvecklingsarbetet i sin helhet redovisas vid en
+offentlig projektutställning.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: I varje projektetapp redovisas uppnådda projektresultat i en för respektive projektgrupp gemensam rapport. Totalt skall tre rapporter tas fram under projektets gång. Dessa projektrapporter poängbedöms av institutionshandledaren, vanligtvis efter konsultation med industrirepresentanten. Maximalt kan 20 poäng erhållas för respektive etapprapport. Underkänd etapprapport skall kompletteras, varvid endast minimipoäng (10 poäng) erhålles vid godkänt resultat. För erhållande av slutbetyg krävs godkända projektrapporter. Slutbetyget erhålles som heltalsdelen av en tiondel av summan av poängresultaten från respektive etapprapport, dock kan maximalt betyget 5 erhållas.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Principkonstruktionsprojekt. 
+Antal högskolepoäng: 5. Betygsskala: UG.  Prestationsbedömning: Varje kursdeltagare erhåller den för projektarbetet erhållna poängen. Poäng ges vid godkänt projektarbete i intervallet 10 - 20 poäng.  Delmomentet omfattar: Löpande redogörelser, tekniskt underlag, inlämnad rapport och föredragning bedöms utifrån den i kursen Utvecklingsmetodik (MMK040) introducerade konstruktionsmodellen för utvecklingsfasen Principkonstruktion ("Concept Development"). 
+Kod: 0217. Benämning: Primärkonstruktionsprojekt 1. 
+Antal högskolepoäng: 5. Betygsskala: UG.  Prestationsbedömning: Varje kursdeltagare erhåller den för projektarbetet erhållna poängen. Poäng ges vid godkänt projektarbete i intervallet 10 - 20 poäng.  Delmomentet omfattar: Arbetet i denna fas av utvecklingsprojektet inleds med en föreläsning om konstruktionsmetodik, där den i kursen Utvecklingsmetodik förelästa modellen kompletteras. Löpande redogörelser, komplett underlag för layout, detaljkonstruktion och komponentval, rapport(-er) och föredragning bedöms utifrån den givna konstruktionsmodellen. 
+Kod: 0317. Benämning: Primärkonstruktionsprojekt 2. 
+Antal högskolepoäng: 5. Betygsskala: UG.  Prestationsbedömning: Utställningsmaterial, uppläggning och genomförande av offentlig utställning och presentation bedöms. Varje kursdeltagare erhåller den för projektarbetet erhållna poängen. Poäng ges vid godkänt projektarbete i intervallet 10 - 20 poäng.  Delmomentet omfattar: Uppläggning och genomförande av etapparbetet, samt slutsatser från genomförda prov dokumenteras i en slutrapport. 
+Antagningsuppgifter
+Förkunskapskrav:
+MMK040/MMKF01 Utvecklingsmetodik
+
+
+Förutsatta förkunskaper: FHL013/FHLF15 Hållfasthetslära, FKM015/FKMA01 Konstruktionsmaterial, MME070/MMEN01 Transmissioner, dimensionering, MME080/MMEN05 Transmissioner, dynamik, MMT012/MMTF20 Tillverkningsmetoder, MMKN05/MMKN55 Konstruktionsteknik, MMK140/MMKN46 Datorbaserad konstruktionsanalys 1, MMK145/MMKN51 Datorbaserad konstruktionsanalys 2.
+Begränsat antal platser: Nej
+Kursen kan ställas in: Om färre än 3 anmälda.
+Kurslitteratur
+
+R. Bjärnemo, Primärkonstruktion, avdelningen för maskinkonstruktion, LTH, 2007.
+R. Bjärnemo, Instruktioner om utvecklingsprojekts planering och genomförande, avdelningen för maskinkonstruktion, LTH, 2007.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Per-Erik Andersson, per-erik.andersson@design.lth.se
+Kursansvarig: Olaf Diegel, olaf.diegel@design.lth.se
+Hemsida: http://www.product.lth.se/education/
+
+
+

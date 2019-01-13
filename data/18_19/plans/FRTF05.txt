@@ -1,0 +1,113 @@
+
+
+Kursplan för
+Reglerteknik, allmän kurs
+Automatic Control, Basic Course
+FRTF05, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning F/Pi
+Beslutsdatum: 2018-03-23
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: C3, D3, E3, F2, I3, M3, MD3, N3, Pi2
+Valfri för: BME4-sbh
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Syftet med kursen är att ge kunskap om de grundläggande
+principerna inom reglertekniken. Kursen skall ge insikt om vad man
+kan åstadkomma med reglering, vilka möjligheter och
+begränsningar som finns. Kursen behandlar linjära
+tidskontinuerliga system.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna definiera grundläggande reglertekniska begrepp.
+kunna linjärisera olinjära dynamiska modeller.
+kunna beräkna samband mellan dynamiska modeller i form av
+transientsvar, överföringsfunktioner, differentialekvationer på
+tillståndsform samt frekvenssvar beskrivna med Bode- eller
+Nyquistdiagram.
+kunna analysera dynamiska system med avseende på stabilitet,
+robusthet, stationära egenskaper samt styrbarhet och
+observerbarhet.
+kunna beräkna implementerbara regulatorer genom diskretisering
+av analoga regulatorer.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna designa regulatorer utgående från givna specifikationer
+på robusthet och snabbhet utgående från modeller i form av
+tillståndsbeskrivning,
+överföringsfunktion, Bodediagram eller Nyquistdiagram.
+kunna designa regulatorer baserade på kaskadkoppling,
+framkoppling och dödtidskompensering.
+kunna utvärdera regulatorer via analys av transient- och
+frekvenssvar, samt via laborationer på verkliga processer.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+förstå samband och begränsningar då enkla modeller används
+för att beskriva komplexa dynamiska system
+visa förmåga till lagarbete och samverkan i grupp vid
+laborationer.
+
+
+Kursinnehåll
+Inledning. Översikt av reglerteknikens problemställningar och
+arbetsmetoder. Beskrivning av dynamiska system med hjälp av
+tidsinvarianta ordinära differentialekvationer,
+överföringsfunktion, frekvenskurvor, Bode- och Nyquistdiagram.
+Samband mellan olika representationer. Styrbarhet och
+observerbarhet. Analys av återkopplade system. Förmågan hos
+reglersystem att reproducera insignaler och eliminera inverkan av
+störningar. Stabilitet. Översikt av metoder för
+stabilitetsundersökning: rotortmetoden och Nyquistkriteriet.
+Praktisk stabilitet. Fas- och amplitudmarginal. Syntes och
+implementation av reglersystem. Specifikationer. Reglerprinciper
+och regulatorstrukturer: PID-regulatorn, kaskadreglering,
+framkoppling. Syntes av system med given överföringsfunktion:
+polplacering genom tillståndsåterkoppling och
+utsignalåterkoppling. Rekonstruktion med Kalmanfilter.
+Kompensering enligt Nyquist och Bode. Dödtidskompensering. Exempel
+på tillämpningar.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen (5 tim), tre laborationer. Vid färre än fem anmälda kan omtentamina ges på muntlig form.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Tentamen. 
+Antal högskolepoäng: 6. Betygsskala: TH.  Prestationsbedömning: Godkänd tentamen. 
+Kod: 0217. Benämning: Laboration 1. 
+Antal högskolepoäng: 0,5. Betygsskala: UG.  Prestationsbedömning: Godkända förberedelseuppgifter samt godkänd genomförd laboration. 
+Kod: 0317. Benämning: Laboration 2. 
+Antal högskolepoäng: 0,5. Betygsskala: UG.  Prestationsbedömning: Godkända förberedelseuppgifter samt godkänd genomförd laboration. 
+Kod: 0417. Benämning: Laboration 3. 
+Antal högskolepoäng: 0,5. Betygsskala: UG.  Prestationsbedömning: Godkända förberedelseuppgifter samt godkänd genomförd laboration. 
+Antagningsuppgifter
+Förutsatta förkunskaper: Obligatoriska kurser i matematik.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FRT010, FRT065, FRT081, FRT110, FRTN25
+Kurslitteratur
+
+Glad T, Ljung L: Reglerteknik – grundläggande teori, Studentlitteratur, 2006 eller.
+Åström KJ, Murray RM: Feedback systems, Princeton 2008.
+Kompendium i Reglerteknik AK - Föreläsningar, Hägglund, T.
+Exempelsamling (komp.). Formelsamling (komp.). Laborations PM (komp).
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Professor Tore Hägglund, tore.hagglund@control.lth.se
+Kursansvarig: Professor Bo Bernhardsson, bo.bernhardsson@control.lth.se
+Studierektor: Karl-Erik Årzén, karl-erik.arzen@control.lth.se
+Hemsida: http://www.control.lth.se/Education/engineering-program/FRT010_ED.html
+
+
+

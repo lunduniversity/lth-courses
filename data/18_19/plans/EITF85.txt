@@ -1,0 +1,81 @@
+
+
+Kursplan för
+Elektromagnetisk fältteori
+Electromagnetic Field Theory
+EITF85, 6 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning E
+Beslutsdatum: 2018-04-05
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: F3
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursens syfte är att ge en sammanhängande beskrivning av
+såväl grundläggande teori som tillämpningar inom
+elektromagnetisk fältteori. Stor vikt kommer att läggas på
+fysikalisk insikt kopplat med användandet av matematiska modeller.
+Kursen avser också att belysa de vitt spridda tillämpningarna av
+den elektromagnetiska fältteorin såsom optik, elektronik
+och kommunikationsteknik.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna förklara hur elektrisk laddning och ström alstrar och
+påverkas av elektriska och magnetiska fält
+kunna beskriva de elektromagnetiska egenskaperna hos olika
+material
+kunna tillämpa Maxwells ekvationer på enkla elektrostatiska,
+magnetostatiska och elektrodynamiska problem
+kunna förstå grundläggande utbredning och generering av
+elektromagnetiska vågor
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna visa förmåga att på ingenjörsmässiga grunder bedöma
+elektromagnetiska problem, göra relevanta approximationer och
+välja lämplig lösningsmetod
+visa förmåga att analysera och modellera elektromagnetiska
+problemställningar, samt tolka och presentera resultaten
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna förklara styrkan och generaliteten i en fältteoretisk
+beskrivning av fysikaliska fenomen
+ha insikt om att elektromagnetismen är grunden till
+elektronik, optik och radiokommunikation
+
+
+Kursinnehåll
+Repetition av elektrostatiska fält. Magnetostatiska fält.
+Vektorpotentialen. Magnetisering. Induktionslagen. Maxwells
+fältekvationer. Elektromagnetiska vågor.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: FMAA05 Endimensionell analys, FMA430/FMAB30 Flerdimensionell analys. FMA420/FMAB20 Linjär algebra. FMFF01 Vektoranalys. FMA021/FMAN55 Kontinuerliga system.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: ESS050, ETEF01, EITF80, ETE055
+Kurslitteratur
+
+Griffiths, D J: Introduction to Electrodynamics. Pearson Education Limited, 2014, ISBN: 0-13-978-1-292-02142-3.
+Karlsson, A, Kristensson, G, Sohl, C: Exempelsamling Elektromagnetisk fältteori.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Anders Karlsson, anders.karlsson@eit.lth.se
+Hemsida: http://www.eit.lth.se/kurs/eitf85
+
+
+

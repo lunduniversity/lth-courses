@@ -1,0 +1,152 @@
+
+
+Kursplan för
+Ventilation och luftkvalitet i byggnader
+Ventilation and Indoor Air Quality
+ABKF10, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning V
+Beslutsdatum: 2018-03-27
+Allmänna uppgifter
+Huvudområde: Energi- och miljöeffektiva byggnader. 
+Obligatorisk för: MEMB1
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Att ge mer avancerad kunskap om innemiljön; faktorerna som
+påverka innemiljön och hur en tillfredsställande innemiljö ska
+uppnås genom utformning av de tekniska systemen med fokus på
+ventilationssystemen.
+Att ge studenten mer kunskap att skapa byggnader som uppfyller
+krav rörande komfort, hälsosam innemiljö och energikrav.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+förstå hur en byggnad fungerar som ett klimatsystem
+kunna beskriva ventilationskoncept och alla typer av
+ventilationssystem och andra värme- och kylsystem
+förstå nyckelbegrepp kring luftkvalitet
+kunna beskriva och ha en baskunskap kring om var farliga ämnen
+och andra ämnen kan förekomma i innemiljön och deras
+påverkan på människor och miljö
+kunna analysera funktionskrav och luftflödeskrav, vilka
+baseras på hälsa och komfort för olika tillämpningar
+kunna beskriva och förklara hur system ska utformas på
+rumsnivå för att uppnå alla funktionskrav
+kunna förklara de signifikanta faktorerna som krävs för att
+skapa ett energi-effektivt ventilationssystem
+kunna identifiera dimensioneringsfall för luftkonditionering
+och kunna beräkna luftflödet och tilluftsstemperaturen
+kunna förstå hur utformningen av
+ventilationssystemet kommer att påverka brandgasspridningen i en
+byggnad via ventilationssystemet vid en brand
+kunna mäta enkla inneklimatparametrar
+kunna diskutera aktuella forskningstrender och utmaningar inom
+området inneluftkvalitet och ventilation
+
+ 
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna utforma och dimensionera värme-, ventilations- och
+kylsystem som skapar ett termiskt och hygieniskt
+tillfredsställande inneklimat och lösa koordinationen med stomme,
+byggnadsskal och arkitektonisk utformning
+kunna använda existerande datorprogram för bestämning av
+luftflödesmönster i rum och välja ventilationskomponenter
+kunna beskriva och diskutera de fysiska parametrarna som
+påverkar luftkvalitet och luftrörelser i rum
+kunna beräkna tryckfall för alla ventilationskomponenter och
+motsvarande tryckuppsättning för fläkten
+kunna utveckla passiva strategier som kan
+reglera inneklimatet
+kunna genomföra energianalyser och föreslå
+energi-effektiviseringsåtgärder för ventilationssystem
+visa förmåga för samarbete i grupp, kunna muntligt och
+skriftligt, i dialog med andra grupper, presentera och diskutera
+sina resultat och slutsatser
+kunna utforma en tillräcklig tillförsel av luft till rum och
+undvika drag, höga temperaturgradienter och höga koncentrationer
+av föroreningar i vistelsezonen, inkluderande tilluftsdon och dess
+dimensioneringsparametrar
+kunna beräkna energianvändningen för ventilationsystemet i
+driftskedet och därigenom kunna göra lämpliga val i
+projekteringsskedet av värme och värmeåtervinningskomponenter
+vilka skapar både hygieniska och energi-effektiva tekniska
+lösningar
+
+ 
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna identifiera behovet av ytterligare kunskap för att
+utveckla sin kompetens
+kunna välja vilka värme-, ventilations- och kylsystem som ska
+användas i en specifik byggnad baserat på vilka system som kan
+uppfylla de tekniska kraven och vara lämpliga för olika
+förutsättningar: uteklimat, antagna verksamheter och
+klimatkrav
+kunna värdera, baserad på kunskapen om de olika tekniska
+systemen, vilka tekniska system som kan vara möjliga och lämpliga
+att använda i en byggnad med mycket höga energikrav
+kunna kritiskt analysera installationstekniska lösningar i
+termer av hygieniska, termiska och energi-effektiva aspekter och
+kunna identifiera fel, risker och begränsningar
+
+ 
+
+Kursinnehåll
+Kursen avser att börja med att introducera luftkvalitet och de
+ämnen som kan förekomma i innemiljön. De kända effekterna på
+människan beskrivs. Krav som uppfyller en tillfredsställande
+termisk och hygienisk innemiljö kommer att behandlas.
+Kursen fortsätter med att ta upp de tekniska lösningar som
+syftar till att skapa en tillfredsställande innemiljö och en bra
+luftkvalitet inomhus. De tekniska lösningarna inkluderar olika
+ventilationssystem samt övriga värme och kylsystem. Utformningen
+av dessa och deras ingående komponenter kommer att läras ut och
+fokus kommer att läggas på att förklara hur dessa system ska
+utformas för att skapa en tillfredsställande innemiljö och
+energieffektiva lösningar.
+Problem med brandgasspridning via ventilationssystemen
+inkluderande farliga ämnen, höga temperaturer och dålig sikt
+kommer att beskrivas.
+Studenterna ska genomföra övningar inkluderande både hand-
+och datorberäkningar. Innehållet i kursen ska tillämpas i en
+projektuppgift som studenterna ska arbeta med under kursens
+gång.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Slutbetyg baseras till 70% på tentamensresultat och till 30% på utförande relaterat till övningar och föreläsningar.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0113. Benämning: Övningsuppgift. 
+Antal högskolepoäng: 3. Betygsskala: UG.  Prestationsbedömning: Examination baserad på skriftlig rapport enligt givna specifikationer.  Delmomentet omfattar: Dimensionering av ventilationssystem inkl. tryckfallsberäkning.  
+Kod: 0213. Benämning: Skriftlig tentamen. 
+Antal högskolepoäng: 4,5. Betygsskala: TH.  Prestationsbedömning: Examination baserad på den skriftliga tentamen.  Delmomentet omfattar: Skriftlig examination av hela kursen.  
+Antagningsuppgifter
+Förkunskapskrav:
+Inlämnad projektrapport i kursen AEBN10 Passiv hus - integrering av termiska aspekter och fuktsäkerhet
+
+
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Abel E, Elmroth A: Buildings and Energy - a systematic approach, T6:2007. FORMAS, 2007, ISBN: 978-91-540-5997-3. Reference Book.
+The Commtech group, editor Nilsson PE: Achieving the desired indoor climate. Studentlitteratur, 2003, ISBN: 91-44-03235-8. Reference Book.
+Till kursen finns tillgång till ett elektroniskt kursbibliotek via kurshemsidan.
+Lechner, Norbert : Heating, Cooling, Lighting. Sustainable Design methods for Architects. Whiley.  , 2014, ISBN: 978-0-470-04809-2. Textbook.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Saqib Javed, saqib.javed@hvac.lth.se
+Lärare: Dennis Johansson, dennis.johansson@hvac.lth.se
+Hemsida: https://liveatlund.lu.se
+
+
+

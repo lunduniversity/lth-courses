@@ -1,0 +1,117 @@
+
+
+Kursplan för
+Termodynamik och strömningslära
+Thermodynamics and Fluid Mechanics
+MMVF01, 11 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning M
+Beslutsdatum: 2018-03-27
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: M2, MD2
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursens syfte är att ge grundläggande kunskaper och
+färdigheter i teknisk termodynamik och strömningslära, med
+huvudsakliga tillämpningar inom energisektorn.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna definiera och/eller klargöra kortfattat vissa
+grundläggande termodynamiska och strömningsmässiga begrepp,
+principer och fenomen
+kunna redovisa kortfattat och generellt formulera
+grundläggande tillstånds-, mass-, energi-, entropi- och
+strömningssamband, med viss förståelse för dess begränsningar
+och tillämpbarhet
+kunna redovisa och utifrån grundläggande samband och
+principer härleda vissa för ämnet tekniskt viktiga samband
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+på ett systematiskt sätt kunna lösa grundläggande energi-
+och strömningsproblem, med en god ingenjörsmässig hantering av
+tillståndstabeller och –diagram
+kunna kortfattat beskriva, klargöra och analysera vissa
+tekniskt viktiga termodynamiska processer, inklusive kvantitativ
+bedömning avseende påverkan på omgivningen
+(entropigenerering)
+kunna genomföra en fullständig dimensionsanalys av givet
+dimensionsproblem
+kunna tillämpa kontrollvolymsanalys avseende mass-, energi-
+och impulsbalans vid stationär strömning och homogena
+förhållanden vid in- och utlopp
+kunna genomföra grundläggande strömningsteknisk analys av
+enkla rörsystem vid stationär inkompressibel strömning samt
+isentrop kompressibel strömning i munstycken
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna kommunicera skriftligt på ett välstrukturerat,
+förståelseinriktat och illustrativt sätt avseende
+problemlösning och laborationsredogörelse, med beaktande av
+begränsningar, rimlighet, noggrannhet och källangivelser
+
+
+Kursinnehåll
+Inom termodynamik (motsvarande 6.5 poäng) behandlas begreppen
+temperatur, arbete, värme, energi och entropi samt termodynamikens
+huvudsatser (främst första och andra) inklusive tillämpningar.
+Gasers och vätskors egenskaper liksom övergångar mellan dessa
+båda faser studeras. Tillståndsstorheter, tillståndsdiagram,
+termodynamiska samband, fasjämvikt; exergi, gasblandningar
+inklusive fuktig luft innefattas. Tillämpningar är inriktade mot
+förbränningsmotorer, gasturbiner, ångkraftsanläggningar,
+värmeväxlare, kylmaskiner, värmepumpar samt luftkonditionering.
+Härvid poängteras särskilt aspekter av irreversibilitet och
+entropigenerering.
+Inom strömningslära (motsvarande 4.5 poäng) introduceras
+inledningsvis ett antal grundläggande begrepp, t.ex. fluid,
+inkompressibel strömning och viskositet. Därefter genomgås och
+tillämpas olika metoder för problemlösning (integral-,
+differential- och dimensionsanalys). Bland dessa ges Bernoullis
+ekvation, impulssatsen samt Reynolds likformighetslag ett
+förhållandevis stort utrymme. De fullständiga
+rörelseekvationerna vid inkompressibel strömning av en Newtonsk
+fluid presenteras. De begränsade möjligheterna till exakta
+lösningar diskuteras. Vidare behandlas laminär och turbulent
+rörströmning, gränsskikt, strömningsmotstånd inklusive
+avlösning samt isentrop kompressibel strömning i munstycken.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examination sker via två skriftliga prov (huvudsakligen teori), bedömning av individuella skriftliga hemuppgifter och laborationsredogörelse, samt en slutlig skriftlig tentamen som främst avser problemlösning. Betyget bestäms av en viktad total poängsumma som består av resultat vid godkänd tentamen, godkända skriftliga prov samt ev. bonuspoäng från godkända hemuppgifter, enligt särskild formel.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Termodynamik. 
+Antal högskolepoäng: 4. Betygsskala: UG.  Prestationsbedömning: Skriftligt prov om ca 2 timmar, teori samt inledande problemlösning; individuella hemuppgifter.  Delmomentet omfattar: Skriftligt prov: grundläggande begrepp; egenskaper hos enhetliga ämnen; värme-, arbets- och massutbyte; första huvudsatsen; energi; andra huvudsatsen; entropi; irreversibilitet och entropigenerering; exergi; termodynamiska relationer; fasjämvikt; gas-, ång- och kylmaskincykler; ideala gasblandningar; luftkonditionering. Hemuppgifter: tillämpningar av första och andra huvudsatsen; kretsprocesser. 
+Kod: 0217. Benämning: Strömningslära. 
+Antal högskolepoäng: 3. Betygsskala: UG.  Prestationsbedömning: Skriftligt teori prov om ca 1,5 timmar; individuella hemuppgifter (problemlösning).  Delmomentet omfattar: Skriftligt teoriprov: grundläggande begrepp; fluiders statik; Bernoullis ekvation; kinematik; kontrollvolymsanalys; differentialanalys; dimensionsanalys; likformighet; viskös strömning i rör; omströmmade kroppar; kompressibel strömning, inledande koncept. Hemuppgifter: luftkonditionering; tillämpningar inom grundläggande strömningslära, t ex beräkning av infästningskrafter samt flöde och tryckfall i enkla rörsystem. 
+Kod: 0317. Benämning: Laboration. 
+Antal högskolepoäng: 0. Betygsskala: UG. 
+Kod: 0417. Benämning: Termodynamik och strömningslära. 
+Antal högskolepoäng: 4. Betygsskala: UG.  Prestationsbedömning: Skriftlig tentamen (5 timmar, problemlösning).  Delmomentet omfattar: Tillämpningar inom grundläggande teknisk termodynamik och strömningslära. 
+Antagningsuppgifter
+Förutsatta förkunskaper: FMAA01 Endimensionell analys, FMA420/FMAB20 Linjär algebra, FMA430/FMAB30 Flerdimensionell analys
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Çengel, Y. A.,  Boles, M. A. : Thermodynamics – An Engineering Approach, Eighth Edition in SI Units. McGraw-Hill, 2015, ISBN: 978-981-4595-29-2.
+Young, D. F., Munson, B. R., Okiishi, T. H., Huebsch, W. W.: Introduction to Fluid Mechanics, 5th Edition (SI Version). John Wiley & Sons, 2012, ISBN: 978-0-470-90215-8.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Professor Christoffer Norberg, Christoffer.Norberg@energy.lth.se
+Examinator: Professor Christoffer Norberg, Christoffer.Norberg@energy.lth.se
+Hemsida: http://www.energy.lth.se/
+
+
+

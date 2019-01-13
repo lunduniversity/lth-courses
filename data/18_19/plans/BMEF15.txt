@@ -1,0 +1,93 @@
+
+
+Kursplan för
+Sensorer
+Sensors
+BMEF15, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning BME
+Beslutsdatum: 2018-03-23
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: N3
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Mätteknik och sensorer kommer in inom i princip alla
+verksamhetsområden för en civilingenjör. Det kan t.ex. röra sig
+om detaljerade studier av signaler från nervceller i hjärnan,
+detektering av ljus i optiska fiber eller övervakning av
+tillverkningen i en processindustri. Framtagning av nya mätmetoder
+och givare sker i en allt snabbare takt där utvecklingen inom inte
+minst mikrosystemteknik-området spelar en stor roll. Exemplen är
+många där sensorer är en förutsättning för ökad säkerhet (t
+ex i bilar), minskad miljöpåverkan ( t ex styrning av
+processindustri, avgasrening i bilar), effektivare
+energianvändning (t ex klimatstyrning av inomhusmiljö).
+Ytterligare ett område där sensorer väntas få stor betydelse
+är Virtual Reality (t ex fjärroperationer inom medicin,
+datorspel, simulatorer).
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+ha kunskap om olika mätmetoder och deras uppbyggnad för
+mätning av spänning, ström, impedans, tid, frekvens och
+frekvensspektra
+ha förståelse för begränsningar hos mätmetoder för att
+undvika mätfel.
+ha översiktlig kunskap om olika sensorers uppbyggnad,
+egenskaper och begränsningar för mätning av fysikaliska, kemiska
+och bio-kemiska storheter.
+kunna välja lämplig mätmetod och instrument i en given
+mätuppgift samt utföra mätningar
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+ha fått erfarenhet av experimentellt arbete
+kunna kommunicera resultat från laborativa experiment
+skriftligt
+tillägna sig och sovra i information ur ett större material,
+t ex lärobok eller labmaterial, med begränsad läsanvisning.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+ha förmåga att bedöma mätresultat för att minimera risken
+för mätfel och feltolkning.
+
+
+Kursinnehåll
+Grundläggande mättekniska begrepp. Analoga och digitala
+oscilloskop, multimetern, impedansmätning med brygg- och
+spänning/ström-metoder, tid- och frekvensmätning med
+universalräknare, mätning av frekvensspektra med FFT-analysator
+(FFT-Fast Fourier Transform). Uppbyggnad av mätsystem. Kursen
+behandlar även de vanligaste givarna för mätning av fysikaliska,
+kemiska och biokemiska mätstorheter inom process- och
+verkstadsindustri, medicin och samhälle. I kursen diskuteras även
+möjligheterna och funktionen med mikro och nanosensorer.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: För betyget 3 krävs godkänt på följande moment: Laborationer med tillhörande kontrollfrågor, Praktiskt prov samt redovisning av projekt. Högre betyg kan erhållas vid skriftlig tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: EITF90 Ellära och elektronik.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: EEM045, EEMF15, ESSF10, BMEF05
+Kurslitteratur
+
+Carlsson, Johansson: Elektronisk mätteknik. Säljs av institutionen. Labkompendium.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Lars Wallman, lars.wallman@bme.lth.se
+Hemsida: http://www.bme.lth.se/
+
+
+

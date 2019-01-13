@@ -1,0 +1,109 @@
+
+
+Kursplan för
+Datorbaserad konstruktionsanalys 1
+Computer Based Engineering, Design Analysis 1
+MMKN46, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning M
+Beslutsdatum: 2018-03-27
+Allmänna uppgifter
+Valfri för: M4-me, M4-pu, MD4
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Denna kurs syftar till att ge deltagarna insikt i hur avancerade
+datorhjälpmedel genom en långt driven integration kan utnyttjas
+för att minska ledtiderna och samtidigt öka effektiviteten och
+kvaliteten i utvecklings- och konstruktionsprojekt. I denna kurs
+introduceras sådana hjälpmedel för aktiviteterna: modellering,
+analys och optimering med hjälp av konkreta konstruktionsuppgifter
+och exempel från industrin och forskningsvärlden. Inom kursen
+behandlas även optimeringsmetoder från sådana som fokuserar på
+optimering av enskilda fenomen till sådana metoder som medger
+simultan optimering av komplexa, sammansatta, fenomen.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+• kunna analysera, samt motivera, val av analystyp och
+optimeringsmetod för ett enklare konstruktionsproblem utsatt för
+statiska strukturlaster, strömning och/eller termiska
+belastningar
+• kunna skapa en analysmodell utifrån vald analystyp
+• kunna införa nödvändiga randvillkor i analysmodellen
+• genomföra exekvering i aktuellt analysprogram
+• kunna utvärdera framtagna analys- och optimeringsresultat och
+föreslå eventuella förändringar i befintlig
+konstruktionslösning
+• kunna kommunicera såväl process som resultat av genomförd
+analys(er) - muntligen och i skrift
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+• utifrån förelagd uppgiftbeskrivning genomföra en
+komplett analys och optimering av en konstruktionslösning avseende
+struktur, termiskt och/eller av strömning
+• ha sådana insikter om metoder, tekniker och terminologi
+avseende datorbaserade analyser av aktuellt slag och optimering att
+kursdeltagaren inför ett industriföretag kan kommunicera sina
+resultat från sina analyser i såväl tal som skrift
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+• kunna reflektera över framkomna resultat och föreslå
+eventuellt ytterligare analyser och/eller konstruktiva
+förändringar av ursprunglig konstruktionslösning
+
+Kursinnehåll
+Med konstruktionsanalys avses här primärt utnyttjande av
+datorbaserade beräkningsmetoder/-tekniker för kvantitativ
+problemlösning i konstruktionsprocessen. Primärt behandlas finita
+elementmetoden, FEM, för analys av mekaniska system.
+
+Ett viktigt moment i analysverksamheten utgörs av modellering och
+interaktion mellan programvaror för olika analystyper (Struktur,
+termisk och strömning), varvid målet är en överföring av den
+framtagna tekniska lösningen i en för de efterföljande
+verksamheterna användbar form.
+I kursen behandlas även hur man utifrån en given
+konstruktionslösning formulerar en för aktuellt fenomen, eller
+sammansatta fenomen, lämplig matematisk modell, vilken sedan
+omformuleras till ett optimeringsproblem. När så skett väljs
+lämplig (numerisk) metod och datorverktyg för
+optimeringsanalysen. Kursen behandlar även hur man genom
+försöksplanering kan få insikt i hur olika designparametrar
+påverkar konstruktionens egenskaper.
+Aktuella programvaror är ANSYS WorkBench, Autodesk CFD,
+modeFRONTIER och PTC Creo. Föreläsningarna i kursen behandlar
+teori för modelleringsstrategier, analystyper, optimeringsmetoder
+och försöksplanering såväl som exempel på industriella
+tillämpningar. Gästföreläsare med stor insikt i specifika
+tekniker kommer att bjudas in.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: För erhållande av slutbetyg krävs godkända, individuella, inlämningsuppgifter. Totalt skall två inlämningsuppgifter lösas. Medelbetyget från de båda inlämningsuppgifterna ger slutbetyget. Notera, att inlämningsuppgift får kompletteras om den är underkänd, varvid endast minimipoäng erhålls.
+
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+Två års studier vid maskinprogrammet vid LTH, FHL064 Finita elementmetoden eller motsvarande
+
+
+Förutsatta förkunskaper: MMK010/MMKA15 Ritteknik/Datorstödd ritning.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: MMKN45
+Kurslitteratur
+
+Burman, Å.(ed.), Föreläsningsmaterial, Avdelningen för maskinkonstruktion, LTH, 2007.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Axel Nordin, axel.nordin@design.lth.se
+Kursadministratör: Cilla Perlhagen, cilla.perlhagen@design.lth.se
+Hemsida: http://www.product.lth.se/education/
+
+
+

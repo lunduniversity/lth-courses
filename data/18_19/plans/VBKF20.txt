@@ -1,0 +1,124 @@
+
+
+Kursplan för
+CAD- och BIM-baserad byggprojektering 
+CAD and BIM Applications in Construction
+VBKF20, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning V
+Beslutsdatum: 2018-03-27
+Allmänna uppgifter
+Valfri för: V4
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursen avser att ge kursdeltagaren en grundläggande
+förståelse av CAD- och BIM-baserad projektering med särskilt
+fokus på att praktiskt kunna simulera, integrera visualisera olika
+designlösningar samt att producera ritningar i 2D och 3D. Kursen
+ger utrymme för en explorativ lärprocess och är främst
+tillämpningsorienterad i avsikt att ge kursdeltagaren en bra grund
+för att kunna arbeta vidare med CAD- och BIM-baserad projektering
+i verkliga projekt. Kursen använder olika programvaror vilka är
+vanligen förekommande i svensk byggindustri.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+vara allmänt orienterad om grundläggande begrepp och möjliga
+tillämpningar av CAD- och BIM-applikationer i byggprocessens
+projekterings- och utförandefas
+förstå hur en ritning byggs upp och hur skalning av objekt
+hanteras
+förstå struktur och uppbyggnad av parametriska 3D-modeller
+med avseende på objekt, klasser, lager/familjer, kodning,
+detaljeringsgrad mm
+övergripande känna till projekteringsfasens roll i
+byggprocessen, dess organisation och aktörernas olika funktioner
+och samspel
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+behärska 2D-ritning, skalor, måttsättning, text och
+utskrifter i olika ritmiljöer
+kunna utföra grundläggande 3D-modellering samt granska och
+verifiera uppbyggnad och informationsinnehåll i en 3D-modell
+kunna göra anpassade visualiseringar utifrån olika
+intressenters behov
+Kunna använda en 3D-modell som utgångspunkt för analyser med
+tillämpningar beroende på olika intressenters behov inom
+konstruktion, byggproduktion och förvaltning samt
+husbyggnadsteknik.
+
+ 
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna identifiera, kritiskt värdera och argumentera för
+möjligheter såväl som utmaningar relaterade till CAD- och
+BIM-baserad projektering
+uppnå en förståelse för, och en konstruktiv attityd till,
+de grundläggande organisatoriska och tekniska krav som CAD- och
+BIM-baserad projektering medför
+ha kännedom om projekteringsfasens betydelse i byggprocessen
+och dess inverkan på långsiktig drift och underhåll av den
+färdiga konstruktionen/byggnaden.
+
+ 
+
+Kursinnehåll
+Kursen tar utgångspunkt i inlämningsuppgifter där
+kursdeltagarna, i grupper om två personer, agerar i rollen som
+projektörer och konstruktörer.
+Kursen är praktiskt orienterad på så sätt att kursdeltagarna
+själva använder och utforskar de IT-verktyg som introduceras och
+används i kursen för analyser och simuleringar utifrån de moment
+som kursen är uppbyggd omkring.
+Arbetsmomenten i kursen innehåller inlämningsuppgifter som
+omfattar 2D- ritning, 3D-modelluppbyggnad och verifiering,
+visualisering och ritningsframställning. Inlämningsuppgifterna
+redovisas skriftligt. Dessutom finns undervisningstillfällen som
+behandlar olika tillämpningar inom konstruktion, byggproduktion
+och husbyggnadsteknik. Kursen avslutas med en större
+sammanfattande projektuppgift som, i likhet med
+övningsuppgifterna, utförs i grupper om två kursdeltagare.
+Projektuppgiften behandlar ett område inom CAD- och BIM-baserad
+projektering som är kopplat till kursdeltagarnas intresseområden,
+konstruktionsteknik, byggproduktion eller husbyggnadsteknik.
+Projektuppgiften sammanställs och redovisas i en slutrapport som
+lämnas in vid kursens avslutande seminarium. Vid detta
+obligatoriska seminarium presenterar även respektive grupp
+muntligen sina resultat inför de övriga kursdeltagarna. Skriftlig
+feedback ges också på projektuppgiften.
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: Betyg i kursen ges enligt skalan underkänt (U) eller godkänt (G). Prestationsbedömningen baseras på inlämningsuppgifterna, den skriftliga rapporten (projektuppgiften) och den muntliga presentationen som respektive grupp levererar i slutet av kursen. Deltagandet i presentationsseminariet är obligatoriskt. För godkänt betyg i kursen krävs godkända inlämningsuppgifter, slutrapport (skriftlig såväl som muntlig framställning) samt deltagande i presentationsseminariet. 
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+VBFA01 Husbyggnads- och installationsteknik
+VBK013 Konstruktionsteknik eller VBKF15 Konstruktionsteknik
+
+
+Förutsatta förkunskaper: VBKF01 Konstruktionsteknik - byggsystem eller VBFN05 Energi, luft och fukt vid ombyggnad och förvaltning
+Begränsat antal platser: 60
+Urvalskriterier: Antal högskolepoäng på avancerad nivå inom programmet.
+Kursen överlappar följande kurser: TFRG25, VBKN20, VBKF05
+Kurslitteratur
+
+Kursmaterial i form av programmanualer, artiklar, övningsinstruktioner mm. görs löpande tillgängligt för kursdeltagarna via kursens hemsida eller på annat sätt.
+
+
+Kontaktinfo och övrigt
+Studierektor: Oskar Larsson Ivanov, oskar.larsson_ivanov@kstr.lth.se
+Kursansvarig: Miklos Molnar, miklos.molnar@kstr.lth.se
+Hemsida: http://www.kstr.lth.se 
+Övrig information: Kurshemsidan finns på Live@Lund.se. Kursregistrerade studenter får inloggning till kurshemsidan. Kort info finns på www.kstr.lth.se/utbildning.
+
+
+

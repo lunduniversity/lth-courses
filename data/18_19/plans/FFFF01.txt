@@ -1,0 +1,78 @@
+
+
+Kursplan för
+Elektroniska material
+Electronic Materials
+FFFF01, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning N
+Beslutsdatum: 2018-03-28
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: N2
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Under kursens första del studeras, med utgångspunkt från den
+kvantmekanik som t.ex. behandlats i kursen Kvantfenomen och
+nanoteknologi, fasta material och då särskilt deras elektriska
+egenskaper. Därefter studeras enklare elektroniska komponenter som
+pn-övergången och kortfattat även transistorer. Därmed knyter
+kursen direkt an till de tillämpningar som behandlas i den senare
+följande kursen i Ellära och elektronik. Dessutom diskuteras
+översiktligt även materias optiska och dielektriska
+egenskaper.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna beskriva och med enkla modeller förklara fasta materials
+egenskaper, särskilt med avseende på elektriska
+tillämpningar
+kunna förklara enklare elektroniska komponenters
+funktion.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna förstå i kursen använda modellers förutsättningar,
+möjliga användningsområden och begränsningar
+kunna genomföra och utvärdera experiment samt skriva
+laborationsrapport.
+
+
+Kursinnehåll
+Elektronens partikel- och vågegenskaper, bindning i kristaller.
+Elektronstruktur: fri-elektronmodellen och bandstruktur. Elektrisk
+ledningsförmåga; metaller, halvledare och isolatorer.
+Elektroniska komponenter: pn-övergången och introduktion till
+bipolära och fälteffekt-transistorn. Översikt över materials
+optiska och dielektriska egenskaper.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen samt godkända laborationer.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0115. Benämning: Laborationer och projekt. 
+Antal högskolepoäng: 1. Betygsskala: UG.  Prestationsbedömning: Skriftlig alternativt muntlig presentation av laborationens innehåll och resultat. 
+Kod: 0215. Benämning: Elektroniska Material. 
+Antal högskolepoäng: 6,5. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen. 
+Antagningsuppgifter
+Förutsatta förkunskaper: FAFA10 Kvantfenomen och nanoteknologi.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FFF100, FFFF05
+Kurslitteratur
+
+Föreläsningskompendium av Günter Grossmann samt kompletterande material och laborationshandledningar.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Martin Leijnse, martin.leijnse@ftf.lth.se
+Hemsida: http://www.ftf.lth.se/courses/ffff01
+Övrig information: Obligatoriskt deltagande i laborationer.
+
+
+

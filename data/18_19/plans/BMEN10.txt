@@ -1,0 +1,114 @@
+
+
+Kursplan för
+Biomekanik för vävnader
+Tissue Biomechanics
+BMEN10, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning BME
+Beslutsdatum: 2018-03-23
+Allmänna uppgifter
+Valfri för: BME4-br, F4, F4-mt, F4-bm, MD4, N4, Pi4-biek
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursens syfte är att studenternas kunskap inom biomekanik och
+mekaniskbiologi av rörelseapparatens vävnader (ben, brosk,
+ligament och leder) skall fördjupas. Vidare skall de förstå
+patologin vid skador, vävnads regenerering, och nedbrytande
+sjukdomar till följd av åldrande, samt hur biomaterial kan
+användas under belastning i kroppen.  Slutligen, så ämnar
+kursen skapa en översiktlig förståelse för dagen forskning inom
+biomekanik av rörelseapparatens vävnader.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+•    förstå rörelseapparatens funktion in
+människokroppen.
+•    förstå hur mekaniska termer och teorier så som linjär
+elasticitet, poroelasticitet, och viskoelasticitet kan användas
+för att beskriva sammansättning, struktur och funktions samband i
+skelettets vävnader.
+•    förstå grunderna i mekaniskbiologi; hur vävnader
+skapas, repareras och optimeras till följd av mekanisk
+belastning.
+•    förstå hur proteser, implantat och biomaterial
+utvecklas och designas för att fungera mekaniskt i
+människokroppen, samt hur belastning genom t.ex. höft och knä
+led sker.
+•    förstå de mekaniska konsekvenserna av de vanligaste
+nedbrytande sjukdomarna som drabbar skelett och leder.
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+•    kunna ställa upp och lösa biomekaniska problem för
+rörelseapparatens vävnader.
+•    kunna läsa, förstå och återberätta vetenskapliga
+artiklar relaterade till kursens innehåll.
+•    kunna använda experimentella metoder för att
+karakterisera både hårda och mjuka vävnadernas mekaniska
+egenskaper.
+•    kunna använda numeriska metoder för att lösa och
+optimera biomekaniska och mekanobiologiska problem.
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+•    kunna utvärdera och designa implantat för
+ledproteser.
+•    kunna utvärdera metoder för att förstå och
+karakterisera mekaniska egenskaper av skelettets vävnader.
+•    kunna tolka och diskutera information från vetenskaplig
+biomekanisk litteratur.
+
+Kursinnehåll
+Vävnader i människokroppen som bygger upp rörelseapparaten
+(dvs. ben, ledbrosk, ligament och senor) är till stor del
+mekaniska i naturen och är avgörande för vår hälsa. Deras
+mekaniska egenskaper påverkas av deras sammansättning, struktur
+och funktion.
+Kursen är uppbyggd kring hur hållfasthetslära tillämpas inom
+biomekanik med fokus på skelettets vävnader. Tillämpningarna
+inkluderar hela ben, brosk, ligament, ben-implantat, ledsystem och
+biomaterial. Vävnadernas olika mekaniska beteende (anisotropi,
+viskoelasticitet, fraktur och utmattning) diskuteras med tonvikt
+på hur deras mikrostruktur påverkar strukturella egenskaper av
+hela vävnader och mekanisk funktion av leder. Kursen inkluderar
+hur mekaniskbiologi har påverkat evolutionen och utvecklingen av
+rörelseapparatens vävnader, samt hur det påverkar
+vävnadsregenerering, remodelering och nedbrytning.
+Kursen beskriver och applicerar tillgängliga metoder för att
+bedöma och förstå vävnaderna både genom experimentella och
+numeriska metoder, och hur man kan använda experimentella data
+för att utveckla teoretiska modeller, samt hur denna kunskap kan
+användas för att förstå och analysera hälsorelaterade problem
+i samband med åldrande, sjukdom och skador. Design och funktion av
+implantat och proteser beskrivs också med koppling till deras
+mekaniska och biologiska krav.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: En obligatorisk uppgift genomförs i grupp (2-4 studenter), och redovisas muntligt för de andra studenterna, samt skriftligt i en kort sammanfattningsrapport. Två sett av laborationer, både inkluderande både en experimentell och en finita element laboration, genomförs i grupp (2-4 studenter). Dessa redovisas gemensamt (exp + num) i en rapport per laborations sett, som båda lämnas in individuellt. Studenterna får skriftlig återkoppling samt betyg på varje uppgift. I slutet av kursen viktas dessa inlämningsuppgifter till ett sammanlagt betyg som utgör slutbetyget, med betygen UK, 3, 4, 5. Nya inlämningsuppgifter anordnas om så krävs för godkänt efter kontakt med kursansvarig.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0115. Benämning: Inlämningsuppgift 1. 
+Antal högskolepoäng: 1,5. Betygsskala: TH.  Prestationsbedömning: inlämningsuppgiften bedöms med U,3,4,5  
+Kod: 0215. Benämning: Projekt 1: Hårda vävnader. 
+Antal högskolepoäng: 3. Betygsskala: TH.  Prestationsbedömning: Projektet bedöms med U,3,4,5 
+Kod: 0315. Benämning: Projekt 2: Mjuka vävnader/biomaterial. 
+Antal högskolepoäng: 3. Betygsskala: TH.  Prestationsbedömning: Projektet bedöms med U,3,4,5 
+Antagningsuppgifter
+Förutsatta förkunskaper: Grundläggande kurser i matematik, mekanik och hållfasthetslära samt
+Biomekanik (BMEN05 /FHLF05 eller motsvarande). 
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Research based material (mostly handouts and review articles) are provided in the course.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Hanna Isaksson, hanna.isaksson@bme.lth.se
+Hemsida: http://bme.lth.se/course-pages/tissue-biomechanics/tissue-biomechanics/
+
+
+

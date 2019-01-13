@@ -1,0 +1,96 @@
+
+
+Kursplan för
+Process- och komponentteknologi
+Processing and Device Technology
+FFFF10, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning N
+Beslutsdatum: 2018-03-28
+Allmänna uppgifter
+Huvudområde: Nanovetenskap. 
+Huvudområde: Teknik. 
+Obligatorisk för: N3
+Valfri för: E4-fh, E4-is, F4, F4-hn, F4-nf, MSOC2
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursen avser att ge grundläggande kunskaper i framställning
+och karaktärisering av halvledarkomponenter på nanometerskala.
+Fokus kommer att ligga på moderna material- och processtekniker,
+med en klar tyngdpunkt på nanoteknologi. De flesta av processerna
+är generella och appliceras inom traditionell kiselbaserad
+IC-teknologi liksom inom avancerad III-V teknologi samt för
+framställning av MEMS/NEMS.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna beskriva tillverkningsprocesser som bygger på diffusion,
+deponering och mönstring av ytor
+kunna förklara hur ovannämnda processer kan realiseras på
+nanometerskala
+kunna förklara kopplingen mellan möjligheter och
+begränsningar i processning och komponenters prestanda
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna utföra grundläggande processning i renrumsmiljö
+kunna analysera en specifik komponent och avgöra vilka
+processteg som krävs för att tillverka den
+kunna skriva välstrukturerade tekniska rapporter om
+halvledarprocessning
+
+
+Kursinnehåll
+Materialegenskaper för halvledarmaterial.
+Komponentframställning: processöversikt, jämförelse mellan
+III/V och kisel. Processer: epitaxi, dopning, jonimplantation,
+diffusion, etsning, litografi. Nya metoder som t ex
+funktionalisering av ytor och nanoimprintlitografi kommer också
+att behandlas. Metall-halvledargränsskikt som är mycket viktiga i
+ett antal tillämpningar kommer att gås igenom. Framställning av
+pn-dioder samt karakterisering och modellering av deras
+elektroniska och optoelektroniska egenskaper och
+tillämpningar. Framställning och principer för MEMS/NEMS
+(mikro/nano- elektromekaniska system) kommer också att behandlas.
+Under ett antal laborationer, kommer några av de genomgångna
+processtegen att användas för tillverkning av fungerande
+komponenter. Då det är mycket viktigt att arbete med
+halvledarstrukturer sker i en extremt ren och dammfri miljö kommer
+stor tonvikt att läggas vid arbetsmetodik i renrum. Slutligen
+kommer ett antal avancerade halvledarstrukturer och dess funktion
+att demonstreras.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen och godkända laborationer.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Process- och komponenteknologi. 
+Antal högskolepoäng: 7,5. Betygsskala: TH. 
+Kod: 0217. Benämning: Laborationer och rapport. 
+Antal högskolepoäng: 0. Betygsskala: UG. 
+Antagningsuppgifter
+Förutsatta förkunskaper: FFFF01 Elektroniska material eller FFFF05 Fasta tillståndets fysik eller ESSF20 Komponentfysik.
+Begränsat antal platser: 70
+Urvalskriterier: 1. Platsgaranti för de studenter för vilka kursen är obligatorisk i examen.
+2. Minst antal poäng som återstår till examen.
+Kursen överlappar följande kurser: FFF110
+Kurslitteratur
+
+Simon M. Sze, Ming-Kwei Lee: Semiconductor Devices: Physics and Technology, 3rd Edition. Wiley, 2012, ISBN: 978-0470537947.
+Kopierat material.
+Simon M. Sze, Ming-Kwei Lee: Semiconductor Devices: Physics and Technology, 3rd Edition, International student version. John Wiley & Sons, 2012, ISBN: 978-0470873670.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Dr. Claes Thelander, claes.thelander@ftf.lth.se
+Hemsida: http://www.nano.lth.se/ftf-cth/fff110
+Övrig information: En laborationsrapport ska skrivas på engelska.
+
+
+

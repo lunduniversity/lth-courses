@@ -1,0 +1,77 @@
+
+
+Kursplan för
+Sannolikhetsteori
+Probability Theory
+FMSF05, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning I
+Beslutsdatum: 2018-03-20
+Allmänna uppgifter
+Valfri för: BME4, F4, F4-fm, I4, Pi4-fm
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursen ger en utvidgning och fördjupning i sannolikhetsteori
+som är användbar inför vidare studier inom, t.ex.,
+extremvärdesanalys och stokastiska processer med
+tillämpningar.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna förklara olika begrepp inom stokastisk konvergens, och
+hur de relaterar till varandra,
+kunna förklara begreppen karakteristisk och momentgenererande
+funktion, och hur dessa funktioner kan användas,
+kunna beskriva den flerdimensionella normalfördelningen och
+invariansegenskaper under exempelvis linjärkombination och
+betingning,
+kunna förklara definitionen av och grundläggande egenskaper
+hos Poissonprocessen.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+i samband med problemlösning visa förmåga att
+integrera kunskaper från de olika delarna av kursen.
+
+
+Kursinnehåll
+Kursen fördjupar och utvidgar baskunskaperna i
+sannolikhetsteori. Centrala moment i kursen är
+fördelningstransformer, betingade väntevärden, flerdimensionell
+normalfördelning och stokastisk konvergens. Vidare introduceras
+stokastiska processer genom en förhållandevis grundlig behandling
+av Poissonprocessens egenskaper.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig och muntlig tentamen samt godkänd inlämningsuppgift
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0116. Benämning: Tentamen. 
+Antal högskolepoäng: 6,5. Betygsskala: TH.  Prestationsbedömning: Skriftlig och muntlig tentamen 
+Kod: 0216. Benämning: Inlämningsuppgift. 
+Antal högskolepoäng: 1. Betygsskala: UG.  Prestationsbedömning: Skriftlig inlämningsuppgift 
+Antagningsuppgifter
+Förkunskapskrav:
+FMSF20 Matematisk statistik, allmän kurs eller FMSF25 Matematisk statistik - kompletterande projekt eller FMSF45 Matematisk statistik, allmän kurs eller FMSF50 Matematisk statistik, allmän kurs eller FMSF55 Matematisk statistik, allmän kurs eller FMSF70 Matematisk statistik eller FMSF75 Matematisk statistik, allmän kurs
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: MASC01
+Kurslitteratur
+
+Gut, A.: An Intermediate Course in Probability Theory. Springer, 1995.
+
+
+Kontaktinfo och övrigt
+Studierektor: Studierektor Anna Lindgren, studierektor@matstat.lu.se
+Hemsida: http://www.maths.lth.se/matstat/kurser/fmsf05/
+Övrig information: Kursen ges också på naturvetenskaplig fakultet med kurskoden MASC01.
+
+
+

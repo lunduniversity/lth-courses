@@ -1,0 +1,96 @@
+
+
+Kursplan för
+IC-projekt 2
+IC-project 2
+ETIN40, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning E
+Beslutsdatum: 2018-04-05
+Allmänna uppgifter
+Obligatorisk för: MSOC2
+Valfri för: D5-dpd, E4-is
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursens mål är att ge insikt i praktisk verifiering av
+integrerade kretsar med speciell tonvikt lagd på system-på-kisel.
+Kretsarna som ska verifieras konstrueras av studenterna i kursen
+IC-projekt, och kan vara antingen analoga, digitala,
+datororienterade, eller "mixed-mode" och konstruktionsarbetet kan
+utföras antingen på transistor eller blocknivå.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+ha kunskap om moderna datorhjälpmedel för konstruktion av
+integrerade kretsar
+förstå designprocessen från specifikation till färdig
+krets
+ha kunskap om moderna verifieringsmetoder och
+mätinstrument
+förstå upphovet till skillnader som finns mellan simulering
+och verklig prestanda
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna verifiera en integrerad krets
+kunna utföra en projektplanering utifrån givna tidsramar
+kunna presentera sina resultat skriftligt såväl som
+muntligt
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+känna sig familjär med en modern konstruktionmiljö av
+integrerade kretsar
+kunna sätta sig in i en specifikation och hantera processen
+fram till en färdig och verifierad krets
+
+ 
+
+Kursinnehåll
+Kursen ger studenterna möjlighet att verifiera ett komplett
+chip från kursen IC-projekt. Verifieringen sker genom mätningar,
+och det är viktigt att mäta många olika egenskaper och förstå
+upphovet till eventuella skillnader mot simuleringar. Om studentens
+krets valts för tillverkning verifieras densamma. I annat fall ges
+möjlighet att verifiera redan existerande kretsar. I särskilda
+fall kan digitala konstruktioner komma att implementeras och
+verifieras på FPGA (Field Programmable Gate Array), kraven på
+konstruktionens komplexitet och rapportens omfång kommer i så
+fall att öka. Resultaten av verifieringen presenteras i en
+rapport, som även presenteras muntligt.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Verifiering av integrerade kretsar som konstrueras av studenterna i kursen IC-projekt 1. Slutbetyget baseras på kvaliteten av det utförda arbetet samt rapporten och den muntliga presentationen av densamma. Arbetet utföres i grupp och bedömning görs såväl utifrån gruppens som individuella insatser. Om arbetet inte slutförts inom given tidsram kan högre betyg än 3 inte erhållas.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0115. Benämning: Verifiering . 
+Antal högskolepoäng: 7,5. Betygsskala: TH.  Prestationsbedömning: Verifiering av integrerade kretsar som konstrueras av studenterna i kursen IC-projekt 1. 
+Kod: 0215. Benämning: Rapport. 
+Antal högskolepoäng: 0. Betygsskala: UG.  Prestationsbedömning: Skriftlig rapport och muntlig presentation av densamma. 
+Antagningsuppgifter
+Förkunskapskrav:
+För digitala projekt krävs godkända inlämningsuppgifter i ETIN35 IC-projekt 1. För övriga projekt; ETIN35 IC-projekt 1
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: ETI210, ETIN01
+Kurslitteratur
+
+Kursmaterial läggs på kursens webbsida.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Joachim Rodrigues (digital och dator), joachim.rodrigues@eit.lth.se
+Kursansvarig: Henrik Sjöland (analog och RF), henrik.sjoland@eit.lth.se
+Hemsida: http://www.eit.lth.se/kurs/etin40
+
+
+

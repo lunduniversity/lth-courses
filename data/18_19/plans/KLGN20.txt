@@ -1,0 +1,86 @@
+
+
+Kursplan för
+Livsmedelsteknik
+Food Engineering
+KLGN20, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning B/K
+Beslutsdatum: 2018-03-21
+Allmänna uppgifter
+Huvudområde: Livsmedelsteknik och nutrition. 
+Obligatorisk för: MLIV1
+Valfri för: B4-lm, K5-p
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Syftet med kursen är att ge fördjupade kunskaper inom värme
+och masstransport för enhetsoperationer för
+livsmedelsproduktion
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+Beskriva och diskutera produktion av livsmedel utifrån
+enhetsoperationer.
+Tillämpa principerna för transportfenomen samt mass- och
+energibalanser för att analysera och utforma
+livsmedelsprocesser.
+Ha grundläggande kunskaper om värmebehandling och andra
+vanligen förekommande enhetsoperation inom
+livsmedelsindustrin.
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+Kunna utvärdera material- och energibalanser för olika typer
+av processutrustningen.
+Kunna uppskatta eller mäta relevanta termiska och fysikaliska
+egenskaper för livsmedelstekniska processer och utrustning.
+Kunna beräkna icke stationär värmeöverföring i
+livsmedelsprodukter.
+Kunna utföra processberäkningar avseende värme och
+massbalanser, med hänsyn till mikrobiella och kemiska
+kvalitetsparametrar.
+Kunna beräkna frysninghastighet i livsmedelsprodukter givet
+kända egenskaper på livsmedel och frysutrustning.
+Kunna modellera torkning av livsmedels  med hjälp av material-
+och energibalanser i samband med fuktmätningsdiagram.
+Utföra oberoende litteraturssökningar och sammanställa
+information.
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+Har grundläggande kunskaper i säkerhetsfrågor som rör
+livsmedelsförädling.
+Kunna kritiskt utvärdera data.
+
+Kursinnehåll
+Skattning av termiska egenskaper, översyn av
+värmeöverförings fundamenta, värmeöverföringskoefficienter,
+icke-stationär värme- och massöverföring, termisk konserverings
+processer, frysning och kylning, psykrometri och vattenaktivitet,
+uttorkning och torkning, enhetsoperationer och kompletterande
+processer. Föreläsningar, seminarier, och en del praktiskt
+arbete.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Inlämningsuppgifter, laborationer och tentamen. Slutbetygets TH-skala baseras på tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: KETF01 Transportprocesser
+Begränsat antal platser: Nej
+Kurslitteratur
+
+R. Paul Singh and Dennis R. Heldman : Introduction to Food Engineering - 5th Edition. Academic Press. , ISBN: 978-0-12-398530-9.
+Romeo T. Toledo. : Fundamentals of Food Process Engineering Third Edition. Springer Science. , ISBN: 10:0-387-29019-2. http://link.springer.com/book/10.1007%2F0-387-29241-1
+Notes/handouts.
+Handouts.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Andreas Håkansson, andreas.hakansson@food.lth.se
+Hemsida: http://www.food.lth.se
+
+
+

@@ -1,0 +1,99 @@
+
+
+Kursplan för
+Avancerad mikroekonomisk analys
+Advanced Microeconomic Analysis
+EXTP50, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning I
+Beslutsdatum: 2018-03-20
+Allmänna uppgifter
+Fördjupning: Avancerad nivå, har endast kurs/er på grundnivå som förkunskapskrav.
+Valfri för: I4, Pi4-fm
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Syftet med kursen är att ge kursdeltagaren en introduktion i
+avancerad mikroekonomi. Tonvikt läggs på områdena industriell
+organisation och spelteori.
+ 
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+• få fördjupade kunskaper i beslutsteori under risk,
+kunskaper i spelteori samt industriell organisation inkluderande
+monopol-, oligopol- och kontraktsteori
+• kunna översätta konkurrenssituationer och andra enklare
+ekonomiska och sociala interaktionsproblem till formaliserade
+spel,
+• kunna beskriva praktiska incitamentsproblem i termer av
+underliggande informationsasymmetrier och med hjälp av denna
+klassificering utreda hur de kan hanteras,
+• behärska den grundläggande strukturen i teorin för beslut
+under risk på ett sådant sätt att man kan redogöra för
+betydelsen av konsistenskraven och det s.k. oberoendeaxiomet.
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+• lösa monopolprissättningsproblem, inklusive
+prisdiskriminering av andra och tredje graden,
+• lösa spel med grundläggande lösningsbegrepp såsom
+dominans, Nashjämvikt och delspelsperfektion, samt härleda
+ekonomiskt relevanta slutsatser från resultaten,
+• värdera argument kring sannolika effekter av olika
+handlingsalternativ på en marknads funktionssätt vad avser
+konkurrensförhållanden och prisbildning,
+• behärska nonkooperativ spelteori på ett sådant sätt att
+man kan förklara ett enklare spel och dess lösning för en
+lekman.
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+Studenten ska behärska kursinnehållet på ett sådant sätt
+att man kan fördjupa sig genom att självständigt studera mer
+avancerad litteratur och vetenskapliga artiklar på rimlig teknisk
+nivå.
+
+Kursinnehåll
+Kursen behandlar modern mikroekonomisk teori och vissa
+tillämpningar. I mer precisa termer behandlas:
+• teorin för ekonomiskt beslutsfattande under risk och
+osäkerhet, inklusive de centrala begreppen riskaversion och
+stokastisk dominans,
+• nonkooperativ spelteori med de grundläggande
+lösningsbegreppen dominans, Nashjämvikt och
+delspelsperfektion,
+• monopolteori med en klassificering och fördjupning av de
+vanligaste typerna av prisdiskriminering,
+• oligopolteori där modeller för pris- och
+kvantitetskonkurrens samt sekventiell konkurrens behandlas med
+hjälp av spelteoretiska verktyg,
+• grundläggande incitamentsproblem genererade av asymmetrisk
+information om handlingar eller yttre omständigheter.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examinationen är skriftlig och äger rum vid slutet av kursen. Ytterligare examinationstillfälle anordnas i nära anslutning härtill. Därutöver ingår frivilliga poänggivande inlämningsuppgifter under kursens gång. Poängen får tillgodoräknas vid examinationstillfällen under innevarande termin.  Betyg sätts enligt LTH:s betygsskala (underkänt, 3, 4, 5). 5: 84–100%, 4: 66–83%, 3: 50–65%, U: 0–49%.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+EXTA40 Introduktion till mikroekonomisk teori
+
+
+Begränsat antal platser: 15
+Urvalskriterier: Förtur ges till studenter i teknisk matematik som läser kursen i sin specialisering Finansiell modellering. Urval baseras på antal poäng som återstår till examen.
+Kursen överlappar följande kurser: NEKN21
+Kurslitteratur
+
+Varian, Hal  R.: Microeconomic Analysis. W. W. Norton, 1992. Kompletterande material.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Alexandros Rigos, alexandros.rigos@nek.lu.se
+Kursansvarig: Alessandro Martinello, alessandro.martinello@nek.lu.se
+Hemsida: http://Kurssidan finns i Live@Lund
+Övrig information: Kursen samläses med kursen NEKN21 vid Nationalekonomiska institutionen.
+
+
+

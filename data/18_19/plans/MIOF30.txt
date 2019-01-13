@@ -1,0 +1,169 @@
+
+
+Kursplan för
+Optimering och simulering
+Operations Research - Basic Course
+MIOF30, 6 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning I
+Beslutsdatum: 2018-03-20
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: I3
+Valfri för: M4
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursen har det övergripande temat optimering och simulering och
+avser att ge grundläggande kunskaper i tillämpad deterministisk
+och stokastisk modellering av företagsekonomiska
+beslutsproblem.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna använda grundläggande optimeringslära, köteori samt
+metodik för händelsestyrd simulering för att analysera och lösa
+företagsekonomiska beslutsproblem.
+
+För optimeringsavsnittet innebär detta:
+
+att kunna formulera optimeringsproblem av linjär och
+heltalskaraktär samt lösa dessa med kommersiell programvara
+(Excel).
+att kunna tolka lösningar och resultat i form av
+känslighetsanalys vilket erhålls som utdata från ovanstående
+programvara.
+att kunna redogöra för teorin bakom simplexmetoden samt kunna
+tillämpa densamma för att lösa linjärprogrammeringsproblem
+(LP-problem).
+att kunna redogöra för och använda etablerade metoder för
+känslighetsanalys av LP-problem.
+att kunna redogöra för och använda dualitetsteori för att
+analysera och lösa LP-problem.
+att kunna redogöra för och använda grundläggande
+”branch-and-bound” metoder för lösning av blandade linjära
+heltalsproblem (MIP).
+att kunna formulera optimeringsproblem (LP och MIP) med flera
+målfunktioner i enlighet med teknikerna för
+målprogrammering.
+
+För simuleringsavsnittet innebär detta:
+
+att förstå principerna bakom händelsestyrd simulering, samt
+vilka begränsningar och möjligheter denna teknik erbjuder.
+att kunna använda en kommersiell programvara (Extend) för att
+skapa en datorbaserad simuleringsmiljö för analys av
+händelsestyrda processer.
+att på ett statistiskt korrekt sätt analysera in- och utdata
+till och från simuleringsmodeller och tolka de resultat som
+modellen genererar. Detta involverar bl.a. val och anpassning av
+fördelningsfunktioner samt olika typer av hypotesprövning.
+
+För köteoriavsnittet innebär detta:
+
+att kunna formulera relevanta företagsekonomiska problem med
+osäkerhet i kapacitetstillgång och kapacitetsbehov som enkla
+kömodeller.
+att förstå och kunna redogöra för analytisk modellering av
+enkla kösystem. Fokus ligger på analys av system med
+exponentialfördelade betjäningstider och tider mellan
+kundankomster. Studenten förväntas dock även kunna analysera
+system med mer generella fördelningar i vissa avseenden.
+att kunna beräkna stationära tillståndssannolikheter för de
+studerade kösystemen samt medelvärden för diverse
+prestationsmått som kölängder, väntetider och kostnader.
+att kunna tolka de lösningar som fås från modellerna och
+sätta dem i ett företagsekonomiskt sammanhang.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+självständigt kunna formulera, lösa och tolka
+
+optimeringsproblem (LP, MIP, målprogrammering)
+köproblem (födelsedödsprocesser, M/M/c och varianter därav,
+M/G/1)
+simuleringsmodeller (modelleras i programvaran Extend)
+
+Eleven förväntas också kunna använda etablerade facktermer
+och på ett tydligt sätt kommunicera problemformulering, lösning
+och tolkning av optimerings-, kö- och simuleringsmodeller. Denna
+förmåga testas bl.a. genom tre större inlämningsuppgifter som
+skall lösas självständigt i mindre elevgrupper och dokumenteras
+i form av utförliga tekniska rapporter.
+
+Kursinnehåll
+I optimeringsavsnittet studeras i huvudsak metoder för
+linjäroptimering och heltalsoptimering. Avsnittets fokus är på
+formulering av modeller och tolkning av resultat som fås när
+dessa utvärderas i kommersiell programvara. Syftet med att
+använda matematiska modeller vid beslutsproblem är att via dessa
+få fram bättre beslutsunderlag. För att på ett riktigt sätt
+utnyttja den information som kan fås från modellerna krävs dock
+en förståelse för den bakomliggande matematiken. Följaktligen
+ägnas en stor del av tiden åt att klargöra grundläggande
+matematiska samband och metoder som används inom området
+optimeringslära. Den obligatoriska inlämningsuppgift som ingår i
+avsnittet baseras på en beskriven fallstudie av ett komplext
+beslutsproblem. Genom att formulera och analysera en LP-modell av
+det aktuella problemet, skall ett utförligt beslutsunderlag tas
+fram och presenteras i form av en välstrukturerad rapport. Viktiga
+moment i uppgiften är: formulering av en relevant modell,
+optimering av densamma genom att utnyttja en kommersiell
+programvara samt tolkning och känslighetsanalys av erhållna
+resultat.
+I simuleringsavsnittet studeras grundläggande köteori som ett
+analytiskt verktyg för att analysera stokastiska system av enklare
+struktur. För att hantera mer komplexa system använder vi en
+kommersiell programvara för händelsestyrd processimulering
+(Extend). De framtagna modellerna används för att analysera och
+förbättra produktionsflödet. För att komma fram till en
+relevant simuleringsmodell måste olika typer av slumpmässiga
+förlopp karakteriseras i form av lämpliga fördelningsfunktioner.
+Vidare måste simuleringsmodellens utdata analyseras på ett
+statistiskt korrekt sätt. En annan viktig aspekt är hur man
+skapar förtroende för modellen genom validering och verifiering.
+Den obligatoriska inlämningsuppgiften struktureras kring ett
+praktikfall som behandlar analys av ett mindre produktionssystem
+med hjälp av simuleringsmodeller. Målsättningen är att ge en
+förståelse för styrkor och svagheter med simuleringsmodeller som
+analyshjälpmedel. Inlämningsuppgiften redovisas i form av en
+välstrukturerad teknisk rapport.
+Kopplingen mellan simulerings- och optimeringsavsnitten belyses
+genom ett integrationspraktikfall som skall analyseras både med
+hjälp en LP-modell och en simuleringsmodell. Poängen är att
+lyfta fram styrkorna och svagheterna med respektive angreppssätt
+och belysa värdet av att utnyttja dessa integrerat för att
+analysera ett typiskt produktionsproblem. Även denna
+inlämningsuppgift redovisas i form av en välstrukturerad teknisk
+rapport.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen. För erhållande av slutbetyg krävs, förutom godkänd tentamen, att obligatoriska laborationer fullgjorts och inlämningsuppgifter godkänts. Examinationen av inlämningsuppgifterna sker i form av tre separata tekniska rapporter som alla ska vara godkända. Inlämningsuppgifterna skall lösas självständigt i grupper om 2-4 elever.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Optimering och simulering. 
+Antal högskolepoäng: 6. Betygsskala: TH. 
+Kod: 0217. Benämning: Praktikfall. 
+Antal högskolepoäng: 0. Betygsskala: UG. 
+Antagningsuppgifter
+Förutsatta förkunskaper: MIO012/MIOA12/MIOA01 Industriell ekonomi AK, FMS012/FMSF45 Matematisk statistik AK (eller motsvarande), FMA420/FMAB20 Linjär algebra (eller motsvarande).
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: MIO310
+Kurslitteratur
+
+Hillier F. S. and G. J. Lieberman, Introduction to Operations Research, latest edition, McGraw-Hill.  Kursanpassad version.
+Laguna M. and J. Marklund, Business Process Modeling, Simulation and Design, Kurskompendium.
+Kurskompendium med lösningar till utvalda uppgifter.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Universitetslektor Fredrik Olsson, fredrik.olsson@iml.lth.se
+Hemsida: http://www.pm.lth.se
+Övrig information: Kontakta avdelningen produktionsekonomi för mer information.
+
+
+

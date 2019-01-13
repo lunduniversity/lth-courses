@@ -1,0 +1,125 @@
+
+
+Kursplan för
+Utvecklingsmetodik
+Product Development and Design Methodology
+MMKF05, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning M
+Beslutsdatum: 2018-03-27
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Alternativobligatorisk för: I3
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursen syftar till att ge grundläggande kunskaper om
+strategier, begrepp och metodik vid produktutveckling. Kursen skall
+också ge grundläggande kunskaper i konstruktionsmetodik i form av
+procedurer, metoder och tekniker, med fokus på deras användning i
+produktvecklingens konceptfas. Vidare skall kursen ge
+grundläggande kunskaper om att bygga ett s.k. business case (ett
+underlag till beslutet om konceptet går vidare till fullständig
+utveckling), samt om projektledning. Studenten ska också ha
+förvärvat förmågan av att tillämpa dessa kunskaper i ett
+industriellt sammanhang. Vidare ska studenten ha förvärvat
+insikter om betydelse av produktutveckling i ett tillverkande
+företag avseende dess tillväxt och framgång på marknaden samt
+dess plats och relevans för samhällets tillväxt och
+välstånd.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+förvärvat kunskap och förståelse om strategier, begrepp och
+metodik avseende produktutveckling samt i konstruktionsmetodik
+förvärvat grundläggande kunskap och förståelse om
+projektledning
+ha förståelse för relevansen av denna kunskap i ett
+industriellt sammanhang
+ha sådana insikter om övergripande metoder och tekniker inom
+konstruktionsmetodiken att kursdeltagaren självständigt och i
+grupp kan avgöra deras roll och betydelse i ett specifikt i
+utvecklings- och konstruktionsprojekt
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+för en industriell uppdragsgivare, i form av ett grupparbete,
+kunna strukturera, planera och genomföra den del av ett
+produktutvecklingsprojekt som avser dess konceptutvecklingsfas
+inför en industriell uppdragsgivare muntligen och skriftligen,
+självständigt och i grupp, kunna redovisa resultatet från ett
+utvecklingsprojekt - i form av resultat och process
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+visa förmågan av att kritiskt reflektera över eget utfört
+produktutvecklingsarbete
+vara medveten om vikten av produktutveckling i ett tillverkande
+företag avseende dess tillväxt och framgång på marknaden samt
+dess plats och relevans för samhället tillväxt och
+välstånd
+
+
+Kursinnehåll
+Utifrån en övergripande modell över den industriella
+utvecklingsprocessen, genomgås översiktligt hur ett
+industriföretag tar fram en för företagets övergripande mål
+lämpligt avpassad portfölj av utvecklingsprojekt. I följande
+delen av kursen behandlas produktutvecklingsprocessen, med
+tyngdpunkten på den inledande konceptutvecklingsfasen. Den för
+utvecklingsprocessen centrala konstruktionsmetodiken genomgås i
+ett övergripande perspektiv, med tyngdpunkten även här lagd på
+konceptutvecklingsfasen. I en föreläsning behandlas de senaste
+forskningsrönen inom området produktutveckling, som t.ex. global
+produktutveckling. Studenterna får härmed en första insikt i
+forskning inom produktutveckling. I den sista delen ges verktyg
+för att kunna bygga ett s.k. business case (ett underlag till
+beslutet om konceptet går vidare till fullständig utveckling),
+samt grundläggande kunskaper om projektledning, särskilt
+projektplanering.
+Inledningsvis föreläses teorin, varefter ett tillämpningsprojekt
+med inriktning mot konceptutvecklingsfasen genomförs. Detta
+utförs om möjligt i direkt samverkan med ett industriföretag.
+Alternativt utnyttjas ett fiktivt företag, för att ge den
+industrinära anknytningen av projektet. Projektet är i två
+delar. Första delen utförs i läsperiod 3 tillsammans med
+studenter i maskinteknik i grupper om 5-6 studenter. Projektarbetet
+redovisas i form av en för respektive grupp gemensam rapport och
+muntligen av hela gruppen vid en för alla grupper gemensam
+presentation inför medverkande företag. Andra delen utförs i
+läsperiod 4. Studenterna går vidare med projektet:
+koncepttestning utförs och ett business case byggs och
+redovisas.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: En obligatorisk projektuppgift ingår i kursen. Projektet är i två delar. Första delen utförs i läsperiod 3 (VT1) tillsammans med studenter i maskinteknik i grupper om 5-6 studenter. Godkänt projektarbete för del 1 poängsätts i intervallet 15-30 poäng. Alla gruppmedlemmar erhåller den för respektive projektarbete uppnådda poängen. Andra delen utförs i läsperiod 4 (VT2). Godkänt projektarbete för del 2 poängsätts i intervallet 7,5-15 poäng. Tillsammans erhålls 22,5-45 poäng för godkänt projekt.
+Utöver det obligatoriska projektet ingår också en individuell skriftlig tentamen, för vilken 15-30 poäng erhålls vid godkänt resultat. Notera att den skriftliga tentamen genomförs under kursens gång och efter att undervisning av teoridelen avslutats. Detta för att säkerställa att studenterna besitter nödvändiga teorikunskaper för att effektivt genomföra produktutvecklingsprojektet. Slutbetyget baseras på erhållna poäng från godkänt projektresultat och från godkänd tentamen och ges enligt följande: 37,5-48 poäng ger slutbetyget 3; 48,5-63 poäng ger slutbetyget 4; 63,5-75 poäng ger slutbetyget 5.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0110. Benämning: Projekt. 
+Antal högskolepoäng: 4,5. Betygsskala: UG.  Prestationsbedömning: Godkänt projektarbete poängsätts i intervallet 22.5-45 poäng. Alla gruppmedlemmar erhåller den för respektive projektarbete uppnådda poängen."   Delmomentet omfattar: Se avsnittet Prestationsbedömning. 
+Kod: 0210. Benämning: Tentamen. 
+Antal högskolepoäng: 3. Betygsskala: UG.  Prestationsbedömning: Individuell skriftlig tentamen, där godkänt resultat ger 15-30 poäng.  Delmomentet omfattar: Tentamen inriktas mot att kontrollera den individuella kunskapsinhämtningen från föreläst teori. 
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: MMK110
+Kurslitteratur
+
+K.Ulrich & S. Eppinger: Product Design and Development. McGraw-Hill International Edition, 2012, ISBN: 978-007-108695 (paper) / 9780077143961 (e-book). 5. utgåvan. Alternativt 4. utgåvan (2008), 6. utgåvan (2015) eller svenska utgåvan (notera dock att föreläsningarna använder den engelska 5. utgåvan). E-boken (5. utgåvan) endast tillgänglig hos den engelska förlaget: http://www.mheducation.co.uk/ (http://www.mheducation.co.uk/9780077143961-emea-ebook-product-design-and-development).
+Urval av vetenskapliga artiklar tillgängliga via LUBsearch.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Damien Motte, damien.motte@design.lth.se
+Kursadministratör: Cilla Perlhagen, cilla.perlhagen@design.lth.se
+Hemsida: http://www.product.lth.se/education/courses/
+
+
+

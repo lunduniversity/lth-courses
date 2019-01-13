@@ -1,0 +1,93 @@
+
+
+Kursplan för
+Operativsystem
+Operating Systems
+EDAF35, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning C/D
+Beslutsdatum: 2018-04-03
+Allmänna uppgifter
+Valfri för: C4-sec, D4-is, E4-pv, F4, Pi4
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Kursens syfte är att studenterna skall förstå hur
+operativsystem är konstruerade, vilket är en viktig del i
+totalförståelsen av datorsystem. Mer konkret är ett mål att
+studenterna, när de är färdiga civilingenjörer, med speciell
+kunskap från denna kurs, ska kunna arbeta med Linuxkärnan.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+förstå hur operativsystem är konstruerade för att effektivt
+kunna fördela datorsystemets resurser
+förstå hur operativsystem presenterar en abstrakt maskin för
+applikationsprogram
+veta hur programutveckling går till på
+operativsystemsnivå
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+ha en grundläggande förståelse för hur Linux är
+uppbyggt
+kunna implementera en enkel kommandotolk, vilket syftar till
+att förstå processhantering och interprocesskommunikation
+bättre
+kunna bedöma vad som händer i operativsystemet under
+exekvering av ett applikationsprogram
+kunna utföra modifikationer av / göra tillägg till ett
+befintligt operativsystem
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna bedöma vilken typ av operativsystem som kan vara
+lämpligt att använda vid olika ändamål
+
+
+Kursinnehåll
+Historik. Operativsystems uppbyggnad. Fördelning av CPU-tid.
+Minneshantering. Virtuellt minne. Sekundärminnen och filsystem.
+Distribuerade system. Säkerhet och skydd. Exempel på olika typer
+av operativsystem, med fokus på Linux. Praktisk erfarenhet av
+implementationsarbete på operativsystemsnivå. Projektuppgift som
+kan variera från år till år.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Tentamen är skriftlig. För deltagande i tentamen fordras att laborationerna och projektet har fullgjorts. Slutbetyg på kursen bestäms av resultatet på tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0115. Benämning: Tentamen i operativsystem. 
+Antal högskolepoäng: 3. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen. För att deltaga i tentamen krävs att laborationerna och projektet fullgjorts. Slutbetyg på kursen baseras på resultatet av den skriftliga tentamen. 
+Kod: 0215. Benämning: Laborationer. 
+Antal högskolepoäng: 1,5. Betygsskala: UG.  Prestationsbedömning: För godkänt betyg krävs fullgjorda laborationer. 
+Kod: 0315. Benämning: Projekt. 
+Antal högskolepoäng: 3. Betygsskala: UG.  Prestationsbedömning: För godkänt betyg krävs fullgjort projekt. 
+Antagningsuppgifter
+Förkunskapskrav:
+EDAA01 Programmeringsteknik - fördjupningskurs
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: EDA055, EDA050, EDAF01
+Kurslitteratur
+
+Robert Love: Linux Kernel Development. Addison Wesley, 2010, ISBN: 9780672329463.
+A. Silberschatz, P.B. Galvin, G. Gagne: Operating Systems Concepts, Ninth Edition. John Wiley & Sons, Inc., 2012, ISBN: 978-1-118-06333-0. Kursbok.
+
+
+Kontaktinfo och övrigt
+Lärare: Jonas Skeppstedt, jonas.skeppstedt@cs.lth.se
+Kursansvarig: Flavius Gruian, flavius.gruian@cs.lth.se
+Hemsida: http://cs.lth.se/edaf35/
+Övrig information: Övningarna tjänar som förberedelse till laborationerna. Ämnet för projektuppgiften kan variera från år till år. Aktuellt ämne anslås på kurshemsidan.
+
+
+

@@ -1,0 +1,79 @@
+
+
+Kursplan för
+Avancerad materialteknologi
+Advanced Materials Technology
+FKMN20, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning M
+Beslutsdatum: 2018-03-27
+Allmänna uppgifter
+Valfri för: F5, F5-bem, K5-m, M4-pu, M4-bem, M4-prr, MD4, N4-m
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Fördjupning av kunskaperna om materialvetenskapliga grunder och
+förlopp som är väsentliga vid val, modifiering och användning
+av material.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+känna till de viktiga fenomen/mekanismer som påverkar
+materialbeteende under olika förhållanden
+känna till materialkarakteriseringsmetoder
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+visa förmåga att självständigt kunna identifiera koppling
+mellan struktur och egenskaper
+visa förmåga att kunna använda svepelektronmikroskopi för
+materialkarakterisering
+visa förmåga att kunna utveckla materialbehandlingsprocesser
+för att uppnå vissa strukturer och egenskaper
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+visa förmåga att kunna analysera materialbeteende
+visa förmåga att kunna utföra experimentella projekt i en
+grupp, sammanställa och presentera resultat både muntligt och
+skriftligt och delta i tekniska diskussioner.
+
+
+Kursinnehåll
+I kursen behandlas: kristallstrukturer, enkristaller,
+stereografiska projektioner och polfigurer. Fasjämvikter och
+stelningsprocesser, binära och ternära fasdiagram,
+legeringsteori. Gitterdefekter, Thomson tetraeder och partiella
+dislokationer. Materialkarakterisering med ljus- och
+svepelektronmikroskopi, DTA, DSC och TGA. Termofysikaliska
+egenskaper. Diffusion, Kirkendall effekt. Plastisk deformation,
+kryp. Fasomvandlingar och härdningsmekanismer i vanliga
+konstruktionsmaterial inklusive lätta material, moderna legeringar
+och utvecklingstrender. Bio- och idrottsmaterial. Korrosion och
+ytteknik. Vätskornas reologi.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen, obligatoriska laborationer, inlämningsuppgifter/projektrapport.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: FKM015/FKMA01 Konstruktionsmaterial AK eller KASF10 Funktionella material.
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Smallman, R.E., Ngan,A.H.W.: Modern Physical Metallurgy, 8th edition, Butterworth-Heinemann (Elsevier), ISBN:978-0-08-098204-5, 2014.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Professor Dmytro Orlov, Dmytro.Orlov@material.lth.se
+Lärare: Srinivasan Iyengar, srinivasan.iyengar@material.lth.se
+Hemsida: http://www.material.lth.se
+
+
+

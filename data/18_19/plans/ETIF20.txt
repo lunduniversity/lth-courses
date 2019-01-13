@@ -1,0 +1,102 @@
+
+
+Kursplan för
+E-hälsa
+E-health
+ETIF20, 5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning BME
+Beslutsdatum: 2018-03-23
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: BME3
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+E-hälsa kan definieras som sjukvård och främjande av hälsa
+som möjliggörs via informations- och kommunikationsteknik (ICT).
+Kursens syfte är att ge studenterna insikt i och kunskaper om vad
+e-hälsa är och hur området har utvecklats hittills. Kursen
+syftar vidare till att ge studenter färdigheter i att analysera
+och utveckla framtidskoncept inom E-hälsa baserat på tillgänglig
+ICT och går därför in på ämnen som ligger till grund för
+utveckling av nya produkter och tjänster.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+Känna till hur e-hälsa används inom hälso- och sjukvården
+i Sverige och internationellt
+Känna till de tekniker som är tillämpbara inom
+e-hälsoområdet
+Känna till och kunna ta hänsyn till aspekter som påverkar
+interaktionen mellan teknik och användare (exempelvis
+patienter/anhöriga samt vårdpersonal) vid tillämpning av
+e-hälsoteknik
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+Kunna identifiera områden där e-hälsa är tillämpbar
+Kunna identifiera problemområden inom e-hälsa
+Kunna beskriva hur problemet kan delas upp i olika
+teknikområden
+Kunna tillämpa befintliga teorier på problem inom
+e-hälsa.
+Kunna visa prov på förmåga att hitta innovativa lösningar
+och tillämpningar på de formulerade problemen
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+Kunna identifiera och värdera olika aktörers behov vid
+utformning och tillämning av nya tekniklösningar inom
+e-hälsoområdet
+Kunna integrera olika teknikområden i nya tillämpningar för
+E-hälsa
+Ha förmåga att ta del av litteratur inom området
+Kunna kommunicera hur egenskaper hos en tillämpning motiverar
+användning av olika tekniker
+
+
+Kursinnehåll
+Kursen kommer att behandla hur e-hälsa kan användas som
+sjukvård och främjande av hälsa och hur detta möjliggörs genom
+framsteg inom informations- och kommunikationsteknik (ICT). Kursen
+visar på hur olika tillämpningar av e-hälsa kan används till
+exempelvis: främjande av hälsa och förebyggande åtgärder,
+analys och diagnostik vid symptom eller hög risk för att bli sjuk
+eller behandling när det finns en diagnos (behandling kan vara
+bota, lindra, rehabilitering, habilitering, hjälpmedel eller
+palliativ vård). Vidare diskuteras hur e-hälsa kan förenkla
+och/eller förbättra kommunikationen mellan olika aktörer i
+hälso- och sjukvården samt hur olika tekniker kan användas för
+att snabba upp alla informationsflöden och göra
+diagnostik/expertis och behandling så tillgänglig för som många
+som möjligt. Teorier och riktlinjer från kognitionsforskning och
+interaktionsdesign presenteras på kursen som en viktig aspekt vid
+utformning av e-hälsolösningar. Kursen utgår ifrån såväl
+vårdtagarens som vårdgivarens perspektiv.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examination sker i form av sluttentamen samt genom löpande aktivitet i grupparbete. Slutbetyg erhålls då tentamen samt grupparbete är godkända.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: EITA01 Introduktion till medicin och teknik och EEMA01 Medicinteknisk design
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Jeff Johnsson: Designing with the mind in mind, Simple Guide to Understanding User Interface Design Rules. 2010, ISBN: 10: 012375030, ISBN: 13: 9780123750303.
+Vidare ingår kompletterande litteratur i form av artiklar och webbmaterial.
+Bernard Fong, A.C.M. Fong, C.K. Li: Telemedicine technoloies, Information technologies in medicine and telehealth. Wiley, 2010, ISBN: 9780470745694.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Martin Stridh, martin.stridh@eit.lth.se
+
+
+

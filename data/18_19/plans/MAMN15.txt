@@ -1,0 +1,115 @@
+
+
+Kursplan för
+Interaktion 2: Virtualitet och kognitiv modellering
+Interaction 2: Virtuality and Cognitive Modelling
+MAMN15, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning C/D
+Beslutsdatum: 2018-04-03
+Allmänna uppgifter
+Valfri för: C4-da, D5
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+På basis av de kunskaper och färdigheter man tillägnat sig
+under tidigare datatekniskt orienterade och
+människa-teknik-orienterade kurser ska studenterna i denna –
+starkt projektorienterade – kurs sätta samman och pröva dessa
+kunskaper och färdigheter i ett större projektarbete, samtidigt
+som de reflekterar kring arbetet. De ska även fördjupa sina
+kunskaper om mjukvara, design och kognition i relation till
+avancerade interaktiva digitala miljöer. Ett delsyfte är att ge
+träning i effektivt samarbete i en projektgrupp bestående av
+personer med olika bakgrund och kompetenser. Ett annat delsyfte är
+att ge studenten en fördjupad förmåga att identifiera och lösa
+interaktionsproblem som rör nästa generations
+interaktionstekniker.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+• visa kvalificerad kännedom om potentialer i digitala
+artefakter/miljöer för undervisning, utbildning, underhållning,
+industri, vård, information etc.
+• på ett kvalificerat sätt kunna diskutera och göra
+jämförelser av olika lösningar och argumentera för de val som
+man själv gör för ett projekt eller system
+• kunna motivera ett val av inslag av användartestning –
+omfång, metoder, etc. – i ett projekt inom kursens område
+• kunna resonera om metodfrågor och relevansfrågor inom
+området på ett kvalificerat sätt
+• visa sådan kunskap och förståelse som krävs för att
+kunna verka som nyckelperson i motsvarande utvecklingsprojekt som
+de som kursen innehåller
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+• kunna genomföra ett projekt enligt de kriterier och de
+delmål som kursledning tillsammans med projektgruppen sätter
+upp
+• i ett projekt-team med blandade kompetenser inom kursens
+område bidra signifikant till projektets genomförande, där
+projekten består av utveckling/vidareutveckling av ett interaktivt
+system/prototyp/artefakt
+• kunna argumentera för de prioriteringar man gör i
+utvecklingen av ett sådant system
+• kunna föra dialog med olika grupper och kunna arbeta
+effektivt i teamblandade grupper med olika kompetenser
+• kunna definiera begrepp på ett sådant sätt att olika
+perspektiv, discipliner och kunskapsområden kan föras samman och
+därmed kunna fungera som projektledare för team bestående av
+personer med olika kunskapsbakgrund
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+• visa beredskap att hantera oförutsägbarheten och det
+expansiva i problemsituationer som involverar människor och deras
+interaktion med en alltmer komplex omgivning
+• visa medvetenhet om etiska aspekter på forsknings- och
+utvecklingsarbete
+• ha förståelse för värdet i att angripa problem på fler
+än ett sätt för olika metoders potential respektive
+begränsningar och om hur och varför det är gynnsamt att
+kombinera vissa metoder med varandra
+• inse betydelsen av att sätta in ett projekt i olika
+sammanhang och relatera till andras krav och perspektiv
+
+Kursinnehåll
+Det är en starkt projektorienterad kurs, där studenterna
+utvecklar eller vidareutvecklar egna konkreta prototyper för
+artefakter för interaktion. Man specificerar problem, utvecklar
+lösningar och testar dessa. Man tar även del av andra gruppers
+utvecklingsarbete.
+Som default arbetar man i denna kurs vidare utifrån det projekt
+och i den projektgrupp man arbetade i Interaktion 1. Det ges dock
+möjlighet till nyinriktningar och även nya projektval när det
+finns skäl för detta. Detta avgörs i samråd med
+kursansvarig.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Samtliga obligatoriska moment.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+MAMN10 Interaktion 1: Neuromodellering, kognitiv robotik och agenter
+
+
+Förutsatta förkunskaper: TEK210 Kognition samt någon av MAMA15, MAMN25, MAM061, MAM101 eller MAM120.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: KOGP10
+Kurslitteratur
+
+Litteraturkompendium. Institutionen för designvetenskap & Lund University Cognitive Science.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Agneta Gulz, Agneta.Gulz@lucs.lu.se
+Hemsida: http://www.eat.lth.se/kurser/interaktionsdesign
+Övrig information: Obligatoriska moment: 
+introduktionsföreläsning, skriftliga och muntliga delredovisningar, workshoptillfällen, projekthandledningstillfällen, skriftlig projektrapport, muntlig projektpresentation.
+Observera att kursen samläses med studenter på mastersprogrammet i kognitionsvetenskap som läser motsvarande kurs ht 2016.
+
+
+

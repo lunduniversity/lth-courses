@@ -1,0 +1,113 @@
+
+
+Kursplan för
+Experimentella verktyg i subatomär fysik
+Experimental Tools for Subatomic Physics
+FKFN05, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning F/Pi
+Beslutsdatum: 2018-03-28
+Allmänna uppgifter
+Valfri för: BME4-bf, E4, F4, F4-mt, F4-aft
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Studenten skall lära sig förstå och använda viktiga verktyg
+och tekniker som används i experimentell naturvetenskap i
+allmänhet och fysikexperiment i synnerhet samt orienteras om
+framtidsplaner för fysikforskningens infrastruktur.
+Kursen behandlar flera olika delområden och fokus för den
+enskilde studenten läggs på de delområden som inte studerats på
+tidigare kurser. Kursens syfte är att ge fördjupade kunskaper om
+fysikalisk och kärnfysikalisk mätteknik och att ge en överblick
+över de metoder och möjligheter som erbjuds
+experimentalisten.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+vara väl förtrogen med kärnfysikalisk mätutrustning
+ha kunskap om acceleratorers och strålkällors funktion.
+ha kunskap om egenskaper hos de strålar med vilka reaktioner
+skapas.
+ha kunskap om hur kärnfysikaliska experiment utförs och
+analyseras
+vara väl förtrogen med grundläggande statistik för
+felbehandling och konfidensanalys
+ha kunskap om signalbearbetning från sensor till lagring av
+digitala data.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna planera en kärnfysikalisk mätning
+kunna funktionsanpassning till mätpunkter med chi-2 test och
+bestämma osäkerhet i parametrar
+skriva en rapport som kritiskt och kommenterande
+sammanfattar publicerade resultat inom ämnesområdet
+muntligt presentera det egna arbetet och diskutera andra
+studenters presentationer.
+bedöma rimlighet och signifikans i rapporterade resultat.
+samarbeta med expert för realisering av mätsystem
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+på egen hand kunna söka vetenskaplig information som är
+relevant för en rapport inom kursens ämnseområde.
+
+
+Kursinnehåll
+Funktionen hos acceleratorer och strålkällor studeras dels vid
+studiebesök på forskningsavdelningar som förevisar och
+förklarar den infrastruktur som används för att skapa
+kontrollerade reaktioner dels genom teoretiska föreläsningar.
+Stor vikt läggs vid de laborativa momenten i kursen som utförs
+med forskningsutrustning vid institutionen. För väl genomförda
+experiment krävs statistisk analys, databehandling och simulering,
+vilket genomgås i projektform.
+Huvudmomenten i kursen är:
+
+Acceleratorer och strålkällor
+Strålnings växelverkan med materia.
+Detektorer och kärnfysikalisk elektronik.
+Analog och digital elektronik
+Statistisk analys, försöksplanering, simulering.
+
+Kursen är en gemensam kurs för naturvetenskaplig och teknisk
+fakultet. Då förkunskaperna är något olika kommer tonvikten på
+de olika delmomenten att vara olika på de två
+fakulteterna. Delmomenten strålnings växelverkan och detektorer
+är avsett för tekniska fakulteten medan momentet analog och
+digital teknik är avsett för naturvetenskapliga fakultetens
+studenter.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: För godkänd kurs krävs godkända laborationer, godkända projekt och hemuppgifter, godkänd uppsats/rapport samt aktivt deltagande i tutorials (gruppövningar), studiebesök och seminarier. Alternativt kan en tentamen anordnas för de som ej deltager i tutorials. Slutbetyget sammanvägs av betyget på laborationsdel, projektdel och uppsats.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: FAFF10 Atom- och kärnfysik med tillämpningar.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FYSN15
+Kurslitteratur
+
+Ekström P: Kompendium in Statistics and Treatment of Experimental data. Distribueras av institutionen.
+Leo, W.R.: Techniques for Nuclear and Particle Physics Experiments. Springer-Verlag, 1994, ISBN: 0387572805.
+Krane, K.S.: Introductory Nuclear Physics (ch. 15 and20). John Wiley & Sons, 1988, ISBN: 0-471-80553-X.
+Kompendium i acceleratorfysik. Instititutionen.
+Laborationshandledningar/Guides to laboratory work.
+Articles and papers handed out during study visits and project.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: docent Jan Pallon, jan.pallon@pixe.lth.se
+Kursansvarig: docent Anders Oskarsson, Anders.Oskarsson@hep.lu.se
+Hemsida: http://www.nuclear.lu.se/utbildning/valfria_kurser/experimentella_verktyg_i_fysik/
+Övrig information: Kursen samläses med kursen Experimentella verktyg vid N-fakultetens mastersprogram i fysik. Undervisningen bedrivs i form av föreläsningar, tutorials, laborationer, projekt och studiebesök.
+
+
+

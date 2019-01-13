@@ -1,0 +1,72 @@
+
+
+Kursplan för
+Constraint-programmering
+Constraint Programming
+EDAN01, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning C/D
+Beslutsdatum: 2018-04-03
+Allmänna uppgifter
+Valfri för: C4-pv, D4-pv, D4-se, E4-pv, F4, F4-pv, IDA3, Pi4-pv
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursens syfte är att studenterna skall lära sig en ny
+programmeringsparadigm som baseras på villkorsteknik över finita
+domäner och att de skall få praktisk erfarenhet av användning av
+dessa metoder inom lösning av kombinatoriska problem.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna använda grundläggande begrepp inom
+constraint-programmering,
+kunna förklara principer av constraint-programmering och
+definiera constraints för enkla problem.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna utforma och implementera constraint program för
+kombinatoriska problem,
+kunna använda lämpliga heuristiker för att implementera
+effektiva sökmetoder.
+
+
+Kursinnehåll
+
+Introduktion till constraint-programmering.
+Grundläggande algoritmer (satisfierbarhet, konsistens,
+optimering).
+Finit domän.
+Modellering med finita domäner.
+Sökstrategier och optimering.
+Några avancerade tillämpningar.
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: För godkänt betyg krävs att fem obligatoriska laborationer har fullgjorts. För högre betyg krävs dessutom en skriftlig tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+EDAA01 Programmeringsteknik - fördjupningskurs eller EDAA30 Programmering i Java - fortsättningskurs
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: EDA340
+Kurslitteratur
+
+Kuchcinski, K: Modeling and Optimisation of Embedded Systems with Constraint Programming: Principles and Practice. Distribueras av institutionen.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Professor Krzysztof Kuchcinski, Krzysztof.Kuchcinski@cs.lth.se
+Hemsida: http://cs.lth.se/edan01
+Övrig information: Kursen ges på engelska.
+
+
+

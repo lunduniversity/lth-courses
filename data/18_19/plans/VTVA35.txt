@@ -1,0 +1,86 @@
+
+
+Kursplan för
+Banteknik för ingenjörer
+Track and Permanent Way for Engineers
+VTVA35, 9 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning V
+Beslutsdatum: 2018-03-27
+Allmänna uppgifter
+Obligatorisk för: IBYI2
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursens syfte är att ge grundläggande kunskaper inom det
+bantekniska området på både system- och komponentnivå. Kursen
+syftar också till att ge insikt i bantekniska problemställningar
+i de olika faserna, projektering, byggnation och
+vidmakthållande.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+Kunna redogöra för bantekniska anläggningars konstruktion,
+utformning och funktion. Detta gäller både
+järnvägsanläggningens under- och överbyggnad.
+Kunna redogöra för de krafter som uppstår i ett
+järnvägsspår samt förstå hur dessa uppkommer och
+hanteras.
+Kunna redogöra för på vilket sätt och efter vilka principer
+bantekniska anläggningar sköts och underhålls samt förstå
+vikten av ett väl fungerande underhåll.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+Kunna redogöra för spårgeometriska grundbegrepp samt kunna
+tillämpa och dimensionera geometrin efter dessa normer och
+regler.
+Kunna genomföra en matematisk optimering av spårlinjen.
+Kunna redovisa lösningen av ett geometriskt
+dimensioneringsproblem i en teknisk rapport.
+
+
+Kursinnehåll
+Kursen innehåller omfattande moment kring banans över- och
+underbyggnad, ingående delar samt hur dessa samverkar i ett
+system.
+Spårets geometri och kontroll av spårets geometriska läge
+behandlas också ingående där fokus läggs på vad som
+kännetecknar en ”god” geometri.
+De olika faserna projektering, byggnation och vidmakthållande
+belyses. Ett särskilt intresse visas för drift- och underhåll av
+bantekniska anläggningar, där även de maskiner och redskap som
+användes för underhållsåtgärder kommer att behandlas.
+För att ge en allsidig bild av det totala järnvägssystemet
+belyses även snittytorna mellan banteknik och angränsande
+teknikområden (el, signal och tele).
+Inlärningen kommer att ske både enskilt och i grupp.
+Föreläsningar varvas med praktiska övningar i Järnvägsskolans
+övningsanläggningar.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Godkänd skriftlig tentamen. Godkänd enskild teknisk rapport som redovisar resultatet av ett geometriskt dimensioneringsproblem.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: VTVA45 Väg-och järnvägsteknik
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: VVB662
+Kurslitteratur
+
+Bårström, S. & Granbom, P.: Den svenska järnvägen. 2012, ISBN: 978-91-7467-227-5.
+
+
+Kontaktinfo och övrigt
+Examinator: Andreas Persson, andreas.persson@tft.lth.se
+Lärare: Ragnar Hedström, ragnar.hedstrom@trafikverket.se
+Kursansvarig: Stellan Jönsson, stellan.jonsson@trafikverket.se
+Hemsida: http://www.tft.lth.se/utbildning/grundutbildning/
+Övrig information: Kursen ges vid Trafikverksskolan i Ängelholm.
+
+
+

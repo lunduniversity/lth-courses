@@ -1,0 +1,101 @@
+
+
+Kursplan för
+Programutveckling för tekniska tillämpningar
+Software Development for Technical Applications
+VSMN20, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning V
+Beslutsdatum: 2018-03-27
+Allmänna uppgifter
+Valfri för: F4, F4-bs, M4, Pi4-bs, V4-ko
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Kursen syftar till att ge studenten färdighet att utveckla
+komplexa beräkningsprogram för tekniska tillämpningar, inklusive
+grafiska användargränssnitt.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna redogöra för hur större beräkningsprogram
+struktureras.
+kunna redogöra för hur andra språk som t ex Fortran kan
+integreras i kan integreras i ett skriptspråk som Python.
+kunna redogöra för grundläggande principer för
+visualisering och presentation av beräkningsresultat.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna använda programspråket Python för att implementera
+användargränssnitt med indatahantering, textbaserad och grafisk
+presentation av resultat samt koppling till ett
+beräkningsprogram.
+kunna utnyttja tillgänglig kod från Internet eller andra
+källor.
+kunna använda grafiska utvecklingsmiljöer för Python.
+kunna rapportera utvecklat beräkningsprogram både i skriftlig
+och muntlig form.
+kunna lokalisera och åtgärda programfel.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna resonera kring hur olika språk kan integreras för att
+ge optimalt resultat i ett projekt.
+kunna överblicka och utvärdera programkod.
+
+
+Kursinnehåll
+Kursen består huvudsakligen av en större
+programmeringsuppgift. Uppgiften består i att utveckla ett
+beräkningsprogram baserat på finita elementmetoden. Programmet
+innehåller dels en beräkningsdel, dels ett grafiskt
+användargränssnitt. Programutvecklingen delas upp i flera
+etapper, där varje etapp är en inlämningsuppgift. Programmet
+skall uttestas och dokumenteras samt presenteras vid en muntlig
+tentamen.
+För att kunna fullgöra uppgiften måste studenten tillägna
+sig kunskaper i de programspråk som används. Uppgiften är
+utformad så att svårighetsgraden successivt ökar för varje
+etapp. I uppgifterna ingår bland annat följande moment:
+orientering om hårdvara, systemmjukvara, grafiska
+användargränssnitt, strukturering av datorprogram, implementering
+av elementrutiner, nätgenerering och visualisering. Vidare ges i
+kursen översiktliga beskrivningar av programvaru- och datorsystem
+för högpresterande beräkningar, kommersiella finita
+elementprogram och deras uppbyggnad med pre- och
+postprocessorer.
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: Obligatoriska inlämningsuppgifter. Muntlig sluttentamen i form av presentation av egen programkod och opposition på annan students programkod.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+FHL064 Finita elementmetoden eller FHLF20 Finita elementmetoden eller VSMF05 Teknisk modellering: Bärverksanalys eller VSMN25 Finita elementmetoden - flödesberäkningar
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: VSM032
+Kurslitteratur
+
+Hans Petter Langtangen: A Primer on Scientific Programming with Python. Springer, 2012, ISBN: 978-3-642-54959-5. Boken fungerar som en första introduktion till programmering av vetenskapliga applikationer, med hjälp av högnivåspråket Python.
+Jonas Lindemann et al.: Utdelade Arbetsblad. Arbetsblad som delas ut för varje vecka i kursen. Tillsammans utgör det den slutliga inlämningsuppgiften.
+Andreas Edholm: Meshing and visualisation routines in the Python version of CALFEM File.
+Andreas Edholm: User guide for pycalfem GeoData, pycalfem mesh & pycalfem vis.
+Jonas Lindemann: Föresläsningsslides.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Jonas Lindemann, Jonas.Lindemann@construction.lth.se
+Examinator: Ola Dahlblom, ola.dahlblom@byggmek.lth.se
+Hemsida: http://www.byggmek.lth.se
+
+
+

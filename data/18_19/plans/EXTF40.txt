@@ -1,0 +1,91 @@
+
+
+Kursplan för
+Optionsteori
+Option Theory
+EXTF40, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning I
+Beslutsdatum: 2018-03-20
+Allmänna uppgifter
+Valfri för: I4
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Syftet är att ge kunskaper i värdering och prissättning av
+optioner.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+kunna:
+· förstå terminers och optioners grundläggande
+funktioner,
+· förstå hur terminer och optioner prissätts teoretiskt
+inom binomialmodellen och Black–Scholes modell,
+· förstå skillnaden mellan vilka antaganden som behövs för
+att kunna prissätta terminskontrakt respektive
+optionskontrakt,
+· förklara hur olika bakomliggande variabler påverkar priset
+på terminer och optioner
+· förklara hur Monte Carlo-simulering kan användas för att
+prissätta optionskontrakt,
+generalisera sina kunskaper till typer av optioner som inte
+behandlats under kursen.
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+ha förmåga att självständigt:
+· använda terminer och optioner i riskhanteringssyfte,
+· tillämpa olika prissättningsmetoder,
+· utvärdera rimligheten i olika prissättningsmetoders
+antaganden,
+· analysera en optionsportföljs priskänslighet för
+förändringar i de variabler som bestämmer optionspriserna,
+.praktiskt genomföra en Monte Carlo-simulering för att
+bestämma optionspriser.
+.redogöra för och diskutera sina optionsteoretiska
+kunskaper.
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+Studenten ska utveckla förmåga till vidare studier inom ämnet
+samt söka och utvärdera information med hög grad av
+självständighet. Studenten ska även utveckla förmåga att på
+egen hand skriva en empiriskt inriktad uppsats.
+
+Kursinnehåll
+Kursen behandlar den teoretiska värderingen av europeiska och
+amerikanska köp- och säljoptioner. Under ett antagande om att
+marknaden är arbitragefri visas de prisgränser inom vilka
+optionspriserna måste befinna sig under optionens löptid. Via
+ytterligare antaganden om den underliggande tillgångens utveckling
+över tiden (dess stokastiska process) visas hur optionen kan
+prissättas exakt, antingen inom binomialmodellen eller inom
+Black–Scholes modell. Kursen syftar primärt till en förståelse
+för prissättningen av standardiserade optionskontrakt.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Undervisningen består av föreläsningar, räkneövningar och en datorövning. Examinationen är skriftlig och äger rum vid slutet av kursen. Ytterligare examinationstillfälle anordnas i nära anslutning härtill. Datorövningen är poänggivande. Poängen får tillgodoräknas vid examinationstillfällen enbart under den innevarande terminen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+FMS012 Matematisk statistik, allmän kurs eller FMSF45 Matematisk statistik, allmän kurs
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: NEKH82, NEKK12, TEK040
+Kurslitteratur
+
+Hull, John C (2011): Options, Futures and Other Derivatives, åttonde upplagan, Prentice-Hall.
+Kompletterande material.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Docent Birger Nilsson, birger.nilsson@nek.lu.se
+Hemsida: http://www.nek.lu.se/GU/GUB.asp
+Övrig information: Kursen ges av Nationalekonomiska institutionen vid Ekonomihögskolan och samläses med NEKH82. Tentamenstid meddelas av kursläraren.
+
+
+

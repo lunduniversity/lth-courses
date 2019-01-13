@@ -1,0 +1,90 @@
+
+
+Kursplan för
+Förpackningsmaterial, fördjupning
+Packaging Material Science
+MTTN56, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning I
+Beslutsdatum: 2018-03-20
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: MFIPDES2
+Valfri för: I5, M5, MD4
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursen är en multidisciplinär kurs med syftet att ge studenter
+kunskap om och praktisk erfarenhet av att testa egenskaper hos
+olika förpackningsmaterial och utvärdera dess konsekvenser i ett
+försörjningskedjeperspektiv.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+Förstå och förklara olika egenskaper hos olika
+förpackningsmaterial.
+Utvärdera olika egenskaper genom olika stresstester och applicera
+kunskapen i en försörjningskedja.
+Utföra elementära tester på olika förpacknignsmaterial och
+utvärdera konsekvenser av resultaten för en
+försörjningskedja.
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+Förstå och förklara konsekvenserna av olika materialval för
+olika produkter.
+Självständigt planera, utföra och rapportera utvärderingar av
+olika förpackningsmaterial och dess konsekvenser i
+försörjningskedjor.
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+Kritiskt utvärdera och använda information i
+materialvetenskapslitteraturen och analysera den i ett
+försörjningskedjeperspektiv.
+Kritiskt och konstruktivt utvärdera och ge feedback på andra
+studenters arbete.
+
+Kursinnehåll
+Föreläsningar om olika förpackningsmaterial ges av olika
+experter inom området elementära experiment för olika
+förpackningsmaterial och deras egenskaper.
+Projekt om förpackningsegenskaper i försörjningskedja.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Projekt med bedömningen godkänd/underkänd, för godkänd kurs ska alla delmoment vara godkända.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0218. Benämning: Lab 1. 
+Antal högskolepoäng: 1. Betygsskala: UG.  Prestationsbedömning: Laboration med bedömningen godkänd/underkänd.
+  Delmomentet omfattar: Lab 1: Mekaniska egenskaper hos förpackningsmaterial. 
+Kod: 0318. Benämning: Lab 2. 
+Antal högskolepoäng: 1. Betygsskala: UG.  Prestationsbedömning: Laboration med bedömningen godkänd/underkänd.  Delmomentet omfattar: Lab 2: Microstrukturer för förpackningsmaterial. 
+Kod: 0418. Benämning: Lab 3. 
+Antal högskolepoäng: 1. Betygsskala: UG.  Prestationsbedömning: Laboration med bedömningen godkänd/underkänd.  Delmomentet omfattar: Lab 3: Datorlaboration. Numerisk design av en optimal förpackning. 
+Kod: 0518. Benämning: Lab 4. 
+Antal högskolepoäng: 1. Betygsskala: UG.  Prestationsbedömning: Laboration med bedömningen godkänd/underkänd.  Delmomentet omfattar: Lab 4: Diffusionsprocesser i förpackningsmaterial. 
+Kod: 0618. Benämning: Projektrapport. 
+Antal högskolepoäng: 3,5. Betygsskala: UG.  Prestationsbedömning: Projektrapport med bedömningen godkänd/underkänd  Delmomentet omfattar: Projekt: Försörjningskedjeanalys av ovanstående lab resultat. 
+Antagningsuppgifter
+Förutsatta förkunskaper: Bachelor in Food engineering, BioChemistry or Mechanical engineering, 
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Robertsson G: Food Packaging.
+Research articles within packaging material science and packaging logistics.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Annika Olsson, annika.olsson@plog.lth.se
+Lärare: Henrik Pålsson, henrik.palsson@plog.lth.se
+Lärare: Mathias Wallin, mathias.wallin@solid.lth.se
+Lärare: Matti Ristinmaa, matti.ristinmaa@solid.lth.se
+Kursadministratör: Cilla Perlhagen, cilla.perlhagen@design.lth.se
+Lärare: Jenny Schelin, jenny.schelin@tmb.lth.se
+Hemsida: http://www.plog.lth.se/education/master-courses/ 
+
+
+

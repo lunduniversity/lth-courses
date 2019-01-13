@@ -1,0 +1,73 @@
+
+
+Kursplan för
+C++ - programmering
+C++ Programming
+EDAF50, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning C/D
+Beslutsdatum: 2018-04-03
+Allmänna uppgifter
+Valfri för: BME4, C4-sec, C4-pv, D4-pv, D4-se, E4, F4, M4, N4, Pi4-pv
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursen ger ingående kunskaper om C++, som är ett viktigt
+programspråk med många användningsområden. Särskilt betonas de
+språkkonstruktioner som gör att C++ är ett mera avancerat, och
+samtidigt mera komplicerat, programspråk än Java.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+känna till och kunna beskriva skillnaderna mellan C++ och
+Java
+vara väl förtrogen med språket C++ och med
+standardbiblioteket STL
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+vara kapabel att välja rätt C++-konstruktion för lösning av
+ett givet problem
+kunna använda verktyg för att utveckla C++-program i
+Unix-miljö
+
+
+Kursinnehåll
+Översikt över C++. Grundläggande C++-programmering: typer,
+programstrukturer, funktioner, minneshantering, I/O, strängar.
+Objektbaserad programmering: klasser, resurshantering.
+Objektorienterad programmering: härledda klasser, polymorfism,
+operatoröverlagring, standardklasser. Generisk programmering,
+parametriserade klasser. Standardbiblioteket STL.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen. För godkänt betyg krävs godkänd tentamen, godkända datorlaborationer och godkänd inlämningsuppgift. Slutbetyget baseras på den skriftliga tentamen. Obligatoriska moment: datorlaborationer och inlämningsuppgift.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Datorlaborationer och inlämningsuppgift. 
+Antal högskolepoäng: 3. Betygsskala: UG.  Prestationsbedömning: För godkänt betyg krävs att datorlaborationerna och inlämningsuppgiften är godkända. 
+Kod: 0217. Benämning: Tentamen. 
+Antal högskolepoäng: 4,5. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen. Slutbetyget på kursen baseras på resultatet av den skriftliga tentamen. 
+Antagningsuppgifter
+Förkunskapskrav:
+EDAA01 Programmeringsteknik - fördjupningskurs 
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: EDA031, EDA331, EDA623, EDAF30
+Kurslitteratur
+
+Lippman, S B, Lajoie, J, Moo, B: C++ Primer, Fifth Edition. Addison-Wesley, 2012, ISBN: 0-321-71411-3.
+
+
+Kontaktinfo och övrigt
+Studierektor: Studierektor, Studierektor-tekn@cs.lth.se
+Hemsida: http://cs.lth.se/edaf50
+
+
+

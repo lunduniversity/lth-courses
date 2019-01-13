@@ -1,0 +1,97 @@
+
+
+Kursplan för
+Matematisk modellering
+Mathematical Modelling
+FMAA10, 3 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning F/Pi
+Beslutsdatum: 2018-03-23
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: Pi1
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Avsikten med kursen är att väcka medvetenhet om matematisk
+modelleringsproblematik, dvs vad det innebär att skapa
+kvantitativa modeller som kan ge förståelse för fenomen i
+verkligheten. Syftet är vidare att studenten skall lära sig
+behärska några allmänna verktyg och strukturer som kan användas
+vid modellering, och bibringas ingenjörsmässiga
+tankesätt. Kursen skall också ge ökad bekantskap med Matlab och
+dess användning vid simulering och beräkning. Vidare skall kursen
+utveckla studentens förmåga i både muntlig och skriftlig
+presentation.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+tydligt kunna förklara och använda grundbegrepp inom
+matematisk modellering, speciellt kunna förklara vad en matematisk
+modell är.
+kunna beskriva och översiktligt förklara den matematiska
+modelleringsprocessen inklusive problemidentifiering, formulering,
+analys, beräkning, simulering och återkoppling.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+självständigt eller i grupp kunna tillämpa den matematiska
+modelleringsprocessen på enkla och realistiska, men kanske vagt
+formulerade problem, varav något med miljöanknytning. Mer
+specifikt ska studenten visa god förmåga att:
+
+identifiera och bedöma hur olika faktorer påverkar ett
+system,
+formulera ett problem med matematiska begrepp, ekvationer och
+bivillkor,
+bedöma modellens giltighet och begränsningar, och hur den kan
+förfinas,
+analysera och utföra enkla simuleringar på en modell,
+återkoppla och tolka lösningsmodellen i relation till
+ursprungsproblemet, och bedöma lösningens giltighet och
+begränsningar.
+
+i både tal och skrift, med adekvat terminologi, väl
+strukturerat och logiskt sammanhängande kunna redogöra för
+lösningen till ett modelleringsproblem.
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+utveckla ett förhållningssätt till omvärlden och
+matematiken, i vilket matematikens användbarhet i kvantitativ
+verklighetsbeskrivning ter sig naturlig och möjlig.
+kunna acceptera redundans i och avsaknad av data, och i sådana
+situationer göra ingenjörsmässiga överväganden.
+
+
+Kursinnehåll
+Modellering: Kopplingar modell-verklighet. Validering
+av modell. Några olika modelleringsverktyg. Enkla simuleringar med
+Matlab.
+ 
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: Muntliga och skriftliga redovisningar av projektarbeten enskilt och i grupp. Obligatorisk närvaro vid projektredovisningarna. 
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: FMAB20 Linjär algebra. Den första delkursen i Endimensionell analys.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FMA045
+Kurslitteratur
+
+K. Åström & G. Sparr: Matematisk modellering. Matematikcentrum, 2005. Distribueras av institutionen.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Studierektor Anders Holst, Studierektor@math.lth.se
+Lärare: Pelle Pettersson, pelle@maths.lth.se
+Kursadministratör: Studerandeexpeditionen, expedition@math.lth.se
+Hemsida: http://www.maths.lth.se/course/fmaa10/
+
+
+

@@ -1,0 +1,100 @@
+
+
+Kursplan för
+Krets- och mätteknik, fortsättningskurs
+Circuits and Measurements, Advanced Course
+ETEF15, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning E
+Beslutsdatum: 2018-04-05
+Allmänna uppgifter
+Obligatorisk för: IEA2
+Valfri för: IDA3
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursens syfte är att ge grundläggande kunskaper inom
+elektrotekniken. Kunskaperna knyts till lösning av teoretiska
+problem och laborativa inslag med stark anknytning till
+näringslivet.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna förklara och använda grundläggande begrepp och
+mätmetoder inom elektroniken.
+kunna förklara och använda grundläggande begrepp om
+elektriska och magnetiska fält.
+kunna förklara de grundläggande funktionerna hos de vanliga
+halvledarkomponenterna.
+kunna förklara grundläggande begrepp inom EMC-området.
+kunna förklara och använda grundläggande begrepp i
+trefassytemet.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna beräkna strömmar, spänningar och effekter vid olika
+belastningar i trefassystemet.
+kunna planera och genomföra mätningari elektriska
+kretsar.
+kunna analysera störningar i elektriska system med hjälp av
+frekvensanalys.
+kunna använda halvledare i enkla elektroniska kopplingar.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna genomföra beräkningar och mätningar i grundläggande
+elektriska kretsar och därvid kritiskt granska och värdera
+resultaten.
+vara medveten om de risker och det säkerhetstänkande som
+krävs för arbete i elanläggningar.
+
+
+Kursinnehåll
+
+Repetition likström, växelström, halvledare och
+filterverkan.
+Transformatorn
+Trefas, fyr- och femledarsystem
+Fourier serier/transform, övertoner på elnätet
+Mätvärdesinsamling och bearbetning
+Elektriska fält, åska
+Magnetiska fält
+Elektromagnetisk induktion, faran med oönskade inducerade
+spänningar/strömmar
+Störningar och störningsbekämpning
+EMC direktivet, standarder och arbetarskydd (kortfattat)
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: För att erhålla betyget 3 krävs godkända skriftliga tentamina, godkända redovisningar av laborationsförberedelser inför varje laborationstillfälle samt godkända laborationer. Högre betyg avgörs via de skriftliga tentamina.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0111. Benämning: Krets- och mätteknik, fortsättningskurs. 
+Antal högskolepoäng: 7,5. Betygsskala: TH.  Prestationsbedömning: skriftlig tentamen  Delmomentet omfattar: hela kursen 
+Kod: 0211. Benämning: Laborationer. 
+Antal högskolepoäng: 0. Betygsskala: UG.  Prestationsbedömning: Godkända redovisningar av laborationsförberedelser inför varje laborationstillfälle samt godkända laborationer och laborationsrapport  Delmomentet omfattar: Laborationer  Övrig information: Laborationerna ges en gång per läsår
+Antagningsuppgifter
+Förkunskapskrav:
+Godkända laborationer i EITA40/ETE604 Krets och mätteknik
+
+
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Bengtsson, Lars: Elektriska mätsystem och mätmetoder. Studentlitteratur, 2012, ISBN: 9789144080680.
+Karlström, Bill: Kretsanalys. Studentlitteratur, 2017, ISBN: 9789144125725.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Universitetsadjunkt Bertil Larsson, bertil.larsson@eit.lth.se
+Hemsida: http://www.eit.lth.se/kurs/etef15
+
+
+

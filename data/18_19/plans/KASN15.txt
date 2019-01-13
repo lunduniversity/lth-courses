@@ -1,0 +1,96 @@
+
+
+Kursplan för
+Mikroskopisk karaktärisering av material
+Microscopic Characterization of Materials
+KASN15, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning B/K
+Beslutsdatum: 2018-03-21
+Allmänna uppgifter
+Valfri för: K4-m, N4-m
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+
+Att studenten skaffar sig en aktiv kunskapsbas vad det gäller
+tillgängliga metoder för elementanalys på nanometerskala
+Att studenten förstår de förlopp som ligger bakom de olika
+analysmetoderna
+Att studenten skall kunna utföra analyserna praktiskt
+
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+Utnyttja sina kunskaper om elektronstruktur för att kunna
+förutsäga egenskaper som röntgenemission, Augerelektronemission
+och sekundärelektronemission.
+Förstå elastisk och inelastisk spridning av elektroner i
+fasta material.
+Förstå principer bakom avbildning med mikroskopimetoder.
+Förstå elektron- och ljusindicerade fenomen på ytor och vad
+det leder till i form av emission och reflektion.
+Förstå hur olika detektorer fungerar.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+Kunna planera lämplig preparationsmetod för olika typer av
+material.
+Tillämpa sina kunskaper för att välja en lämplig
+analysmetod för ett visst materialproblem.
+Analysera bilder och spektra från olika typer av material,
+både kvalitativt och kvantitativt.
+Utföra planerade analyser på ett flertal olika typer av
+instrument.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+Kunna utvärdera noggrannhet och precision hos olika
+analysmetoder.
+Kunna förklara eventuella artefakter och felkällor.
+Självständigt kunna planera och genomföra analyser av
+okända materialprov.
+
+
+Kursinnehåll
+
+Elastisk och inelastisk spridning
+Elektromagnetiska linser
+Principer och funktion hos olika typer av elektronmikroskop
+(TEM, SEM)
+Spektrometrar för elementanalys. Energidispersiv
+röntgenspektrometer XEDS
+Elektronenergiförlustspektrometer(EELS)
+Identifiering och kvantifiering av spektra
+Biologisk provpreparering och avbildningstekniker.
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen och godkänd praktisk analysuppgift. Tentamensresultat ger slutbetyg.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+KASF15 Analys på nanoskalan
+
+
+Begränsat antal platser: 12
+Urvalskriterier: Antal poäng som återstår till examen.
+Kurslitteratur
+
+Williams, D B och Carter, B C: Transmission electron microscopy – a textbook for materials science, 2nd edition. Springer, 2009, ISBN: 978-0-387-76502-0 eller e-ISBN: 978-0-387-76501-3.
+Material utlagt på kursens hemsida.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Professor Reine Wallenberg, Reine.Wallenberg@polymat.lth.se
+Hemsida: http://www.polymat.lth.se
+
+
+

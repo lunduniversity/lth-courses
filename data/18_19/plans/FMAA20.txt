@@ -1,0 +1,105 @@
+
+
+Kursplan för
+Linjär algebra med introduktion till datorhjälpmedel
+Linear Algebra with Introduction to Computer Tools
+FMAA20, 7,5 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning F/Pi
+Beslutsdatum: 2018-03-23
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: B1, K1, W1
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursens syfte är att ge en grundläggande introduktion till den
+linjära algebran. Dessutom skall den ge grundläggande
+färdigheter i Matlab som en grund för efterföljande kurser.
+Särskild tonvikt läggs på den roll linjär algebra spelar  i
+tillämpningar inom teknikämnen av olika slag, med avsikt att ge
+den blivande civilingenjören en god grund för vidare studier i
+såväl matematik som andra ämnen. Syftet är vidare att utveckla
+studenternas förmåga att lösa problem och att tillgodogöra
+sig matematisk text.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+med och utan datorhjälpmedel med säkerhet kunna lösa
+linjära ekvationssystem samt visa förmåga att geometriskt tolka
+lösningar till sådana system.
+kunna representera, hantera och räkna med - för hand och med
+dator - grundläggande geometriska objekt i tre dimensioner som
+punkter, vektorer, linjer och plan.
+kunna ge prov på en allmän förståelse för matrisbegreppet
+och dess koppling till begreppet linjär avbildning samt kunna
+utföra elementära matrisoperationer och lösa matrisekvationer,
+med och utan dator.
+översiktligt kunna redogöra för och illustrera betydelsen av
+sådana matematiska begrepp inom linjär algebra som används för
+att ställa upp och undersöka matematiska modeller i
+tillämpningarna.
+kunna redogöra för innehållet i några centrala
+definitioner, satser och enklare bevis.
+kunna redogöra för minsta kvadrat-metoden.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna demonstrera en god algebraisk räkneförmåga inom
+kursens ram.
+i samband med problemlösning kunna visa förmåga att
+självständigt välja och använda matematiska metoder inom
+linjär algebra.
+i samband med problemlösning kunna visa förmåga att
+integrera begrepp från kursens olika delar.
+kunna visa förmåga att redogöra för ett matematiskt
+resonemang på ett strukturerat och logiskt sammanhängande
+sätt.
+kunna illustrera punktermängder i planet grafiskt på dator,
+och anpassa kurvor till dessa.
+
+
+Kursinnehåll
+
+Linjära ekvationssystem.
+Vektorer. Baser och koordinatsystem. Ekvationer för linjer och
+plan i rymden. Skalärprodukt med tillämpningar. Vektorprodukt med
+tillämpningar.
+Matriser. Rang. Linjära avbildningar. Determinanter.
+Egenvärden och egenvektorer.
+Matlab som räkne- och rithjälpmedel.
+
+ 
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen på Linjär algebra. Muntlig tentamen vid dator på Matlabfärdighet. Slutbetyget är lika med betyget på den skriftliga tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0115. Benämning: Linjär algebra. 
+Antal högskolepoäng: 6. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen.  Övrig information: Detta är samma tentamen som på FMA420.
+Kod: 0215. Benämning: Grundläggande datorfärdighet. 
+Antal högskolepoäng: 1,5. Betygsskala: UG.  Prestationsbedömning: Muntlig tentamen utgående från datorövningarna under kursen. 
+Antagningsuppgifter
+Förutsatta förkunskaper: FMAA01/05 Endimensionell analys.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FMA420, FMA421, FMA656
+Kurslitteratur
+
+Sparr, G: Linjär algebra. Studentlitteratur, 1997, ISBN: 978-91-44-19752-7.
+Övningar i Linjär algebra. Studentlitteratur, 2016, ISBN: 978-91-44-11607-5. Nionde upplagan.
+Grimsberg, M: Börja med Matlab. 2015. Institutionen för Kemiteknik.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Anders Holst, studierektor@math.lth.se
+Lärare: Patrik Nordbeck, nordbeck@maths.lth.se
+Kursadministratör: Studerandeexpeditionen, expedition@math.lth.se
+Hemsida: http://www.maths.lth.se/course/linalgmdator/
+
+
+

@@ -1,0 +1,107 @@
+
+
+Kursplan för
+Fastighetsvärderingssystem
+Real Estate Appraisal Systems
+VFTN01, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning L
+Beslutsdatum: 2018-03-23
+Allmänna uppgifter
+Valfri för: L4-fe
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursen bidrar till en fördjupad kunskap i fastighetsvärdering.
+Kursen skall ge deltagaren den grund som behövs för att kritiskt
+värdera generell prisinformation inom fastighetsområdet. Kursen
+skall ge deltagaren tillräckliga kunskaper i tillämpliga
+kvantitativa metoder för att själv kunna bygga modeller för
+analys av den information om fastigheter och fastighetsmarknaden
+som finns i fastighetspriser.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna tolka generell information om fastighets- och
+bostadsrättspriser liksom om hyresnivåer
+särskilt förstå och kunna beskriva hur avvikelser i
+databasen hanteras när informationen generaliseras
+förstå hur information kan extraheras från fastighetspriser
+med kvantitativa metoder
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna upprätta en mindre databas som kan ge
+värdeinformation
+beskriva hur urval och beräkningar utförts i vissa
+massvärderingssystem
+kunna värdera kommersiella fastigheter både med och utan
+hjälp av särskild programvara
+kunna analysera hur fastighetsvärdenas utveckling på lång
+sikt med hänsyn till förändrade förutsättningar i omgivande
+samhälle och ekonomi
+kunna använda kvantitativa metoder för att analysera, tolka
+och sammanställa information i fastighetspriser
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna värdera den prisinformation som används på
+fastighetsmarknaden och förstå dess användningsområden och dess
+begräsningar
+kunna kritiskt värdera trovärdigheten hos en värdering under
+olika förutsättningar
+kunna tänka kreativt runt förutsättningarna för ökande
+eller sjunkande fastighetsvärden
+
+
+Kursinnehåll
+Kursen har ett starkt kvantitativt fokus och den röda tråden
+består i analys av den information som finns i observerade
+fastighetspriser; hur den kan samlas in, hur den kan bearbetas och
+hur den kan tolkas.
+Kursen tar upp den efterfrågan som finns på massbehandlad
+prisinformation för fastigheter med inriktning på
+fastighetstaxering och på hur kreditinstitut och s.k.
+ratinginstitut som Moodys och Standard & Poor arbetar.
+Kursen undersöker hur offentligt tillgänglig information kan
+användas för att uppnå högre precision i
+fastighetsvärderingen. Därifrån fortsätter den med studier i
+hur förädling av sådan information kan göras av privata
+företag.
+Kursen tar också upp informationssammanställning av priser som
+inte förs i offentliga register och då framför allt
+bostadsrättsmarknaden.
+I projektuppgifter kommer deltagarna att själva bygga
+värdeinformationssystem i med hjälp av olika kvantitativa
+metoder.
+ 
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Obligatoriska inlämningsuppgifter och avslutande skriftlig tentamen, där tentamen avgör betyget.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+VFTF01 National- och företagsekonomi
+VFTF05 Fastighetsvärdering eller VFTF20 Fastighetsvärdering
+
+
+Förutsatta förkunskaper: VFT015 Fastighetsmarknaden ELLER VFTN50 Fastighetsmarknaden
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Artikelsammanställning samt annan anvisad litteratur.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Fredrik Kopsch, fredrik.kopsch@lantm.lth.se
+Hemsida: http://www.lantm.lth.se
+
+
+

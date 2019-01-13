@@ -1,0 +1,99 @@
+
+
+Kursplan för
+Datorarkitektur
+Computer Architecture
+EITF20, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning C/D
+Beslutsdatum: 2018-04-03
+Allmänna uppgifter
+Valfri för: C4-sec, D4-dpd, D4-is, E4, F4, MSOC1
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Målet med kursen är att introducera datorsystem på nivån
+ISA (Instruction Set Architectures).  Kursens syfte är att ge en
+grundläggande förståelse för de konstruktionsprinciper som styr
+moderna datorarkitekturer och de komponenter datorer är uppbyggda
+av. Speciellt uppmärksammas(super skalär) pipelining och
+minneshierarkier inklusive cache.  Kvantitativa analysmetoder för
+bl.a. prestanda diskuteras i syfte att utvärdera olika alternativa
+datorarkitekurer.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+förstå arkitekturen hos en dator.
+kunna kvantifiera den potentiella prestandan hos en dator.
+Ha en överblick över arkitektur alternativen och de
+teknologiska restriktionerna för att lösa ett datorproblem.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+vara skicklig i att etablera datorfunktionalitet.
+vara mycket skicklig i system-simulering.
+skaffat sig erfarenhet i arkitektur kvantifiering
+ha en operativ kunskap om arkitekturer
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+ha lärt sig ”trade-offs” i skapandet av datorsupport för
+problemlösning.
+
+Kursinnehåll
+Kursen ger en beskrivning av hur olika enheter i ett datorsystem
+fungerar och är uppbyggda. Bland annat beskrivs funktion och
+uppbyggnad hos RISC-processorer baserade på pipelining, olika
+problem som detta medför, samt olika hårdvaru- och
+programvarumässiga lösningar på dessa problem. Vidare beskrivs
+konstruktion och funktion hos cacheminnen, virtuella minnen och
+andra systemkomponenter. Kursen belyser även alternativa
+konstruktionsprinciper för att skapa en grundläggande
+förståelse för uppbyggnaden och prestanda för moderna
+datorarkitekturer. Ett viktigt inslag i kursen är de metoder vi
+använder för att kvantitativt utvärdera prestandan hos olika
+konstruktionsalternativ. I sammandrag täcker
+föreläsningarna:
+ 
+
+Prestanda
+Principer för ISA (Instruction Set Architecture)
+Pipelining
+Minnessystem
+I/O, Multiprocessor
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examination sker genom godkända laborationer samt godkänd skriftlig tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0112. Benämning: Tentamen. 
+Antal högskolepoäng: 4. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen. 
+Kod: 0212. Benämning: Laborationer. 
+Antal högskolepoäng: 3,5. Betygsskala: UG.  Prestationsbedömning: Godkända laborationer. 
+Antagningsuppgifter
+Förkunskapskrav:
+EIT070 Datorteknik eller EITF70 Datorteknik
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: EIT090
+Kurslitteratur
+
+Hennesy, J L, Patterson, D A: Computer Architecture – A Quantitative Approach. Morgan Kaufman Publishers, 2007, ISBN: 978-0-12-370490-0. 5th edition.
+Artiklar och document från Webben.
+Kursnoter och laborationer.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Liang Liu, liang.liu@eit.lth.se
+Hemsida: http://www.eit.lth.se/kurs/eitf20
+
+
+

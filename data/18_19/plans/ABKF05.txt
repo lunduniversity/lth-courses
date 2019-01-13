@@ -1,0 +1,79 @@
+
+
+Kursplan för
+Installationsteknik
+Building Services
+ABKF05, 7 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning V
+Beslutsdatum: 2018-03-27
+Allmänna uppgifter
+Obligatorisk för: IBYA2
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Att ge elementär kunskap om inomhusmiljö och vilka krav som
+ställs på denna samt kunskap om hur de vanligaste systemen för
+ventilation, värme, tappvatten, spillvatten och reglering av
+dessa fungerar.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+ha elementär kunskap om inomhusmiljö och vilka krav som
+ställs på denna.
+kunna identifiera och lösa enklare problem i innemiljö,
+ventilation, värme och sanitet samt tillhörande system.
+förstå enklare principer för styrning och reglering av
+värme- och ventilationssystem.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna utforma och dimensionera system för ventilation, värme,
+tappvatten och spillvatten för bostäder.
+kunna samordna installationer med planlösning och stomme.
+kunna upprätta enklare ritningar och läsa mer
+avancerade.
+kunna beräkna och värdera en byggnads energianvändning.
+
+
+Kursinnehåll
+Kursen behandlar allmän installationsteknik med inriktning VVS.
+Komfortkrav och hälsokriterier för inomhusmiljö. Kunskap om och
+dimensionering av olika system för ventilation, värme samt tapp-
+och spillvatten. Principerna för styr- och reglerteknik för
+dessa. Samordning av installationer med planlösning och stomme.
+Upprättande av enklare VVS-installationsritningar. Beräkning och
+värdering av en byggnads energianvändning.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Kursen avslutas med en skriftlig tentamen som består av en teoridel och en räknedel som båda måste vara godkända vid samma tillfälle. För att få slutbetyg måste dessutom laborationen och konstruktionsuppgiften (villan Villan) vara godkänd. En väl genomförd konstruktionsuppgift kan höja slutbetyget med ett halvt steg.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0113. Benämning: Inlämningsuppgifter. 
+Antal högskolepoäng: 2. Betygsskala: UG.  Prestationsbedömning: För godkända inlämningsuppgifter krävs att de är kompletta och håller nivå II gällande redovisning. Väl genomförd uppgift kan höja slutbetyget för kursen med ett halvt steg.  Delmomentet omfattar: Konstruktionsuppgift, kallad "villan Villan", omfattande projektering av VVS-system för ett småhus. 
+Kod: 0213. Benämning: Skriftlig tentamen. 
+Antal högskolepoäng: 5. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen bestående av en teoridel och en räknedel. Båda delarna ska godkännas vid samma tillfälle.  Delmomentet omfattar: Teori- och beräkningsuppgifter baserade på litteratur och föreläsningsanteckningar. 
+Antagningsuppgifter
+Förutsatta förkunskaper: VBM611 Byggnadsmaterial ELLER VBMA35 Byggnadsmaterial OCH
+VBF605 Byggnadsfysik ELLER VBFA10 Byggnadsfysik.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: ABK630, ABK606
+Kurslitteratur
+
+Johansson, D: Något om styr- och reglerteknik. LTH, 2014.
+Warfvinge, C. och Dahlblom M.: Projektering av VVS-installationer. Studentlitteratur, 2010, ISBN: 978-91-44-05561-9.
+Catarina Warfvinge och Mats Dahlblom: Projektering av VVS-installationer, Övningar. Studentlitteratur, 2016, ISBN: 978-91-44-11516-0.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Karin Farsäter, karin.farsater@hvac.lth.se
+Hemsida: https://liveatlund.lu.se
+Övrig information: I kursen ingår konstruktionsuppgiften "villan Villan" där ett småhus ska förses med nödvändiga försörjningssystem. Uppgiften, som har flera delinlämningar, sträcker sig över två läsperioder och ingår i ett informellt kursblock med husbyggnadsteknik och installationsteknik.
+
+
+

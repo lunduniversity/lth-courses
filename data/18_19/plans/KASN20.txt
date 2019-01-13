@@ -1,0 +1,117 @@
+
+
+Kursplan för
+Polymerfysik
+Polymer Physics
+KASN20, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning B/K
+Beslutsdatum: 2018-03-21
+Allmänna uppgifter
+Obligatorisk för: K4-m
+Valfri för: N4-m
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Kursen skall ge de specialkunskaper som fordras för att kunna
+tillgodogöra sig modern polymerfysisk litteratur och för att
+kunna delta i fysikaliskt inriktat forsknings- och
+utvecklingsarbete inom polymerframställande och polymeranvändande
+industri.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna beskriva och analysera allmänna koncept i
+polymerfysik.
+kunna generellt beskriva och förklara polymerers molekylära
+rörlighet som funktion av temperaturen i polymera material och
+polymerblandningar.
+kunna beskriva olika principer och metoder för bestämning av
+termiska, mekaniska, dielektriska, reologiska och fri volyms
+egenskaper.
+kunna relatera polymerers molekylära struktur till viktiga
+polymera egenskaper.
+kunna beskriva olika principer och metoder för bearbetning av
+polymerer och polymerkompositer.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna utföra och utvärdera enkla metoder för att fysikaliskt
+karakterisera polymerer, inklusive dynamisk-mekanisk spektroskopi,
+differentiell svep kalorimetri och kristallisationskinetik.
+kunna lösa generella problem utifrån teori när det gäller
+mekaniska egenskaper, tid-temperatur superposition och
+kristallisationskinetik.
+kunna problematisera kring komplexa flerfasiga
+polymersystem.
+kunna förstå och uttnyttja polymerfysiska begrepp på
+engelska i tal och skrift.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+ha insikter om fysikaliskt inriktad bearbetning, produktion och
+utvecklingsarbete inom polymerframställande och polymeranvändande
+industri.
+
+Kursinnehåll
+Kursen behandlar huvudområdena polymerers kristallina
+tillstånd, amorfa tillstånd, mekaniska och reologiska egenskaper
+och struktur- egenskap relationer och bearbetning.
+ 
+
+Kristallina tillståndet: mekanismen för kristallisation och
+smältning, morfologi, kinetik.
+Amorfa tillståndet: mobilitet, viskoelastiskt beteende,
+reptationmodellen, viskositet, glasövergång, glastillstånd, fri
+volym.
+Mekaniska och reologiska egenskaper: viskoelastiska egenskaper
+och modeller, linjär viskoelasticitet, moduler och viskositet,
+spänningsrelaxation, dynamisk mekanisk och dielektrisk analys,
+molekylär teori för viskoelasticitet.
+Samband mellan struktur och egenskaper: Smält- och
+glastemperatur, sampolymer, mjukgörare, fyllmedel,
+kristallinitet.
+Bearbetning: formsprutning, kontinuerlig strängsprutning,
+enkelskruvsextruder, dubbelskruvsextruder, blåsfolieextrudering,
+formblåsning, kalandrering, vakuumformning, formpressning,
+beläggning, fiberspinning, och pultrusion.
+
+Kursens teoretiska innehåll behandlas på föreläsningar.
+Studenternas förmåga att lösa polymerfysikaliska problem tränas
+under räkneövningar. Genom individuella inlämningsuppgifter
+tränas dessutom studenternas i att självständigt lösa problem.
+Utvalda huvudmoment i kursen belyses praktiskt genom laborationer i
+grupp, och genom studiebesök hos lokal polymertillverkande och
+polymeranvändande industri får studenterna en inblick i modern
+polymer bearbetning och utvecklingsarbete.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen. Godkända laborationsrapporter, samt deltagande på obligatoriska studiebesök i industrin. Tentamensresultat ger slutbetyget.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+ 
+KASF05 Material- och polymerteknologi eller KASF10 Funktionella material
+
+
+Förutsatta förkunskaper: KASN25 Polymerkemi
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: KPO010
+Kurslitteratur
+
+J.M.G. Cowie, V. Arrighi: Polymers: Chemistry & Physics of Modern Materials, 3rd edition. CRC Press, 2008, ISBN: 978-0-8493-9813-1.
+Utdelade laborationshandledningar, problemsamling, m.m.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Professor Patric Jannasch, patric.jannasch@chem.lu.se
+Hemsida: https://liveatlund.lu.se/departments/CAS/KASN20/Pages/default.aspx
+
+
+

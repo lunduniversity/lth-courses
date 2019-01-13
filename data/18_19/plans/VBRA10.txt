@@ -1,0 +1,131 @@
+
+
+Kursplan för
+Konsekvensberäkningar
+Consequence Analysis
+VBRA10, 7,5 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning BI/RH
+Beslutsdatum: 2018-03-20
+Allmänna uppgifter
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursen ska ge en introduktion till området
+konsekvensberäkningar inom brandingenjörens verksamhetsområde
+och ska utgöra ett komplement till kursen Riskanalysmetoder när
+det gäller konsekvenser av oönskade utsläpp av gaser och
+vätskor.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+Kunna beräkna storleken av oönskade utsläpp av gaser och
+vätskor; spridning av gaser, förångning av vätskor; brand i
+vätskor och gaser.
+Kunna beskriva utsläppsförlopp för gaser och vätskor;
+spridning av gaser.
+Kunna relatera till miljö- och säkerhetslagstiftning
+inklusive EU-direktiv som är relevanta för kunskapsområdet.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+Kunna uppskatta konsekvenserna av oönskade utsläpp av gaser
+och vätskor.
+Kunna använda lämpliga beräkningsmetoder (handberäknings-
+och datormodeller) för konsekvensbedömningar av oönskade
+utsläpp av gaser och vätskor.
+Kunna tillämpa beräkningsmodeller för oönskade utsläpp av
+gaser och vätskor på inträffade olyckor och riskobjekt.
+Kunna redogöra för och diskutera konsekvenser av oönskade
+utsläpp av gaser och vätskor med personer med liknande
+bakgrund.
+Kunna välja och använda tidigare genomgångna datorprogram
+för att lösa delproblem, känna till programmens
+användningsområden, dess begränsningar och hur resultaten skall
+tolkas och redovisas.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+Visa förmåga att göra bedömningar med hänsyn till
+relevanta vetenskapliga, samhälleliga och etiska aspekter.
+Visa insikt i ämnesområdets möjligheter och
+begränsningar.
+Visa förmåga att identifiera sitt behov av ytterligare
+kunskap och att fortlöpande utveckla sin kompetens.
+
+
+Kursinnehåll
+Undervisningen består av föreläsningar, räknestugor,
+datorövningar samt inlämningsuppgifter. Under föreläsningarna
+behandlas delar ut kurslitteraturen vilket görs med
+teorigenomgångar, genomgång av beräkningsexempel och
+presentationer av inträffade olyckor.
+Räknestugorna är räkneövningar där studenterna
+självständigt löser givna uppgifter som ska lösas med
+handräkningsmodeller. Vid dessa övningar finns tillgång till
+handledning.
+Utöver handräkningsmodeller används datorbaserade
+beräkningsmodeller. Dessa får studenterna bekanta sig med vid
+datorövningar där givna uppgifter ska lösas. Uppgifterna löses
+individuellt med stöd av handledare.
+Inlämningsuppgifter utgör ett moment i kursen. Den första
+utgörs av en resumé där studenten ska bekanta sig med en
+vetenskaplig artikel som är relevant för området och
+individuellt skriva en resumé av denna. Inlämningsuppgift nummer
+två utgörs av en beräkningsuppgift där studenten ska lösa
+givna problemställningar med hjälp av under kursen inhämtade
+kunskaper och däribland handräknings- och datormodeller.
+Följande delområden behandlas under kursen:
+ 
+
+Miljö- och säkerhetslagstiftning inklusive EU-direktiv.
+Kemikaliekännedom. Farliga egenskaper hos kemikalier.
+Kondenserade giftiga gaser.
+Konsekvensanalyser. Beräkning av konsekvenser vid utsläpp av
+gaser och vätskor. Beräkningsmetoder för utsläppshastighet
+(källstyrka), flashing, förångning, brand i vätskepöl,
+uppvärmning av behållare, jetflammor, gasspridning (neutrala och
+tunga gaser), gasmolnsexplosioner och tankbrott samt
+effektmodeller. Beräkningsmetoderna omfattar dels
+handräkningsmetoder och dels utnyttjande av datorprogram.
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examinationen sker enskilt och består av godkända lösningar på inlämningsuppgifter samt skriftlig tentamen bestående av både teorifrågor och problemlösning. Slutbetyget utgörs av resultatet på skriftlig tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: VBR022, VBRF20 Brandkemi, VBRF10 Branddynamik.
+Begränsat antal platser: 60
+Urvalskriterier: Antal poäng som återstår till examen. Förtur för studerande på brandingenjörsprogrammet årskurs 3.
+Kursen kan ställas in: Om färre än 12 anmälda.
+Kursen överlappar följande kurser: VBR100, VBR230
+Kurslitteratur
+
+Fischer, S. m fl: Vådautsläpp av brandfarliga och giftiga gaser och vätskor. FOA, 1998, ISBN: ISSN: 1104-9154.
+Lag om skydd mot olyckor, SFS 2003:778. Kan hämtas från: www.lagrummet.se.
+Förordning om skydd mot olyckor, SFS 2003:789. Kan hämtas från: www.lagrummet.se.
+Lag om åtgärder för att förebygga och begränsa följderna av allvarliga kemikalieolyckor, SFS 1999:381. Kan hämtas från: www.lagrummet.se.
+Förordning om åtgärder för att förebygga och begränsa följderna av allvarliga kemikalieolyckor, SFS 2015:236. Kan hämtas från: www.lagrummet.se.
+Lag om brandfarliga och explosiva varor, SFS 2010:1011. Kan hämtas från: www.lagrummet.se.
+Förordning om brandfarliga och explosiva varor, SFS 2010:1075. Kan hämtas från: www.lagrummet.se.
+Allmänna råd om skyldigheter vid farlig verksamhet, MSBFS 2014:2. Kan hämtas från: www.lagrummet.se.
+Föreskrifter om åtgärder för att förebygga och begränsa följderna av allvarliga kemikalieolyckor, inklusive Konsekvensutredningen, MSBFS 2015:8. Kan hämtas från: www.lagrummet.se.
+Andersson, B.: Karakteristiska egenskaper hos kemikalier, stencil. Brandteknik, 2005.
+Farligt ämne, klor, ammoniak, svaveldioxid och propan, utdrag ur RIB.
+Andersson, B.: Utdrag ur: Introduktion till konsekvensberäkningar, några förenklade typfall. Brandteknik, LTH, 1992.
+Pasquill´s stabilitetsklasser och andra tabeller, stencil. Brandteknik.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Marcus Runefors, marcus.runefors@brand.lth.se
+Övrig information: Enstaka moment kan komma att ges på engelska
+
+
+

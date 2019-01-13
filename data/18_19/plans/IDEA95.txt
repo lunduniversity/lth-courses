@@ -1,0 +1,72 @@
+
+
+Kursplan för
+Verkstadsintroduktion
+Introduction to Workshop Training
+IDEA95, 6 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning ID
+Beslutsdatum: 2018-03-01
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: MD1
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursens syfte är att på ett handfast och säkert sätt
+introducera verkstadens möjligheter och restriktioner vad gäller
+traditionella bearbetningsmetoder för olika material. Dessutom
+introduceras 3D-printing.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna särskilja olika bearbetningsprinciper
+kunna identifiera de vanligaste verktygen
+kunna redogöra för principerna för additiv tillverkning
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+under översiktlig uppsikt kunna arbeta med traditionella
+verkstadsmaskiner, såsom bandsåg, svarv och fräsmaskin.
+kunna hantera en enklare 3D-printer.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+• vara motiverad att följa givna säkerhetsregler.
+• kunna relatera till adekvat precisionsnivå med ett minimum om
+0,1 mm.
+
+Kursinnehåll
+Kursen startar med att studenten får använda konventionella
+verktygsmaskiner för enklare bearbetning genomförd under
+handledning. Föreläsningar täcker områden som arbetsmetoder,
+säkerhetsregler, verktyg och materialrelaterade frågor.
+Ytterligare individuell träning genomförs i framför allt
+svarvning och fräsning. 3D-printing introduceras och praktiseras.
+Som en förberedelse till kursen IDEA35 Designerns verktyg ingår
+avslutningsvis en kreativ övning i att bygga en enkel
+skissmodell.
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: Examinationen sker enskilt i form av genomförda övningsuppgifter.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Karlebo: Handbok. Liber, 2000, ISBN: 91 47 01558 6.
+Hallgrimsson, B.: Prototyping and modelmaking for product design. Laurence King Publishing Ltd, London, 2012, ISBN: 978 1 85669 876 4.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Karl-Axel Andersson, Karl-Axel.Andersson@design.lth.se
+Hemsida: http://www.industridesign.lth.se
+
+
+

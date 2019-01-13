@@ -1,0 +1,99 @@
+
+
+Kursplan för
+Bioanalys
+Bio Analytical Chemistry
+KBTN01, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning B/K
+Beslutsdatum: 2018-03-21
+Allmänna uppgifter
+Huvudområde: Bioteknik. 
+Alternativobligatorisk för: MBIO2
+Valfri för: B4-mb, B4-pt, MLIV2, N4-nbm
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Syftet med kursen är att ge en helhetssyn över det
+bioanalytiska området samt att ge grundläggande kunskaper om de
+fysikalisk-kemiska grunderna för olika bioanalytiska metoder.
+Genom att tillämpa och integrera de kunskaper som tidigare
+inhämtats av studenterna, skall kursen ge en djupare förståelse
+för de övergripande principerna inom bioanalys och de faktorer
+som styr val av enskilda steg.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+förstå de olika bioanalytiska principer som ingår i kursen.
+Kunna redogöra för dessa analysprinciper, dess styrkor och
+svagheter.
+förstå vikten av att på ett riktigt sätt ta ett prov och
+att behandla det på ett adekvat och reproducerbart sätt.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+på ett rationellt sätt kunna välja analysmetod, för att
+lösa ett givet analytiskt problem.
+ha förståelse för de i kursen ingående analysmetodernas
+styrkor och svagheter.
+laborationsövningarna skall även ha givit viss experimentell
+erfarenhet, bl.a. i handhavandet av bioanalytiska reagens.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+- genomföra en uppgift där hon/han på ett rationellt sätt
+och med bas i kursens teoretiska del ska välja metod för att
+lösa ett givet analysproblem. Detta sker genom att studenten
+erhåller uppgifter om ett faktiskt analysproblem och presenterar
+förslag på analysmetod/er
+- på ett tydligt sätt skriftligen och muntligen kunna
+rapportera sina erfarenheter och slutsatser av uppgiften.
+- diskutera och kritiskt utvärdera metoder och slutsatser som
+presenteras av andra studenter.
+
+Kursinnehåll
+Kursen ger en god inblick i moderna analysmetoder baserade på
+biokemiska molekyler. Sålunda omfattas enzymatisk-, immunokemisk-,
+cell- och DNA-baserad analys samt analytiska system som t.ex.
+biosensorer. Kursen behandlar även viktiga metoder för analys av
+biomolekyler som t.ex. masspektrometri. Kursen ger även insikt i
+framväxande miniatyriserade analystekniker baserade på t.ex.
+chip- och mikrofluid-system. Analys för det välutrustade
+laboratoriet ingår likaväl som fältmässig analysteknik.
+Speciellt behandlas analys av enskilda prover samt kontinuerlig
+analys för processövervakning med fokus på läkemedel och
+bioteknik samt i viss mån livsmedelsindustri och miljöområdet.
+Kursen behandlar också viktiga moment som provtagning och
+provbehandling.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig examination. Förutom laborationer och inlämningsuppgift, i samband med skriftligt prov kunna klara åtminstone 50 % av de problem som skall lösas. Frågor av förståelsekaraktär och inte frågor som fastställer detaljkunskaper. Dock kommer viss detaljkunskap att behövas för att förstå frågeställningarna. Laborationerna bedöms efter inlämnandet av laborationsrapport. Inlämningsuppgift bedöms efter inlämnad rapport och muntlig redovisning.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0112. Benämning: Grupparbete. 
+Antal högskolepoäng: 1. Betygsskala: UG.  Prestationsbedömning: Skriftlig och muntlig rapport. 
+Kod: 0212. Benämning: Bioanalys. 
+Antal högskolepoäng: 5. Betygsskala: TH.  Prestationsbedömning: Tentamen. 
+Kod: 0312. Benämning: Laboration. 
+Antal högskolepoäng: 1,5. Betygsskala: UG.  Prestationsbedömning: Laborationsrapport. 
+Antagningsuppgifter
+Förutsatta förkunskaper: KBKA10/KBK011 Biokemi
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: KBT050
+Kurslitteratur
+
+Kompendium innehållande exklusivt skrivet material för kursen samt översiktsartiklar som delas ut i samband med kursen.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Martin Hedström, Martin.Hedstrom@biotek.lu.se
+Hemsida: http://www.biotek.lu.se/kbt050
+
+
+

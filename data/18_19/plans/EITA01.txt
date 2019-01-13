@@ -1,0 +1,103 @@
+
+
+Kursplan för
+Introduktion till medicin och teknik
+Introduction to Biomedical Engineering
+EITA01, 12 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning BME
+Beslutsdatum: 2018-03-23
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: BME1
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursens syftar till att introducera viktiga områden, begrepp
+och metoder inom medicinsk teknik såväl som att skapa
+förståelse för de möjligheter och utmaningar som är
+förknippade med mätning, analys och påverkan av fenomen i
+människokroppen.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+känna till människokroppens olika organsystem och hur de
+fungerar ihop
+ha grundläggande kunskaper inom biomekanik, biomaterial,
+bioinstrumentering, biomedicinska sensorer och signaler,
+bioinformatik och medicinsk bildgivning
+känna till grundläggande principer för hur olika
+kroppsfenomen kan mätas och analyseras genom insikter om
+kroppens såväl mekaniska som elektriska egenskaper.
+känna till vilka krav som ställs på system för diagnostik
+och behandling i sjukvården.
+känna till grundläggande principer för moral och etik och
+patientsäkerhet inom medicinområdet och hur detta påverkar
+framtagning av medicinsk teknik
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+kunna analysera medicintekniska system och se deras
+begränsningar och möjligheter.
+kunna bryta ned medicintekniska problem i mindre delproblem
+kunna göra grundläggande analys av mekaniska och elektriska
+frågeställningar relaterade till kroppen
+kunna applicera sina kunskaper inom biomekanik, biomaterial,
+bioinstrumentering, biomedicinska sensorer och signaler,
+bioinformatik och medicinsk bildgivning för att beskriva hur olika
+medicintekniska lösningar fungerar.
+grovt kunna bedöma rimligheten i medicintekniska lösningar
+utifrån moral och etik perspektivet
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+kunna tolka och diskutera information från medicinsk
+litteratur
+kunna kommunicera med sjukvårdspersonal om tekniska system
+kunna diskutera etik, moral och patientsäkerhet
+
+Kursinnehåll
+
+Grundläggande anatomi och fysiologi
+Aspekter inom etik, moral och patientsäkerhet
+Grundläggande biomekanik
+Grunder inom bioinstrumentering, biosensorer och medicinsk
+signalbehandling
+Grunder inom bioinformatik och genetik
+Grunder inom medicinska bildgivningstekniker
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Tre skriftliga prov på vardera 3 hp. Projekt (2 hp). Närvaro på seminarier (1 hp) krävs, liksom deltagande i laborationer.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0112. Benämning: Skriftligt prov 1. 
+Antal högskolepoäng: 3. Betygsskala: UG.  Prestationsbedömning: Se prestationsbedömningen för hela kursen. 
+Kod: 0212. Benämning: Projekt. 
+Antal högskolepoäng: 2. Betygsskala: UG.  Prestationsbedömning: Projektet redovisas i form av en rapport och en posterredovisning. Efter kamratgranskning och lärargranskning blir man godkänd.
+  Delmomentet omfattar: Projekt kring en medicinteknisk applikation med tema hållbar utveckling. 
+Kod: 0312. Benämning: Seminarier. 
+Antal högskolepoäng: 1. Betygsskala: UG.  Prestationsbedömning: Om man deltar och lämnar in dagbok på samtliga seminarier blir man godkänd.  Delmomentet omfattar: Aktivt deltagande i 6 stycken diskussionsseminarier. Dagbok om ca 1 sida ska lämnas in efter varje seminarie. 
+Kod: 0412. Benämning: Laborationer. 
+Antal högskolepoäng: 0. Betygsskala: UG.  Prestationsbedömning: Godkänt efter deltagande i samtliga 4 laborationer.  Delmomentet omfattar: 4 laborationer ska genomföras. 
+Kod: 0512. Benämning: Skriftligt prov 2. 
+Antal högskolepoäng: 3. Betygsskala: UG.  Prestationsbedömning: Se prestationsbedömningen för hela kursen. 
+Kod: 0612. Benämning: Skriftligt prov 3. 
+Antal högskolepoäng: 3. Betygsskala: UG.  Prestationsbedömning: Se prestationsbedömningen för hela kursen. 
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Enderle J., Blanchard S.M., Bronzino J., "Introduction to Biomedical Engineering, Third Edition", Academic Press, 2012.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Magnus Cinthio, Magnus.Cinthio@bme.lth.se
+Kursansvarig: Martin Stridh, Martin.Stridh@bme.lth.se
+Kursansvarig: Ingrid Svensson, Ingrid.Svensson@bme.lth.se
+Hemsida: http://bme.lth.se/course-pages/introduktion-till-medicin-och-teknik/introduktion-till-medicin-och-teknik/
+
+
+

@@ -1,0 +1,94 @@
+
+
+Kursplan för
+Finita elementmetoden - flödesberäkningar
+The Finite Element Method - Flow Analysis
+VSMN25, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning V
+Beslutsdatum: 2018-03-27
+Allmänna uppgifter
+Valfri för: MWLU2, V5-vr, V4-at, V4-ko, W5-vr
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Kursens syfte är att ge detaljerade teoretiska och praktiska
+kunskaper om de grundläggande stegen i finita elementmetoden samt
+att kunna modellera och analysera generella flödesproblem
+utifrån ett fysikaliskt beskrivet sammanhang. Ingenjörsproblem
+som kommer att studeras är värmeledning, rörströmning,
+grundvattenströmning och diffusion, för både stationära och
+transienta förlopp.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna definiera linjära stationära och transienta
+flödesproblem i 1D-3D och tolka deras fysikaliska termer.
+utifrån fysikaliska samband kunna formulera en matematisk
+modell för problemet.
+kunna överföra matematisk modell, via svag formulering, till
+finita elementformulering.
+kunna förklara konvergens- och kompatibilitetskrav för
+approximerande funktioner.
+kunna definiera och använda olika typer av randvillkor och
+laster.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna skapa finita elementmodeller av verkliga flödesproblem
+från fysikaliskt beskrivet sammanhang.
+kunna utföra finita elelementberäkningar för olika typer av
+flödesproblem.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna analysera och tolka beräkningsresultat från en finita
+elementlösning.
+kunna bedöma tillförlitlighet av en finita
+elementanalys.
+
+
+Kursinnehåll
+Kursen består av föreläsningar, övningar samt två
+konstruktionsuppgifter. I första delen av kursen beskrivs i detalj
+alla stegen i finita elementformuleringen med ett enkelt
+endimensionellt värmeledningsproblem: diskretisering, stark och
+svag form, approximerande funktioner och viktade residualmetoder.
+Dessa kunskaper byggs efterhand på med två- och tredimensionella
+flödesproblem. Flödesproblem som studeras är: värmeledning,
+rörströmning, grundvattenströmning och fukttransport. I slutet
+av kursen utvidgas begreppen för studier av transienta förlopp.
+Konstruktionsuppgifterna belyser metodiken för formulering av
+vanligt förekommande ingenjörsproblem till modeller lämpliga
+för finita elementanalys.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Godkänd skriftlig tentamen samt tre konstruktionsuppgifter.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+FMA430 Flerdimensionell analys eller FMAB30 Flerdimensionell analys
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FHL064, VSM040, VSMN05, FHLF20
+Kurslitteratur
+
+Ottosen, N., Petersson, H.: Introduction to the Finite Element Method, Prentice Hall 1992.
+Olsson, K.-G and Heyden, S.: Introduction to the finite element method, problems, Byggnadsmekanik, Lund 2001.
+CALFEM ver 3.4 - A finite element toolbox, KFS i Lund AB, 2004.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Professor Kent Persson, kent.persson@construction.lth.se
+Hemsida: http://www.byggmek.lth.se
+
+
+

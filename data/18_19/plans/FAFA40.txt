@@ -1,0 +1,103 @@
+
+
+Kursplan för
+Fysik
+Physics
+FAFA40, 8 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning N
+Beslutsdatum: 2018-03-28
+Allmänna uppgifter
+Obligatorisk för: IBYI1, IBYV1
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursens syfte är att ge baskunskaper i experimentell metodik,
+fluidfysik och ellära. Den experimentella metodiken skall ge
+studenten verktyg att analysera och bygga samband mellan olika
+fysikaliska storheter inom samtliga tekniska områden. Specifikt
+tillämpas detta inom denna kurs på områdena fluidfysik och
+ellära.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna förklara och använda begreppen temperatur, tryck,
+partialtryck och relativ fuktighet, värme och värmetransport,
+värmekapacitet.
+kunna definiera resistans, kapacitans, induktans och
+impedans.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna kontrollera och konstruera samband genom att använda
+enhetsanalys.
+kunna utföra beräkningar på strömningsproblem genom att
+skapa en modell där Bernoullis ekvation kan användas och med den
+utföra beräkningar som därefter jämförs med verkligheten.
+kunna utföra beräkningar på värmetransport genom olika
+material och materialkombinationer för att kunna optimera
+energiåtgång.
+kunna hantera grundläggande begrepp inom elläran, både
+likström och växelström.
+kunna mäta, direkt och indirekt, de grundläggande storheterna
+inom elläran och rita och analysera enkla kopplingsscheman.
+kunna bedöma en arbetsplats ur elektrisk
+säkerhetssynpunkt.
+kunna utföra beräkningar på trefas växelström med hjälp
+av visardiagram.
+
+
+Kursinnehåll
+
+Experimentell metodik.
+Temperatur, värme och värmeöverföring, tryck, ideala
+gaslagen, ytenergi och kapillaritet, strömmande fluider.
+Laddning, spänning och potentialdifferens.
+Motstånd, kondensator, induktans och impedans.
+Likström och växelström.
+Fasförskjutning och faskompensering.
+Elanläggningar och elsäkerhet.
+Elektriska trefassystem.
+Mätning av elektriska storheter.
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen som avgör betyget för kursen. Hemtentamen, laborationer, inlämningsuppgift och litteraturseminarier måste vara godkända.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Skriftlig tentamen. 
+Antal högskolepoäng: 4,5. Betygsskala: TH.  Prestationsbedömning: Godkänd tentamen ger tentamensbetyget 3,0 till 6,0.  Delmomentet omfattar: Se kursplan. 
+Kod: 0217. Benämning: Laborationer. 
+Antal högskolepoäng: 1,5. Betygsskala: UG.  Prestationsbedömning: Godkända laborationer. En laboration är godkänd då alla dess moment är godkända, dvs. förberedelseuppgifter, laborationsutförande och redovisning. En laboration som inte blir godkänd under pågående läsperiod är underkänd och måste i sin helhet göras om vid nästa möjliga tillfälle.  Delmomentet omfattar: Enligt laborationshandledningen. 
+Kod: 0317. Benämning: Inlämningsuppgifter. 
+Antal högskolepoäng: 2. Betygsskala: UG.  Prestationsbedömning: Godkänd inlämningsuppgift. En inlämningsuppgift som inte blir godkänd under pågående läsperiod är underkänd och måste i sin helhet göras om vid nästa möjliga tillfälle.  Delmomentet omfattar: Enligt laborationshandledningen.  Övrig information: Inlämningsuppgiften utföres i Lp HT 2.
+Kod: 0417. Benämning: Hemtentamen. 
+Antal högskolepoäng: 0. Betygsskala: UG.  Prestationsbedömning: Godkänd hemtentamen i Experimentell metodik. 
+Kod: 0517. Benämning: Litteraturseminarier. 
+Antal högskolepoäng: 0. Betygsskala: UG.  Prestationsbedömning: Godkända litteraturseminarier i Ellära och Fysik i vätskor och gaser. 
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FAF603, FAFA85, FAFA30, FAFA45, FAFF25
+Kurslitteratur
+
+Jönsson, Göran: Fysik i vätskor och gaser. Teach Support, 2016, ISBN: 978-91-637-9826-9.
+Kompendium i Experimentell metodik
+(tillhandahålls av institutionen).
+Jönsson, Göran: Tillämpad ellära. Teach Support, 2017, ISBN: 978-91-639-4348-5.
+Laborationshandledningar
+(tillhandahålls av institutionen).
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Göran Frank, goran.frank@nuclear.lu.se
+Kursansvarig: Pavel Golubev, pavel.golubev@nuclear.lu.se
+Hemsida: http://www.nuclear.lu.se/utbildning/obligatoriska-kurser/fysik-foer-byggteknik/
+Övrig information: En laboration utföres vid fysiska institutionen i Lund, liksom den praktiska delen av inlämningsuppgiften.
+
+
+

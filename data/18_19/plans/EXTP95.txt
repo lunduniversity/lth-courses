@@ -1,0 +1,103 @@
+
+
+Kursplan för
+Ytfysik
+The Physics of Surfaces
+EXTP95, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning N
+Beslutsdatum: 2018-03-28
+Allmänna uppgifter
+Huvudområde: Nanovetenskap. 
+Valfri för: F4, F4-nf, N4-nf, N4-m
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Målet med kursen är att introducera studenterna till
+ytfysikens specifika problem och utmaningar och hur dessa hanteras
+experimentellt. Ytfysikens frågeställningar har fundamental
+betydelse för många forskningsfält och användningsområden
+såsom heterogen katalys, korrosion, tillämpningar inom
+tryckeriväsendet och färgsättning, rengöring och adhesion. Inom
+nanovetenskaperna spelar ytor en framträdande roll eftersom objekt
+med nanostorlek alltid har en stor yta i förhållande till sin
+volym. Det finns extrema fall, som t.ex. kolnanorör, där hela
+objektet utgörs av en stor yta utan volymmaterial.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+- kunna förklara ytors grundläggande betydelse och skillnaden
+i struktur och egenskaper mellan ytor och volymmaterial
+- kunna tillämpa terminologin som används för att beskriva
+ytor samt adsorption på ytor såväl i det reella som det
+reciproka rummet
+- kunna analysera fördelarna och begränsningarna som de
+vanligaste experimentella metoderna för ytstudier har
+- kunna tolka resultaten mätt med metoder såsom XPS, LEED och
+STM och som presenteras i vetenskapliga artiklar, patent, etc.
+Studenterna skall kunna avgöra om resultaten är pålitliga.
+- kunna avgöra vilken/a experimentell/a metod/er man kan
+använda för att lösa ett specifikt ytfysikaliskt problem.
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+- ha genomfört individuell projekt
+- ha lämnat in en skriftlig rapport om huvudprojektet som
+uppfyller de grundläggande kraven för vetenskaplig
+rapportering
+- ha förberett och givit en presentation om det individuella
+projektet som uppfyller de grundläggande kraven för vetenskaplig
+kommunikation
+
+Kursinnehåll
+Först ges en introduktion till ytor och deras fundamentala
+betydelse för fysik, kemi, nanovetenskap och biologi. Sedan
+diskuteras hur man beskriver ytstrukturer, adsorption, ytreaktioner
+och växtprocesser på ytor. Särskilt stor vikt läggs på
+diskussionen av hur ytfysiken och – kemin (samt tvådimensionella
+ytgaser) kan skilja sig åt från deras tredimensionella
+motsvarigheter på ett fundamentalt plan. I den följande
+huvuddelen av kursen diskuteras de experimentella mätmetoderna som
+står till hands, framförallt svepsondmikroskopi
+(sveptunnelmikroskopi STM, atomkraftmikroskopi AFM,
+magnetkraftmikroskopi MFM), spektroskopi (Augerelektronspektroskopi
+AES, röntgenfotoelektronspektroskopi XPS), diffraktion
+(lågenergielektrondiffraktion LEED, ytröntgendiffraktion SXRD)
+och mikroskopimetoder som baseras på XPS, LEED och SXRD. Ytfysik
+vid större anläggningar tex. MAX-lab diskuteras också
+Kursen innehåller således följande moment:
+- fysikaliska, kemiska, nanovetenskapliga och biologiska
+frågeställningar som är specifika för ytor
+- beskrivningen av ytstruktur, adsorption och legering
+- svepsondmikroskopier för ytanalys
+- spektroskopi och diffraktion för ytanalys
+- nya metoder för ytanalys som håller på att utvecklas.
+Kursen är i huvudsak problembaserad med några
+översiktsföreläsningar. Under kursens lopp kommer studenterna
+att lösa ett antal obligatoriska projekt/uppgifter som handlar om
+olika aspekter som påträffas i den moderna ytanalysen. Den sista
+delen av kursen utgörs av individuella projekt som skall leda till
+en skriftlig rapport samt en muntlig presentation.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: För godkänt betyg på hela kursen krävs godkänd projektrapport, godkänd muntlig presentation samt deltagande i alla obligatoriska moment. Slutbetyget avgörs genom en bedömning av den skriftliga rapporten och den muntliga presentationen i lika delar.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: FFFF05 Fasta tillståndets fysik eller FFFF01 Elektroniska material.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: TEK177
+Kurslitteratur
+
+Enligt av institutionen fastställd litteraturlista vilken skall finnas tillgänglig senast fem veckor före kursstart.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Edvin Lundgren, edvin.lundgren@sljus.lu.se
+Kursansvarig: Jan Knudsen, jan.knudsen@sljus.lu.se
+Hemsida: http://www.sljus.lu.se/staff/anders/
+Övrig information: Kursen ges av naturvetenskapliga fakulteten och följer inte nödvändigtvis läsperiodindelningen.
+
+
+

@@ -1,0 +1,104 @@
+
+
+Kursplan för
+Projekt - formula student
+Project - Formula Student
+MVKN05, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning M
+Beslutsdatum: 2018-03-27
+Allmänna uppgifter
+Valfri för: BME4, E4, F4, I4, M4, Pi4
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursen syftar till att ge expertkunskaper om, och erfarenheter
+av, tillämpat projektarbete och prototypframtagning i grupp.
+Kursen utgår ifrån framtagning och tillverkning av ett komplett
+helbilskoncept till en liten formelbil, där hela processen från
+framtagning av koncept, konstruktion, tillverkning, montering,
+marknadsföring, ekonomisk analys, testning och slutlig användning
+kommer att ingå. Studenterna skall genom kursen få färdighet i
+att tillämpa kunskaper från tidigare kurser som mekanik, ellära,
+programmering, hållfasthetslära, konstruktionsteknik,
+tillverkningsmetoder och förbränningsmotorer. Kunskaper från
+kurser i ekonomi, marknadsföring och projektledning är också
+väsentliga i projektet. Nyckelord för denna kurs är
+systemtänkande, kommunikation och teamwork.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+beskriva relevansen för projektet av det av honom/henne valda
+problemområdet
+förklara för problemet grundläggande och viktiga
+begrepp
+genomföra analys och syntes av valt problem inom
+projektet
+redogöra för vald problemlösning
+förstå vald problemlösnings inverkan på resten av
+projektet
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+analysera valt problem och föreslå konstruktiv
+lösning
+bedöma rimligheten i angreppssätt och antaganden
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+aktivt deltaga i arbetet med att samordna de olika delprojekten
+till en färdig formelbil
+i tal och skrift presentera genomförd personlig uppgift för
+valt problem och resultat från projektet
+
+
+Kursinnehåll
+En praktisk/experimentell eller teoretisk/numerisk/analytisk
+studie av det område i projekt Formula Student, som studenten
+önskar fördjupa sina kunskaper inom. Studien följs upp av
+design, konstruktion, tillverkning och utprovning av den valda
+lösningen. Kursen drivs i projektform där studenter axlar rollen
+som projektledare. Kursen kan vara en förstudie till ett
+examensarbete eller en fördjupning inom ett valt område relaterat
+till en reguljär kurs eller examensarbete. Om studenten vill och
+har möjlighet, kan denne frivilligt delta med Lund Formula Student
+i en internationell tävling mot andra universitet i Europa.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examinering sker vid något av de tre schemalagda tillfällena per år; första veckan i december, första veckan i maj och första veckan i september. Vid examineringen skall studenten självständigt ge en muntlig presentation med stöd av en powerpoint eller pdf som också lämnas in till de kursansvariga. Följande rubriker skall avhandlas både i presentationen och presentationsmaterialet utifrån målen i kursen:
+
+-	Valt problemområde
+-	Problemformulering och motiverad relevans för projektet
+-	Vald problemlösning utifrån bifogad analys och syntes
+-	Problemlösningens inverkan på resten av projektet
+-	Antaganden, begränsningar och rimlighet
+
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+Minst 100 avklarade högskolepoäng inom resp civilingenjörsprogram
+
+
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Utväljs specifikt för varje problemområde i samråd med handledare och examinator.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Martin Tunér, martin.tuner@energy.lth.se
+Kursansvarig: Marcus Lundgren, marcus.lundgren@energy.lth.se
+Hemsida: http://www.energy.lth.se
+Övrig information: Kursen bedrivs i form av projekt med konsultationer och handledning.
+
+
+

@@ -1,0 +1,70 @@
+
+
+Kursplan för
+3D-modellering och rendering
+3D modelling and Rendering
+IDEA10, 5 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning ID
+Beslutsdatum: 2018-03-01
+Allmänna uppgifter
+Huvudområde: Industridesign. 
+Obligatorisk för: MD4
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Utveckling av förståelse av grunderna för 3D-ytmodellering
+genom inlärning av och övning i den typiska arbetsgången för
+3D-ytmodellering.
+
+Efter genomgången kurs ska studenterna självständigt och
+självsäkert kunna överföra sin designidé till 3D-form med
+hjälp av mjukvara. Häri ingår att kunna exportera data samt
+exportera datorrenderade bilder till eventuell presentation.
+ 
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+Förstå och kunna genomföra den vedertagna arbetsgången för
+3D-ytmodellering:
+- Mjukvarors användargränssnitt, dvs menyer, fönster,
+ikoner, snabbtangenter och mapphantering
+- Det tredimensionella rummet; NURBS-geometrins historia och
+principer, dvs punkter, kurvor och ytor
+- Fånga designidén genom konstruktion och manipulering av
+3D-kurvor genom punkter i det tredimensionella rummet.
+- Modellering av enkla kurvor som grundmaterial för enkla
+ytor
+- Genom modellering av befintliga produkter övas konstruktion och
+modifiering av ytor för noggrann objektbeskrivning
+- Fotorealistisk rendering av färdiga objekt genom texturering
+och ljussättning; dvs  mapping av bilder och HDR-bilder (bilder
+med stort dynamiskt omfång)
+- Framtagning av grundläggande data för användning i annan
+mjukvara samt för snabb prototypframställning
+ 
+
+Kursinnehåll
+Kursen består av gruppföreläsningar kompletterade med
+individuell handledning.
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: 80 % närvaro krävs. Bedömningen grundar sig på dokumentation av individuella inlämningsuppgifter.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: MMK120, IDEA85, IDEA90
+Kurslitteratur
+
+Aktuella mjukvarumanualer, hjälpfunktioner på nätet och i annan form, webbsidor från tredje part samt användarfora och diskussionsgrupper på nätet enligt den/de kursansvarigas anvisningar vid kursstart.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Andreas Hopf, Andreas.Hopf@design.lth.se
+Hemsida: http://www.ide.lth.se
+Övrig information: Undervisningsform: Kursen består av föreläsningar och individuell datorhandledning.
+
+
+

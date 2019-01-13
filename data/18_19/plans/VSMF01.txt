@@ -1,0 +1,96 @@
+
+
+Kursplan för
+Energihushållning
+Energy Conservation
+VSMF01, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning V
+Beslutsdatum: 2018-03-27
+Allmänna uppgifter
+Valfri för: IBYA3
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursen är avsedd att ge kunskap om byggnaders
+energiutvärdering och ge förslag till förbättringar för att
+möta de krav som anges i ett EU direktiv med
+tillämpningsföreskrifter från Boverket. En viktig aspekt är
+helhetssynen där stabilitet, energi, fukt, val av
+ytterväggsmaterial samt arkitektoniska aspekter behandlas
+samtidigt.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna genomföra en avancerad energianalys där
+ämnesövergripande aspekter belyses
+kunna ge förslag på lämpliga energibesparande
+åtgärder
+ha förståelse för hur samverkan mellan konstruktionsteknik
+(stabilitet), byggnadsfysik (täthet, värme- och fukttransporter),
+byggnadsmaterial (fuktkänslighet) samt arkitektonisk
+utformning påverkar byggnadsskalets funktion
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna föreslå lämpliga åtgärder för att minska
+energibehovet både vid nyproduktion och vid förbättring av
+existerande byggnader
+kunna förstå och kommentera en aktuell artikel i ämnet
+lågenergihus.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna analysera och värdera både nya och gamla
+byggnader enligt de krav som EU direktivet anger
+
+
+Kursinnehåll
+Kursen behandlar i huvudsak följande:
+ 
+
+Gällande juridiska regler (EU, Boverket)
+Riskanalys
+Energianalysprogram
+Lämpliga VVS- och styrsystem
+Olika lösningar för passivhus
+Olika lösningar för hur äldre hus kan förbättras
+Analys av köldbryggor
+
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: Godkända projektarbeten och aktivt deltagande i seminarier. 
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0109. Benämning: Energihushållning. 
+Antal högskolepoäng: 7,5. Betygsskala: UG. 
+Kod: 0209. Benämning: Studiebesök. 
+Antal högskolepoäng: 0. Betygsskala: UG. 
+Antagningsuppgifter
+Förkunskapskrav:
+VBFF10 Byggnadsfysik
+
+
+Förutsatta förkunskaper: Grundkurser i Byggnadskonstruktion, Byggnadsfysik, Materiallära , Byggprocessen med företagsekonomi, Byggprocessen med entreprenadrätt och Installationsteknik.
+Begränsat antal platser: Nej
+Kursen kan ställas in: Om färre än 12 anmälda.
+Kurslitteratur
+
+Energi- och utvärderingsanalysprogram.
+Material som publicerats på kurshemsidan.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Petter Wallentén, petter.wallenten@byggtek.lth.se
+Hemsida: http://www.byfy.lth.se
+Övrig information: I kursen ingår projektarbeten av verkliga konstruktioner, både nyproduktion och renovering av äldre fastigheter.
+
+
+

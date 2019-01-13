@@ -1,0 +1,81 @@
+
+
+Kursplan för
+Processberäkningar
+Chemical Process Calculations
+KETA10, 7,5 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning B/K
+Beslutsdatum: 2018-03-21
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: K1
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+En central kompetens för en civilingenjör är att kunna bryta
+ner stora problemkomplex till mindre problem som går att räkna
+på. För en kemitekniker är balanser över materia och energi
+både en metod att bryta ner stor problemkomplex och en metod att
+beskriva problemen matematiskt.
+
+Syftet med denna kurs är att studenten ska uppnå en
+grundläggande förmåga att använda material- och energibalanser
+för att beskriva enklare system som är relevanta för en
+kemitekniker samt att använda beräkningsteknik för att lösa
+dessa system.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna formulera grundläggande kemitekniska samband genom att
+ställa upp stationära material- och energibalanser
+kunna ställa upp instationära material- och energibalanser
+för kemitekniska processer med en enhet
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna beräkna lösningen till de kemitekniska sambanden med
+numeriska metoder
+kunna beräkna lösningen till de kemitekniska sambanden med
+datorhjälpmedel
+
+
+Kursinnehåll
+Grundläggande kemiteknik: Materialbalanser. System
+med flera faser. Energibalanser. Instationära processer
+Beräkningsteknik: Matlab. Numeriska metoder för linjära
+ekvationssystem, olinjära ekvationer, integraler, olinjära
+ekvationssystem, interpolation och differentialekvationer
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Datorövningar och tentamen. Slutbetyg ges av betyget i material- och energibalanser.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Beräkningsteknik. 
+Antal högskolepoäng: 2,5. Betygsskala: UG.  Prestationsbedömning: Skriftlig tentamen. 
+Kod: 0217. Benämning: Material- och energibalanser. 
+Antal högskolepoäng: 5. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen. 
+Kod: 0317. Benämning: Datorövningar. 
+Antal högskolepoäng: 0. Betygsskala: UG.  Prestationsbedömning: Datorövningar i Matlab. 
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: KKK060, KKK065, KETA01
+Kurslitteratur
+
+Murphy, Regina M: Introduction to Chemical Processes, Principles,Analysis, Synthesis. McGraw-Hill, 2007, ISBN: 007-125429-3.
+Chapra, Steven: Applied Numerical Methods with Matlab. McGraw-Hill, 2012, ISBN: 978-007-131484-8.
+Grimsberg, M.: Börja med Matlab. Institutionen för Kemiteknik, 2016.
+Grimsberg, M.: Processberäkningar. Institutionen för Kemiteknik, 2017.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Univ.adj. Michaël Grimsberg, Michael.Grimsberg@chemeng.lth.se
+Hemsida: http://www.chemeng.lth.se/keta10
+
+
+

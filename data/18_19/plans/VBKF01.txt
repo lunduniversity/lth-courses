@@ -1,0 +1,104 @@
+
+
+Kursplan för
+Konstruktionsteknik - byggsystem
+Structural Engineering - Building Systems
+VBKF01, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning V
+Beslutsdatum: 2018-03-27
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Alternativobligatorisk för: V3
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursen skall ge förståelse för byggnaden som system och hur
+olika funktionskrav interagerar med varandra vid val av
+byggnadstekniska lösningar.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+förstå vilka krav som styr en byggnads tekniska utformning
+och hur dessa interagerar med varandra
+ha kunskap om stabilisering av större byggnader samt
+utformning med hänsyn till olyckslast och fortskridande ras
+förstå hur stommens utformning påverkas av krav med hänsyn
+till brand, ljud, energieffektivitet, samordning med
+installationer.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna dimensionera och utforma stomsystemet i
+flervåningsbyggnader med hänsyn till relevanta laster och deras
+väg genom byggnaden
+kunna skriftligt redovisa de bedömningar och överväganden
+som ligger till grund för val av byggsystem
+kunna skriftligt och i form av ritningar redovisa resultaten
+från byggnadteknisk projektering av en byggnad
+kunna självständigt söka och kritiskt värdera information
+om tekniska systemlösningar för byggnader
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna kritiskt utvärdera generiska byggnadstekniska
+systemlösningar som beskrivs av leverantörer och i olika
+publikationer
+självständigt kunna anpassa och modifiera sådana lösningar
+för ett specifikt projekt
+
+
+Kursinnehåll
+Kursen behandlar:
+Byggsystem med utgångspunkt från den bärande stommen
+men med en helhetssyn på byggnaden som system. Såväl lätta som
+tunga byggsystem baserade på olika konstruktionsmaterial ingår.
+En viktig aspekt är stabilisering av stommen, som ofta är
+styrande för helhetslösningen. Byggsystemens egenskaper i
+relation till andra funktionskrav som brand, ljud, värmeisolering,
+installationsteknik, m.m. tas upp i kursen, med utgångspunkten att
+genom helhetstänkande åstadkomma optimala lösningar.
+Konstruktionstekniska detaljlösningar knutna till
+byggsystem av olika typ. Detaljlösningar är viktiga element i ett
+optimalt byggsystem.
+Dimensionering av byggnadsstommar med hänsyn till
+permanenta och variabla laster, olyckslaster och fortskridande ras
+samt brand.
+Projektuppgift: Tillämpningsprojekt i form av ett
+flervånings kontorshus, där studenterna skall arbeta både med
+byggnaden som helhet och viktiga detaljlösningar. Motiv för val
+mellan alternativa byggsystem belyses konkret. Med byggsystemet som
+utgångspunkt behandlas kopplingen mellan stomsystem och krav på
+klimatskal, installationer, brand, akustik och produktionsteknik.
+Studiebesök i anslutning till uppgiften arrangeras.
+Projektuppgiften utförs i grupper om maximalt 3 studenter.
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: Projektuppgift samt skriftlig individuell och anonym tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: VSMA05 Byggnadsmekanik
+VBK013 Konstruktionsteknik eller VBKF15 Konstruktionsteknik
+VBFA01 Husbyggnads- och installationsteknik
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: VBK055
+Kurslitteratur
+
+Isaksson, T., Mårtensson, A. Thelandersson, S: Byggkonstruktion. Studentlitteratur AB, 2010, ISBN: 9789144070308.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Miklós Molnár, miklos.molnar@kstr.lth.se
+Lärare: Oskar Larsson Ivanov, oskar.larsson@kstr.lth.se
+Hemsida: http://www.kstr.lth.se
+Övrig information: Kurshemsidan finns på Live@Lund.se. Registrerade studenter får inloggning till kurshemsidan. Kort info finns på www.kstr.lth.se/utbildning.
+
+
+

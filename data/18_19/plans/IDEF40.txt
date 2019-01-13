@@ -1,0 +1,70 @@
+
+
+Kursplan för
+3 D - Modellering II
+3 D - Modelling II
+IDEF40, 4,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning ID
+Beslutsdatum: 2018-03-01
+Allmänna uppgifter
+Huvudområde: Industridesign. 
+Valfri för: KID2, MID1
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Lära sig användning och tillämpning av väsentlig
+3D-designmjukvara.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+Efter slutförd kurs skall studenterna kunna rendera de egna
+projekten. De kommer att kunna använda sig av 3D Design and
+rendering software på ett säkert sätt och integrera det helt och
+hållet i det dagliga designarbetet.
+
+Kursinnehåll
+Kursen inleds med en kort repetition av användningen och
+tillämpningen av 3D mjukvara. Det modulära användargränssnittet
+för 3D Design och rendering mjukvara förklaras och praktiseras
+djupgående (menyer, ikoner, snabbkommandon, funktioner, m.m.).
+Övning i olika typer av komplexa kurvor och ytor tränas genom
+modellering av befintlig produkt. Frågor som precision av ytor,
+modellkvalitet, modellerering strategi (”var man börjar”) och
+dataöverföring behandlas. Högkvalitativa renderingar av den
+slutförda modellen uppnås genom val av upplösning,
+scenuppsättning, kamerainställningar, ljussättning, färgskala,
+materialval och applicering av grafik och texturer. 
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning:  Bedömningen beror på närvaro, deltagande och slutförda hemuppgifter.
+
+
+
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+IDEA10 3D modellering och rendering
+ELLER
+IDEA85 3D-modellering och rendering, del 1 och
+IDEA90 3D-modellering och rendering, del 2
+
+
+Begränsat antal platser: 18
+Urvalskriterier: Antal poäng som återstår till examen.
+Kursen kan ställas in: Om färre än 5 anmälda.
+Kursen överlappar följande kurser: IDE175
+Kurslitteratur
+
+Relevanta webbsidor, diverse online fora och tryckta manualer som bestäms i samråd med läraren.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Andreas Hopf, andreas.hopf@design.lth.se
+Hemsida: http://www.ide.lth.se
+Övrig information: Undervisningsform: Kursen består av föreläsningar och individuell datorhandledning.
+
+
+

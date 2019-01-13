@@ -1,0 +1,118 @@
+
+
+Kursplan för
+Tillämpad mekatronik
+Applied Mechatronics
+EIEF01, 10 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning E
+Beslutsdatum: 2018-04-05
+Allmänna uppgifter
+Valfri för: BME4, D4-is, E4-ra, F4, M4-me, MD4
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Utveckling av dagens och morgondagens produkter kräver allt
+oftare en optimerad kombination av elektromekaniska lösningar och
+inbyggda system (integrerad elektronik och programvara). Kursen
+syftar till att ge sådana färdigheter, samt grundläggande
+förståelse för den erforderliga kompetensen, dvs:
+
+djupare kompetens/detaljkunnande inom något av grundområdena
+maskinteknik (inkl mekanisk utformning, materialval och
+maskinelement), elektromekanisk energiomvandling, elektronik och
+programvaruteknik,
+förståelse för problemställningar inom angränsande
+discipliner, både vad som kan göras, vad som inte kan göras, och
+vilken sorts specialistkunskap olika typer av problem kräver,
+förmåga till samverkan över och inom ämnesområden,
+inklusive kunskap om industriell produktutvecklingsmetodik (från
+kravbild till koncept, med beaktande av hela
+produktlivscykeln),
+insiktsfull respekt för vad som krävs för att åstadkomma
+robust fungerande system, inkluderande såväl detaljutformning av
+nyckelkomponenter som övergripande systemaspekter.
+
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+känna till de olika faserna i ett produktutvecklingsprojekt
+samt kunna principerna för utvecklingsmetodik för mekatroniska
+produktutvecklingsprojekt, maskiner och elektronik,
+kunna förstå principerna för realtidsprogrammering och
+kommunikation i integrerade styr- och reglersystem,
+ha insikt om mekatronikens grundläggande principer och
+metoder, inklusive kunnande om hur datateknik, elektroteknik och
+mekanik kan kombineras för att konstruera fungerande och effektiva
+produkter.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna använda gängse metoder för produktutveckling,
+kunna göra bedömningar av realtidskrav rörande integrerade
+styr- och reglersystem,
+kunna göra en specifikation av lämpliga material,
+tillverkningsteknik, styr- och reglerelektronik, kraftelektroniska
+och elektromekaniska energiomvandlare för en given
+applikation,
+kunna från grunden utforma och bygga ett komplett mekatroniskt
+system, omfattande återkoppling via mikroprocessor som kopplas
+till ett mekaniskt system via givare och ställdon,
+kunna systematiskt felsöka det egna konstruerade systemet och
+dess delar, samt med självständigt arbete kunna färdigställa
+detsamma till ett fungerande system.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+ha insikt och omdöme att respektera och efterfråga de många
+olika kompetenser som är förutsättningen för ett mekatroniskt
+konstruktionsarbete,
+ha självförtroende att kunna felsöka och idriftsätta ett
+mekatroniskt system.
+
+
+Kursinnehåll
+Inledande introduktion till de andra programmens/deltagarnas
+förkunskaper, såsom realtidsprogrammering (för EFMNPi) och
+produktutvecklingsprocessen (för DEFNPi), följt av fördjupningar
+av det samlade innehållet:Utvecklingsmetodik och
+projektplanering. Praktisk styr- och reglerteknik. Analog
+elektronik. Simulering av elektronik och mekanik. Felsökning.
+Störningar, skydd och säkerhet. Miljövänlig elektronisk
+prototyputveckling. Mikroprocessorer och programmering av inbyggda
+system. Gränssnitt till PC. Drivrutiner. Datorkommunikation.
+Sensorer. Ställdon. Elektromekanisk energiomvandling.
+Mekanisk prototyputveckling. Sökning/tolkning av teknisk
+dokumentation.
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: Godkända inlämningsuppgifter (individuella), godkänd projektuppgift (individuell) och godkänd principkonstruktion (i grupp) ger betyget G.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0118. Benämning: Principkonstruktion. 
+Antal högskolepoäng: 5. Betygsskala: UG.  Prestationsbedömning: Godkänd rapport på principkonstruktion i grupp ger betyget G. 
+Kod: 0218. Benämning: Projektarbete. 
+Antal högskolepoäng: 5. Betygsskala: UG.  Prestationsbedömning: Godkänt praktiskt projektarbete ger betyget G. 
+Antagningsuppgifter
+Förutsatta förkunskaper: Godkända obligatoriska kurser (för respektive program) inom programmering och elektronik/elektroteknik.
+Begränsat antal platser: Nej
+Urvalskriterier: Antal poäng som har uppnåtts eller tillgodoräknats på programmet
+Kursen överlappar följande kurser: EDA190, EIEN05
+Kurslitteratur
+
+Litteratur ingår i kurssatsen av verktyg och material som säljs av institutionen.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Francisco Marquez Fernandez, francisco.marquez_fernandez@iea.lth.se
+Hemsida: http://www.iea.lth.se
+
+
+

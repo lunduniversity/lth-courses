@@ -1,0 +1,146 @@
+
+
+Kursplan för
+Bergmekanik och bergbyggnad
+Rock Mechanics and Construction
+VTGF01, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning V
+Beslutsdatum: 2018-03-27
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Alternativobligatorisk för: V3
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursen skall ge kunskaper om berg och färdigheter i
+bergbyggande som stöd för att tekniskt hantera infrastruktur-
+och byggprojekt samt beakta samhällets övergripande mål för
+utveckling av ett hållbart samhälle. Kursen är viktig för
+alla V-ingenjörer och särskilt lämplig för de
+avslutande specialiseringarna mot anläggningsteknik och
+vattenresurshantering inom väg- och vattenbyggnadsprogrammet.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna definiera och förklara grunderna inom bergs uppbyggnad
+och strukturella egenskaper samt hur bergmassans diskontinuiteter
+påverkar placering, orientering och design av exempelvis
+tunnlar, bergrum och broar.
+kunna grunderna för ingenjörsmässig bergklassificiering,
+bergmekanik, tunneldrivningsteknik och bergbyggnadsteknik.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna tolka en geologisk karta och upprätta en geologisk
+sektion med lagerföljder samt dessutom kunna använda en
+ingenjörsgeologisk förväntningsmodell i tre dimensioner med
+hänsyn till bygg- och anläggningstekniska faktorer.
+visa en förmåga att översiktligt kunna värdera
+ingenjörsgeologiskt inriktad förundersökningsmetodik, särskilt
+avseende borrning, provtagning och geofysiska mätmetoder.
+kunna utforma ett översiktligt bergbyggnadstekniskt
+förstärknings- och drivningsförslag med utgångspunkt i
+bergmassans hållfasthetsegenskaper och baserade på en
+ingenjörsgeologisk bergprognos.
+kunna bedöma samt muntligt och skriftligt presentera och
+diskutera ingenjörsgeologiskt, bergmekaniskt och
+bergbyggnadstekniskt relaterat arkiv- och utredningsmaterial inför
+tekniker, politiker och allmänhet.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+visa tecken på att förstå behovet av förslagsalternativ och
+konsekvensanalys med hänsyn till uppställda miljökrav vid
+bergbyggnadstekniska problemställningar.
+
+
+Kursinnehåll
+Ämnesinnehållet fokuseras på följande delar:
+
+Bergkunskap. Grundläggande berggrundsgeologi med
+tonvikt på bergmassans uppbyggnad och karakteristik, i synnerhet
+bergmassans strukturella uppbyggnad och diskontinuiteters betydelse
+vid bergbyggande. De geologiska avsnitten omfattar såväl urberg
+som sedimentärt berg med referens till utlandsmiljöer. De
+speciella geologiska egenskaper och processer som är knutna till
+vittring, leromvandling, sprickighet och hårdhet berörs.
+Ingenjörsgeologisk bergprognos.
+Bergmekanik. Grundläggande hållfasthetsstyrande
+bergarts- och bergmasseegenskaper. Last, spänning och deformation
+i berg, bergmassans responskurva (koppling till jordmekanik inom
+kursen Geoteknik). Inverkan av diskontinuiteter och anisotropi på
+bergmassans hållfasthet och byggbarhet.
+Bergbyggnad. Teknik för berggrundläggning och
+förankring av dammar, broar, slänter m m samt byggande av
+bergrum och tunnlar. Bergförstärkningsmetoder.
+Förstärkningsförslag och drivningsförslag baserade på
+ingenjörsgeologisk prognos, Q-bedömning och bergmassans mekaniska
+egenskaper.
+Grundvattenförhållandenas inverkan på bergmassans
+egenskaper, särskilt hållfasthet, stabilitet, bergbyggnadsteknik
+och miljöfrågor.
+Upprättande av geologisk förväntningsmodell. Geologisk
+rekognoscering/fältbesiktning.
+En introduktion till några vanliga geofysiska
+mätmetoder och fältundersökningar.
+Teknik för borrning och provtagning i berg.
+Borrhålstester inklusive borrhålsgeofysik.
+Miljökrav på stora anläggningsprojekt. Inverkan av
+tunneldrivningsmetod och bergbyggnadsteknik på
+omgivningspåverkan. Miljölagstiftning. Upprättande av MKB
+(Miljökonsekvensbeskrivning). Relation till andra
+konsekvensbeskrivningar.
+
+Minst två heldagar med fältövningar och studiebesök i
+stenbrott och på bergbyggnadsplatser. En bergbyggnadsteknisk
+syntesuppgift löper genom kursen och studenterna har ansvar för
+en deluppgift i grupper om cirka tre-fyra personer. Varje grupp
+erbjuds minst tre timmars gruppvis handledning utöver handledning
+i samband med övningar. Uppgiften redovisas skriftligt och
+muntligt vid kursens slutseminarium och varje grupp erbjuds
+detaljerad skriftlig och muntlig återkoppling från lärarna.
+Varje grupp ska genomföra en skriftlig kamratgranskning av
+en rapport avseende en annan deluppgift samt en förberedd muntlig
+opposition på en tredje grupp med en tredje deluppgift.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen. Skriftlig och muntlig redovisning av bergbyggnadstekniska uppgifter. Dessutom krävs närvaro vid obligatoriska studiebesök, fältövningar och seminarier. Slutbetyget sätts som ett viktat medelvärde (tentamen 80% och redovisning av bergbyggnadstekniska uppgifter 20%) och avrundas nedåt till närmaste heltal. För godkänd tentamen krävs minst 50% av totalpoängen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Tentamen. 
+Antal högskolepoäng: 5. Betygsskala: TH.  Prestationsbedömning: Bedömning av svar på skriftlig tentamen. 
+Kod: 0217. Benämning: Redovisning av inlämningsuppg, fältövningar och laborationer. 
+Antal högskolepoäng: 2,5. Betygsskala: UG.  Prestationsbedömning: Bedömning av skriftlig rapport och muntlig presentation eller opposition kring inlämningsuppgifter. Aktivt deltagande i obligatoriska fältövningar och laborationer. 
+Antagningsuppgifter
+Förkunskapskrav:
+VTGA01 Teknisk geologi
+
+
+Förutsatta förkunskaper: VSMA05 Byggnadsmekanik OCH
+VBKF15 Konstruktionsteknik OCH
+VVRA05 Vatten OCH
+FMIF50 Miljövetenskap med miljökemisk profil OCH
+VGTF05 Geoteknik.
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Svensson, C.: Större makrostrukturer i berggrunden. Kompendium säljes av teknisk geologi, 2001. Endast tillgängligt på svenska.
+Svensson, C.: Kompendium i Teknisk geologi AK. KFS, 2012. Endast tillgängligt på svenska.
+Lindblom, U.: Bergbyggnad. Liber, 2010, ISBN: 978-91-47-09409-7.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Universitetsadjunkt Peter Jonsson, Peter.Jonsson@tg.lth.se
+Hemsida: http://www.tg.lth.se/grundutbildning/kurser
+Övrig information: Fältövningar, exkursioner och studiebesök redovisas som laborationstimmar i timplanen.
+
+
+

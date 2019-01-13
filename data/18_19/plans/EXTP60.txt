@@ -1,0 +1,84 @@
+
+
+Kursplan för
+Mikroskopi, Bio-imaging
+Microscopy, Bio-Imaging
+EXTP60, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning W
+Beslutsdatum: 2018-03-22
+Allmänna uppgifter
+Valfri för: BME4-sbh
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna genomföra undersökningar där biologiska strukturer
+eller funktioner visualiseras med hjälp av metoder baserade på
+fluorescensmikroskopi.
+känna till begränsningar och möjligheter inom olika metoder
+baserade på ljus- och fluorescensmikroskopi
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+behärska grundläggande metodik inom histologi, histokemi,
+immunocytokemi, och in situ hybridisering.
+behärska grundläggande metodik vid mikroskopisk analys av
+levande celler
+kunna framställa digitala bilder av mikroskopipreparat.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+ha tränat på att planera en undersökning där biologiska
+strukturer eller funktioner visualiseras med hjälp av
+mikroskopi.
+kunna bedöma och värdera möjligheter och begränsningar av
+olika typer av "avancerade" forskningsmikroskop, samt
+imaging-metoder som inte baseras på optiska mikroskop.
+
+
+Kursinnehåll
+En teoretisk introduktion till mikroskopi, med tonvikt på
+fluorscensmikroskopi. Teoretiska principer för konfokalmikroskopi
+och dekonvolutionsmikroskopi, Översikt av olika typer av
+avancerade forskningsmikroskop, samt imaging-metoder som inte
+baseras på optiska mikroskop. Framställning och optimering av
+såväl fixerade som levande mikroskoppreparat. Mikroskopisk
+visualisering av cellulära strukturer och fysiologiska funktioner
+med fluorescerande markörer. Teoretisk introduktion till digital
+visualisering, med tonvikt på fluorescensbaserade metoder, och
+digital bildbehandling. Praktiskt projektarbete - framställning,
+dokumentation och analys av ett mikroskoppreparat - med muntlig och
+skriftlig presentation.
+
+Kursens examination
+Betygsskala: UV - (U,G,VG) - (Underkänd, Godkänd, Väl godkänd)
+Prestationsbedömning: För godkänt betyg på hela kursen krävs godkänd tentamen, godkänd projektrapport inkluderande redovisning, samt deltagande i de obligatoriska momenten.
+Slutbetyget avgörs genom en sammanvägning av resutlaten på de moment som ingår i examinationen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+TEK295 Cellens biologi
+TEK015 Människans fysiologi
+KOKA20 Allmän och organisk kemi
+EXTA70 Cellens biologi
+EXTG50 Människans fysiologi
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: BIOS08
+Kontaktinfo och övrigt
+Kursansvarig: Klas Flärdh, klas.flardh@biol.lu.se
+Hemsida: http://www.biologi.lu.se/utbildning/grund-och-avancerad-utbildning/kurser/kurser-avancerad-niva/biologiska
+Övrig information: Kursen samläses med BIOS08 som ges av Biologiska institutionen.
+
+
+

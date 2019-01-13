@@ -1,0 +1,93 @@
+
+
+Kursplan för
+Kraftverksteknik
+Power Plant Technology
+MVKN65, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning M
+Beslutsdatum: 2018-03-27
+Allmänna uppgifter
+Valfri för: F4, F4-es, M4-en, W4-es
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Att tillämpa tidigare förvärvade kunskaper i termodynamik på
+verklighetsnära uppgifter inom kraftverksteknik. Att förstå
+funktionssättet och kunna dimensionera komponenter till termiska
+kraftverk. Kursen ger färdighet i att använda olika verktyg och
+hjälpmedel för analys av komponenter och system för el och
+värmeproduktion.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna beskriva och redogöra för funktionssätt hos ångcykler
+och dimensionera tillhörande komponenter.
+kunna skriftligt redogöra för förbränningsprocessen i
+pannor för olika bränslen och dimensionera värmeöverförande
+ytor.
+kunna skriftligt redogöra för funktionssätt hos
+kärnkraftsanläggningar och dimensionera tillhörande
+komponenter.
+kunna beräkna och skriftligt redogöra för komponent- och
+systemverkningsgraden för givna system-layout.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna använda t,s-, h,s-, t,q-diagram för analys av
+kraftverksprocesser.
+kunna använda verkningsgradsbegreppet för att analysera och
+jämföra olika systemlösningar.
+kunna beräkna och redogöra för förbränningsprocessen i
+industriella ångpannor och dimensionera värmeöverförande
+ytor.
+kunna i grupp genomföra ingenjörsmässiga systemstudier av
+termiska kraftverk och kritiskt granska och bedöma rimligheten hos
+beräkningsresultaten
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna aktivt deltaga i diskussioner kring relevanta problem
+inom ämnesområdet.
+i skrift kunna presentera analys av utförda komponent- och
+systemberäkningar.
+
+
+Kursinnehåll
+
+Förbränningsprocess och dimensionering av pannor.
+Matarvattenförvärmning och värmeväxlardimensionering.
+Förluster och verkningsgradsbegrepp.
+Fördjupande komponentstudier om pannor, värmeväxlare och
+systemstudier.
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examinationen sker både individuellt och i grupp. För deltagande i tentamen fordras att de obligatoriska kursmomenten har fullgjorts. Obligatoriska moment: föreläsningar, seminarier, övningar, laborationer och inlämningsuppgifter. Detaljerade föreskrifter angående fullgörande av obligatoriska moment kommer att finnas i kursprogrammet.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+FMFF05 Statistisk termodynamik med tillämpningar eller MMVF01 Termodynamik och strömningslära eller VVRF10 Strömningslära
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: MVKF10, MVK170
+Kurslitteratur
+
+Utdelat material.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Marcus Thern, marcus.thern@energy.lth.se
+Hemsida: http://www.energy.lth.se
+Övrig information: Kursen innehåller föreläsningar och övningar.
+
+
+

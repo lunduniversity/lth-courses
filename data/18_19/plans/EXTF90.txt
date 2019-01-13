@@ -1,0 +1,74 @@
+
+
+Kursplan för
+Produktion av fotoner och neutroner för vetenskap
+Photon and Neutron Production for Science
+EXTF90, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning N
+Beslutsdatum: 2018-03-28
+Allmänna uppgifter
+Valfri för: BME4, F4, F4-aft, N4
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Kursen syftar till att ge en allmän översikt om hur man i
+acceleratorer och reaktorer producerar och använder neutroner och
+fotoner för vetenskap. Kursen syftar vidare till att ge en solid
+bas för vidare studier mot uppbyggnad av och vetenskap vid de
+stora anläggningarna såsom MAX IV och ESS.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna beskriva och förklara olika acceleratortyper och deras
+funktionssätt
+kunna beskriva hur fotoner och neutroner produceras med hjälp
+av acceleratorer och leds till experiment
+känna till och kunna beskriva andra foton/neutron-källor och
+samhörande kärnreaktioner
+kunna diskutera och exemplifiera fotoners och neutroners
+användning inom forskning, medicin och industri.
+
+
+Kursinnehåll
+Kursen ger en allmän översikt om hur man producerar och
+använder neutroner och fotononer.
+Kursen börjar med en genomgång av olika acceleratorer
+(linjäracceleratorer och synkrotroner, linjär protonaccelarorer).
+De olika komponenterna i en accelerator introduceras och den
+generella teorin för hur olika komponenter, t ex magneter,
+används inom acceleratorer beskrivs och används. Acceleratorer
+för synkrotronljus (speciellt synkrotroner) och neutroner
+(speciellt spallationskällor) beskrivs djupare.
+En översikt om traditionella ljuskällor och reaktorbaserade
+neutronkällor ges. Ett speciellt fokus riktas mot strålrör (för
+fotoner) och neutron guides (för neutroner), med deras
+funktionssätt och uppbyggnad. Olika komponenter av typiska
+strålrör och neutronguides introduceras, jämte den optiska teori
+som beskriver dem och ligger till grunden för design och
+optimiering av strålrör och neutron guides.
+Avslutningsvis presenteras olika aktuella forskningsmetoder
+baserade på synkrotronljus och neutroner, med tillämpning inom
+naturvetenskap, medicin och teknik.
+
+Kursens examination
+Betygsskala: UV - (U,G,VG) - (Underkänd, Godkänd, Väl godkänd)
+Prestationsbedömning: Skriftlig tentamen, godkända laborationer och godkända inlämningsuppgifter. Deltagande i gruppövningar, demonstrationer, laborationer och därmed integrerad annan undervisning är obligatoriskt. Slutbetyget avgörs genom en sammanvägning av resultaten på de moment som ingår i examinationen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: Grundkurser i matematik och fysik.
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Litteratur sammanställs och produceras av kursansvariga.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Francesca Curbis, francesca.curbis@maxiv.lu.se
+Hemsida: http://www.fysik.lu.se/utbildning/naturvetenskap/kurser/grundnivaa/
+Övrig information: Kursen ges av naturvetenskapliga fakulteten (MAXC11) och följer inte nödvändigtvis läsperiodsindelningen.
+
+
+

@@ -1,0 +1,131 @@
+
+
+Kursplan för
+Riskanalys inom säkerhetsområdet
+Risk Assessment in the Safety Area
+VRSN25, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning BI/RH
+Beslutsdatum: 2018-03-20
+Allmänna uppgifter
+Obligatorisk för: BI3, RH4-rh
+Valfri för: Pi4
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursen syftar till att studenten skall tillgodogöra sig metoder
+och verktyg för genomförande av riskanalys och riskvärdering som
+kan användas som beslutsunderlag i frågor som rör riskhantering
+inom området Säkerhet. Vidare syftar kursen till att utgöra en
+bas för fortsatta studier inom riskhanteringsområdet.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna beskriva vanligt förkommande olycksmodeller inom
+området säkerhet och vilka antaganden de vilar på
+kunna beskriva grundläggande principer för riskanalys inom
+säkerhet samt processäkerhet
+kunna beskriva både kvalitativa och kvantitativa
+riskanalysmetoder för system relaterade till säkerhet
+ha kännedom om metoder som bygger på barriärperspektiv och
+är anpassade för komplexa system
+ha kännedom om aktuellt forsknings- och utvecklingsarbete
+avseende riskanalys och riskvärdering med koppling till
+säkerhet
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna identifiera risker inom system relaterade till
+säkerhet
+kunna analysera sådana system och beräkna relevanta
+riskmått.
+kunna använda kvalitativa och kvantitativa metoder och verktyg
+för riskanalyser, även i situationer som är nya för
+studenten.
+kunna värdera innehållet i existerande riskanalyser.
+skriftligen och muntligen kunna presentera resultate från och
+diskutera innebörden av en genomförd riskanalys för personer med
+kunskapsmässigt olika bakgrund.
+kunna tillgodogöra sig material i vetenskapliga publikationer
+som är relevanta för riskanalys inom säkerhet
+visa förmåga att planera och genomföra projektuppgifter och
+i samband med detta visa förmåga till lagarbete och
+samverkan
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna bedöma lämpligheten för olika riskanalysmetoder
+beroende på problemets art och inom ramen för området
+säkerhet
+kunna genomföra analyser på ett sätt som beaktar såväl
+vetenskapliga som samhälleliga och etiska aspekter
+kunna inse och bedöma begränsningarna i en genomförd
+riskanalys
+
+
+Kursinnehåll
+Kursen omfattar översikt av riskanalys inom säkerhet,
+olycksmodeller, barriärperspektiv och komplexa system samt
+kvalitetsaspekter. Fördjupning inom och tillämpningar av
+kvalitativa och kvantitativa metoder för riskanalys, metoder för
+sannolikhetsbedömningar, konsekvensanalys, osäkerhetsanalys,
+riskpresentation, riskvärdering och riskanalysprocessen.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examinationen är en sammanvägning mellan resultat på indivduella uppgifter, gruppuppgift och en skriftlig tentamen. Tentamen består av både teorifrågor och frågor av problemlösningskaraktär. Närvaro krävs vid obligatoriska seminarier.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Skriftlig tentamen. 
+Antal högskolepoäng: 4. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen.  Delmomentet omfattar: Detta moment omfattar hela kursen inklusive översikt av riskanalys inom säkerhet, olycksmodeller, barriärperspektiv och komplexa system samt kvalitetsaspekter. Fördjupning inom och tillämpningar av kvalitativa och kvantitativa metoder för riskanalys, metoder för sannolikhetsbedömningar, konsekvensanalys, osäkerhetsanalys, riskpresentation, riskvärdering och riskanalysprocessen. 
+Kod: 0217. Benämning: Individuella uppgifter och gruppuppgifter. 
+Antal högskolepoäng: 3,5. Betygsskala: UG.  Prestationsbedömning: Godkända individuella uppgifter och godkänd projektuppgift som löses i grupp.  Delmomentet omfattar: Under kursens gång skall ett antal individuella uppgifter samt en större projektuppgift i grupp genomföras. Till projektuppgiften finns handledning tillgänglig för konsultation. 
+Antagningsuppgifter
+Förkunskapskrav:
+Grundkurs i statistik om minst 7,5hp
+
+
+Förutsatta förkunskaper: FMA430 Flerdimensionell analys alt. FMAB30 Flerdimensionell analys.
+Grundkurs i riskanalys om minst 7,5 hp.
+Begränsat antal platser: Nej
+Urvalskriterier: Studenter vid Brandingenjörsutbildningen och Civilingenjörsutbildningen i Riskhantering är garanterade plats givet att de uppfyller förkunskaperna.
+Kursen överlappar följande kurser: VBRN01, VBR180
+Kurslitteratur
+
+CCPS: Guidelines for Chemical Process Quantitative Risk Analysis. New York, Center for Chemical Process Safety, American Institute of Chemical Engineers, 2000.
+Fischer, S.: Vådautsläpp av brandfarliga och giftiga gaser och vätskor. Försvarets forskningsanstalt, FOA Umeå , 1997. Sid 1-10, 113-139, 161-196, 243-277.
+Apostolakis, G.: How useful is Quantitative risk assessment?. 2004. Risk Analysis, 24(3): 515-520.
+CCPS: Guidelines for Developing Quantitative Safety Risk Criteria. New York, Center for Chemical Process Safety, American Institute of Chemical Engineers, 2009. Chapter 4: Considerations in Developing Risk Criteria.
+CCPS: Evaluating Process Safety in the Chemical Industry: A user’s guide to quantitative risk analysis. New York, Center for Chemical Process Safety, American Institute of Chemical Engineers. , 2000.
+CCPS: Guidelines for Hazard Evaluation Procedures. New York, Center for Chemical Process Safety, American Institute of Chemical Engineers. , 1992.
+DNV Värdering av risk. Rapport skriven för Statens räddningsverk, Karlstad, 1997.
+Duijm, N. J. : Recommendations on the Use and Design of Risk Matrices. 2015. Safety Science 76, pp. 21-31.
+FOA: Vådautsläpp av brandfarliga och giftiga gaser och vätskor. Försvarets forskningsanstalt, Umeå, 1997. Sid 1-10, 113-139, 161-196, 243-277.
+Hollnagel: Barriers and Accident Prevention. Ashgate, 2004. Sid. 44-67.
+Hollnagel: Risk + barriers = safety?. 2008. Safety Science 46: 221–229.
+Hollnagel E., Wears R.L. and Braithwaite J. : From Safety-I to Safety-II: A White Paper. The Resilient Health Care Net: Published simultaneously by the University of Southern Denmark, University of Florida, USA, and Macquarie University, Australia, 2015.
+IPS: Introduktion till Processäkerhet. Intresseföreningen för processäkerhet, 2010.
+Johansen, I. L. & Rausand, M. : Foundations and choice of risk metrics. 2014. Safety Science 62: 386–399.
+Johansson, H. : Bayesiansk uppdatering. Kompendium, Avdelningen för brandteknik och riskhantering, Lunds universitet, Lund , 2007.
+MSB: Vägledning: Riskutredning för mindre och medelstora verksamheter. Myndigheten för Samhällsskydd och Beredskap, 2017.
+Möller, N & Hansson, S.O. : Principles of engineering safety: Risk and uncertainty reduction. Reliability Engineering and System Safety, 2008. 93: 776–783.
+O’Hagan, A., C. E. Buck, A. Daneshkhah, J. R. Eiser, P. H. Garthwaite, D. J. Jenkinson, J. E. Oakley and T. Rakow : Uncertain Judgements: Eliciting Experts’ Probabilities. John Wiley & Sons, 2006.
+Otway and von Winterfeldt : Expert Judgment in Risk Analysis and Management: Process, Context, and Pitfalls. 1992. Risk Analysis, 12(1): 83-93.
+Pasman, H. J., Jung, S., Prem, K., Rogers, W. J., Yang, X. : Is risk analysis a useful tool for improving process safety?. Journal of Loss Prevention in the Process Industries, 2009. 22: 769–777.
+Rae, A., Alexander. R. & McDermid, J. : Fixing the cracks in the crystal ball: A maturity model for Quantitative risk assessment. 2014. Reliability Engineering and SystemSafety:125: 67–81.
+Rausand, M. : Risk Assessment: Theory, Methods, and Applications. Hobroken: Wiley, 2011.
+WSP: Detaljerad riskbedömning avseende farligt gods på Drottningholmsvägen i höjd med Tranebergsängen. WSP Brand & Risk, Stockholm, 2011.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Henrik Hassel, henrik.hassel@risk.lth.se
+Övrig information: I grupparbeten förutsätts aktivt deltagande. Varje gruppmedlem skall enskilt kunna redovisa och svara för innehållet. Uppfyller inte en medlem övrigas krav på aktiv medverkan, eller åsidosätter sina åtaganden, kan beslut av examinator om omplacering till annan grupp eller underkänt betyg erhållas.
+
+
+

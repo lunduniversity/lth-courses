@@ -1,0 +1,111 @@
+
+
+Kursplan för
+Fysiologiska modeller och beräkningar
+Physiological Models and Computations
+FRTF01, 5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning F/Pi
+Beslutsdatum: 2018-03-23
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: BME3
+Valfri för: Pi4
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursen syftar till att introducera viktiga områden, begrepp och
+metoder inom fysiologisk modellering jämte beräkningar och
+kvantitativ jämförelse med medicinska mätdata och fenomen.
+Förklaring av fysiologisk reglering via balansekvationer,
+dynamiska system, återkopplingsprinciper och adaption.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+känna till människokroppens olika organsystem och hur de
+fungerar ihop;
+känna till grundläggande principer för hur olika
+fysiologiska fenomen kan mätas och analyseras; genom insikter om
+kroppens såväl metaboliska, biomekaniska som bioelektriska
+egenskaper.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna bryta ned modelleringsproblem i mindre delproblem;
+kunna göra grundläggande kvantitativ analys av metaboliska,
+biomekaniska och elektrofysiologiska frågeställningar;
+kunna applicera sina fysiologiska modelleringskunskaper i
+simulering;
+kunna applicera fysiologisk modellering för att bedöma
+rimligheten i medicintekniska lösningar.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna tolka och diskutera information från medicinsk
+litteratur;
+kunna kommunicera med sjukvårdspersonal och medicinska
+forskare om fysiologisk modellering och tekniska system.
+
+
+Kursinnehåll
+
+Fysiologisk komplexitet: material- & flödesbalans,
+energibalans, statik, jämvikt, homeostas, oscillationer, dynamik,
+återkoppling, adaptation
+Reglering i fysiologiska system: enzymer, hormoner,
+Modellering: differentialekvationer, dynamiska system,
+impulssvar, störningar, överföringsfunktioner,
+compartment-modeller.
+Simulering: Matlab, Simulink
+Modellering och mätdata, systemidentifiering
+Fysiologiska modeller:
+   -  Enzymdynamik
+   -  Radioaktiv spårämnesanalys och -omsättning
+   -  Glukos- och Insulindynamik
+   -  Biomekanisk reglering; postural reglering, pupilldynamik,
+gripdynamik
+   -  Nervcellsmodellering, Hodgkin-Huxley-modellen
+   -  Farmakokinetik: administration, absorption, distribution,
+elimination, metabolism, excretion
+   -  Blodflödesreglering
+   -  Temperaturreglering
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig examen. Fyra inlämningsuppgifter och ett projekt.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0114. Benämning: Fysiologiska modeller och beräkningar. 
+Antal högskolepoäng: 4. Betygsskala: TH.  Prestationsbedömning: Godkänd tentamen 
+Kod: 0214. Benämning: Inlämningsuppgift 1. 
+Antal högskolepoäng: 0. Betygsskala: UG. 
+Kod: 0314. Benämning: Inlämningsuppgift 2. 
+Antal högskolepoäng: 0. Betygsskala: UG. 
+Kod: 0414. Benämning: Inlämningsuppgift 3. 
+Antal högskolepoäng: 0. Betygsskala: UG. 
+Kod: 0514. Benämning: Inlämningsuppgift 4. 
+Antal högskolepoäng: 0. Betygsskala: UG. 
+Kod: 0614. Benämning: Projekt. 
+Antal högskolepoäng: 1. Betygsskala: UG.  Prestationsbedömning: Skriftlig rapport och muntlig presentation 
+Antagningsuppgifter
+Förutsatta förkunskaper: FMAA01 Endimensionell analys, FMAB20 Linjär algebra, EXTG50 Människans fysiologi (eller EXTP85 Kvantitativ humanfysiologi) och EITA50 Signalbehandling i multimedia.
+Begränsat antal platser: Nej
+Kurslitteratur
+
+C Cobelli & E. Carson: Introduction to Modeling in Physiology and Medicine. Academic Press, 2008, ISBN: 978-0-12-160240-6.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Prof Rolf Johansson, Rolf.Johansson@control.lth.se
+Studierektor: Prof Karl-Erik Årzén, karlerik@control.lth.se
+Hemsida: http://www.control.lth.se/Education/EngineeringProgram/FRTF01.html
+
+
+

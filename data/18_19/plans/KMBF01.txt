@@ -1,0 +1,120 @@
+
+
+Kursplan för
+Molekylär cellbiologi
+Molecular Cell Biology
+KMBF01, 15 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning B/K
+Beslutsdatum: 2018-03-21
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: W2
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursen syftar till att ge de enskilda studenterna en teoretisk
+och praktisk kunskap i kemiska ämnens reaktivitet och toxicitet
+samt cellens uppbyggnad och funktion med tonvikt på
+mikroorganismer.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+uppvisa utförlig kunskap och förståelse om mikrobiologi
+uppvisa utförlig kunskap och förståelse om mikrobiell
+genetik och fysiologi samt uppvisa molekylär kunskap om proteiner,
+metabolism och energiomvandlingar .
+uppvisa utförlig förståelse om hur mikrober kan användas
+för att lösa miljö-relaterade problem
+uppvisa utförlig kunskap och förståelse om samband mellan
+reaktivitet-egenskaper-toxicitet hos kemiska föreningar både i
+enskilda levande organismer och i hela ekosystem
+uppvisa utförlig kunskap och förståelse om toxikokemiska
+begrepp och samband
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+visa praktiska färdigheter i hanterandet av mikroorganismer
+och enzymer via laborationer
+kunna redovisa, analysera och diskutera laborationsresultat
+skriftligt i rapportform
+kunna analysera fysikaliska och kemiska egenskaper hos en ej
+på förhand given kemisk struktur och relatera dessa till effekter
+i ett biologiskt eller ekologiskt system
+genomföra och muntligt presentera ett litteraturprojekt, där
+olika toxikokemi-, biokemi och biologi-delar av kursen integreras,
+analyseras, syntetiseras och diskuteras utifrån ett
+problemlösningsperspektiv
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+muntligt presentera en kritisk tvärvetenskaplig redogörelse
+baserad på vetenskapliga artiklar
+kunna kritiskt evaluera andra studenters prestationer
+att kunna kvalificerat bedöma och värdera miljö- och
+hälsorisker utifrån en kemisk struktur med hjälp av uppnådda
+kunskaper och färdigheter i toxikokemi
+
+
+Kursinnehåll
+ 
+Kursen introducerar studenterna till den fascinerande världen
+av levande celler med tonvikt på bakterier, deras genetik och
+fysiologi. Ämnet belyser enzymatisk katalys, cellens arvsmassa,
+cellulära transportmekanismer samt tekniker för att påvisa,
+kvantifiera, identifiera och odla olika typer av mikroorganismer.
+Dessutom behandlas cellens energiomsättning för att ge en djupare
+förståelse för de biogeokemiska kretsloppen. I samband med
+energimetabolismen belyses respiration och fotosyntesen.
+Laborationskursen belyser teoretiska avsnitt ur kursen som t.ex.
+kemiska strukturelement som är associerat med toxicitet, upprening
+och karakterisering av enzymer, samt hur mikroorganismer kan
+anpassa sig till nya miljöer via genetiskt utbyte.
+Mikroorganismers mångfald, funktion m.m. illustreras via moment
+där morfologi, fysiologi, tillväxt och antalsbestämningar
+studeras. Det genetiska materialets uttryck och reglering belyses
+med bakteriers fysiologiska anpassning och tillväxt under olika
+odlingsbetingelser. Celltoxiska och antimikrobiella ämnens
+inverkan studeras på såväl högre celler såsom bakterier.
+De kemiska grunderna för hur hälso- och miljöfarliga ämnen
+tas upp och omsätts av organismer samt hur de ger upphov till
+effekter i celler, organismer och ekosystem behandlas utförligt,
+Stor vikt läggs på att uppmärksamma eleverna på sambanden
+mellan kemisk struktur, kemiska egenskaper och biologisk
+effekt.
+ 
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig examination, skriftliga rapporter, muntlig presentation och muntlig opposition.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0116. Benämning: Molekylär cellbiologi, del 1 . 
+Antal högskolepoäng: 9. Betygsskala: UG.  Prestationsbedömning: Godkänd skriftlig examination 
+Kod: 0216. Benämning: Molekylär cellbiologi, del 2 . 
+Antal högskolepoäng: 6. Betygsskala: UG.  Prestationsbedömning: För godkänd examination ska studenten godkänts på laborationsrapporter, inlämningsuppgift, muntlig presentation och muntlig opposition.  Delmomentet omfattar: Detaljerade laborationsrapporter. Detaljerad molekylärt fokuserad inlämningsuppgift om substans som påverkar hälsa och/eller miljö. Muntlig presentation av vetenskapligt djup och fokuserad frågeställning relaterad till kursinnehållet. Muntligt opposition av en presentation. 
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: KMB050
+Kurslitteratur
+
+Willey JM, Sherwood LM, Woolverton CJ: Prescott's Microbiology, Tenth Edition. McGraw-Hill Education, 2017, ISBN: 978-1-259-28159-4.
+Kompendium i biokemi.
+Olov Sterner: Chemistry, Health & Environment, 2nd Edition. Wiley Blackwell , 2010, ISBN: 978-3-52732582-5.
+Laborationskompendium.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Docent Lei Ye, Lei.Ye@tbiokem.lth.se
+Kursansvarig: Docent Ed van Niel, Ed.van_Niel@tmb.lth.se
+Kursansvarig: Professor Ulf Nilsson, ulf.nilsson@chem.lu.se
+Hemsida: http://www.tmb.lth.se
+
+
+

@@ -1,0 +1,118 @@
+
+
+Kursplan för
+Fysik - Våglära, termodynamik och atomfysik
+Physics - Waves, Thermodynamics and Atomic Physics
+FAFA05, 12 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning N
+Beslutsdatum: 2018-03-28
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: N1
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Syftet med kursen är att studenten ska tillägna sig
+grundläggande kunskaper i vågrörelselära, optik, termodynamik
+och atomfysik med inriktning mot tillämpningar. Förståelse inom
+dessa områden är central för begreppsbildningen inom starkt
+expanderande teknikområden såsom t.ex. nanoteknologin.
+Färdigheterna och förståelsen som studenten tillägnar sig ska
+också underlätta kunskapsinhämtningen i kommande kurser i
+angränsande ämnesområden.
+Kursen ska ge träning i problemlösning, modelltänkande,
+experimentellt arbete samt skriftlig kommunikation. Kursen avser
+även att stimulera studenten till reflektion över hur
+kursinnehållet relaterar till fysikaliska vardagsfenomen.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna analysera problemställningar samt utföra och tolka
+beräkningar inom ämnesområdet.
+förstå hur ett abstrakt modelltänkande i form av matematiska
+modeller, analogier och bilder växelverkar med experiment och den
+fysikaliska verkligheten.
+kunna förklara vardagliga fysikaliska fenomen med hjälp av
+korrekta fysikaliska begrepp inom ämnesområdet.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+förmå utnyttja och tolka fysikaliska modeller.
+kunna använda inhämtad kunskap till att konkretisera den
+forskning som presenteras i parallella kurser.
+kunna tillämpa och värdera de experimentella metoder som
+används i kursen.
+kunna utvärdera utfall av olika experimentella metoder.
+förmå skriva en strukturerad laborations- eller
+projektrapport i vilken t.ex. experimentella data presenteras och
+analyseras.
+muntligen presentera och diskutera en laboration eller ett
+mindre projekt.
+ha funnit och utvecklat sin studiestrategi
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna tillämpa och värdera de experimentella metoder som
+används i kursen.
+förmå utvärdera utfall av olika experimentella metoder.
+på egen hand, t.ex. på internet, kunna söka och använda
+relevant information inom kunskapsområdet.
+
+
+Kursinnehåll
+Stor vikt läggs vid begreppsförståelse samt vid hur kursens
+olika delar relaterar till varandra och till forskning inom
+nanoteknologins olika delar. Kursens laborativa del används för
+att visualisera viktiga fysikaliska begrepp.
+Kursens inledande del behandlar följande områden: Temperatur
+och värme. Fasövergångar. Tillståndsekvationer för ideala och
+reala gaser. Friktion och viskositet. Tillståndsändringar och
+kretsprocesser. Entropi. Termodynamikens huvudsatser. Mekaniska
+svängningar, vågutbredning, interferens och dopplereffekt.
+Ljudtryck, ljudintensitet. Akustisk impedans, reflektion av
+ljudvågor. Elektromagnetiska vågor och Huygens princip.
+Avbildning med linser, optiska instrument. Interferens, böjning
+och upplösning. Spektrometrar.
+Kursens senare del behandlar följande områden: Relativistisk
+mekanik. Elektronens laddning och vågegenskap. Atomernas storlek
+och massa. Temperaturstrålare och fotoelektrisk effekt. Modeller
+av atomen. Kvantmekanisk introduktion: materievågor. Uppbyggnaden
+av det periodiska systemet. Stimulerad emission och laserverkan.
+Generering och absorption av röntgenstrålning.
+Radioaktivitet.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Obligatoriska kontroll/inlämningsuppgifter, skriftligt prov och godkänd laborationskurs. Det skriftliga provet avgör det graderade slutbetyget på kursen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0115. Benämning: Fysik - Våglära, optik och atomfysik. 
+Antal högskolepoäng: 6,5. Betygsskala: TH.  Prestationsbedömning: Skriftligt prov som avgör det graderade slutbetyget på kursen.  Delmomentet omfattar: Mekaniska svängningar, vågutbredning, interferens och dopplereffekt. Ljudtryck, ljudintensitet. Akustisk impedans, reflektion av ljudvågor. Elektromagnetiska vågor och Huygens princip. Avbildning med linser, optiska instrument. Interferens, böjning och upplösning. Spektrometrar. Relativistisk mekanik. Elektronens laddning och vågegenskap. Atomernas storlek och massa. Temperaturstrålare och fotoelektrisk effekt. Modeller av atomen. Kvantmekanisk introduktion: materievågor. Uppbyggnaden av det periodiska systemet. Stimulerad emission och laserverkan. Generering och absorption av röntgenstrålning. Radioaktivitet. 
+Kod: 0215. Benämning: Laborationer och rapporter. 
+Antal högskolepoäng: 3. Betygsskala: UG.  Prestationsbedömning: Aktivt deltagande vid laborationer, godkända laborationsrapporter.  Delmomentet omfattar: Laborationer: Experimentell metodik. Kretsprocesser. Ljusets böjning och interferens. Geometrisk optik. Fotoelektrisk effekt. Joniserande strålning.  
+Kod: 0315. Benämning: Termodynamik - inlämningsuppgifter. 
+Antal högskolepoäng: 2,5. Betygsskala: UG.  Prestationsbedömning: Godkända kontroll- och inämningsuppgifter i termodynamik.  Delmomentet omfattar: Obligatoriska kontroll- och inlämningsuppgifter i termodynamik. 
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FAFA50, FAFA60, FAFA70, FAFA75, FAFF40, FAFA65, FAFF36, FAF220, FAF260, FAFA01, FAFA15, FAFA20, FAFA30, FAFA35, FAFA55, FAFF25, FAFF30, FAFF35, FAFA45
+Kurslitteratur
+
+Jönsson, G: Våglära och optik. Teach Support 2015. ISBN: 9789163781445.
+Jönsson, G: Tillämpad atomfysik, Teach Support 2014. ISBN: 9789163389580.
+Jönsson, G: Fysik i vätskor och gaser, Teach Support 2014. ISBN: 978917249997.
+Laborationshandledning för Nano.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Magnus Borgström, magnus.borgstrom@ftf.lth.se
+Hemsida: http://www.ftf.lth.se/index.php?id=59533
+
+
+

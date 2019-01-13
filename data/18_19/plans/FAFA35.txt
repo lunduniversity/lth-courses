@@ -1,0 +1,100 @@
+
+
+Kursplan för
+Fysik - Termodynamik och atomfysik
+Physics - Thermodynamics and Atomic Physics
+FAFA35, 6 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning N
+Beslutsdatum: 2018-03-28
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: E2
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Studenten skall utveckla en förståelse av grundläggande
+begrepp och samband inom både klassisk och modern fysik, vilka har
+betydelse för vår omvärldsuppfattning, samhällets tekniska
+utveckling och som utgör en del av en naturvetenskaplig
+allmänbildning. Kursen skall öva modelltänkande och
+experimentell färdighet. Den skall också träna
+problemlösningsförmåga samt skriftlig redovisning. Kursen ska
+också, tillsammans med andra kurser i programmet, öva
+färdigheten att använda högnivåprogram, t.ex.Matlab, som
+analys- och beräkningsverktyg.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+ha förståelse för kopplingen mellan experiment, modeller och
+teori.
+kunna analysera termodynamiska processer och uppskatta deras
+verkningsgrad
+kunna beräkna värmetransporten i material via olika
+mekanismer
+kunna beskriva strukturen och dynamiken hos mikroskopiska
+system som atomer och molekyler med elementär kvantmekanik
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna formulera och lösa fysikaliska problemställningar med
+matematiska metoder.
+ha insikt i den naturvetenskapliga metoden att med olika grad
+av approximation tillämpa samma modeller på ett stort antal olika
+problem.
+kunna planera och genomföra experiment
+kunna skriftligt presentera och analysera experimentella data
+och ställa dessa i relation till olika fysikaliska modeller.
+kunna använda högnivå program (t.ex. MatLab) för att
+visulalisera, presentera och analysera experimentella data och
+fysikaliska modeller
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+ha förmåga att med ett naturvetenskapligt förhållningssätt
+kritiskt granska modeller och tekniska tillämpningar.
+ha ökat sin erfarenhet att arbeta i grupp för ett gemensamt
+mål.
+
+
+Kursinnehåll
+Värme och fasövergångar. Tillståndsekvationer för ideala
+och reala gaser. Kinetisk gasteori och
+Maxwell-Boltzmannfördelningen. Termodynamikens huvudsatser.
+Kretsprocesser. Värmeledning och värmeövergång. Våg-partikel
+dualismen. Bohrs atommodell. Schrödinger ekvationen. Kvantiserade
+rörelsemängdsmoment. Vågfunktioner. Röntgenstrålning.
+Pauliprincipen och uppbyggnaden av det periodiska systemet.
+Molekylspektroskopi. Strukturen hos fasta kroppar. Halvledare.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen och godkända laborationer.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0108. Benämning: Fysik - Termodynamik och atomfysik. 
+Antal högskolepoäng: 4. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen.  Delmomentet omfattar: Fysik - Termodynamik och atomfysik 
+Kod: 0208. Benämning: Laborationskurs - Termodynamik och atomfysik. 
+Antal högskolepoäng: 2. Betygsskala: UG.  Prestationsbedömning: Godkända laborationer.  Delmomentet omfattar: Laborationerna: Kretsprocesser, Spektroskopi och Fotoelektriska effekten 
+Antagningsuppgifter
+Förutsatta förkunskaper: FAFA01 Fysik - Mekanik och vågor, FMAA05 Endimensionell analys. Viss erfarenhet av MatLab.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FAFA65, FAFF25, FAFA70, FAFA75, FAF024, FAFA05, FAFA15, FAFA20, FAFA45
+Kurslitteratur
+
+Tipler, P A, Mosca, G. Physics for Scientists and Engineers. Extended version, sixth edition. Freeman 2008, ISBN: 0-7167-8964-7.
+Laborationshandledning Fysik - Termodynamik och atomfysik för E.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Lars Engström, lars.engstrom@fysik.lth.se
+Hemsida: http://www.atomic.physics.lu.se/education/mandatory_courses/fafa35_fysik_termodynamik_och_atomfysik/
+
+
+

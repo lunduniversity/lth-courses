@@ -1,0 +1,129 @@
+
+
+Kursplan för
+Avancerad interaktionsdesign
+Advanced Interaction Design
+MAMN01, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning C/D
+Beslutsdatum: 2018-04-03
+Allmänna uppgifter
+Obligatorisk för: C3
+Valfri för: D4-bg
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursen syftar till att studenten skall få kunskaper kring
+avancerad datorinteraktion med nya former av informations- och
+kommunikationsteknologi (IKT) med fokus på multimodala
+gränssnitt. Kursen syftar till att ge studenten en förmåga att
+prototypa nya interaktionsidéer där användningen av IKT
+understöds av alternativa inmatningsmetoder, t ex sensorer,
+samtidigt som man arbetar enligt en användarcentrerad
+designmodell.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+förstå möjligheter och begränsningar kring användandet av
+nya interaktionsformer
+förstå hur nya interaktionsformer kan prototypas på olika
+detaljnivå
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna skapa en applikation som läser av och visar värdet av
+sensordata
+att i grupp kunna skapa en hi-fi prototyp av en applikation som
+har den nödvändiga detaljrikedomen och helheten för att kunna
+testas av slutanvändare
+i en rapport, skriven på engelska, visa hur man tillämpat en
+användar-centrerad designprocess i en snabb utvecklingsprocess
+genom att beskriva både tekniken och vilka designbeslut som är
+gjorda, samt att knyta dessa till relevant teori
+
+ 
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna överväga alternativa, multimodala former av interaktion
+som ligger bortom den traditionella skärm-metaforen i ny
+interaktionsdesign
+förstå och tillämpa en designstrategi som tar till vara att
+multimodala interaktionsformer ger användaren frihet att välja
+hur ett gränssnitt ska användas / styras och hur information kan
+tas emot
+
+
+Kursinnehåll
+Kursen är till största del byggd kring ett design- och
+programmeringsprojekt som genomförs i grupper. Projektet tränar
+studenternas förmåga till självständigt arbete i en
+användarcentrerad designprocess med snabba design-iterationer som
+har likheter med XP (eXtreme Programming).  Strukturerad
+handledning ges för att hjälpa till att nå projektmålen. Kursen
+hålls ihop av aktiviteter som understödjer projekt-processen:
+
+Brainstorming
+Fler-gruppshandledning
+Mellan-redovisning
+Rapport på engelska
+Avslutande mässa
+Reflektion av eget och andra gruppmedlemmars lärande
+
+Projektet kännetecknas av experimenterade med
+icke-traditionella (avancerade) interaktionsformer, genom att man
+utnyttjar sensorer, t ex GPS, accelerometer och gyro, för att ge
+insignaler och t ex ljud och vibrationer för att ge återkoppling.
+Som plattform används en Android smartphone, eftersom den både
+är programmeringsbar och innehåller många sensorer.
+Ett urval föreläsningar ger teoretisk underbyggnad kring
+avancerade interaktionsformer baserade huvudsakligen på
+interaktion som ligger bortom den traditionella skärm-metaforen, t
+ex:
+
+Prototyp-metoder och varianter av designmetodik
+Gester
+Ljud-återkoppling
+Haptisk återkoppling
+Augmented reality
+Tangible interaction
+
+Vissa moment är obligatoriska (se ovan). Kompensationsuppgift
+som i någon mån uppväger det lärandemoment som missats kan
+krävas in i de fall en student inte närvarar vid ett sådant
+moment.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: För godkänd kurs krävs godkänt projektarbete, deltagande på obligatoriska moment, samt genomförande av individuella uppgifter.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+Minst fem terminers heltidsstudier på civilingenjörsutbildningen
+MAMA15 Interaktionsdesign, grundkurs eller MAMN25 Interaktionsdesign
+EDA016 Programmeringsteknik eller EDA017 Programmeringsteknik eller EDAA45 Programmering, grundkurs eller EDAA55 Programmeringsteknik
+EDAA01 Programmeringsteknik - fördjupningskurs
+EXTA65 Kognition eller TEK210 Kognition
+
+
+Begränsat antal platser: 60
+Urvalskriterier: Platsgaranti för studenter på InfoCom som har kursen i sitt obligatorium och som har anmält sig i tid. Urval för resterande platser: Antal poäng som har uppnåtts eller tillgodoräknats på programmet i LADOK den 28 februari.
+Kurslitteratur
+
+Utdelat material. Allt material är tillgängligt på kursens hemsida.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Kirsten Rassmus Gröhn, universitetslektor, tekn dr, kirre@certec.lth.se
+Kursansvarig: Héctor Caltenco, hector.caltenco@certec.lth.se
+Hemsida: http://www.eat.lth.se/kurser/interaktionsdesign/avancerad_interaktionsdesign_mamn01/
+Övrig information: Obligatoriska moment: introduktionsföreläsning, projektpresentationer och gemensamma projektaktiviteter, slutdokumentation i form av en rapport på engelska, individuell programmeringsuppgift, individuell reflektion.
+
+
+
+

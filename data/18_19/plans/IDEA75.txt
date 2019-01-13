@@ -1,0 +1,105 @@
+
+
+Kursplan för
+Designmetodik
+Design Methodology
+IDEA75, 5 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning ID
+Beslutsdatum: 2018-03-01
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: MD3
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Att ge en orientering om designprocessens struktur samt
+introducera grunderna i utvalda metoder som används av
+yrkesverksamma industridesigner för att driva ett designprojekt
+framåt dvs. olika metoder som används i designprocessens olika
+steg från problem till designlösning. Detta för att ge insikter
+om industridesignerns sätt att kommunicera i sin arbetsprocess.
+Utöver föreläsningar om designprocessens struktur och relevanta
+metoder för att praktiskt genomföra ett designprojekt, bygger
+kursen på att studenten under handledning genomför övningar i
+syfte att praktiskt tillgodogöra sig kunskap om metoderna.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+- Visa förståelse för användandet av de metoder som tas upp
+i kursen i förhållande till genomförandet av ett
+designprojekt.
+- Visa förståelse för designprocessens struktur och komplexitet
+genom praktisk erfarenhet.
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+- inom given tidsram visa förmåga att tillämpa
+(individuellt/ i grupp) sina nya kunskaper genom att med hjälp av
+vägledning driva ett designprojekt från problem till koncept
+idé.
+- visat förmågan att med hjälp av vägledning beskriva det
+utförda designprojektet i en skriftlig dokumentation där både
+den egna designprocessen och det slutliga designkonceptet
+presenteras.
+- visa förmåga att i seminarieform muntligt presentera det
+utförda designprojektet inför övriga kursdeltagare där
+projektets resultat, det slutliga designkonceptet presenteras med
+stöd av en visuell/grafisk presentation.
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+- visa förmåga att reflektera över användandet av metoder i
+designprocessen samt kritiskt analysera det egna arbetet.
+- återspegla det kulturella uppdraget, designers etiska ansvar
+och en hållbar samhällsutveckling.
+
+Kursinnehåll
+Kursen inleds med en introduktionsföreläsning, som syftar till
+att ge en överblick av metoder som används för att analysera och
+strukturera arbetet i en designprocess. Det teoretiska och
+metodologiska synsättet tillämpas i flera praktiska övningar
+under kursens gång. För att ge studenterna redskap att själva
+kunna påbörja en designprocess kommer de genom föreläsning och
+övning introduceras i olika sätt att planera, strukturera och
+genomföra ett designuppdrag samt metoder för problemlösning.
+Tidigare förvärvade färdigheter, så som skissteknik,
+datorstödd bildframställning, presentationsteknik och
+modellframtagning kommer att införlivas i kursen, jämsides med
+marknadsföringsaspekter, brukarkunskap, målgruppsdefiniering och
+övning av kommunikations- och presentationsfärdigheter.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Bedömningen baseras på projektdokumentation och muntlig presentation (individuellt/grupp). Vid behov kan en skriven självutvärdering på projektet bli aktuell.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: IDEA40
+Kurslitteratur
+
+Jan Landqvist: Vilda idéer och djuplodande analys. , Om designmetodikens grunder. Carlsson Bokförlag, 1994, ISBN: 9172033916. De kapitel av denna bok som är obligatorisk läsning kommer att förmedlas vid kursstart, pga av boken inte längre ges ut.
+Claus-Christian Eckhardt: Textkompendium: Design Methodology. Obligatorisk läsning. Kommer att finnas tillgänglig vid kursstart.
+Åsa Wikberg, Åsa Ericson, Peter Törlind: Design, process och metod. Studentlitteratur, 2015, ISBN: 978-91-44-10885-8. Obligatorisk läsning.
+Karl T Ulrich; Steven D Eppinger: Produktutveckling, konstruktion och design. Studentlitteratur, 2014, ISBN: 978-91-44-07421-4. Endast kapitel 11 är obligatorisk läsning.
+Lynn Haller and Cheryl Dangel Cullen: Design Secrets: Products 2: 50 Real-Life Projects Uncovered. Rockport Publishers, ISBN: 1592530710. All följande litteratur är rekommenderad läsning för den som önskar fördjupa sig i ämnet.
+Clive Grinyer: Smart Design, Products That Change Our Lives. RotoVision, ISBN: 2880465249.
+Jeffrey L. Whitten, Lonnie D. Bentley, Gary (CON) Randolph: Systems Analysis And Design Methods, 7th Edition. McGraw Hill Higher Education, 2005, ISBN: 9780073052335.
+Jones, John Christopher: Design Methods. John Wiley & Sons Inc, 1992.
+Jones, John Christopher: Designing Designing. Architecture Design and Technology Press, 1991.
+Bryan Lawson: How designers Think, The design process demystified. Routledge, 2005, ISBN: 978-0-7506-6077-8.
+Bryan Lawson: What designers know. Routledge, 2004, ISBN: 978-0-7506-6448-6.
+Victor Margolin; Richard Buchanan: The Idea of Design. The MIT press, 1995, ISBN: 978-0-262-63166-2.
+Nigel Cross: Designerly ways of Knowing. BirkHäuser, 2007, ISBN: 978-3-7643-8484-5.
+Patrick W Jordan: Designing pleasurable products. Taylor and Francis, 2000, ISBN: 0-748-40844-4.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Professor Claus-Christian Eckhardt, Claus.Eckhardt@design.lth.se
+Kursansvarig: Universitetslektor Elin Olander, Elin.Olander@design.lth.se
+Hemsida: http://www.ide.lth.se
+Övrig information: Utöver föreläsningar i teori bygger kursen på att studenten under handledning genomför övningar i syfte att tillgodogöra sig kunskap om metoderna. Övningarna avslutas med muntlig redovisning, analys och kritik, - individuellt eller i grupp. Slutprojektet redovisas både muntligt och skriftligt.
+
+
+

@@ -1,0 +1,109 @@
+
+
+Kursplan för
+Coachning av programvaruteam
+Coaching of Programming Teams
+EDAN80, 9 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning C/D
+Beslutsdatum: 2018-04-03
+Allmänna uppgifter
+Valfri för: C5, D4-se, F5
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Många civilingenjörer hamnar under sin karriär i ledande
+positioner av olika slag. Syftet med kursen är att ge kunskaper om
+och praktisk erfarenhet av hur man leder och coachar
+programvaruteam. Kursen ger också en fördjupning inom principer
+för agil programvaruutveckling.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna förklara principer för agil programvaruutveckling
+kunna problematisera och tolka teamteori och coachingtekniker i
+kontexten av programvaruprojekt
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+självständigt leda interaktionen med beställaren, leda
+planeringsarbetet, samt leda det dagliga arbetet i teamet
+bedöma tillämplighet av olika team- och coachingteorier i
+praktiska fall
+muntligt och skriftligt presentera ett självständigt
+genomfört arbete inom området agil programvaruutveckling
+söka litteratur och elektroniskt publicerat material inom
+programvaruteknik
+konstruktivt granska och reflektera över arbeten inom området
+agil programvaruutveckling
+
+
+Kursinnehåll
+Kursen består av tre delar över två läsperioder: en teoridel
+(första och andra läsperioden), en praktikdel (andra
+läsperioden), samt en djupstudiedel (huvudsakligen andra
+läsperioden).
+Teoridelen består av obligatoriska föreläsningar/diskussioner
+samt obligatoriska hemuppgifter. Innehållet tar dels upp allmän
+metodik för ledarskap och coaching, dels fördjupning i metodik
+för agil programvaruutveckling, med fokus på extremprogrammering.
+Inom ledarskap och coaching tas bl.a. följande upp: coaching av
+lärande team, ledarroller, peopleware, FIRO, Lencioni's
+femstegsmodell, gruppdynamiska roller, coaching practices. Inom
+programutvecklingsmetodik tas bl.a. följande upp: mönster för
+dokumentation av erfarenhet, användning av metaforer för
+arkitektur, metodik för testdriven design och parprogrammering,
+agil planering, prioritering och uppföljning, agil
+konfigurationshantering. Vidareutveckling av kursen sker
+kontinuerligt och detaljinnehållet kan därför variera till viss
+del från år till år.
+I praktikdelen får deltagarna coacha ett programvaruteam från
+kursen EDAF45 (Programvaruutveckling i grupp - projekt). I denna
+del ingår att ta fram en initial prototyp och arkitektur för en
+produkt, coachingmöten där coacherna får handledning,
+planeringsmöten med teamet, coaching av teamet under
+heldagslaborationer, samt deltagande i avslutande teamredovisning.
+Vid coachingmötena diskuteras kopplingar till teorin, och
+deltagarna får också stor möjlighet att ta del av varandras
+erfarenheter.
+I djupstudiedelen får deltagarna välja ett specifikt ämne som
+studeras djupare och där praktikdelen kan utnyttjas för att samla
+material till studien. Redovisningen sker genom ett antal
+skriftliga och muntliga moment. Deltagarna får också granska
+varandras rapporter och presentationer. Bland ämnen som valts av
+tidigare deltagare ingår såväl sådana som är inriktade mot
+coaching och projektledning, som mer programvarutekniska ämnen,
+t.ex. verktyg och agila programutvecklingstekniker.
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: Alla kursmoment är obligatoriska och där är obligatorisk närvaro på alla aktiviteter. För godkänt krävs fullgjord teoridel, fullgjord praktikdel och fullgjord djupstudiedel. Detaljerade föreskrifter angående fullgörande av obligatoriska moment kommer att finnas i kursprogrammet.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Teoridel med hemuppgifter. 
+Antal högskolepoäng: 1,5. Betygsskala: UG.  Prestationsbedömning: Aktiv närvaro på alla föreläsningar. Godkänt på alla hemuppgifter.  Övrig information: Görs under läsperiod ht2.
+Kod: 0217. Benämning: Kompletterande teoridel, projektdel och djupstudie. 
+Antal högskolepoäng: 7,5. Betygsskala: UG.  Prestationsbedömning: Godkänt på alla delar av projektet. Godkänt på djupstudien.  Övrig information: Görs under läsperiod vt1.
+Antagningsuppgifter
+Förkunskapskrav:
+EDAA01 Programmeringsteknik-fördjupningskurs, de obligatoriska momenten i EDA061/EDAF60 Objektorienterad modellering samt antingen EDA260/EDAF45 Programvaruutveckling i grupp - projekt eller de obligatoriska momenten i ETSN05 Programvaruutveckling för stora system
+
+
+Begränsat antal platser: 20
+Urvalskriterier: Exakt antal studenter som kan antas beror på  antalet studenter i EDAF45. Urvalskriterier: Deltagarna kommer att ha  ett ansvar för att leda yngre studenter och det är värdefullt att de  har god förmåga vad gäller såväl tekniskt kunnande inom programvaruutveckling som allmän mogenhet och ansvarskänsla. Studenter som gått EDA260/EDAF45 ges företräde. Urvalet görs därefter genom sammanvägning av betyg i centrala programvarutekniska  kurser (Programmeringsteknik, Programmeringsteknik FK, OMD, Realtidsprogrammering/Nätverksprogrammering) och totalt antal uppnådda poäng på programmet.
+Kursen överlappar följande kurser: EDA270
+Kurslitteratur
+
+chromatic: Extreme Programming Pocket Guide. O'Reilly, 2003, ISBN: 0-596-00485-0. Dessutom tillkommer kursmaterial i form av artiklar som tillhandahålles av institutionen.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Lars Bendix, Lars.Bendix@cs.lth.se
+Hemsida: http://cs.lth.se/edan80
+
+
+

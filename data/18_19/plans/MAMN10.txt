@@ -1,0 +1,134 @@
+
+
+Kursplan för
+Interaktion 1: Neuromodellering, kognitiv robotik och agenter
+Interaction 1: Neuro Modelling, Cognitive Robotics and Agents
+MAMN10, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning C/D
+Beslutsdatum: 2018-04-03
+Allmänna uppgifter
+Valfri för: C4-da, D5
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+På basis av kunskaper och färdigheter från tidigare
+datatekniskt orienterade och människa-teknik-orienterade kurser
+ska studenterna i denna kurs sätta samman och pröva dessa i
+praktiken i ett större projektarbete, samtidigt som de reflekterar
+kring arbetet. De ska även tillägna sig fördjupade kunskaper om
+mjukvara, design och kognition i relation till digitala miljöer
+och biologiskt inspirerade system.
+Ett syfte är att ge kunskaper om olika typer av kognitiva
+modeller och hur de kan användas för att (1) förstå människor,
+(2) modellera människor, och (3) bygga tekniska system vars
+funktion inspirerats av mänsklig kognition. Studenterna tränas i
+att använda kognitiva modeller från klassiskt artificiell
+intelligens, reaktiva modeller, neurobaserade inlärningsmodeller
+och situerade modeller av kognition.
+Ett annat syfte är att studenterna ska bli skickligare i att
+arbeta i heterogena projektgrupper med personer med olika akademisk
+bakgrund.
+Ett tredje syfte är att studenterna ska utveckla sin förmåga
+att identifiera och lösa interaktionsproblem som rör nästa
+generations interaktionstekniker.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+• känna till olika typer av kognitiva modeller samt kunna
+redogöra för modellering som metod
+• förstå hur man genom kunskap och inspiration från
+biologiska lösningar kan hitta och implementera nya tekniska
+lösningar
+• kunna jämföra alternativa lösningar med avseende på
+teknisk utformning, resursbehov och funktion
+• kunna resonera om metodfrågor och relevansfrågor inom
+området på ett kvalificerat sätt
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+• kunna genomföra ett projekt enligt de kriterier och de
+delmål som kursledning tillsammans med projektgruppen sätter
+upp
+• i ett projektteam med blandade kompetenser inom kursens
+område bidra signifikant till projektets genomförande, där
+projekten består av utveckling/vidareutveckling av digitala
+och/eller robotbaserade interaktiva system
+• kunna argumentera för de prioriteringar man gör i
+utvecklingen av ett sådant system
+• kunna föra dialog med olika grupper och kunna arbeta
+effektivt i teamblandade grupper med olika kompetenser
+• kunna definiera begrepp på ett sådant sätt att olika
+perspektiv, discipliner och kunskapsområden kan föras samman och
+därmed kunna fungera som projektledare för team bestående av
+personer med olika kunskapsbakgrund
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+• visa beredskap att hantera oförutsägbarheten och det
+expansiva i problemsituationer som involverar människor och deras
+interaktion med en alltmer komplex omgivning
+• visa medvetenhet om etiska aspekter på forsknings- och
+utvecklingsarbete
+• ha förståelse för olika metoders potential respektive
+begränsningar och om hur och varför det är gynnsamt att
+kombinera vissa metoder med varandra
+• inse betydelsen av att sätta in ett projekt i olika
+sammanhang och relatera till andras krav och perspektiv
+
+Kursinnehåll
+Med hjälp av datormodeller, förkroppsligade som robotsystem i
+en fysisk omgivning eller som virtuella agenter i en digital miljö
+utforskas kognitiva företeelser som uppmärksamhet, lärande
+m.m. Inom kognitionsvetenskap används modeller av olika slag för
+att förstå de processer som ger upphov till kognition. Dessa
+modeller försöker beskriva hjärnan eller ett kognitivt fenomen
+på ett precist sätt, t ex i form av ekvationer eller
+datorprogram. Modellerna kan vara antingen deskriptiva eller
+prediktiva. Deskriptiva modeller sammanfattar data i en enhetlig
+form för att ge en bättre förståelse. Prediktiva modeller kan
+dessutom användas för att generera data som kan testas t ex i ett
+experiment. Målet med att göra modeller kan vara att utforska
+kognitiva processer eller att generera nya hypoteser. Målet kan
+också vara att hitta biologiskt inspirerade metoder att lösa
+tekniska problem. Till exempel används artificiella neurala
+nätverk både för att modellera hjärnan och som en teknisk
+metod.
+Kursen är starkt projektorienterad och studenterna utvecklar
+eller vidareutvecklar egna konkreta prototyper av tekniska system
+baserade på olika kognitiva modeller.
+Beroende på projektval kommer tyngdvikten mellan projekten att
+variera, men samtliga innehåller: i) teknisk utveckling, ii)
+kognitionsvetenskaplig fördjupning, och iii) fördjupning inom
+interaktionsdesign.
+Minst två veckor före kursstart ges studenterna tillgång till
+en lista med förslag på projekt, där många knyter an till
+aktuella forsknings- och utvecklingsprojekt vid avdelningen för
+kognitionsvetenskap samt vid designinstitutionen. Alla projekt rör
+avancerade interaktiva system avsedda att användas inom forskning,
+utbildning (grundskola, gymnasium, högre utbildning), vård
+(träning, diagnos, stöd), industri, eller underhållning.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Samtliga obligatoriska moment.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: TEK210/EXTA65 Kognition samt någon av MAMN25, MAM061, MAM101/MAMF45 eller MAM120/MAMF50.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: KOGP05
+Kurslitteratur
+
+Litteraturkompendium, Institutionen för Designvetenskap & Lund University Cognitive Science.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Christian Balkenius, christian.balkenius@lucs.lu.se
+Hemsida: http://www.eat.lth.se/kurser/interaktionsdesign
+Övrig information: Obligatoriska moment: 
+Obligatoriska moment: introduktionsföreläsning, skriftliga och muntliga delredovisningar, workshoptillfällen, projekthandledningstillfällen, skriftlig projektrapport, muntlig projektpresentation.
+Observera att kursen samläses med studenter på mastersprogrammet i kognitionsvetenskap som läser motsvarande kurs ht 2016.
+
+
+

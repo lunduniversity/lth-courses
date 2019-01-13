@@ -1,0 +1,126 @@
+
+
+Kursplan för
+Brandskyddssystem
+Fire Protection Systems
+VBRN60, 15 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning BI/RH
+Beslutsdatum: 2018-03-20
+Allmänna uppgifter
+Obligatorisk för: BI3
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Syftet med kursen är att tillföra studenten kunskaper inom
+områdena aktiva och passiva brandskyddssystem och
+ventilationsbrandskydd. Genom att sammanföra och tillämpa
+kunskaper från tidigare kurser ges studenten insikt i hur dessa
+kunskaper kan användas för att analysera, värdera och
+dimensionera brandskyddssystem.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+Kunna beskriva branddetektorers och detektionssystems
+uppbyggnad och förklara deras verkningssätt.
+Kunna beskriva de vanligaste typerna av släckmedel
+(gasformiga, vatten och pulver) och förklara deras släckverkan
+mot olika bränder.
+Kunna beskriva de vanligaste typerna av aktiva släcksystem
+(sprinkler, vattendimma, explosionsundertryckande system,
+gasformiga släcksystem, skumsläcksystem och pulversystem) och
+förklara deras funktion.
+Kunna beskriva aktiva system för hantering av brandgaser och
+förklara hur dessa fungerar.
+Kunna beskriva brandtekniska klasser för komponenter och
+provningsmetoder för dessa.
+Kunna redogöra för hur vanliga byggnadsmaterial beter sig vid
+höga temperaturer.
+Kunna redogöra för hur bärande konstruktioner kan skyddas
+vid brand.
+Kunna förklara principerna för och uppbygganden av
+ventilationssystem.
+Kunna förklara principerna för hur brandgaser sprids via
+ventilationssystem.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+Kunna bedöma vilka släckmedel som är lämpliga att använda
+för olika bränder (bränsle, blandningsförhållanden och
+storlek).
+Kunna bedöma släckmedels påverkan på människa, egendom och
+miljö.
+Kunna bedöma hur brandgaser kan hanteras med öppningar,
+skärmar, ventilationssystem och trycksättning.
+Kunna utvärdera befintliga sprinkleranläggningar och
+dimensionera ett enklare sprinklersystem.
+Kunna uppskatta aktiveringstiden för sprinkler och
+branddetektorer för olika bränder genom att tillämpa
+beräkningsmodeller och datormodeller.
+Kunna ange lämplig brandcellsindelning för en enkel
+byggnad.
+Kunna analysera hur en enkel bärande konstruktionsdetalj beter
+sig vid brand.
+Kunna tillämpa metoder för beräkning av brand- och
+brandgassspridning.
+Kunna tillämpa beräkningsmetoder för brandgasspridning via
+ventilationssystem och trycksättning av byggnader, specifikt
+trapphus.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+Visa förmåga att bedöma aktiva och passiva brandskyddssystem
+och system för ventilationsbrandskydd med hänsyn till relevanta
+tekniska, ekonomiska och miljömässiga aspekter,
+Kunna bedöma ingenjörsmässiga lösningar med hänsyn till
+vetenskapliga, samhälleliga och etiska aspekter.
+Visa förmåga att identifiera sitt behov av ytterligare
+kunskap och fortlöpande utveckla sin kompetens.
+
+
+Kursinnehåll
+Kursen består av föreläsningar, vilka blandas med
+laborationer och övningar. Förläsningarna behandlar områdena
+aktiva och passiva brandskyddssystem och ventilationsbrandskydd.
+Kursavsnittet avslutas med en skriftlig tentamen.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Godkänd på skriftlig tentamen, laborationer och inlämningsuppgifter. Laborationerna genomförs en gång per läsår.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Skriftlig tentamen . 
+Antal högskolepoäng: 7,5. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen. Betyget på tentamen utgör slutbetyg i kursen.  Delmomentet omfattar: Denna del av kursen består av föreläsningar, som kompletteras med övningar. Föreläsningarna behandlar områdena aktiva och passiva brandskyddssystem och ventilationsbrandskydd. Kursavsnittet avslutas med en skriftlig tentamen. 
+Kod: 0217. Benämning: Laborationer och hemuppgift. 
+Antal högskolepoäng: 7,5. Betygsskala: UG.  Prestationsbedömning: Obligatorisk närvaro vid kursens laborationer och godkända laborationsrapporter och godkända hemuppgifter.  Delmomentet omfattar: Laborationer och inlämningsuppgifter.  Övrig information: Laborationerna ges endast en gång per läsår.
+Antagningsuppgifter
+Förkunskapskrav:
+VBRF20 Brandkemi - värmetransport
+
+
+Förutsatta förkunskaper: VBRF10 Branddynamik.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: VBR082, VBR054
+Kurslitteratur
+
+Nilsson, D. & Holmstedt, G.: Kompendium i Aktiva system - Detektion, Report 7030. Brandteknik LTH, 2007.
+Särdqvist, S.: Vatten och andra släckmedel. SRV, 2002, ISBN: 91-7253-145-2.
+Marcus Runefors: Kompendium i Aktiva system – Sprinkler , Report 3193. Department of Fire Safety Engineering, 2015.
+Kompletterande stenciler. Kompletterande material görs tillgängligt elektroniskt.
+Passiva system - föreläsningsanteckningar.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Bjarne Husted, bjarne.husted@brand.lth.se
+Övrig information: I grupparbeten förutsätts aktivt deltagande. Varje gruppmedlem skall enskilt kunna redovisa och svara för innehållet. Uppfyller inte en medlem övrigas krav på aktiv medverkan, eller åsidosätter sina åtaganden, kan beslut av examinator om omplacering till annan grupp eller underkänt betyg erhållas.
+
+Några föreläsningar kan komma att ges på engelska. 
+
+
+

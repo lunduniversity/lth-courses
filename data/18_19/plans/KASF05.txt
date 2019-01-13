@@ -1,0 +1,90 @@
+
+
+Kursplan för
+Material- och polymerteknologi
+Materials and Polymer Technology
+KASF05, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning B/K
+Beslutsdatum: 2018-03-21
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: K3
+Valfri för: B4
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+
+att ge studenten en översikt av tekniskt viktiga oorganiska
+och polymera material, samt deras tillämpningar, ur ett atomärt
+och molekylärt perspektiv.
+att genom ett mindre projekt ge studenten en fördjupning
+inom materialområdet.
+
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna beskriva framställning och egenskaper hos
+metallegeringar, keramer och polymerer av teknisk betydelse
+kunna förklara hur mikrostrukturen på olika nivåer påverkar
+egenskaperna hos olika material
+kunna beskriva principer för viktiga metoder för
+materialkarakterisering
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+Kunna tillgodogöra sig materialvetenskaplig litteratur.
+
+Kursinnehåll
+Följande moment behandlas:
+
+Kemiska bindningars mekaniska egenskaper
+Kristallstrukturer (positioner, riktningar, plan)
+Kristalldefekter av olika dimensionalitet
+Dislokationer och plastisk deformation
+Punktdefekter och diffusion
+Mekaniska egenskaper och olika brottyper
+Metallhärdning och binära fasdiagram
+Viktiga legeringar baserade på järn, aluminium, koppar och
+titan
+Keramer
+Elektriska och magnetiska materialegenskaper
+Klassificering, nomenklatur och molekylviktsbegrepp hos
+polymerer
+Mekanismer och begrepp inom stegvis- och kedjevis
+polymerisation
+Polymerisationsmetoder i industriell skala
+Polymerers konformation och löslighet
+Struktur-egenskapsrelationer hos amorfa och semikristallina
+polymerer
+Mekaniska egenskaper hos polymerer, polymerblandningar och
+kompositer
+Bearbetning och reologi hos polymerer
+Polymertillämpningar: membran och elektronik
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen. Genomfört projekt. Tentamensresultatet ger slutbetyg. Undervisningen sker i form av föreläsningar och ett litteraturprojekt (obl.). Litteraturprojektet genomförs i mindre grupper. Med utgångspunkt från en utdelad vetenskaplig översiktsartikel av ett modernt materialområde, väljs en originalartikel per student. Gruppen redovisar översikten och de enskilda artiklarna muntligen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: KOOA15 Allmän kemi, KOKA25 Organisk kemi och KASA10/KOO022 Oorganisk kemi.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: KOO052
+Kurslitteratur
+
+Askeland, D.R., Fulay, P.P: Essentials of Materials Science and Engineering (SI Edition), 2nd edition. Cengage, 2010, ISBN: 978-0-495-43850-2.
+Fried, J.R.: Polymer Science and Technology. Prentice Hall Ptr, 2003, ISBN: 0-13-018168-4.
+Utdelat material.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Professor Patric Jannasch, patric.jannasch@chem.lu.se
+Kursansvarig: Professor Sven Lidin, sven.lidin@chem.lu.se
+Hemsida: http://www.polymat.lth.se/
+
+
+

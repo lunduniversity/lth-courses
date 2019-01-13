@@ -1,0 +1,111 @@
+
+
+Kursplan för
+Trafikteknik
+Traffic Engineering
+VTTF01, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning V
+Beslutsdatum: 2018-03-27
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: V3
+Valfri för: L4
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Syftet med kursen är att ge studenten insikt i:
+
+samspelet mellan samhällsutvecklingen och transporterna
+transporternas drivkrafter
+faktorer som påverkar trafikens effekter
+
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+ha kunskap om hur transportsystemet kan bidra till en hållbar
+utveckling,
+ha kunskap om transporternas historiska utveckling och vilka
+drivkrafter som ligger bakom denna utveckling,
+förstå gods- och persontrafikens roll för näringslivet,
+för olika samhällsfunktioner och i vårt dagliga liv,
+kunna redogöra för de transportpolitiska målen,
+kunna beskriva sambandet mellan faktorer som påverkar uppkomst
+av trafik såsom lokalisering av bebyggelse och verksamheter
+förstå hur man använder modeller för att göra
+trafikprognoser,
+förstå olika planeringsprinciper,
+ha kunskap om olika trafikantgruppers behov och
+preferenser
+ha kunskap om olika färdmedels
+planeringsförutsättningar
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna tillämpa trafiktekniska metoder, bland annat att
+beräkna efterfrågan för persontransporter med olika färdmedel
+under olika enkla scenarier,
+ha förmåga att analysera vilka effekter för
+samhällsutvecklingen olika typer av förändringar kan få
+kunna analysera trafiktekniska data och föreslå lämpliga
+åtgärder för att lösa enklare trafiktekniska problem
+kunna redovisa och diskutera i skriftlig rapportform
+
+
+Kursinnehåll
+Kursen behandlar följande teman:
+
+Hållbart transportsystem: Vad innebär begreppet hållbarhet i
+transportsektorn och hur kan man sträva mot ett hållbart
+transportsystem?
+Trafikens utveckling: Hur har person- respektive godstrafiken
+utvecklats genom historien? Vilka drivkrafter påverkar
+utvecklingen?
+Planeringsprinciper: En genomgång av de olika
+planeringsprinciper och ideal som präglat det svenska
+stadsbygganden, speciellt var gäller trafikplanering.
+Prognosmodeller på olika nivåer.
+Transportpolitiska mål och planprocessen: Hur sker
+fördelningen av resurser till infrastruktur och hur ser
+planeringsprocessen ut för ett infrastrukturprojekt.
+Färdmedel: Planeringsförutsättningar för bil,
+kollektivtrafik, cykel och gång. Hur skiljer sig olika färdmedel
+åt ur ett trafikplaneringsperspektiv vad gäller t.ex. kapacitet
+och dimensionering.
+Trafiksäkerhet
+Tillgänglighet för trafikanter med särskilda behov
+
+Som stöd till olika teman genomförs övningar med såväl
+muntlig som skriftlig presentation. Lärare ger muntlig och
+skriftlig feedback. Trafiktekniskt fältarbete med handledning
+förekommer i övningarna.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen och projektuppgift utgör grunden för slutbetyget. För godkänt betyg krävs godkänd tentamen, godkänd projektuppgift och godkänt litteraturseminarium.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: VTT100, VTT131, VTVF05
+Kurslitteratur
+
+Christer Hydén (red): Trafiken i den hållbara staden. Studentlitteratur, 2008, ISBN: 978-91-44-05301-1.
+Göran Cars, Bo Malmsten, Patrik Tornberg: Bana väg för infrastruktur. KTH, 2009, ISBN: 978-91-7415-233-3. Finns tillgänglig i elektronisk form.
+Boverket: Samordna planeringen för bebyggelse och transporter. ISBN: 978-91-7563-084-7. Tillgänglig i elektronisk version.
+Trafikverket & SKL: Gångbar stad. ISBN:  978-91-7585-017-7. Finns tillgänglig i elektronisk form.
+Trafikverket & SKL: Trafik för en attraktiv stad, En introduktion till TRAST. ISBN:  978-91-7585-099-3. Finns tillgänglig i elektronisk form.
+Programledning V: Anvisningar för rapporter på V-programmet. 2015. Finns tillgänglig på programmets hemsida.
+
+
+Kontaktinfo och övrigt
+Examinator: Andreas Persson, Andreas.Persson@tft.lth.se
+Kursansvarig: Andreas Persson, Andreas.Persson@tft.lth.se
+Hemsida: http://www.tft.lth.se/utbildning/grundutbildning
+Övrig information: Undervisningsformer för kursen är föreläsningar och ett antal projektuppgifter som genomförs i mindre grupper. Muntlig och skriftlig presentation och feedback på uppgifterna. Fältarbete under handledning förekommer i projekten.
+
+
+

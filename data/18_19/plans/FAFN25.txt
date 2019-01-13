@@ -1,0 +1,104 @@
+
+
+Kursplan för
+Atom- och molekylspektroskopi
+Atomic and Molecular Spectroscopy
+FAFN25, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning F/Pi
+Beslutsdatum: 2018-03-28
+Allmänna uppgifter
+Huvudområde: Nanovetenskap. 
+Valfri för: BME5-bf, F4, F4-f, F4-mt, F4-es, N4-m
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursen syftar till att ge teoretiska och praktiska kunskaper om
+de många kraftfulla metoder, som modern atom- och
+molekylspektroskopi erbjuder avseende såväl grundläggande
+studier som praktiska tillämpningar.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+förstå hur spektroskopiska metoder i olika energiintervall
+fungerar
+ha kunskap om de vanligaste komponenterna som ingår i
+spektroskopiska utrustningar avsedda för olika energiintervall med
+tonvikt på optisk spektroskopi och laserbaserade metoder
+ha en fördjupad förståelse för vad som kan mätas med
+spektroskopiska tekniker
+erhållit en fördjupad förståelse för atomär och
+molekylär struktur.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna bedöma vilken spektroskopisk metod som är tillämplig i
+en given situation
+kunna bedöma storleksordningar för många fysikaliska
+fenomen
+kunna utföra visst praktiskt arbete med optiska komponenter
+samt lasrar.
+ha ökad förmåga att finna och extrahera information från
+såväl vetenskaplig litteratur som internet och därigenom kunna
+genomföra mindre utredningar
+ha ökad förmåga att genomföra koncisa skriftliga och
+muntliga presentationer av genomförda projekt.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+lära sig att bedöma hur spektroskopi kan användas som ett
+kraftfullt verktyg inom vetenskap och teknik.
+
+Kursinnehåll
+Översikt av atomär och molekylär struktur. Strålnings- och
+spridningsprocesser: resonansstrålning, Rayleigh-, Raman- och
+Mie-spridning. Synkrotronstrålning. Optisk spektroskopi:
+ljuskällor, spektralt upplösande instrument, detektorer, optiska
+analysmetoder. Resonansmetoder: optisk resonansspektroskopi,
+elektron- och kärnspinnresonans. Avstämbara lasrar: lasertyper,
+enkelmodgenerering, kringutrustning. Laserspektroskopi:
+tidsupplöst spektroskopi och högupplösande Dopplerfria tekniker.
+Laserspektroskopiska tillämpningar: fjärranalys av luft- och
+vattenföroreningar, förbrännings- och reaktionsdiagnostik,
+medicinska tillämpningar. Demonstrationer: Synkrotronstrålning,
+förbränningsdiagnostik, laserspektroskopiska mättekniker.
+ Laborationer: 
+
+Fouriertransformspektroskopi and flamemission
+Doppler-fri mättnadsspektroskopi
+Absorptionsspektroskopi
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen, godkända projekt och laborationer.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Laborationer. 
+Antal högskolepoäng: 1,5. Betygsskala: UG.  Prestationsbedömning: Laborationerna kräver en skriftlig rapport som skrives parvis (man laborerar parvis).  Delmomentet omfattar: Experimentellt arbete i form av laborationer i små grupper, med obligatoriskt planerings- och redovisningsarbete. 
+Kod: 0217. Benämning: Skriftlig tentamen. 
+Antal högskolepoäng: 6. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen. 
+Antagningsuppgifter
+Förutsatta förkunskaper: FAFA10 Fysik – Kvantfenomen och nanoteknologi eller FAFF10 Atom- och kärnfysik med tillämpningar eller (FAFA50 Våglära, optik och atomfysik och FAFF45 Medicinsk fysik).
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FAF080
+Kurslitteratur
+
+Wolfgang Demtröder: Atoms, molecules and photons, An introduction to Atomic-, molecular and quantum physics. Springer, 2010, ISBN: 978-3-64210297-4. Bredvidläsningslitteratur. Finns även som eBok.
+Laborationshandledningar.
+Sune Svanberg: Atomic and Molecular spectroscopy, Basic aspects and practical applications. Springer, 2004, ISBN: 3-540-20382-6. Huvudlitteratur för kursen.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Stefan Kröll, stefan.kroll@fysik.lth.se
+Lärare: Joakim Bood, joakim.bood@forbrf.lth.se
+Lärare: Lars Rippe, Lars.Rippe@fysik.lth.se
+Hemsida: http://www.atomic.physics.lu.se/education/elective-courses/fafn25-fyst14-atomic-and-molecular-spectroscopy/
+
+
+

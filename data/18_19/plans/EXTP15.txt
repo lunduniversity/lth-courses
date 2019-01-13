@@ -1,0 +1,98 @@
+
+
+Kursplan för
+Mikroekonomi - individuella val
+Microeconomics - Individual Choice
+EXTP15, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning I
+Beslutsdatum: 2018-03-20
+Allmänna uppgifter
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Syftet med kursen är att föermedla kunskaper och färdigheter
+i mikroekonomi rörande individuella val.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+  få fördjupade kunskaper i mikroekonomisk teori avseende
+individers och företags val i en perfekt konkurrenssituation samt
+allmän jämvikt för bytes- och
+produktionsekonomier,         
+förstå och redogöra för dualiteten mellan en teknologi- och
+kostnads- och vinstfunktion,
+·         förstå och redogöra för modeller för
+individuella val såväl utan osäkerhet som under osäkerhet,
+·         förstå och redogöra för den duala
+ansatsen i konsumtionsteorin,
+·         förstå och redogöra för villkoren för
+allmän jämvikt i bytes- och produktionsekonomier;
+·         förstå och redogöra för första och andra
+välfärdsteoremet;
+förstå och redogöra för tidspreferenser med exponentiell och
+hyperbolisk diskontering.
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+ tillämpa teorin på icke-parametrisk effektivitetsanalys av
+företag och branscher,
+·         tillämpa teorin om individuella val i
+specifika exempel, såsom val av försäkringsgrad eller val av
+optimal tillgångsportfölj,
+·         tillämpa allmän-jämviktsanalys i praktiska
+exempel och sätta resultat i relation till partiell jämvikt.
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+Studenten ska kunna redogöra för och diskutera sina
+kunskaper.
+Studenten ska utveckla förmåga till vidare studier inom ämnet
+samt söka och utvärdera information med hög grad av
+självständighet.
+
+Kursinnehåll
+I en första del av kursen modelleras den teknologi som ett
+företag kan förväntas möta. Därefter visas under vilka
+omständigheter all relevant teknologisk information finns i rent
+ekonomiska storheter. Vidare visas hur effektivitetsanalys kan
+genomföras via DEA-analys. Därefter fokuserar kursen på den
+individuella valsituationen och olika representationssatser
+härleds. Detta gäller såväl för val under osäkerhet som för
+val utan osäkerhet. Olika tillämpningar av preferensteorin gås
+igenom. Det gäller grundläggande allmän jämviktsanalys,
+inklusive välfärdsteorins första och andra huvudsats och
+tillämpningar på olika former av tillgångsmarknader. Den duala
+ansatsen i konsumtionsteorin behandlas; här ges en fullständig
+karaktärisering av konsekvenserna av individens
+nyttomaximeringsbeteende i en marknadssituation. Resultat som
+Slutsky-ekvationen, Roys identitet och Shepards lemma härleds. 
+Det gäller även andra typer av val under osäkerhet. Slutligen
+behandlas intertemporala val och distinktionen mellan vanlig
+(exponentiell) och hyperbolisk diskontering.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Kursen examineras genom skriftlig tentamen och inlämningsuppgifter.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+EXTP50 Avancerad mikroekonomisk analys
+
+
+Begränsat antal platser: Nej
+Kursen kan ställas in: Om färre än 8 anmälda.
+Kursen överlappar följande kurser: TEK145, TEK137
+Kurslitteratur
+
+Mas-Colell Andreu, Michael D. Whinston och Jerry R. Green (1995): Microeconomic Theory, Oxford University Press.
+Kompletterande material.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Alexandros Rigos, alexandros.rigos@nek.lu.se
+Övrig information: Kursen samläses med NEKP21.
+
+
+

@@ -1,0 +1,151 @@
+
+
+Kursplan för
+Nätverksarkitektur och prestanda
+Network Architecture and Performance
+ETSN10, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning C/D
+Beslutsdatum: 2018-04-03
+Allmänna uppgifter
+Huvudområde: Kommunikationssystem. 
+Obligatorisk för: MWIR1
+Valfri för: C4-ks, D4-ks, E4-ks, I4, I4-pvs
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursen ger en djup förståelse för principer för nätverks
+konstruktion med hänsyn till prestandaaspekter. Kursen omfattar
+två huvudområden, undersökning och dimensionering av nätverk
+genom modellering och simulering samt fundamentala
+nätverksarkitekturer. Kursen behandlar både publika accessnät
+såsom 3G/LTE och trådlösa lokala nätverk såsom WLAN, Ad-hoc
+och Mesh nätverk, Sakernas internet etc. Vidare behandlar kursen
+uppförandet av nätverkande system ur ett kö- och
+flödesperspektiv samt mekanismer för att kontrollera prestanda.
+Kursen omfattar både teoretiska aspekter inom modellering och
+tillämpning genom ett systemdesignprojekt.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+Förklara operationen av nätverksprotokollen och algoritmerna
+som ingår i kursen
+Beskriva de olika nätverksarkitekturerna som ingår i
+kursen
+Förklara nätverksmodellerna som ingår i kursen och beskriva
+nyckelresultat ifrån dem såsom fundamentala
+prestandabegränsningar
+Redogöra för designval i existerande nätverksprotokoll,
+algoritmer och arkitekturer, med hänsyn till systemprestanda
+Beskriva aktuella forskningsproblem och inriktningar i
+nätverk
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+Välja lämpliga protokoll och algoritmer för ett givet
+nätverkssystem
+Skapa och analysera nätverksmodeller för prestandaanalys
+Analysera nätverksprestanda med de teorestiska verktyg som
+ingår i kursen såsom stokastika processer och köteori
+Utföra statisktisk analys på data från experiment eller
+simuleringar och dra slutsater angående prestandan för systemet i
+fråga
+Designa nätverkssystem med utgångspunkt i ett speciferat
+scenario och specifierade prestandamål
+Hitta information i den vetenskapliga litteraturen inom kursens
+kunskapsområde
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+Jämföra olika nätverksprotokoll, algoritmer och arkitekturer
+och ange fördelar och nackdelar med dem
+Utvärdera nätverkssystem och identifiera deras prestandamål
+och begränsningar
+Utvärdera pålitligheten och betydelsen för data från
+experiment eller simuleringar
+Utvärdera fördelar, nackdelar och begränsningar för olika
+metoder för att modellera, analysera och testa
+nätverksprestanda
+Kritiskt utvärdera information i den vetenskapliga
+litteraturen inom kursens kunskapsområde
+
+
+Kursinnehåll
+Kursen ger en djup förståelse för de principer, funktioner
+och tekniker som utgör grunden för kommunikationsnätverk med ett
+fokus på trådlös kommunikation. Speciellt behandlas dessa
+funktioners uppförande och prestanda med hänseende till den
+stokastiska trafiknaturen i data- och telekomsystem.
+Kursen omfattar såväl publika system (3G, LTE), som tekniker
+för trådlösa lokala nätverk (WLAN, Ad-Hoc- och mesh-nätverk).
+Kursen ger en insikt i hur dessa system mer och mer integreras,
+fördelar och nackdelar samt problem och deras lösning i samband
+med denna integrering. I kursen diskuteras även aktuella trender i
+nätverksystem såsom Sakernas internet och Tactile Internet, och
+teknologier som utvecklas för att möjliggöra dem.
+Kursens struktur omfattar föreläsningar och övningar, samt en
+laboration om nätverkssimulering och datanalys. Studenterna utför
+även ett systemdesignprojekt i grupper.
+Kursen är uppbyggd av följande moduler:
+
+Repetition på sannolikhetsteori, stokastiska processer och
+grundläggande datanätverk
+Medium access control med reservationsprotokoll och random
+access-protokoll
+Nätverkarkitekturer för licenserat och olicenserat
+spektrum
+Modellering för prestandaanalys
+Trafikbehandling: kösystem och stocknings- och
+flödeskontroll
+
+Följande system och teknologier täcks i kursen:
+
+WLANs
+Ad-hoc-, mesh-, och sensornätverk, samt lämpliga
+routingprotokoll för dem, inklusive geografisk routing
+Sakernas internet
+Cellulära system (GSM, UMTS, LTE och en diskussion om 5G)
+MAC-protokoll: ALOHA, CSMA, 802.11 (WiFi), inklusive Bianchis
+modell för 802.11, TDMA, FDMA, CDMA, dynamiska
+reservationsprotokoll
+Tekniker för stocknings- och flödeskontoll såson Random
+Early Detection och token bucket
+Ködiscipliner såsom prioritetskösystem, weighted fair
+queueing, class based queueing
+Flödes- och stockningskontroll i TCP och strategier för
+omsändning
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: För godkänd kurs krävs godkänt på tentamen samt projekt. Kursens slutbetyg utgår från betyget på den skriftliga tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0118. Benämning: Tentamen. 
+Antal högskolepoäng: 5. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen. 
+Kod: 0218. Benämning: Projekt. 
+Antal högskolepoäng: 2,5. Betygsskala: UG.  Prestationsbedömning: Godkänt projekt.  Delmomentet omfattar: Prestandaundersökningar och simuleringar av nätverkssystem 
+Antagningsuppgifter
+Förutsatta förkunskaper: ETS052/EITF45 Datorkommunikation eller ETS150 Datakommunikation eller motsvarande.
+Grundläggande kunskaper i statistik och sannolikhetsteori
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: ETS190, ETSN01
+Kurslitteratur
+
+Artiklar.
+Sadiku, Matthew N. O. and Musa, Sarhan M.: Performance Analysis of Computer Networks. Springer, 2013, ISBN: 978-3-319-01645-0.
+
+
+Kontaktinfo och övrigt
+Examinator: Björn Landfeldt, bjorn.landfeldt@eit.lth.se
+Kursansvarig: Emma Fitzgerald, emma.fitzgerald@eit.lth.se
+Hemsida: http://www.eit.lth.se/kurs/etsn10
+
+
+

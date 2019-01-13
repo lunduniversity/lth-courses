@@ -1,0 +1,92 @@
+
+
+Kursplan för
+Produktionsteknik
+Production Technology
+MMTN25, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning M
+Beslutsdatum: 2018-03-27
+Allmänna uppgifter
+Valfri för: I4, I4-pr, M4-prr, MD4
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Tillverkningsindustrin präglas idag av krav på snabba
+teknologiomställningar, samtidigt som tillverkningsprocesserna
+blir allt mer kunskapsintensiva. Syftet med kursen är att ge
+studenten en fördjupad teknisk kunskap om modern
+bearbetningsteknik. Laborationer vid maskiner utgör en bärande
+del i kursen. Studenten skall också erhålla fördjupade kunskaper
+inom materialteknik, bl.a. verktygsmaterial
+ 
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+självständigt och i skriftlig form kunna beskriva hur ett
+skärande verktyg skall vara konstruerat, avseende geometri,
+verktygsmaterial samt funktion.
+självständigt kunna evaluera orsaker till processtörningar
+och verktygsnedbrytning, samt kunna föreslå lämpliga
+förändringar i val av verktyg och processdata, samt
+förändringar i val av verktygsmaterial.
+kunna integrera kunskaper om arbetsmaterial, verktygsmaterial,
+verktygsmaskin samt processdata, i syfte att med egna ord föreslå
+förändringar vid processtörningar.
+kunna relatera och kombinera information kring arbetsmaterials
+sammansättning och struktur, med beräkningar och analys av
+processutfallet, skriftlig och i grupp.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+i grupp kunna bereda en verklig detalj för produktion med
+skärande bearbetning, avseende val av verktyg från
+leverantörsregister, samt avseende dimensionering av
+processen.
+
+
+Kursinnehåll
+Kursen innehåller, förutom specialistkunskaper, också en
+relativt stor del generella kunskaper som kan vara användbara inom
+många områden. Exempel på detta är grundläggande kunskaper om
+arbetsmaterial, verktygsmaterial, mätteknik och
+programmeringsteknik. Kursen innehåller en laboration per vecka,
+vilket skall ge en nödvändig verklighetsförankring.
+Laborationerna avser att förtydliga och komplettera de teoretiska
+avsnitten i kursen och målsättningen är att teknologerna skall
+laborera så självständigt som möjligt.
+Huvudsakligt innehåll: Val av lämplig
+maskinutrustning, bedömning av verktygsmaskiners prestanda, val av
+verktyg och verktygsmaterial samt val av lämpliga
+bearbetningsdata. Vidare ges kunskaper för att identifiera och
+avhjälpa produktionsstörningar. Kursen är inriktad mot
+bearbetningsmetoderna skärande bearbetning samt slipning vilka är
+de dominerande metoderna för detaljtillverkning.
+Kursen behandlar följande delmoment:
+Verktygsuppbyggnad och verktygsmaterial deras egenskaper och
+användning, skärande bearbetning som process, mekanisk analys av
+olika bearbetningsoperationer, verktygsmaskiners uppbyggnad,
+funktion och noggrannhet samt slipning, hening och läppning.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen, hemdugga, skriftliga inlämningsuppgifter, obligatoriska laborationer.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: MMT012 Tillverkningsmetoder eller MMTA05 Industriella produktionssystem och FKM015 Konstruktionsmaterial, allmän kurs.
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Av institutionen sammanställt kursmaterial.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Universitetslektor Mats Andersson, mats.andersson@iprod.lth.se
+Hemsida: http://www.iprod.lth.se
+
+
+

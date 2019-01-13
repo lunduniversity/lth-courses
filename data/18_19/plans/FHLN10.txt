@@ -1,0 +1,86 @@
+
+
+Kursplan för
+Modern experimentell mekanik 
+Modern Experimental Mechanics
+FHLN10, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning M
+Beslutsdatum: 2018-03-27
+Allmänna uppgifter
+Valfri för: BME4-br, F4, F4-aft, M4-bem
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursens syfte är att introducera tekniker och möjligheter i
+modern experimentell mekanik för att karakterisera mekaniken hos
+fasta, porösa och pulverformiga material genom att använda
+diverse fysikaliska tekniker och speciellt fullfältsanalyser.
+Kursen inriktar sig speciellt på icke-destruktiva och
+fullfältsanalyser genom att använda optiska metoder (med fokus
+på digital bildkorrelation), röntgen- och neutronbilder samt
+spridning och vågutbredning. Inversa analyser och digital bild-
+och signalbehandling i samband med experimentella analyser kommer
+också att utföras.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+vara bekant med olika moderna experimentella tekniker,
+speciellt fullfältsmätningar, för att studera mekaniken
+hos fasta, porösa och pulverformiga material
+förstå begreppen digital bildkorrelation och experimentella
+uppställningar
+förstå grunderna i de neutron- och röntgentekniker som
+används i experimentell mekanik
+förstå grunderna i vågutbredning och vågmätningar i
+experimentell mekanik
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna formulera och lösa enkla inversproblem i experimentell
+mekanik
+kunna formulera och genomföra enkla digitala bild- och
+signalbehandlingsprocesser
+kunna tolka och diskutera resultat från olika experimentella
+tekniker
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna föreslå lämpliga experimentella metoder för att svara
+på en given forskningsfråga
+kunna bedöma felkällor i experimentella analyser
+kunna uppskatta begränsningar hos olika experimentella
+metoder
+
+
+Kursinnehåll
+
+Fullfälts experimentell analys
+Inversa metoder i experimentell mekanik
+Digital bild- och signalbehandling i experimentell mekanik
+Optiska metoder och digital bildkorrelation för kinematisk och
+"strain field"-mätning
+Röntgen- och neutrontekniker inom experimentell mekanik
+Ultraljuds- och akustiska metoder
+
+ 
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Fyra korta skriftliga/praktiska uppgifter under kursen och en sammanfattande skriftliga uppgift i slutet av kursen. Alla dessa uppgifter bidrar till slutbetyget, som har betygen U, 3, 4, 5. Om underkänt kan extra uppgifter anordnas efter kontakt med kursansvarig.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: Grundläggande kurser i matematik, och mekanik eller hållfasthetslära
+Begränsat antal platser: Nej
+Kontaktinfo och övrigt
+Kursansvarig: stephen hall, stephen.hall@solid.lth.se
+Hemsida: http://www.solid.lth.se/education/courses/modern-experimental-mechanics-fhln10/
+
+
+

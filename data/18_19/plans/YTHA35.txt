@@ -1,0 +1,111 @@
+
+
+Kursplan för
+Livsmedelsteknik II - Processteknik
+Food Technology - Food Preparation Processes
+YTHA35, 7,5 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning LIV
+Beslutsdatum: 2018-03-22
+Allmänna uppgifter
+Fördjupning: Grundnivå, har mindre än 60 hp kurs/er på grundnivå som förkunskapskrav.
+Obligatorisk för: YL2
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Syftet med kursen är att ge kunskap om de olika viktiga
+operationer och tekniker som används vid framställning av
+livsmedelsråvaror till färdig mat. Kursen ska ge kunskap om hur
+olika tillverkningslinjer ser ut vid produktion av livsmedel/mat
+inom livsmedelsindustrin men också hur mat i stor skala tillverkas
+i olika typer av storkök.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+känna till begreppet enhetsoperationer
+kunna beskriva och förklara olika system för produktion av
+färdig mat/måltider
+kunna beskriva olika metoder och utrustningar för att öka
+livsmedlets hållbarhet och kvalitet
+kunna redogöra för vad som påverkar strömning av vätska i
+ett rörsystem
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna rita ett flödesschema
+kunna välja lämplig gassammansättning för olika livsmedel
+för otimal lagring i MAP
+kunna utföra energimätningar och beräkningar vid olika
+livsmedelsprocesser
+
+
+Kursinnehåll
+Denna kurs bygger på den grundläggande värmelära som
+förmedlades i kursen Livsmedelsteknik I – värmelära
+(YTHA30).
+I denna kurs kommer olika tillverkningslinjer för livsmedel att
+beskrivas, alltså råvarornas omvandling till färdig produkt.
+Tillverkningslinjerna kan vara kontinuerliga eller i batch och de
+kan vara öppna eller slutna. Varje tillverkningslinje innehållet
+ett antal processer som brukar kallas enhetsoperationer. Exempel
+på enhetsoperationer är separering, sönderdelning, blandning,
+frysning, torkning och pastörisering. Kursen kommer att behandla
+de viktigaste enhetsoperationerna men kommer speciellt noga att
+jämföra olika metoder för frysning, torkning, pastörisering och
+sterilisering. Kursen kommer också att fokusera på
+tillverkningslinjer för produktion av färdig mat, antingen
+industriellt eller i storhushåll. Begrepp såsom sous vide, cook
+chill, vakuum och lagring i livsmedelsgas kommer att gås igenom
+liksom hur man på olika sätt kan förlänga hållbarheten på
+färdiga rätter genom t ex kylning, frysning, värmebehandling,
+lagring i modifierad atmosfär eller vakuum.
+Ett avsnitt benämns strömningslära och behandlar vad som
+påverkar strömning av västaska i ett rörsystem samt hur man
+dimensionerar och väljer pump för ett givet rörsystem med
+hänsyn tagen till olika förluster som uppkommer i systemet
+Olika moment inom livsmedelsframställning/hantering är olika
+energikrävande. Kursen kommer att belysa detta faktum och också
+diskutera hur denna förbrukning kan påverkas.
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: En skriftlig tentamen, laborationer, och inlämningsuppgifter
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0115. Benämning: Skriftlig tentamen. 
+Antal högskolepoäng: 2. Betygsskala: UG.  Prestationsbedömning: skriftlig tentamen 
+Kod: 0215. Benämning: Inlämningsuppgift: bevaringsprocesser. 
+Antal högskolepoäng: 1,5. Betygsskala: UG.  Prestationsbedömning: Individuell rapport, kamratbedömning och gruppredovisning. 
+Kod: 0315. Benämning: Inlämningsuppgift: flödesschema . 
+Antal högskolepoäng: 1,5. Betygsskala: UG.  Prestationsbedömning: inlämningsuppgift 
+Kod: 0415. Benämning: Strömningslära, inlämningsuppgift + muntlig examination. 
+Antal högskolepoäng: 1,5. Betygsskala: UG.  Prestationsbedömning: Inlämningsuppgift + muntlig examination 
+Kod: 0515. Benämning: Studiebesök. 
+Antal högskolepoäng: 1. Betygsskala: UG.  Prestationsbedömning: Deltagande i obligatoriska studiebesök 
+Antagningsuppgifter
+Förkunskapskrav:
+YTHA30
+
+
+Förutsatta förkunskaper: YTHA66, YTHA68 och YTHA73
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: YTH202
+Kurslitteratur
+
+Jonsson Marklinder Nydahl Nylander: Livsmedelsvetenskap. Studentlitteratur, 2007, ISBN: 978-91-44-04346-3.
+Ekholm Fraenkel Hörbeck : Formler & tabeller i fysik, matematik och kemi för gymnasieskolan. Konvergenta HB , 2010, ISBN: 978-91-97-37086-8.
+Kompendium i livsmedelsteknik, finns att köpa av kursansvarig vid kursstart.
+Andreas Håkansson: Livsmedelstekniska perspektiv. 2015.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Charlott Håkansson, Charlott.Hakansson@food.lth.se
+Hemsida: http://www.livsmedel.lth.se
+Övrig information: Under kursen anordnade studiebesök och gästföreläsningar är obligatoriska. Vid laga förhinder får studenten genomföra egen uppgift med motsvarande innehåll.
+
+
+

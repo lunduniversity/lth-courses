@@ -1,0 +1,114 @@
+
+
+Kursplan för
+Kvantfysikaliska koncept
+Concepts in Quantum Physics
+FAFA55, 9 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning N
+Beslutsdatum: 2018-03-28
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: F1
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kvantmekanik är en teori som ligger till grund för i princip
+all modern fysik. Kvantfysiken innehåller också en hel del
+fenomen och idéer som är helt olika från den klassiska
+(Newtonska) fysiken. Syftet med kursen är att ge en introduktion
+till kvantfysiken och dess begreppsvärld, och att visa exempel på
+hur kvantfysik används i modern teknik. Avsikten är att visa på
+den centrala rollen som grundläggande, ny fysik spelar i moderna
+tekniska utvecklingar, och således motivera till vidare studier.
+Kursen ger också en möjlighet till reflektion över
+kvantmekanikens annorlunda och fascinerande begreppsvärld.
+För de flesta kursdeltagarna blir detta den första fysikkursen
+på universitetet. Ett andra centralt syfte är därför att
+introducera studie- och arbetstekniker för fortsatta studier.
+ 
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna beskriva och tolka fundamentala upptäckter och
+experiment i kvantfysik;
+kunna analysera enkla problemställningar kring kvantmekaniska
+fenomen;
+kunna genomföra och tolka enkla beräkningar kring
+kvantfysikaliska problem;
+kunna beskriva och ge exempel på hur modern teknik använder
+sig av kvantfysikaliska koncept.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna korrekt och fullständigt redogöra för lösningar på
+övningsuppgifter;
+kunna testa hypoteser med experimentellt arbete;
+kunna designa, utföra, och utvärdera enkla experiment;
+kunna skriva en fullständig laborationsrapport;
+kunna ge korrekta källuppgifter.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna aktivt delta i en argumenterande diskussion rörande
+fysikaliska problemställningar;
+kunna arbeta i större grupp för att genomföra ett
+projekt;
+
+
+Kursinnehåll
+Stor vikt kommer att läggas på begreppsförståelse, samt på
+förmågan att tolka enkla ekvationer i termer av fysikaliska
+begrepp och tvärtom. Laborationer utnyttjas som hjälp att
+visualisera och konkretisera abstrakta begrepp. Studenten får
+därigenom möjlighet att direkt observera kvantmekaniska fenomen
+genom optiska och elektriska mätningar på material och
+komponenter med relevans för optisk kommunikation och
+höghastighetselektronik.
+
+Fundamentala upptäckter och experiment i kvantfysik:
+fotoelektrisk effekt, Compton effekt, interferenseffekter
+De Broglievågor
+Bundna tillstånd: vågbild och randvillkor.
+Sannolikhetstolkning och tunnling
+Osäkerhetsrelation
+Halvledarheterostrukturer
+Kvanteffekter inom elektronik och optik
+Kryptering och icke-lokala effekter
+Optisk kylning (ultrakalla atomer)
+
+ 
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: För godkänt betyg krävs godkänd skriftlig tentamen samt godkända inlämningsuppgifter, projektarbete och laborationer med skriftlig och muntlig presentation, samt godkänd övning om plagiering.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0112. Benämning: Laborationer och projekt. 
+Antal högskolepoäng: 3. Betygsskala: UG.  Prestationsbedömning: Godkända laborationer och projekt 
+Kod: 0212. Benämning: Tentamen och inlämningsuppgifter. 
+Antal högskolepoäng: 6. Betygsskala: TH.  Prestationsbedömning: Godkänd tentamen och godkända inlämningsuppgifter 
+Antagningsuppgifter
+Förutsatta förkunskaper: FMAA05 Endimensionell analys (läses parallellt)
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FAF220, FAFA05, FAFA50, FAFA10
+Kurslitteratur
+
+Kompletterande material.
+Gunnar Ohlén: Kvantvärldens fenomen – teori och begrepp. Studentlitteratur.
+Halliday/Resnick/Krane: Concepts in Quantum Physics , Kvantfysikaliska koncept, Lunds universitet. Wiley, ISBN: 9781118757871. Obligatorisk. Specialutgåva för vår kurs med det material vi behöver.
+Chad Orzel: How to Teach Quantum Physics to Your Dog. Oneworld, Oxford. Valfri bredvidläsning.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Heiner Linke, heiner.linke@ftf.lth.se
+Hemsida: http://www.ftf.lth.se/index.php?id=67031
+
+
+

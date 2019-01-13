@@ -1,0 +1,122 @@
+
+
+Kursplan för
+Stationära stokastiska processer
+Stationary Stochastic Processes
+FMSF10, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning I
+Beslutsdatum: 2018-03-20
+Allmänna uppgifter
+Obligatorisk för: Pi3
+Alternativobligatorisk för: MWIR1
+Valfri för: BME4-sbh, C4-ks, C4-ssr, D4-bg, D4-ssr, E4-ss, E4-bg, F4, F4-bg, F4-bm, F4-fm, F4-r, F4-ss, I4, I4-fir, M4
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Studenten ska tillägna sig en verktygslåda med begrepp och
+modeller för beskrivning och hantering av stationära stokastiska
+processer inom många olika områden, t.ex.
+signalbehandling, reglerteknik, informationsteori, ekonomi,
+biologi, kemi, medicin. De matematisk-statistiska momenten
+illustreras därför genom rikligt med exempel från olika
+tillämpningsområden.
+Kursen ska också ge studenten förmågan att identifiera
+förekomsten av stationära processer i andra kurser inom
+utbildningen, använda kunskaper om stationära processer på andra
+kurser och överföra begrepp och verktyg mellan olika kurser som
+bygger på stationära processer.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna genomföra beräkningar med väntevärde, varians,
+kovarians och korskovarians inom och mellan olika stationära
+processer,
+kunna beräkna samband mellan kovariansegenskaper i tidsplanet
+och spektralegenskaper i frekvensplanet för en och flera
+processer,
+kunna formulera linjära filter med hjälp av kovarians- och
+spektralegenskaper,
+kunna uppskatta kovariansfunktion, spektrum och andra
+parametrar i stationära processer med hjälp av data,
+modellera mätdata från naturen som en enkel stationär
+process.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna identifiera naturliga situationer när en stationär
+process är en lämplig matematisk modell, t.ex. inom minst en
+teknisk, naturvetenskaplig eller ekonomisk tillämpning,
+kunna formulera en stationär stokastisk processmodell utifrån
+en konkret frågeställning inom den valda tillämpningen,
+kunna föreslå modellparameterar, med hjälp av data,
+kunna göra en tolkning av modellen och översätta
+modellresonemang till en slutsats om den utsprungliga
+frågeställningen.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna läsa och tolka teknisk litteratur med inslag av
+stationära processer inom den valda tillämpningen,
+kunna redogöra för modellens struktur och slutsatser,
+kunna redogöra för stokastiska modellers möjligheter och
+begränsningar.
+
+
+Kursinnehåll
+
+Modeller för statistiskt beroende.
+Begrepp för beskrivning av stationära stokastiska processer i
+tidsplanet: väntevärden, kovarians- och
+korskovariansfunktion.
+Begrepp för beskrivning av stationära stokastiska processer i
+frekvensplanet: effektspektrum, korsspektrum.
+Speciella processer: normalprocess, Wienerprocess, vitt brus,
+Gaussiska fält i tid och rum.
+Stokastiska processer i linjära filter: samband mellan
+insignal och utsignal, autoregression och glidande medelvärde (AR,
+MA, ARMA), derivation och integration av stokastiska
+processer.
+Grunderna i statistisk signalbehandling: uppskattning av
+väntevärden, kovariansfunktion och spektrum.
+Tillämpning på linjära filter: frekvensanalys och optimala
+filter.
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen och obligatorisk närvaro på laborationerna.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0115. Benämning: Tentamen. 
+Antal högskolepoäng: 6. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen. 
+Kod: 0215. Benämning: Laborationsdel 1. 
+Antal högskolepoäng: 0,5. Betygsskala: UG.  Prestationsbedömning: Första datorlaborationen 
+Kod: 0315. Benämning: Laborationsdel 2. 
+Antal högskolepoäng: 1. Betygsskala: UG.  Prestationsbedömning: Övriga datorlaborationer 
+Antagningsuppgifter
+Förkunskapskrav:
+FMSF20/FMSF25/FMSF45/FMSF50/FMSF55/FMSF70/FMSF75 Matematisk statistik allmän kurs eller både FMAB30/FMAB35 Flerdimensionell analys och FMAA20/FMAB20 Linjär algebra
+
+
+Förutsatta förkunskaper: En grundkurs i matematisk statistik samt kunskaper i komplex och linjär analys.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FMS045, FMS047, MASC04
+Kurslitteratur
+
+Lindgren, G., Rootzén, H., Sandsten, M.: Introduction to Stationary Stochastic Processes: Applications in Science and Engineering. Chapman & Hall, 2013, ISBN: 9781466586185.
+
+
+Kontaktinfo och övrigt
+Studierektor: Studierektor Anna Lindgren, studierektor@matstat.lu.se
+Hemsida: http://www.maths.lth.se/matstat/kurser/fmsf10/
+Övrig information: Kursen får inte ingå i examen tillsammans med FMS045 eller FMS047. Ges även vid naturvetenskaplig fakultet med kurskoden MASC04.
+
+
+

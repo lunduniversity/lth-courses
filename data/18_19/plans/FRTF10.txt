@@ -1,0 +1,145 @@
+
+
+Kursplan för
+Systemteknik
+Systems Engineering
+FRTF10, 6 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning F/Pi
+Beslutsdatum: 2018-03-23
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: W3
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursens syfte är att ge en överblick av systemtekniken och
+speciellt reglerteknik, dess begreppsbildningar, arbetsmetoder och
+tillämpningsområden. Kursen fördjupar även färdigheten i att
+använda datorbaserad analys och simulering.
+Reglertekniken har en stor betydelse inom vitt skilda delar av
+samhället. I tidigare kurser har studenterna lärt sig att
+modellera och förstå hur ett system beter sig. Syftet med kursen
+i Systemteknik är att lära studenterna hur man kan få ett system
+att operera pålitligare, miljövänligare, med mer precision,
+eller mer ekonomiskt, trots störningar i systemets omgivning.
+Ordet system får här tas mycket allmänt. Det kan t.ex. vara ett
+atomkraftsmikroskop eller ett vattenreningsverk. Syftet med kursen
+är att lära studenterna ett systemtekniskt tankesätt som de kan
+ha nytta utav i arbetslivet oavsett vilket det exakta
+tillämpningsområdet blir.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+förstå vad ett linjärt, tidsinvariant, dynamiskt system
+är.
+kunna begripa grundläggande reglertekniska begrepp.
+förstå att ett dynamiskt system kan modelleras med hjälp
+utav olika matematiska modeller så som transientsvar,
+överföringsfunktioner, differentialekvationer på tillståndsform
+eller in-ut-signalsform, samt frekvenssvar beskrivna med Bode
+eller Nyquist-diagram.
+ha kunskap om de begrepp som beskriver uppförandet hos ett
+dynamiskt system så som stabilitet och stationära
+egenskaper.
+ha kunskap om de vanligast förekommande regulatorerna och dess
+matematiska uppbyggnad.
+ha en förståelse för olika regulatorstrukturer, samt kunskap
+om dess för- och nackdelar.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna använda sig utav grundläggande reglertekniska begrepp i
+samtal eller i skrift.
+kunna approximera ett olinjärt dynamiskt system med ett
+linjärt genom att utföra linjärisering.
+kunna beskriva ett dynamiskt system i form av de olika
+modellerna; transientsvar, överföringsfunktion,
+tillståndsmodell, differentialekvationer på in-ut-signalsform
+eller frekvenssvar.
+kunna beräkna samband mellan olika dynamiska modeller.
+kunna analysera dynamiska system och resonera om dess
+uppförande.
+kunna designa regulatorer och regulatorstrukturer utifrån
+givna specifikationer.
+kunna använda sig av moderna datorverktyg för reglertekniska
+uppgifter
+kunna utföra mindre försök och experiment på
+laborationsuppställningar för ta fram fram ett system som
+uppträder enligt en given specifikation.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+känna sig redo att angripa nya och obekanta reglertekniska
+problem av mindre karaktär
+kunna kommunicera, på ett fackmässigt sätt, med
+yrkespersoner som arbetar med reglerteknik.
+visa förmåga till lagarbete och samverkan i grupp vid
+laborationsdeltagandet och i arbetet med inlämningsuppgift.
+kunna läsa och ge feedback på andras, samt utarbeta egna
+skriftliga rapporter för inlämningsuppgifterna.
+
+
+Kursinnehåll
+Kursen ger insikt i att använda systemtekniska analysmetoder
+och dynamiska modeller för återkopplade system. Den ger också
+verktyg att förverkliga enkla regulatorer.
+Viktiga områden är matematiska modeller för enkla
+reglerkretsar och analys av deras dynamiska uppförande. Datorer
+används dels för analys och simulering, dels för förverkligande
+av regulatorer.
+I kursen ingår datorövningar och laborationer på verkliga
+processer.
+Kursmoment
+ 
+
+Introduktion
+Modellbygge
+Dynamiska system
+Återkopplade system
+Design PID regulatorn
+Regulatorstrukturer
+Analys i frekvensplanet
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen (5 tim), laborationer och inlämningsuppgifter.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Systemteknik. 
+Antal högskolepoäng: 5. Betygsskala: TH.  Prestationsbedömning: Godkänd tentamen. 
+Kod: 0217. Benämning: Laboration 1. 
+Antal högskolepoäng: 0,5. Betygsskala: UG.  Prestationsbedömning: Godkända förberedelseuppgifter och godkänd genomförd laboration. 
+Kod: 0317. Benämning: Laboration 2. 
+Antal högskolepoäng: 0,5. Betygsskala: UG.  Prestationsbedömning: Godkända förberedelseuppgifter och godkänd genomförd laboration. 
+Kod: 0417. Benämning: Inlämningsuppgift 1. 
+Antal högskolepoäng: 0. Betygsskala: UG. 
+Kod: 0517. Benämning: Inlämningsuppgift 2. 
+Antal högskolepoäng: 0. Betygsskala: UG. 
+Antagningsuppgifter
+Förutsatta förkunskaper: FMAB30 Flerdimensionell analys, FAFA20 Energi- och miljöfysik, Matlab.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FRT110, FRTN25, FRT010, FRT081
+Kurslitteratur
+
+Systems Engineering and Process Control - Lecture Notes (Kompendium). KFS.
+Exercises in Systems Engineering and Process Control (Kompendium), Reglerteknik, KFS.
+Automatic Control - Collection of Formulae. KFS.
+
+
+Kontaktinfo och övrigt
+Lärare: Docent Anton Cervin, anton.cervin@control.lth.se
+Studierektor: Professor Karl-Erik Årzén, karl-erik.arzen@control.lth.se
+Kursansvarig: Pontus Giselsson, pontus.giselsson@control.lth.se
+Hemsida: http://www.control.lth.se/Education/EngineeringProgram/FRTF10.html
+Övrig information: Får inte förekomma i examen tillsammans med FRTF05 eller FRTN25.
+
+
+

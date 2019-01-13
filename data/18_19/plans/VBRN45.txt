@@ -1,0 +1,124 @@
+
+
+Kursplan för
+Riskanalys inom brandteknik
+Risk Assessment in Fire Protection Engineering
+VBRN45, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning BI/RH
+Beslutsdatum: 2018-03-20
+Allmänna uppgifter
+Obligatorisk för: BI2
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursen syftar, tillsammans med tidigare kurser, till att
+studenten skall få möjlighet att tillgodogöra sig verktyg för
+riskanalys och riskvärdering och hur de kan användas som underlag
+för beslut inom området riskhantering och speciellt inom området
+brandteknisk dimensionering. Vidare syftar kursen till att utgöra
+en bas för fortsatta studier inom riskhanteringsområdet.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna beskriva olika perspektiv på risk och vara medveten om
+konsekvenserna av att använda olika perspektiv i en
+riskhanteringskontext.
+kunna beskriva riskanalys- och riskvärderingsmetoder, deras
+tillämplighet inom olika områden, speciellt inom området
+brandteknisk dimensionering, samt deras styrkor och svagheter.
+kunna beskriva relevanta riskmått, deras begränsningar och
+styrkor och hur de kan användas för att värdera risk.
+kunna beskriva olika typer av osäkerhet och hur de kan
+hanteras i en riskanalys- och riskvärderingskontext.
+kunna beskriva hur riskanalyser kan användas som grund för
+beslutsfattande och beredskapsplanering.
+kunna visa en förståelse för olika typer av
+informationskällor som kan användas, och utmaningarna att
+använda dem, som underlag till riskanalyser.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna använda koncept, metoder och verktyg som utnyttjas vid
+riskanalyser och riskvärderingar i nya situationer och
+situationer som relateras till brandskydd.
+kunna värdera innehåll i existerande riskanalyser.
+skriftligen och muntligen kunna redogöra för och diskutera
+innebörden av en genomförd riskanalys för personer med
+kunskapsmässigt olika bakgrund.
+kunna tillgodogöra sig material i vetenskapliga publikationer
+som är relevanta för riskbedömningar.
+kunna använda metoder och verktyg för grundläggande
+beslutsproblem kopplat till risk.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna kritiskt reflektera kring fördelarna och
+begränsningarna när det gäller att använda riskanalyser som
+underlag för beslutsfattande.
+kunna reflektera kring etiska och subjektiva dimensioner av
+riskanalyser.
+
+
+Kursinnehåll
+De övergripande momenten i kursen riskanalysmetoder utgörs av:
+introduktion till området riskanalys och riskhantering, behandling
+av riskbegreppet, riskanalysmetodik inom området brandsäkerhet,
+osäkerhetsanalys, riskmått och riskvärdering, riskperception
+och beslutsfattande när det gäller risker.
+Under kursens gång kommer ett antal individuella hemuppgifter
+samt ett projektarbete att genomföras. Projektuppgiften
+genomförs inom ett ingenjörsområde. Projektuppgiften ska
+redovisas såväl muntligt som skriftligt i form av en rapport.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examinationen är en sammanvägning mellan resultat på en skriftlig tentamen, den projektuppgift och de individuella hemuppgifter som ingår. Hemuppgifterna kommer primärt fokusera på att studenterna visar förståelse för teori. Den skriftliga tentamen består främst av uppgifter av problemlösningskaraktär och sådana som fokuserar på förståelse.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Riskanalys. 
+Antal högskolepoäng: 4,5. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen.  Delmomentet omfattar: Kursen syftar, tillsammans med tidigare kurser, till att studenten skall få möjlighet att tillgodogöra sig verktyg för riskanalys och riskvärdering och hur de kan användas som underlag för beslut inom området riskhantering. Vidare syftar kursen till att utgöra en bas för fortsatta studier inom riskhanteringsområdet. 
+Kod: 0217. Benämning: Projektuppgifter, hemuppgifter. 
+Antal högskolepoäng: 3. Betygsskala: UG.  Prestationsbedömning: Godkända individuella hemuppgifter och projektuppgifter i grupp.  Delmomentet omfattar: Under kursens gång skall ett antal individuella hemuppgifter samt en större gruppprojektuppgift genomföras. Till projektuppgifterna finns handledning tillgänglig för konsultation. Projektuppgifterna redovisas skriftligt och muntligt. 
+Antagningsuppgifter
+Förutsatta förkunskaper: FMA430 Flerdimensionell analys eller FMAB30 Flerdimensionell analys samt kurs i grundläggande statistik t ex TNX071 eller EXTA60 Statistik och VBRA06 Introduktion till brandteknik.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: VBR180, VRSN05, VBRN01
+Kurslitteratur
+
+Apostolakis, G.: How Useful is Quantitative Risk Assessment. 2004. Risk Analysis 24(3); 515-520.
+Hazards Evaluation Procedures. CCPS, New York, 1985. Ch. 4.4-4.7.
+Frequency Modeling Techniques. CCPS, New York, 2000. Ch. 3.2.
+Minimal Cut Set Analysis. CCPS, New York, 2000. Appendix D.
+Risk Measures. CCPS, New York, 2000. Ch. 4.
+Case Study. CCPS, New York, 2000. Ch. 8.1.
+Evans, A. W. and Verlander, N. Q.: What is Wrong with Criterion FN-Lines for Judging the Tolerability of risk. 1997. Risk Analysis 17(2): 157-168.
+Hansson, S. O. : Risk: objective or subjective, facts or values. 2010. Journal of Risk Research 13(2): 231-238.
+Henrion, M. and Granger Morgan, M.: Uncertainty: A Guide to Dealing with Uncertainty in Quantitative Risk and Policy analysis. Cambridge, Cambridge University Press., 1990.
+Kaplan, S.: The Words of Risk Analysis. 1997. Risk Analysis 17(4): 407-417.
+Kaplan, S. & Garrick, B. J.: On the Quantitative Definition of Risk. 1981. Risk Analysis 1(1): 11-27.
+Otway, H. and von Winterfeldt, D.: Expert Judgement in Risk Analysis and Management Process, Context, and Pitfalls. 1992. Risk Analysis 12(1): 83-93.
+Paté-Cornell, M. E.: Uncertainties in Risk Analysis: Six Levels of Uncertainty Treatment. 1996. Reliability Engineering & System Safety 54: 95-111.
+Slovic, P., Finucane, M.L., Peters, E. and MacGregor, D.M.: Risk as Analysis and Risk as Feelings: Some thought about Affect, Reason, Risk, and Rationality. 2004. Risk Analysis 24(2): 311-322.
+Nilsson J: Introduktion till riskanalysmetoder, Rapport 3124. Brandteknik, Lund, 2000.
+Handbok för riskanalys. Räddningsverket, SRV, 2003.
+Nystedt, F: Riskanalysmetoder. Brandteknik, LTH, 2000.
+Grimvall m fl: Risker i tekniska system. Studentlitteratur, 2003.
+SFPE Engineering guide Fire Risk Assessment. SFPE, 2006.
+Plan- och bygglagen , SFS 2010:900. 2010.
+Plan- och byggförordningen, SFS 2011:338. 2011.
+Boverkets allmänna råd om analytisk dimensionering av byggnaders brandskydd, BFS 2011:27 BBRAD1. Boverket, 2011.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Håkan Frantzich, hakan.frantzich@brand.lth.se
+Övrig information: I grupparbeten och seminarier förutsätts aktivt deltagande. Varje gruppmedlem skall enskilt kunna redovisa och svara för innehållet. Uppfyller inte en medlem övrigas krav på aktiv medverkan, eller åsidosätter sina åtaganden, kan beslut av examinator om omplacering till annan grupp eller underkänt betyg erhållas. Några föreläsningar kan komma att ges på engelska
+
+
+

@@ -1,0 +1,91 @@
+
+
+Kursplan för
+Strömningslära
+Fluid Mechanics
+VVRF10, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning W
+Beslutsdatum: 2018-03-22
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: W3
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursens syfte är att ge grundläggande kunskaper i
+strömningslära med tillämpningar på problem inom vattenbyggnad
+och vattenförsörjning under utnyttjande av kunskapsgrunden i en-
+respektive flerdimensionell analys samt mekanik, fysik och
+hydrologi (urban hydrologi, avrinning).
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+förklara och använda begrepp som tryck och tryckkrafter,
+skjuvspänning, densitet, viskositet, ytspänning,
+laminär/turbulent strömning, tryckhöjd, hastighetshöjd,
+trycknivå, energinivå, lokala energiförluster,
+friktionsförluster, dragkraft, formmotstånd, likformig/olikformig
+strömning, stationär/icke-stationär strömning, kontrollvolym,
+”no-slip condition”, pumpkurva
+beskriva tryck- och energiförhållanden i rörledningar med
+hjälp av tryck- och energilinjer
+beskriva strömningen i kanaler och vattendrag i termer av
+stråkande och strömmande vatten samt förekomst av kritiska
+sektioner
+beskriva metoder för att mäta tryck, flöden och
+hastighet
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+strukturera och lösa statiska problem i strömningsläran med
+utgångspunkt från hydrostatiska jämviktsekvationen
+strukturera och lösa dynamiska problem i strömningsläran med
+hjälp av kontinuitetsekvationen, rörelsemängdslagen,
+energiekvationen, allmänna friktionsformeln, Mannings formel
+dimensionera dammar, rörledningar, kanaler
+analysera strömningen i naturliga vattendrag
+utnyttja facktermer inom området i både tal och skrift
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+- kunna kritiskt utvärdera problemlösningar i hydraulik
+- kunna kvalitativt utvärdera osäkerheter och risker inom
+uthålligt användande av hydrauliska principer
+
+Kursinnehåll
+Vätskors egenskaper (spec. vatten): densitet, viskositet,
+ytspänning m.m. Hydrostatik: samband tryck/densitet/nivå,
+tryckkrafter. Grundläggande begrepp: stationär och
+icke-stationär strömning, strömlinjer, laminär/turbulent
+strömning m.m. Grundläggande ekvationer: kontinuitetsekvationen,
+energiekvationen, rörelsemängdslagen. Strömning kring kroppar.
+Tillämpningar: rörströmning, pumpar, kanaler och vattendrag.
+Mätmetoder: tryck, hastighet, flöde.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examinationen kommer att ske enskilt genom två delprov alternativt skriftlig tentamen. Omtentamen kan komma att ges som muntlig tentamen vid mindre än fem anmälda tentander.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: FMAA05, FMA430 FHL055, FAFA20, VVR111/VVRA01.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: VVR120, VVR145, VVR150
+Kurslitteratur
+
+Hamill L., Understanding hydraulics, 2nd ed., Palgrave, 2001.
+J. Malm and Larsson R., Hydraulics examples, Dept. of Water Resources Engineering, Lund University.
+Visst kompletterande material.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Professor Ronny Berndtsson/Vattenresurslära, Ronny.Berndtsson@tvrl.lth.se
+Hemsida: http://www.tvrl.lth.se/utbildning/courses/
+
+
+

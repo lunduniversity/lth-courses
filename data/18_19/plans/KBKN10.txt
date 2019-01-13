@@ -1,0 +1,93 @@
+
+
+Kursplan för
+Bioinformatik
+Bioinformatics
+KBKN10, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning B/K
+Beslutsdatum: 2018-03-21
+Allmänna uppgifter
+Huvudområde: Bioteknik. 
+Alternativobligatorisk för: MBIO1
+Valfri för: B4-mb
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Kursens syfte är att ge teoretisk kunskap i bioinformatik och
+dess möjligheter. Syftet är också att ge praktiska färdigheter
+i att söka information i bioinformatiska databaser och i att
+använda bioinformatiska verktyg.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+beskriva och värdera informationen i de mest förekommande
+bioinformatiska databaserna.
+formulera databassökningar bl.a. med hjälp av fältnamn
+(qualifiers) och boolska argument.
+beskriva, formulera och värdera resultat av
+sekvensuppställning (sequence alignment).
+beskriva, förklara och skapa hypoteser om proteiners
+strukturer med hjälp av modeller och simuleringar.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+välja och använda bioinformatiska databaser och dess sök
+verktyg.
+värdera utfallet av en sekvensjämförelse eller analys.
+använda program för strukturmodulering.
+värdera utfallet av en sekvensjämförelse eller
+sekvensanalys.
+utnyttja fackuttryck i både tal och skrift.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+Ha nödvändiga kunskaper för att i yrkesrollen kunna finna
+basal bioinformtikinformation och kunna praktiskt använda basala
+bioinformatikverktyg.
+
+Kursinnehåll
+Kursen omfattar kunskaper om bioinformatiska databaser, dito
+sökning och verktyg som predikterar en nukleotid- eller
+aminosyrasekvens biokemiska eller molekylärbiologiska egenskaper,
+funktioner etc. Begrepp som FASTA format, BLAST, archival &
+curated database, accession number, cross reference, data base
+field, boolean qualifiers, In silico, alignment, algorithm, Hidden
+Markov Model, Neural Networks, cluster, fylogenetiska träd,
+fenetisk och kladistisk jämförelse, bootstrapping, gap penalties,
+substitutionsmatriser, homologimodellering, treadening modellering
+och Ab Initio modellering tas upp. En orientering om systembiologi
+och syntetisk biologi ges.
+Exempel på övningar är: databassökning (både med sökord
+och sökning av sekvenser som liknar en känd sekvens) samt
+tolkning av sökresultatet, fylogenetisk utvärdering av
+sannolikheten för att en tandläkare smittat sina patienter med
+HIV, teoretisk utveckling av en analysmetod för att bestämma
+könet på en människa med hjälp av PCR, samt övning i
+proteinmodulering.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig och problemorienterad hemtentamen. Rapport från datorövningar.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: KBKF01/KBK041 Genteknik
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: KBK075
+Kurslitteratur
+
+Arthur M. Lesk : Introduction to Bioinformatics, 4th ed. Oxford University Press, 2014, ISBN: 9780199651566.
+Datorövningskompendium.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Forskare Johan Svensson-Bonde, Johan.Bonde@tbiokem.lth.se
+Hemsida: http://www.tbiokem.lth.se
+
+
+

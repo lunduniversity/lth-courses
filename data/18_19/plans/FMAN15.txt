@@ -1,0 +1,94 @@
+
+
+Kursplan för
+Olinjära dynamiska system
+Nonlinear Dynamical Systems
+FMAN15, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning F/Pi
+Beslutsdatum: 2018-03-23
+Allmänna uppgifter
+Valfri för: D4, F4, F4-bs, F4-bm, Pi4-bs, Pi4-ssr, Pi4-biek
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Att ge kännedom om och förtrogenhet med begrepp och metoder
+från teorin för dynamiska system som är viktiga för
+tillämpningar inom i stort sett alla naturvetenskapliga och
+tekniska ämnen. Därutöver skall kursen allmänt utveckla
+studentens förmåga att tillägna sig och kommunicera matematisk
+teori, att uttrycka naturvetenskapliga och tekniska problem i
+matematiska termer och att lösa problem med hjälp av teorin för
+dynamiska system.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna självständigt redogöra för olika metoder för att
+kvalitativt och kvantitativt beskriva lösningsmängden till
+ordinära differentialekvationer och differensekvationer.
+kunna redogöra för grundläggande bifurkationsteori och dess
+relevans i tekniska sammanhang.
+kunna redogöra för den matematiska betydelsen av
+begreppet kaotiskt beteende och dess relevans i tekniska
+sammanhang.
+
+ 
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna välja och använda metoder som är lämpliga för att
+kvalitativt eller kvantitativt beskriva lösningsmängden till
+ordinära differentialekvationer och differensekvationer.
+kunna använda bifurkationsteori för att kvalitativt beskriva
+parameterberoendet för dynamiska system hämtade från
+tillämpningar inom naturvetenskap och teknik.
+kunna självständigt identifiera och beskriva s k kaotiskt
+beteende i exempel hämtade från tillämpningarna.
+kunna skriva Matlab- eller Mapleprogram för att lösa
+matematiska problem inom kursens ram.
+i tal och i skrift, logiskt sammanhängande och med adekvat
+terminologi, kunna redogöra för lösningen till matematiska
+problem inom kursens ram.
+med tillgång till biblioteksresurser självständigt
+kunna tillgodogöra sig och sammanfatta innehållet i teknisk text
+i vilken metoder och resultat från teorin för dynamiska system
+används.
+
+ 
+
+Kursinnehåll
+Tidskontinuerliga och tidsdiskreta dynamiska system.
+Fixpunktssatsen och Picards sats om existens och entydighet av
+lösningar till ordinära differentialekvationer. Fasrumsanalys och
+Poincarés geometriska metoder. Lokal stabilitetsteori (Lyapunovs
+metod och Hartman-Grobmans sats). Centrala mångfaldssatsen.
+Grundläggande lokal bifurkationsteori. Globala bifurkationer och
+övergång till kaos. Kaotiska och säregna attraktorer (dynamik,
+kombinatorisk beskrivning).
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig och/eller muntlig tentamen enligt beslut av examinator. Inlämningsuppgifter som skall vara slutförda före tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: FMAF05 System och transformer, eller motsvarande.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FMA140, FMA141
+Kurslitteratur
+
+Natiello, M. & Schmeling, J: Lecture notes in Nonlinear Dynamics. Matematikcentrum, 2013. Distribueras av institutionen.
+Solari, H.G., Natiello M.A. & Mindlin, G.B: Nonlinear dynamics, A two-way trip from physics to mathematics. Taylor & Francis, 1996, ISBN: 0750303808. Bredvidläsning.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Anders Holst, studierektor@math.lth.se
+Lärare: Mario Natiello, mario@maths.lth.se
+Lärare: Jörg Schmeling, joerg@maths.lth.se
+Kursadministratör: Studerandeexpeditionen, expedition@math.lth.se
+Hemsida: http://www.maths.lth.se/course/newnonlin/
+
+
+

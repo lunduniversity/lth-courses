@@ -1,0 +1,104 @@
+
+
+Kursplan för
+Nanomekanik och flerskalig modellering
+Nano Mechanics and Multiscale Modelling
+FMEN25, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning M
+Beslutsdatum: 2018-03-27
+Allmänna uppgifter
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Materialegenskaper härstammar ur fenomen på skalor från
+Ångström till meter. En flerskalig behandling kan ge en grund
+för förståelsen av materialbeteendet på olika nivåer. Kursen
+vänder sig till studenter på masternivå och till doktorander.
+Syftet med kursen är att presentera teorier och metoder för
+flerskalig modellering av material och att presentera relationen
+mellan atomistiska beskrivningar och kontinuumsmekanik. Kursen ger
+grundläggande kunskaper om principer, begrepp och metoder i
+nanomekanik, baserade på Euler-Langranges, Hamiltons och
+Schrödingers formuleringar av de mekaniska lagarna. De allmänna
+begreppen och principerna presenteras och kombineras med
+interatomistiska potentiella funktioner för olika typer av
+material. Kursen presenterar också grunderna till klassisk
+statistisk mekanik, kvantmekanik och ger en grund för fortsatta
+studier inom molekylärdynamik.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+besitta kunskap om hierarkin av fysikaliska modeller
+tillämpa grundläggande ekvationer - Euler-Lagrange, Hamilton
+och Schrödinger
+kunna förklara och applicera grundläggande atomistiska
+potentialfunktioner
+besitta kunskap om de viktigaste principerna inom
+molekyldynamiken
+ha kunskap om relationerna mellan klassisk statistisk mekanik,
+kvantmekanik och kontinuumsmekanik
+
+ 
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+ 
+
+tillämpa och analysera potentialfunktioner för olika typer av
+system
+kunna formulera och numeriskt lösa enkla molekylärdynamiska
+problem
+kunna analysera ett nanomekaniskt problem och presentera
+resultaten i en välskriven rapport.
+
+ 
+ 
+ 
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+ 
+ 
+
+anta ett kritiskt och innovativt förhållningssätt till
+flerskalig modellering
+kunna värdera erhållna resultat utifrån problemformulering
+samt fysiska begränsningar
+
+ 
+ 
+
+Kursinnehåll
+Introduktion till hierarki av fysiska materialmodeller.
+Kontinuumsmekanik och termodynamik. Gitter och kristallstrukturer.
+Kvantmekanik. Empiriska atomistiska modeller for material.
+Molekylärstatik. Atomistiska kontinuumgrundbegrepp: klassisk
+jämvikt, statistisk mekanik, mikroskopiska uttryck för
+kontinuumfält, molekylärdynamik. Flerskaliga metoder: multi
+modellering, atomistiska konstitutiva relationer för kristaller,
+atomistisk-kontinuum koppling: statiska metoder, förhöjd
+temperatur och dynamik. Översikt över tillverkningstekniker för
+nanostrukturer och moderna experimentella metoder på
+nanonivå.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Godkända inlämningsuppgifter, projektarbete och skriftlig tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper:  Grundläggande kontinuumsmekanik, FMEN21 eller motsvarande
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Ellad B. Tadmor and Ronald E. Miller: Modeling Materials: Continuum, Atomistic and Multiscale Techniques. Cambridge University Press, 2011, ISBN: 978-0-521-86698-0.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Aylin Ahadi, aylin.ahadi@mek.lth.se
+Hemsida: http://www.mek.lth.se
+
+
+

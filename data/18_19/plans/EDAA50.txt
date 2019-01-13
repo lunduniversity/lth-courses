@@ -1,0 +1,83 @@
+
+
+Kursplan för
+Programmeringsteknik
+Programming, First Course
+EDAA50, 7,5 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning C/D
+Beslutsdatum: 2018-04-03
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: BME1, N1
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Studenterna ska lära sig att skriva små och medelstora
+datorprogram och få grundläggande insikter i objektorienterad
+programmering och programspråket Java.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna förklara grundläggande begrepp inom objektorienterad
+och imperativ programmering
+kunna förklara och ge exempel på användning av
+grundläggande algoritmer, till exempel för sökning och
+sortering
+kunna beskriva och ge exempel på användning av enkla
+datastrukturer som vektorer, matriser och listor
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna konstruera och implementera algoritmer för att lösa
+enkla uppgifter
+kunna implementera Javaklasser utgående från givna
+specifikationer
+kunna strukturera program, både med hjälp av underprogram och
+med hjälp av klasser och metoder
+kunna använda enkla verktyg för att skriva in, testa och
+felsöka program
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna bedöma svårighetsgraden att skriva olika program
+
+
+Kursinnehåll
+Om program som modeller av verkliga system. Objekt och
+operationer, klasser och metoder. Grundläggande
+programkonstruktioner, grundläggande algoritmer. Datastrukturer:
+vektorer, klassen ArrayList. Arv, polymorfism. Strängklasser.
+Objektorienterad systemutveckling.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Tentamen är skriftlig. För deltagande i tentamen fordras att de obligatoriska momenten är godkända. Slutbetyg på kursen baseras på resultatet av tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Tentamen. 
+Antal högskolepoäng: 3. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen. Slutbetyg på kursen baseras på betyget på denna tentamen. För att få deltaga i tentamen krävs att de obligatoriska momenten är godkända.  Delmomentet omfattar: Skriftlig tentamen. 
+Kod: 0217. Benämning: Datorlaborationer och inlämningsuppgifter. 
+Antal högskolepoäng: 4,5. Betygsskala: UG.  Prestationsbedömning: För godkänt krävs fullgjorda datorlaborationer och godkända inlämningsuppgifter. Detaljerade föreskrifter angående fullgörande av obligatoriska moment kommer att finnas i kursprogrammet.   Delmomentet omfattar: Datorlaborationer och inlämningsuppgifter. 
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: EDA011, EDA010, EDA015, EDA016, EDA017, EDA390, EDA500, EDA501, EDA616, EDA618, EDAA10, EDAA20, EDAA55, EDAA65, EDAA45
+Kurslitteratur
+
+Meddelas senare.
+
+
+Kontaktinfo och övrigt
+Studierektor: Studierektor, dl_studierektor@cs.lth.se
+Kursansvarig: Patrik Persson, patrik.persson@cs.lth.se
+Hemsida: http://cs.lth.se/edaa50
+Övrig information: Kursen får inte läsas av den som påbörjat EDAA55. Kursen får inte ingå i examen samtidigt med EDAA55.
+
+
+

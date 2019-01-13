@@ -1,0 +1,119 @@
+
+
+Kursplan för
+Introduktion till mikroekonomisk teori
+Introduction to Microeconomic Theory
+EXTA40, 6 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning I
+Beslutsdatum: 2018-03-20
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: I2, Pi2
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Syftet med kursen är att ge kursdeltagaren en välavvägd
+översikt över mikroekonomisk teori och dess centrala
+frågeställningar och en god kunskapsgrund inför fortsatta
+studier i nationalekonomi.
+I synnerhet syftar kursen till att skapa förståelse för
+marknaders funktionssätt, hur producenter och konsumenter gör
+sina val och hur ekonomins aktörer gynnas och missgynnas av
+statlig inblandning (reglering, skatter, subventioner etc.) på
+marknader.
+Tonvikt läggs i den teori som kan antas vara av särskilt
+intresse för studenter inom programmen för industriell ekonomi
+och teknisk matematik: produktionsteori och producenters beteende
+under olika marknadsformer (industriell organisation).
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+Efter genomgången kurs ska deltagaren ha förståelse för:
+vilka krafter som bestämmer priser på marknader,
+hur statlig inblandning på en marknad påverkar marknaden och
+dess aktörer,
+vad som avgör aktörers priskänslighet och vilka konsekvenser
+olika grad av priskänslighet har,
+den grundläggande mikroekonomiska teorin kring produktion och
+producentens beteende i olika konkurrenssituationer,
+den grundläggande mikroekonomiska teorin kring konsumentens
+beteende och den grundläggande teorin kring externaliteter och
+kollektiva varor.
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+Efter genomgången kurs ska deltagaren ha förmåga att
+tillämpa grundläggande analysverktyg (mikroekonomiska modeller)
+för att:
+analysera hur utbud, efterfrågan och pris på en marknad
+påverkas av externa faktorer,
+uppskatta marknadsaktörers priskänslighet och analysera
+effekter utifrån aktörers olika priskänslighet,
+analysera och redogöra för vinnare och förlorare på en
+marknad till följd av statlig inblandning
+utifrån mikroekonomisk teori, redogöra kring producentens
+optimala beteende under olika marknadsformer,
+identifiera marknader med externaliteter och redogöra för
+lösningar för att korrigera för dessa externaliteter
+diskutera och redogöra för välfärdseffekter av regleringar
+och marknadsmisslyckanden.
+i skrift ta ställning till ekonomiska påstpenden utifrån
+mikroekonomisk teori och bedöma i vilken utsträckning de
+överensstämmer med teorins implikationer.
+ 
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+Efter genomgången kurs ska deltagaren förstå skillnaden i
+positiva och normativa ekonomiska påståenden. Deltagaren ska
+också ha utvecklat en förmåga att kunna diskutera en teoris
+antaganden och deras implikationer.
+
+Kursinnehåll
+Kursen ger en introduktion till mikroekonomisk teori och kan
+delas in i fyra delar. Den första delen består av teorin kring
+utbud, efterfrågan och jämvikt på en marknad och utgör grunden
+för studier i nationalekonomi. Andra delen består av
+konsumtionsteori, d v s teorin kring individens ekonomiska
+beteende och beslutsfattande. Del 3 består av produktionsteori och
+behandlar företagets agerande under olika marknadsformer
+(fullständig konkurrens, monopol, oligopol och monopolistisk
+konkurrens). Den fjärde och sista delen behandlar två former av
+”marknadsmisslyckanden” –externaliteter och kollektiva varor.
+Här analyseras hur samhället kan handskas med produktion och
+distribution av varor för vilka marknaden på egen hand inte
+åstadkommer den önskvärda lösningen.
+Kursen vilar i huvudsak på tre komponenter: föreläsningar,
+kurslitteratur och övningsuppgifter. Till varje del finns
+övningsuppgifter och ett tillhörande övningsseminarium.
+Övningsuppgifterna syftar dels till att fylla den pedagogiska
+funktionen att frambringa förståelse för den mikroekonomiska
+teorin, dels att träna kursdeltagaren i tillämpningen av de olika
+analysverktygen.
+Som ett komplement till övningsuppgifterna, ingår en
+inlämningsuppgift i kursen. Syftet med denna är att låta
+kursdeltagaren på ett mer fördjupat och utförligt sätt
+tillämpa en viss teoridel på ett aktuellt samhällsekonomiskt
+fenomen.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examinationen består av en skriftlig tentamen (85 % av prestationsbedömning), som äger rum i slutet av kursen, och en frivillig inlämningsuppgift (15 % av prestationsbedömning) som kan lämnas in vid endast ett tillfälle per läsår. Betyg sätts enligt LTH:s betygsskala (underkänt, 3, 4, 5). 5: 84–100%, 4: 66–83%, 3: 50–65%, U: 0–49%.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: GEMA35, TEK115, TEK116
+Kurslitteratur
+
+Axelsson, Roger m.fl.: Mikroekonomi. Studentlitteratur, 1998, ISBN:  ISBN: 978-91-44-00738-0.
+Kompletterande material.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Erik Grenestam, erik.grenestam@nek.lu.se
+Hemsida: http://www.nek.lu.se
+
+
+

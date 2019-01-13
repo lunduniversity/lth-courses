@@ -1,0 +1,106 @@
+
+
+Kursplan för
+Vätgas, batterier och bränsleceller
+Hydrogen, Batteries and Fuel Cells
+MVKF25, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning M
+Beslutsdatum: 2018-03-27
+Allmänna uppgifter
+Valfri för: M4
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Kursen syftar till att ge grundläggande kunskap om vätgas som
+energibärare och olika metoder för att framställa det. Vidare
+avser kursen att ge kunskap om batterier och bränsleceller och
+färdighet att beskriva och analysera elektrokemisk omvandling.
+Underlag för att kunna diskutera vätgas som energibärare och
+dess tekniska sociala och ekonomiska konsekvenser i framtida
+energisystem.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+ 
+
+kunna visa fördjupade kunskaper om förnybar vätgas genom att
+redogöra för olika tillverkningssätt. speciellt framställning
+av vätgas från solenergi och vindenergi
+kunna diskutera vätgas som energibärare ur ett
+livscykelperspektiv
+kunna redogöra för olika sätt att lagra vätgas, t.ex.
+fördjupade kunskaper om metallhydrider
+kunna förklara sambandet mellan materialegenskaper och
+batteriers och bränslecellers prestanda
+kunna beskriva energirelevanta material och elektrokemisk
+omvandling genom att redogöra för superkondensatorer, batterier
+och bränsleceller
+kunna simulera en bränslecell i t.e.x.  MATLAB
+kunna diskutera vätgas som energibärare samt dess tekniska,
+sociala och ekonomiska konsekvenser i framtida energisystem
+
+ 
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+ 
+
+Kunna analysera och beskriva samt diskutera bränsleceller och
+batteriers funktion och roll i energisystemet
+Kunna genomföra simuleringar av bränslecellers funktion och
+prestanda
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+ 
+
+kunna aktivt deltaga i diskussioner kring inom ämnet relevanta
+problem
+kunna i tal och skrift presentera en teknisk rapport
+innehållande beskrivning och analyser av batterier och
+bränsleceller
+
+
+Kursinnehåll
+ 
+
+Kursen behandlar de vanliga sekundära batterisystemens kemi
+och funktion, t.ex. litium-jon batteriet. Superkondensatorer och
+olika bränslecelltyper presenteras och energirelevanta material
+samt elektrokemisk omvandling beskrivs och analyseras.
+Elektrokemisk omvandling modelleras. Oika sätt att framställa
+vätgas diskuteras och livscykelanalys av vätgas och
+bränsleceller presenteras.
+Föreläsningar, övningar, projektarbete samt seminarier
+ingår.
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen i slutet av kursen. Mindre obligatoriska projekt och seminarier.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+MMVF01 Termodynamik och strömningslära eller motsvarande
+
+
+Förutsatta förkunskaper: Termodynamik, strömningslära, värmeöverföring.
+Begränsat antal platser: Nej
+Urvalskriterier: Övriga valda kurser
+Kursen kan ställas in: Om färre än 12 anmälda.
+Kursen överlappar följande kurser: MVK160
+Kurslitteratur
+
+Berg, H.: Batteries for Electric Vehicles. Cambridge Univ. Press, 2015.
+Macfie, D.: Vätgas och bränsleceller-Ny energi för världen. VTI, 2002. Kompletteras med engelskt material.
+Revankar, S., Majumdar, P.: Fuel cells- principles, design and analysis. CRC Press, 2014.
+
+
+Kontaktinfo och övrigt
+Examinator: Bengt Sundén, bengt.sunden@energy.lth.se
+
+
+

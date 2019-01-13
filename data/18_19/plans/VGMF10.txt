@@ -1,0 +1,83 @@
+
+
+Kursplan för
+Geodesi
+Geodesy
+VGMF10, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning V
+Beslutsdatum: 2018-03-27
+Allmänna uppgifter
+Alternativobligatorisk för: L3
+Valfri för: L4-gi, V4-at, V4-tv
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Kursens syfte är att ge fördjupade kunskaper om begrepp och
+metoder inom satellitgeodesi (GPS) och geodetisk mätningsteknik
+med tillämpningar på verklighetsnära problem. Vidare är syftet
+att ge grundläggande kunskaper om metoder som används för
+geodatainsamling och kartläggning med UAV (drönare) och
+laserskanning (Lidar).
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+ha förståelse och kunskap om de samband som utgör
+förutsättning för kombinationen av satellitpositionering och
+terrester mätning
+kunna formulera olika typer av matematiska modeller för
+geodetiska problemställningars lösning med hjälp av såväl
+minsta-kvadratberäkningar (MK) som andra beräkningsmodeller
+kunna förstå och utforma lösningar av olika praktiska
+problemställningar enlig föreskrifter och normer.
+kunna förklara metoder som används för insamling av geodata
+samt kartläggning med drönare och Lidar
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna analysera och tolka beräkningsresultat från skilda
+typer av felteoretiska beräkningar.
+kunna bedöma tillförlitlighet av en MK-beräkning.
+
+
+Kursinnehåll
+Geodesins grundbegrepp och definitioner, referenssystem och
+kartprojektioner, transformationer, plan- och höjdmätning,
+felteori. Satellitpositionering, datainsamling och kartläggning
+med terrester mätning, drönare och Lidar. Stor vikt läggs till
+sambandet mellan lägesbestämningar baserade på flygburna metoder
+(t.ex. Lidar, drönare), satellitteknik GPS och terrestert utförda
+lägesbestämningar.
+Undervisningen omfattar föreläsningar, övningar och
+fältövning.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen, godkänt på inlämningsuppgift samt deltagande i fältövning. För betyg tre behövs det att bli godkänd på all uppgifter samt fältövningen. Den skriftliga tentamen i slutet av kursen är inte obligatorisk för betyg tre. För extra betyg (fyra och fem) krävs dock den skriftliga tentamen i slutet av kursen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+V: VGMF15 Geodetisk mätningsteknik L: EXTA50 Samhällsmätning IB: VGM630 Geodesi, introduktion ELLER VGMA05 Geodetisk mätningsteknik
+
+
+Förutsatta förkunskaper: FMA420 Linjär algebra ELLER FMAB20 Linjär algebra.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: VGM021
+Kurslitteratur
+
+Engelska handouts och vetenskapliga artiklar.
+Geodetisk och fotogrammetrisk mätnings- och beräkningsteknik,
+ skrivit av Lantmäteriet, KTH, LU, HiG, KS.
+http://www.lantmateriet.se/globalassets/om-lantmateriet/var-samverkan-med-andra/handbok-mat--och-kartfragor/utbildning/kompendium20131028.pdf.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Sadegh Jamali, sadegh.jamali@tft.lth.se
+Hemsida: http://www.tft.lth.se
+
+
+

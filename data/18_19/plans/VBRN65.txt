@@ -1,0 +1,115 @@
+
+
+Kursplan för
+Industribrandskydd
+Industrial Fire Protection
+VBRN65, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning BI/RH
+Beslutsdatum: 2018-03-20
+Allmänna uppgifter
+Obligatorisk för: BI3
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Syftet med kursen är att tillföra studenten kunskaper inom
+områdena aktiva och passiva system och ventilationsbrandskydd.
+Genom att i en projektuppgift sammanföra och tillämpa kunskaper
+från tidigare kurser ges studenten insikt i hur dessa kunskaper
+kan användas för att analysera, värdera och dimensionera
+brandskyddssystem.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna applicera kunskaper från kursen Brandskyddssytem på ett
+verkligt objekt.
+kunna beskriva och identifiera regler och
+dimensioneringsmetoder för de vanligaste typerna av
+detektionssystem och aktiva släcksystem.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna analysera konsekvensen och behovet av aktiva och passiva
+system och system för ventilationsbrandskydd baserat på
+förutsättningarna i ett objekt, objektägarens skyddsmål samt
+risker för skador på människa, egendom och miljö.
+kunna tillämpa kunskaper från tidigare kurser för att välja
+lämpliga brandskyddssystem.
+kunna använda relevanta regler från Brandskyddsföreningen om
+aktiva system (SBF regler), samt känna till internationella regler
+på området, t.ex. sprinklerregler från NFPA.
+förstå och använda facktermer inom områdena aktiva och
+passiva system och system för ventilationsbrandskydd i både tal
+och skrift.
+muntligt och skriftligt kunna beskriva aktiva och passiva
+system och system för ventilationsbrandskydd och förklara för
+både lekmän och experter hur de fungerar .
+muntligt och skriftligt kunna beskriva brandtekniska problem
+och lösningar, vilka bygger på aktiva och passiva system och
+system för ventilationsbrandskydd, för både lekmän och
+experter.
+muntligt kunna framföra konstruktiv kritik relaterat till
+brandtekniska lösningar med aktiva och passiva system och system
+för ventilationsbrandskydd.
+självständigt kunna söka efter litteratur och information
+inom aktuellt område.
+visa förmåga till lagarbete och samverkan i grupparbete.
+visa förmåga att planera och med adekvata metoder genomföra
+en större projektuppgift med focus på brandskyddssystem.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+visa förmåga att bedöma brandskyddssystem med hänsyn till
+relevanta tekniska, ekonomiska och miljömässiga aspekter,
+kunna bedöma ingenjörsmässiga lösningar med hänsyn till
+vetenskapliga, samhälleliga och etiska aspekter.
+visa förmåga att identifiera sitt behov av ytterligare
+kunskap och fortlöpande utveckla sin kompetens.
+
+
+Kursinnehåll
+Kursen genomförs i form av ett projektarbete i grupp. Arbetet
+går ut på att studenterna besöker ett verkligt objekt i
+samhället. Utifrån objektets förutsättningar, objektägarens
+skyddsmål samt risker för skador på människor, egendom och
+miljö skall studenterna utvärdera befintliga och dimensionera nya
+brandskyddssystem. Projektarbetet ska presenteras vid ett
+seminarium i slutet av kursen. Vid seminariet deltar objektägare,
+representanter från räddningstjänsten, studenter och lärare.
+Studenterna ska även opponera på en annan grupps arbete vid det
+avslutande seminariet.
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: Godkänd projektuppgift med skriftlig och muntlig presentation inklusive opponering på annan grupps arbete.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+VBRF20 Brandkemi - värmetransport
+
+
+Förutsatta förkunskaper: VBRF10 Branddynamik. VBRN60 Brandskyddssystem
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: VBR082
+Kurslitteratur
+
+Nilsson, D. & Holmstedt, G.: Kompendium i Aktiva system - Detektion, Report 7030. Brandteknik LTH, 2007.
+Särdqvist, S.: Vatten och andra släckmedel. SRV, 2002, ISBN: 91-7253-145-2.
+Marcus Runefors: Kompendium i Aktiva system – Sprinkler , Report 3193. Department of Fire Safety Engineering, 2015.
+Kompletterande stenciler.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Bjarne Husted, bjarne.husted@brand.lth.se
+Övrig information: I grupparbeten förutsätts aktivt deltagande. Varje gruppmedlem skall enskilt kunna redovisa och svara för innehållet. Uppfyller inte en medlem övrigas krav på aktiv medverkan, eller åsidosätter sina åtaganden, kan beslut av examinator om omplacering till annan grupp eller underkänt betyg erhållas.
+
+Några föreläsningar kan komma att ges på engelska. 
+
+
+

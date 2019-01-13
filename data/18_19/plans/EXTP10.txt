@@ -1,0 +1,91 @@
+
+
+Kursplan för
+Mikroekonomi - strategisk interaktion
+Microeconomics - Strategic Interaction
+EXTP10, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning I
+Beslutsdatum: 2018-03-20
+Allmänna uppgifter
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Syftet med kursen är att ge kunskaper om spelteori.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+• förstå och kunna förklara statiska och dynamiska spel,
+perfekt, fullständig och ofullständig information, strategisk och
+extensiv form och strategiska substitut och komplement,
+• förstå och kunna beskriva lösningskoncepten dominans
+(strikt och svag), upperpad strikt dominans, rationaliserbarhet,
+Nash-jämvikt, delspelsperfekt jämvikt och perfekt Bayesiansk
+jämvikt, liksom kopplingen mellan dessa koncept,
+• kunna formalisera konkurrenssituationer och andra
+samhälleliga och ekonomiska interaktionssituationer som spel,
+• förstå och kunna beskriva de grundläggande koncepten i
+”mechanism design”: strategisäkerhet,
+Groves–Clark-mekanismen och Gibbard–Satterthwaite-teoremet,
+• förstå och kunna beskriva de grundläggande koncepten i
+samhällelig beslutsteori: Mays teorem och Arrows
+omöjlighetsteorem,
+• förstå och kunan beskriva de grundläggande koncepten inom
+matchningsteori: matchning av många till en,
+tvåsidesmatchningsmarknades, strategisäkerhet, stabilitet,
+kärnan,
+• få kunskap om hur alternativa beteendeantaganden kan
+införlivas i spel och vilka nya förutsägelser det leder
+till.
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+• analysera konkurrenssituatyioner och andra samhälleliga
+opch ekonomiska interaktionsproblem som spel med tillämpliga
+lösningskoncept.
+• Studenten ska kunna redogöra för och diskutera sina
+kunskaper.
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+Studenten ska utveckla förmåga till vidare studier inom ämnet
+samt söka och utvärdera information med hög grad av
+självständighet.
+
+Kursinnehåll
+Kursens första del behandlar teorin för icke-kooperativa spel
+och des ekonomiska tillämpning. Fokus ligger på statiska och
+dynamiska spel med fullständig information men även enklare spel
+med ofullständig information, framför allt signaleringsspel,
+behandlas. Kursens andra del behandlar teorin för “mechanism
+design”, teorin för samhälleligt beslutsfattande och
+matchningsteori. Fokus ligger på grundläggande koncept men viss
+tid ägnas åt dynamiska processer/algoritmer och
+beräkningsprocedurer. Kursen avslutas med att introducera
+alternative beteendeantaganden.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: är skriftlig och äger rum vid slutet av kursen. Inlämningsuppgifter kan förekomma.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+EXTP50 Avancerad mikroekonomisk analys
+
+
+Begränsat antal platser: Nej
+Kursen kan ställas in: Om färre än 8 anmälda.
+Kursen överlappar följande kurser: TEK145
+Kurslitteratur
+
+Mas-Colell Andreu, Michael D. Whinston och Jerry R. Green (1995): Microeconomic Theory, Oxford University Press
+
+Kompletterande material.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Erik Mohlin, erik.mohlin@nek.lu.se
+
+
+

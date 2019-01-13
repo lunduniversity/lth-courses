@@ -1,0 +1,114 @@
+
+
+Kursplan för
+Riskhantering i byggtekniska tillämpningar
+Risk Management in Construction Technology Applications
+VBKN10, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning V
+Beslutsdatum: 2018-03-27
+Allmänna uppgifter
+Valfri för: V5-hb, V5-at
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Kursen skall ge förståelse för osäkerheter och risker i
+byggtekniska system och förtrogenhet med verktyg och metoder för
+att hantera osäkerheter vid projektering av byggnader och
+infrastrukturanläggningar.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+förstå och värdera osäkerheter för såväl påverkningar
+som egenskaper hos tekniska system i byggnader och
+anläggningar.
+förstå och kunna använda olika metoder och verktyg för att
+hantera sådana osäkerheter i projektering och byggande
+förstå bakgrunden till metoder för säkerhetsverifiering som
+används vid praktisk projektering
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna statistiskt utvärdera ett datamaterial så att det kan
+användas i såväl praktisk projektering av nya byggnadsverk som
+utvärdering av befintliga konstruktioner och byggnadstekniska
+system
+kunna använda systematisk statistisk metodologi och
+datormjukvara för att verifiera sannolikheten att funktionskrav
+och säkerhetskrav är uppfyllda.
+kunna självständigt söka och kritiskt värdera information
+om osäkerheter hos faktorer som påverkar byggnaders och
+anläggningars funktion och säkerhet.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+vara medveten om att ingenjörsmässiga metoder ger resultat
+som alltid är behäftade med osäkerhet
+kunna värdera graden av denna osäkerhet med hänsyn till
+problemets art.
+
+
+Kursinnehåll
+Kursen behandlar:
+
+Relevanta grundbegrepp i sannolikhetsteorin
+Gränstillstånd för funktion och säkerhet
+Analysmetoder för generella tillförlitlighetsproblem
+Osäkerheter hos laster och påverkningar
+Osäkerheter i funktion hos konstruktioner och byggnadstekniska
+komponenter
+Kalibrering av beräkningsregler
+Utvärdering av existerande konstruktioner med hänsyn till
+tillgänglig information
+
+Kursen ger en systematisk, statistisk metodologi för att
+analysera och hantera osäkerheter kring säkerhet och funktion i
+byggtekniska tillämpningar, som stöd för dimensionering och
+utformning med hänsyn till bärförmåga, deformationer,
+vibrationer, energiprestanda, fuktsäkerhet, innemiljö och
+beständighet. Kursen avser att ge studenten en tillämpad
+förståelse.
+Kursen baseras på föreläsningar, övningar och en större
+projektuppgift. Projektuppgiftens tillämpningsområde väljs efter
+elevens intresse och kan koppla mot t.ex. konstruktionsteknik,
+byggnadsfysik, byggnadsmaterial och installationsteknik. I kursen
+används datorverktyg bl.a. specialprogram för
+tillförlitlighetsanalys.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examinationen baseras på muntlig tentamen samt obligatorisk projektuppgift.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0115. Benämning: Tentamen. 
+Antal högskolepoäng: 4,5. Betygsskala: TH.  Prestationsbedömning: Tentamen 
+Kod: 0215. Benämning: Projektuppgifter. 
+Antal högskolepoäng: 3. Betygsskala: UG.  Prestationsbedömning: Projektuppgifter. Kraven på rapporten är sådana att inte bara beräkningarna bedöms utan även kvaliteten på presentationen bedöms, dvs rapporten ska vara av beskrivande karaktär och inte bara innehålla beräkningsgång och resultat. 
+Antagningsuppgifter
+Förkunskapskrav:
+VBFN01 Hållbart byggande eller VBKN05 Betongbyggnad eller VBMN10 Betong i livscykelperspektiv
+
+
+Förutsatta förkunskaper: FMS032 Matematisk statistik ELLER FMSF50 Matematisk statistik
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Daalsgaard- Sörensen J., Alborg University: Notes in Structural Reliability Theory And Risk Analysis. 2004.
+STRUREL, Software for reliability analysis, Munchen.
+Rychlik, I & Ryden, J: Probability and Risk Analysis. An Introduction for Engineers. Springer Verlag, 2006, ISBN: 978-3-540-24223-9. This book is available as e-book without cost for students at Lund University, see course web-site.
+
+
+Kontaktinfo och övrigt
+Studierektor: Oskar Larsson, oskar.larsson@kstr.lth.se
+Kursansvarig: Ivar Björnsson, ivar.bjornsson@kstr.lth.se
+Hemsida: http://www.kstr.lth.se
+Övrig information: Kurshemsidan finns på Live@Lund.se. Registrerade studenter får inloggning till kurshemsidan. Kort info finns på www.kstr.lth.se/utbildning.
+
+
+

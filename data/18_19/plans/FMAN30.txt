@@ -1,0 +1,100 @@
+
+
+Kursplan för
+Medicinsk bildanalys
+Medical Image Analysis
+FMAN30, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning F/Pi
+Beslutsdatum: 2018-03-23
+Allmänna uppgifter
+Valfri för: BME4-sbh, BME4-br, C5, D4, E4-mt, F4, F4-bm, Pi4-bg, Pi4-biek
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Kursens huvudsyfte är att ge en grundläggande introduktion
+till teori och matematiska metoder inom medicinsk bildanalys, i
+tillräcklig omfattning för att göra det möjligt för studenten
+att ta sig an  medicinska bildbehandlingsproblem. Vidare är
+syftet att få studenten att utveckla sin förmåga till
+problemlösning, både med och utan dator. Ett ytterligare syfte
+är att förbereda studenten för fortsatta studier och forskning i
+gränslandet mellan medicin och teknik.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna tydligt förklara och självständigt använda
+matematiska grundbegrepp inom medicinsk bildanalys, speciellt med
+avseende registrering, segmentering och klassificering.
+kunna beskriva och översiktligt förklara några av de olika
+bildinfångningstekniker som används inom medicinsk bildanalys, t
+ex Röntgen, X-ray Computed Tomography (CT), Magnetic Resonans
+imaging (MR), ultraljud, Positron-EmissionsTomografi (PET),
+Scintigrafi (Scint) och Single-Photon Emission Computed Tomography
+(SPECT).
+kunna beskriva och översiktligt förklara den matematiska
+teorin bakom några centrala medicinska
+bildbehandlingsalgoritmer.
+kunna kortfattat beskriva  de statistiska principer som ligger
+till grund för maskininlärning.
+kunna ge exempel på etiska överväganden som blir aktuella
+vid medicinska tillämpningar av bildanalys.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+på ett ingenjörsmässigt sätt kunna använda programpaket
+på dator för att lösa medicinska bildanalysproblem.
+kunna självständigt applicera grundläggande bildtekniker på
+medicinskt och forskningsmässigt relevanta
+bildbehandlingsproblem.
+med adekvat terminologi, väl strukturerat och logiskt
+sammanhängande kunna redogöra för lösningen till ett medicinskt
+bildanalysproblem.
+
+
+Kursinnehåll
+Grundläggande begrepp: Bilder, volymsdata, 4D data,
+pixlar och voxlar, filformat, DICOM (Digital Imaging and
+Communications in Medicine). .
+Bildinfångningstekniker: Röntgen, CT (x-ray Computed
+Tomography), MR (Magnetic Resonance imaging), ultraljud, PET
+(Positron Emission Tomography), Scint (Scintigrafi) och SPECT
+(Single-Photon Emission Computed Tomography).
+Brus och bildförbättring, förlustfri
+kompression.
+Registrering: Registrering av medicinska data.
+Ömsesidig information. Landmärkesbaserade metoder.
+Deformationsmodeller.
+Segmentering: Aktiva konturer i 2D, 3D och 4D, AAM
+(Active Appearance Models). Grafmetoder.
+Maskininlärning: Inlärning, prövning,
+generalisering, hypotesrum
+Utvärdering: Databaser. Etik.
+ 
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Obligatoriska inlämningsuppgifter och muntlig tentamen.
+
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: FMAN20 Bildanalys eller motsvarande
+
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Material tillhandahålles av institutionen.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Anders Holst, studierektor@math.lth.se
+Kursadministratör: Studerandeexpeditionen, expedition@math.lth.se
+Lärare: Anders Heyden, anders.heyden@math.lth.se
+Hemsida: http://www.maths.lth.se/course/medim/
+
+
+

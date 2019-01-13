@@ -1,0 +1,102 @@
+
+
+Kursplan för
+Säkerhet
+Data Security
+EITF55, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning C/D
+Beslutsdatum: 2018-04-03
+Allmänna uppgifter
+Obligatorisk för: IDA3, IEA3
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursens syfte är att göra studenten väl förtrogen med de
+säkerhetsproblem som behöver lösas kring och i datorsystem för
+att en betryggande kommunikation skall kunna upprättas. I en
+värld där kommunicerande datorer är geografiskt utspridda är
+det viktigt att man säkerställer att rätt information når rätt
+och endast rätt mottagare. Kryptering, autentisering,
+nyckelhantering och certifikat är exempel på begrepp som
+klargörs och exemplifieras i kursen.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+förstå och förklara grundläggande säkerhetsproblem och
+lösningar som uppstår i samband med dataanvändning och
+datakommunikation: sekretess, dataintegritet och
+tillgänglighet.
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna upptäcka och identifiera problemställningar som
+uppkommer vid datorhantering och kommunikation mellan datorer
+kunna känna till olika sätt att hantera eller lösa ovan
+angivna problem
+kunna föreslå och/eller redovisa lämpliga åtgärder som
+gängse används för att säkra data vid datahantering och
+datakommunikation
+kunna förklara innebörden av praktiska åtgärder som vidtas
+för att säkra data och datasystem.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+kunna tydligt förklara tankegångar och lösningsmetod för
+inlämningsuppgifter.
+
+Kursinnehåll
+
+Säkerhet och sårbarhetsanalyser
+Tillförlitlig drift
+Vanliga hot mot säkerheten
+Mänskliga misstag
+Virus, maskar och trojaner
+Identitetsverifiering
+Säkra operativsystem
+Säker exekvering
+Behörighetskontroll
+Skyddsbehov vid lagring och kommunikation av information
+Kryptering och kryptoteori
+Kryptobaserade kontrollsummor, signaturer
+Nyckelhantering
+Nätsäkerhet
+Standardlösningar för Internet SSL, TLS, IPsec
+Säkerhet i mobila nät: GSM, 3G, LTE
+Säkerhet för Internet of Things
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: För att erhålla betyget 3 krävs godkänd skriftlig tentamen samt godkända redovisningar av i kursen ingående projekt och inlämningsuppgifter. Högre betyg avgörs via den skriftliga tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0118. Benämning: Skriftlig tentamen. 
+Antal högskolepoäng: 5. Betygsskala: TH.  Prestationsbedömning: Godkänd skriftlig tentamen 
+Kod: 0218. Benämning: Projekt. 
+Antal högskolepoäng: 2. Betygsskala: UG.  Prestationsbedömning: Godkända projekt och projektrapporter 
+Kod: 0318. Benämning: Inlämningsuppgift. 
+Antal högskolepoäng: 0,5. Betygsskala: UG.  Prestationsbedömning: Godkänd inlämningsuppgift 
+Antagningsuppgifter
+Förkunskapskrav:
+De obligatoriska momenten i EDAA10 Programmering i Java fullgjorda.
+
+
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: EDA625
+Kurslitteratur
+
+Stallings & Brown: Computer Security, Principles and Practice, 4th edition. ISBN: 9781292220611.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Ben Smeets, ben.smeets@eit.lth.se
+Hemsida: http://www.eit.lth.se/kurs/eitf55
+
+
+

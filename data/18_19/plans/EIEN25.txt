@@ -1,0 +1,133 @@
+
+
+Kursplan för
+Kraftelektronik - komponenter, omvandlare, reglering och tillämpningar
+Power Electronics - Devices, Converters, Control and Applications
+EIEN25, 15 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning E
+Beslutsdatum: 2018-04-05
+Allmänna uppgifter
+Valfri för: E4-em, M4-me
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Syftet med kursen är att ge en orientering om egenskaperna hos
+moderna halvledarkomponenter och passive komponenter som används
+för kraftelektroniska omvandlare. Kursen ger också förståelse
+rörande funktionen hos kraftelektroniska omvandlare som
+likriktare, switchade nätaggregat, växelriktare för
+motorstyrning och högspänd likström (HVDC) överföring. Kursen
+ger kunskaper rörande reglering av kraftelektroniska omvandlare i
+allmänhet och även i speciella tillämpningar där
+kraftelektronik används som elektromekaniska drivsystem, såsom
+roterande elektriska maskiner, linjärmotorer, högtalare, osv.
+Kraftelektronik i kraftsystemtillämpningar är ett annat område
+som också behandlas i kursen, där speciellt aktiva nätfilter och
+transistorbaserad HVDC undersöks. Projektarbetena syftar till att
+ge ett aktivt kunnande inom simulering, experimentellt arbete och
+utvärdering av kretsar och system inom området
+kraftelektronik.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+enskilt och skriftligt kunna
+
+analysera och förstå kraftelektroniska kopplingar,
+analysera modulationsmetoder (bärvåg och toleransband) för
+kraftelektroniska omvandlare,
+analysera modeller av elektriska maskiner lämpliga för att
+härleda ström-, moment och varvtalsregulatorer.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+uppskatta halvledarförlusterna hos
+switchande kraftelektroniska effektomvandlare,
+formulera modeller av elektriska maskiner lämpliga för att
+härleda ström-, moment och varvtalsregulatorer,
+härleda och implementera ström-, moment- och
+varvtalsregulatorer för elektriska drivsystem i digitala
+signalprocessorer.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+enskilt kunna
+
+välja komponenter för kraftelektroniska effektomvandlare
+baserat på ström- och spänningsnivå samt switch-frekvens,
+bedöma egenskaperna hos ett elektriskt drivsystem i
+jämförelse med andra, icke-kraftelektroniska alternativ.
+
+
+Kursinnehåll
+Föreläsningar
+Switchade nätaggregat, principerna för forward- och
+flyback-omvandlare. Likriktare och växelriktare. Modulation av
+kraftelektroniska effektomvandlare. Reglering av kraftelektroniska
+effektomvandlare. Elektriska maskiner. Regleralgoritmer för
+position, varvtal, moment, flöde och ström härleds baserat
+på dynamiska modeller av elektriska maskiner och
+modulationsmetoder för kraftelektroniska effektomvandlare.
+Nätanslutna kraftelektroniska effektomvandlare: aktiva nätfilter,
+HVDC överföring samt transistorbaserad HVDC överföring.
+Förnyelsebara energisystem. Komponenter: Dioder, bipolära
+krafttransistorer, fälteffektkrafttransistorer (MOSFET), insulated
+gate bipolar transistors (IGBT), tyristorer, släckbara tyristorer
+samt passiva komponenter för kraftelektroniska kretsar.
+Egenskaper, begränsningar, driv- och skyddskretsar diskuteras för
+respektive komponent. Förlustuppskattningar (beräkningar) och
+kylning av kraftelektroniska komponenter och apparater.
+Simuleringar
+Analys av komponenter och byggblock i det switchade nätaggregatet
+och transistorfullbryggan som även undersöks experimentellt vid
+laborationer. Simuleringsprogrammet som används är ett
+kommersiellt tillgängligt programpaket för simulering av
+kraftelektronik.
+Hemuppgifter
+6 hemuppgifter bestående av beräknings- och simuleringsarbete
+täcker kursinnehållet med avseende på elektriska maskiner och
+reglering av elektriska drivsystem. Övningstimmarna används för
+handledning av dessa hemuppgifter.
+Laborativt arbete
+Praktiska aspekter på kraftelektronisk reglering av elektriska
+drivsystem framhålls vid ett flertal laborationstillfällen och
+simuleringsövningar. Experimentell utvärdering av funktionen och
+specification för ett switchat nätaggregat och en
+transistorfullbrygga.
+Projekt
+En rapport rörande praktiska aspekter på kraftelektronisk
+reglering av elektriska drivsystem inklusive resultat baserade på
+hemuppgifterna. En rapport rörande simulering och experimentell
+utvärdering av funktionen och specifikation för ett switchat
+nätaggregat och en transistorfullbrygga. Totalt två
+rapporter.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: För slutbetyg fordras godkända laborationer och simuleringar som redovisas fortlöpande i rapportform. Individuell skriftlig tentamen (5 tim) av problemlösningstyp med insprängda teorifrågor vid kursens slut.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0118. Benämning: Kraftelektronik. 
+Antal högskolepoäng: 10. Betygsskala: TH.  Prestationsbedömning: Tentamen  Delmomentet omfattar: Tentamen 
+Kod: 0218. Benämning: Laborationer och simuleringar. 
+Antal högskolepoäng: 5. Betygsskala: UG.  Prestationsbedömning: Godkända laborationer och rapporter.  Delmomentet omfattar: Godkända laborationer och rapporter. 
+Antagningsuppgifter
+Förutsatta förkunskaper: ESSF01 Analog elektronik, ESS030, ESSF20 Komponentfysik, ESSF15 Elenergiteknik (E) eller MIE012, EIEF35 Elektroteknikens grunder (M) samt FRT010, FRTF05 Reglerteknik, Allmän kurs.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: EIE023, EIE041, EIE015
+Kurslitteratur
+
+Alaküla M, Karlsson P: Kompendium i Power Electronics – Devices, Circuits, Control and Applications. IEA, LTH.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Professor Mats Alaküla, mats.alakula@iea.lth.se
+Hemsida: http://www.iea.lth.se/kel/
+Övrig information: EIEN25 får inte ingå i examen tillsammans med ETEF10 Kraftelektronik.
+
+
+

@@ -1,0 +1,105 @@
+
+
+Kursplan för
+Enhetsoperationer för bioteknik- och livsmedelsindustrin
+Unit Operations in the Biotech and Food Industry
+BLTF01, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning B/K
+Beslutsdatum: 2018-03-21
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: B3
+Valfri för: K4, MLIV1
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+· att knyta i hop och fördjupa kunskaper från tidigare
+grundläggande kurser inom området och ge studenterna en insikt i
+hur dessa kunskaper kan tillämpas på industriella
+frågeställningar.
+· att ge studenterna erfarenhet av tillämpad experimentell
+planering, experimentellt arbete på industriell utrustning i
+pilotskala och utvärdering av experimentella data med syfte att
+lösa en industriell frågeställning med en teoretisk ansats.
+· att träna studenterna i projektarbete, samt muntlig och
+skriftlig redovisning.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+· kunna lösa problemställningar för relevanta
+enhetsoperationer i form av mass- och energibalanser som beskrivs
+som differential ekvationer med hjälp av numeriska verktyg.
+· känna till viktiga industriella enhetsoperationer.
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+· kunna planera och genomföra experiment för en relevant
+enhetsoperation i pilotskala.
+· kunna utnyttja relevanta arbetsmetoder för att lösa
+ingenjörsmässiga frågeställningar för enhetsoperationer
+relevanta för bioteknik- och livsmedelsindustri.
+- arbete i en projektgrupp för att lösa tekniska problem
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+· kunna validera experimentella resultat i förhållande till
+förväntade teoretiskt beräknade
+· kunna se hur man kan utnyttja matematiska och experimentell
+metoder för att lösa mer komplexa tekniska
+problemställningar
+· kunna presentera, diskutera och värdera projektresultat i
+såväl skriftlig som muntlig form.
+
+Kursinnehåll
+Huvuddelen av denna kurs genomförs i form av en
+projektlaboration. En processteknisk problemställning bearbetas i
+projektform. Projektarbetet ger träning i att självständigt
+driva ett projekt och i grupparbete. Projektet innefattar bl.a.
+litteraturstudie, försöksplanering, laborativt arbete på industriell
+utrustning i pilotskala, studier av processernas teori,
+dynamik och framtagning av egna experimentella data behövliga för
+att lösa problemställningen.
+Närvaro vid uppropet, första projektmötet,
+projektgruppsseminarier samt säkerhetsföreläsningen är
+obligatoriskt.
+Inom projektet bedrivs också ett teoriskt arbete i form av
+processimulering för aktuell enhetsoperation med data från det
+egna experimentella arbetet och sådan som finns publicerad i den
+vetenskapliga litteraturen eller om möjligt från industrin.
+Utvärdering och granskning av studentkollegers arbete ingår
+som ett viktigt moment.
+Undervisningen domineras av projektarbete. Varje projektgrupp
+tilldelas en handledare. Tonvikt kommer att läggas vid
+industriella tillämpningar. Kompletterande föreläsningar
+övningar och seminarier ges.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Aktivt deltagande i projektarbetet, opposition, betygsatt skriftlig rapport samt närvaro vid obligatoriska moment.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+KETA10 Processberäkningar eller KLGA01 Livsvetenskapliga processer med beräkningar
+KETF01 Transportprocesser eller KLGN20 Livsmedelsteknik
+
+
+Förutsatta förkunskaper: FMAA01 Endimensionell analys
+FMA430 Flerdimensionell analys
+Begränsat antal platser: 70
+Urvalskriterier: Förtur gäller för studenter på Bioteknikprogrammet.
+Antal poäng som har uppnåtts eller tillgodoräknats på programmet.
+
+Kursen överlappar följande kurser: BLT010, BLT015
+Kurslitteratur
+
+Online kursbibliotek, handouts.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Marilyn Rayner, Marilyn.Rayner@food.lth.se
+Hemsida: http://www.food.lth.se
+
+
+

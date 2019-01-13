@@ -1,0 +1,86 @@
+
+
+Kursplan för
+Matematisk kommunikation
+Mathematical Communication
+FMAA30, 4,5 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning F/Pi
+Beslutsdatum: 2018-03-23
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: Pi1
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Avsikten med kursen är att öka studentens medvetenhet om och
+förståelse för matematiska resonemang. Kursen ger en
+introduktion till matematisk teoribyggnad varvid behovet av en
+stringent teori påvisas genom enkla exempel. Vidare ska studenten
+öva förmågan att söka information och att framlägga och
+presentera matematiska resonemang, även i populärvetenskaplig
+form, samt få en inblick i aktuell och modern matematisk
+forskning.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+vara bekant med och kunna använda grundläggande begrepp inom
+matematisk teoribyggnad.
+kunna översiktligt beskriva de matematiska vetenskaperna
+(geometri, algebra, analys och sannolikhetsteori) och ge exempel
+på forskning i såväl klassisk som modern matematik.
+vara bekant med hur man publicerar ett matematiskt arbete, samt
+känna till några viktiga matematiska tidskrifter.
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+kunna använda sig av logiska resonemang för att analysera och
+lösa matematiska problem som kräver uppdelning i flera
+delproblem.
+kunna söka efter artiklar och tidskrifter i databaser och
+bibliotek innehållande matematisk litteratur, och kunna hantera
+källhänvisningar och referenser enligt rådande standarder.
+i både tal och skrift, med adekvat terminologi, väl
+strukturerat och logiskt sammanhängande kunna redogöra för egna
+och andras lösningar till ett matematiskt problem, samt kunna
+presentera en given matematisk frågeställning på ett
+populärvetenskapligt sätt, muntligt såväl
+som skriftligt.
+skriftligt såväl som muntligt kunna kommentera och kritisera
+en matematisk text eller ett matematiskt resonemang vad gäller
+såväl innehållets giltighet som framställningens form.
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+utveckla ett förhållningssätt till sin
+omgivning, enligt vilket matematiken utgör ett naturligt och
+precist instrument för kommunikation och resonemang.
+
+Kursinnehåll
+Matematisk teoribyggnad. Presentation av de matematiska
+vetenskaperna. En inblick i modern matematik.
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: Inlämningsuppgifter. Muntlig och skriftlig redovisning av projektarbeten, enskilt och i grupp. Obligatorisk närvaro vid projektredovisningarna.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: Kunskaper från parallellt undervisade kurser i analys och linjär algebra.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FMA085
+Kurslitteratur
+
+T. Gowers: Mathematics, A very short introduction. Oxford University Press, 2002, ISBN: 0-19-2853615. Bredvidläsning.
+Kevin Houston: How to Think Like a Mathematician, A Companion to Undergraduate Mathematics. Cambridge University Press, 2009, ISBN: 978-0-521-89546-0. En bok om att läsa, förstå och skriva matematik.
+ISBN-numret refererar till paperback-utgåvan.
+Stenciler med populärvetenskaplig presentation av modern matematik. Delas ut.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Studierektor Anders Holst, Studierektor@math.lth.se
+Lärare: Niels Christian Overgaard, nco@maths.lth.se
+Hemsida: http://www.ctr.maths.lu.se/course/matkom/
+
+
+

@@ -1,0 +1,96 @@
+
+
+Kursplan för
+Empirisk finansiell ekonomi
+Economics, Empirical Finance
+EXTQ30, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning I
+Beslutsdatum: 2018-03-20
+Allmänna uppgifter
+Valfri för: F5, I4, I4-fir, Pi4-fm
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Syftet med kursen är att utveckla studenternas förståelse
+för empiriska modeller i finansiell ekonomi och deras förmåga
+att tillämpa ekonometriska metoder för att testa modellerna.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+Kursens mål är att fördjupa studentens förståelse och
+kunskap om empiriska modeller inom finans. Mer specifikt ska
+studenten efter genomgången kurs ha utvecklat:
+•en djup förståelse för viktiga modeller inom finans,
+•en djup förståelse för ekonometriska metoder som appliceras
+inom finans,
+•förmåga att förstå och utvärdera existerande empiriska
+studier inom finans.
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+Studenten ska ha förmåga att självständigt:
+•tillämpa ekonometriska metoder för att testa finansiella
+modeller,
+•använda de metoder och teorier som de har lärt sig för att
+analysera nya frågor och att göra egna empiriska studier,
+•analytiskt hantera datamaterial och använda vetenskapliga
+metoder för att analysera sådant material,
+•identifiera intressanta finansrelaterade problem i den verkliga
+världen och att använda lämpliga metoder och teorier för att
+analysera dessa problem,
+•presentera en tydlig och pedagogisk rapport om empiriska
+analyser.
+ 
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+Studenten ska ha utvecklat:
+
+förmåga till vidare studier inom finans och ekonomi
+förmåga att självständigt söka och värdera information
+från litteratur inom finans
+förmåga att självständigt skriva en empirisk uppsats på
+avancerad nivå.
+
+
+Kursinnehåll
+Kursen inleds med en kort diskussion av skattningsmetoder som
+kan användas för att analysera finansiella modeller. Detta följs
+av en beskrivning av egenskaper hos tidsserier av olika finansiella
+data. De viktigaste teoretiska modellerna inom finans presenteras
+sedan med en redogörelse för de metoder som finns tillgängliga
+för att testa teoretiska hypoteser. Kursen är inriktad på
+följande frågor: tester för informationseffektivitet, marknadens
+mikrostruktur, händelsestudie, portföljvärdering, tester för
+tillgångsprissättningsmodeller och räntebärande tillgångar.
+Det finns ett antal datorövningar som ger studenterna de praktiska
+färdigheter som krävs för att lösa ekonometriska problem
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examinationen består av ett antal obligatoriska datorövningar, en hemtentamen i form av en kort uppsats samt en skriftlig tentamen i slutet av kursen. Betyget baseras på den skriftliga tentamen och hemtentamen. Anmdra examinationsformer kan användas i begränsad omfattning.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+FMS012 Matematisk statistik, allmän kurs eller FMSF45 Matematisk statistik, allmän kurs
+EXTF45 Finansiell ekonomi
+
+
+Begränsat antal platser: 60
+Urvalskriterier: Antal poäng som har uppnåtts eller tillgodoräknats på programmet.
+Kursen överlappar följande kurser: NEK722, NEKM26, NEKN82, TEK110
+Kurslitteratur
+
+Campbell, J.Y., A.W. Lo and A.C. Macinlay: The Econometrics of Financial Markets. Princeton University Press, 1998.
+Kompletterande material.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Professor Hossein Asgharian, hossein.asgharian@nek.lu.se
+Hemsida: http://www.nek.lu.se
+Övrig information: Kursen ges av Nationalekonomiska institutionen vid Ekonomihögskolan och samläses med NEKN82. Tentamenstid meddelas av kursläraren.
+
+
+

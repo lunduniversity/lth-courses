@@ -1,0 +1,95 @@
+
+
+Kursplan för
+Högfrekvensförstärkare
+RF Amplifier Design
+ETIN50, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning E
+Beslutsdatum: 2018-04-05
+Allmänna uppgifter
+Valfri för: E4-fh, F4, F4-hn, MSOC1, MWIR1, N4-hn
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursens syfte är att ge en grundläggande och bred kunskap i
+analys och konstruktion av högfrekvensförstärkare primärt
+baserade på diskreta komponenter samt att ge ingenjörsmässiga
+färdigheter i sådan mätteknik som är nödvändig för
+verifiering av resultatet.
+Högfrekvensförstärkare utgör en mycket viktig komponent i
+tillämpningar som använder sig av trådlös kommunikation, t.ex.
+mobiltelefoni, radiobaserade multimediaterminaler och
+datornätverk, kortdistansradio för kommunikation mellan enheter
+anslutna till datorer.
+Eftersom detta är ett teknikområde som expanderar kraftigt råder
+stor efterfrågan på denna kunskap.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna analysera och beräkna kretsar där reaktiva komponenter
+och transmissionsledningar ingår samt kunna använda Smith-diagram
+för analys och syntes av högfrekvenskretsar
+kunna analysera ett förstärkarsteg med 2-portsmodeller
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+bestämma en transistors S-parametrar experimentellt och med
+hjälp av dessa tillsammans med teoretiska modeller konstruera en
+högfrekvensförstärkare som uppfyller en given specifikation med
+avseende på stabilitet, effektförstärkning och brusfaktor samt
+verifiera konstruktionen experimentellt med hjälp av spektrum- och
+nätverksanalysator.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+i skrift kunna redogöra inför kollegor för en lösning på
+ett högfrekvensproblem
+
+
+Kursinnehåll
+Kursens tyngdpunkt ligger på metoder för analys och syntes av
+högfrekvensförstärkare. Metoder för konstruktion av
+förstärkare behandlas för frekvensområdet MHz till GHz.
+Transmissionsledningar är ett annat naturligt inslag då
+våglängden på signalerna ofta är i samma storleksordning som
+elektronikens dimensioner. Mätteknik med avancerade
+högfrekvensinstrument såsom spektrum- och nätverksanalysator är
+viktiga praktiska inslag.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examinationen sker genom skriftlig redovisning av två inlämningsuppgifter (max två teknologer per grupp), fyra genomförda laborationer samt en avslutande individuell tentamen (5 tim). Godkända inlämningsuppgifter och laborationer är ett krav för att få tentera.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0112. Benämning: Radioelektronik. 
+Antal högskolepoäng: 7,5. Betygsskala: TH.  Prestationsbedömning: Godkänd tentamen  Delmomentet omfattar: Skriftlig tentamen 
+Kod: 0212. Benämning: Laborationer. 
+Antal högskolepoäng: 0. Betygsskala: UG.  Prestationsbedömning: Godkända laborationer 
+Kod: 0313. Benämning: Inlämningsuppgifter. 
+Antal högskolepoäng: 0. Betygsskala: UG.  Prestationsbedömning: Godkända inlämningsuppgifter 
+Antagningsuppgifter
+Förkunskapskrav:
+EITF50 Introduktion till trådlösa system eller ETIF05 Grundläggande radioteknik
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: ETI032
+Kurslitteratur
+
+Sundström L, Jönsson G, Börjeson, H: Radio Electronics.
+Sundström L, Durkalec L, Jönsson, G: Radio Electronics, Exercises and Laboratory Experiments.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Johan Wernehag, johan.wernehag@eit.lth.se
+Hemsida: http://www.eit.lth.se/kurs/etin50
+
+
+

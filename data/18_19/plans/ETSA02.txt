@@ -1,0 +1,101 @@
+
+
+Kursplan för
+Programvaruutveckling - metodik
+Software Engineering - Methodology
+ETSA02, 6 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning C/D
+Beslutsdatum: 2018-04-03
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: C1
+Alternativobligatorisk för: I3
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursens syfte är att ge studenten grundläggande kunskap om hur
+utveckling av stora programvarusystem går till. Syftet är även
+att ge studenten sådan kunskap att han/hon kan delta i planeringen
+av ett mindre projekt.
+Kursen syftar till teoretisk kunskapsinhämtning och praktisk
+tillämpning.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna definiera grundläggande begrepp inom utveckling av stora
+programvarusystem.
+kunna beskriva de vanligaste processerna för utveckling av
+stora programvarusystem.
+kunna förklara de viktigaste momenten i
+kravhanteringsprocessen.
+kunna förklara hur testning går till.
+kunna beskriva vad en arkitekturdesign är.
+kunna beskriva de viktigaste stegen i projektplanering och
+projektuppföljning.
+kunna beskriva hur organisationer planerar och genomför en
+serie av projekt.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna utveckla projektplan, kravspecifikation och testplan
+för ett mindre projekt.
+kunna granska projektplan, kravspecifikation och testplan för
+ett mindre projekt.
+kunna skriftligen formulera text i projektdokumentation.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+förstå komplexiteten i uppgiften att utveckla ett
+programvarusystem.
+ha förståelse för ingenjörens yrkesroll.
+
+
+Kursinnehåll
+
+Utvecklingsprocessen för programvara
+Processmodellering
+Kravhantering
+Testning
+Arkitekturdesign
+Projektstyrning
+Projektuppföljning
+Projektdokumentation
+Granskningar
+Projekt- och organisationsnivåer
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examinationen sker både enskilt och i grupp. Rapporter från projektarbete bedöms och betygsätts för projektgruppen. Skriftlig tentamen i form av hemtentamen bedöms individuellt. Slutbetyget ges av en sammanvägning mellan projektarbete och tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0116. Benämning: Projekt. 
+Antal högskolepoäng: 3. Betygsskala: TH.  Prestationsbedömning: Kvalitet på inlämnat material från gruppen. 
+Kod: 0216. Benämning: Tentamen. 
+Antal högskolepoäng: 3. Betygsskala: TH.  Prestationsbedömning: Resultat på skriftlig tentamen (i form av hemtentamen). 
+Antagningsuppgifter
+Förkunskapskrav:
+Godkänd på laborationer och inlämningsuppgifter i EDA016 eller godkänt på alla programmeringsuppgifter i EDA011/EDA017 eller godkänt betyg på tentamen i någon av dessa kurser eller EDA501
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: ETS140, ETS141, ETS160, ETS180, ETSA01
+Kurslitteratur
+
+Stephens, Rod: Beginning Software Engineering. Wiley, 2015, ISBN: 978-1-118-96914-4.
+Example and Exercises in the Software Engineering Process. Kompendium som revideras inför varje kurstillfälle - säljs av institutionen för datavetenskap.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Markus Borg, markus.borg@cs.lth.se
+Hemsida: http://cs.lth.se/etsa02
+
+
+

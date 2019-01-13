@@ -1,0 +1,117 @@
+
+
+Kursplan för
+Projektering
+Feasibility Studies on Industrial Plants
+KETN25, 15 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning B/K
+Beslutsdatum: 2018-03-21
+Allmänna uppgifter
+Valfri för: K4-p, W4-p
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Det är norm i kemiindustrin att arbete bedrivs i projektform,
+både vad gäller nya anläggningar, modifiering av befintliga
+anläggningar och vid utveckling av nya produkter. Kursen
+förmedlar tekniken för projektering av kemiska
+processanläggningar och processen för utveckling av kemiska
+produkter. Vidare förmedlas bl.a. kunskaper om projektledning,
+ekonomisk projektanalys, marknadsanalys och teknikvärdering inom
+ramen för kursen.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+Ha full insikt i hur en projektgrupp arbetar inklusive kunskap
+kring vanliga verktyg som används vid projektledning.
+Ha kunskap om utvecklingsfaserna i både ett
+anläggningsprojekt och ett produktutveklingsprojets från idé
+till färdig fabrik/produkt.
+Förstå hur teknik, ekonomi, marknad och normer (risker och
+miljö) samverkar vid ett
+anläggningsprojekt/produktutvecklingsprojekt.
+Ha full insikt i arbetsgången vid förprojektering av
+processanläggningar.
+Ha full insikt i arbetsgången vid utveckling av nya
+produkter.
+Ha full insikt i gruppdynamik.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+Utifrån universitetets biblioteksresurser och öppna
+elektroniska källor värdera och bearbeta för projektet relevant
+information.
+Kunna reflektera kring den egna rollen i en projektgrupp
+Kunna uppskatta drift- och kapitalkostnader, samt genomföra
+investeringskalkyl och ekonomisk känslighetsanalys för ett
+anläggningsprojekt och ett produktutvecklingsprojekt.
+
+ 
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+I en projektgrupp genomföra en industriellt relaterad
+förprojektering av en process eller för en produkt.
+Delta i muntlig och skriftlig redovisning av en
+förprojektering.
+
+
+Kursinnehåll
+Allmän orientering om ett projekts utvecklingsfaser från idé
+till färdig fabrik eller produkt, samt praktiska anvisningar om
+hur man organiserar och arbetar i en projektgrupp.
+Marknad: prisbildning och kostnader, prognos- och trendanalys.
+Ekonomi: uppskattning av drift- och kapitalkostnader,
+produktionskostnader, investerings- och betalningsflödeskalkyler,
+exernaliteter och livskostnader, osäkerhets- och
+känslighetsanalys, investeringsredogörelse och
+projektvärdering.
+Teknik: processyntes, flödesbalanser, samt utformning och
+dimensionering av processer.
+Normer och lagstiftning: kemiska produkter, processäkerhet, miljö
+och lokalisering.  
+Projektuppgift: bearbeta ett aktuellt problem vid ett
+industriföretag, exempelvis teknisk, ekonomisk och marknadsmässig
+bearbetning av ett förprojekt avseende upptagning av ny
+tillverkning av en produkt, eller förprojektering av industriella
+apparater och anläggningar, vilket även kan innefatta
+utvärdering av befintlig utrustning.
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: Projekteringsuppgift. Närvaro vid föreläsningar och övningar. Skriftlig och muntlig framställning.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Teori. 
+Antal högskolepoäng: 3. Betygsskala: UG.  Prestationsbedömning: Inlämningsuppgifter. Grupparbeten och föreläsningar, minst 75% närvaro vid schemalagda lektioner.  Delmomentet omfattar: Föreläsningar och grupparbeten om kostnadsuppskattning och kalkylering. 
+Kod: 0217. Benämning: Projektering. 
+Antal högskolepoäng: 12. Betygsskala: UG.  Prestationsbedömning: Projektuppgift.  Delmomentet omfattar: Bearbetning i grupp av förelagd projektuppgift i samarbete med företag. 
+Antagningsuppgifter
+Förkunskapskrav:
+KETN20 Hållbar processdesign. Delprov 0117 Tentamen
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: KAT070, KBT042, KTE110, KTE120, KET050
+Kurslitteratur
+
+Karlsson, H T and Hulteberg, P.C.: Feasibility studies of chemical processes and products. Department of Chemical Engineering, Lund University, 2016.
+Ulrich G. D. and Vasudevan, P. T.: Chemical Engineering, Process Design and Economics, A Practical Guide, Second Edition. Process Publishing, Durham, New Hampshire, 2004, ISBN: 0-9708768-2-3. Referenslitteratur.
+Shaeiwitz, J. A. and Bhattacharyya: Analysis, Synthesis, and Design of Chemical Processes, Fourth Edition. Pearson Ed. Int., NJ, 2013, ISBN: 13:978-0-13-294029-0. Referensliterature.
+Seider, W D, Seader, J D, Lewin, D R and Widagdo, S.: Product & Process Design Principles, Third Edition. John Wiley and Sons Inc, 2010, ISBN: 978-0-470-41441-5. Referenslitteratur.
+Branan C. R. (Ed.): Rules of Thumb for Chemical Engineers, A Manual of Quick, Accurate Solutions to Everyday Engineeriung Problems, Fourth Edition. Elsevier, Amsterdam, 2005, ISBN: 13:978-07506-7856-8. Referenslitteratur.
+Towler, G. and Sinnott, R.: Chemical Engineering Design, Principels, Practice and Economics of Plant and Process Design. Elsevier, Amsterdam, 2008, ISBN: 13; 978-0-7506-8423-1. Refernslitteratur.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Universitetslektor Christian Hulteberg, Christian.Hulteberg@chemeng.lth.se
+Hemsida: http://www.chemeng.lth.se/ketn25
+
+
+

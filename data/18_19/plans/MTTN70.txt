@@ -1,0 +1,144 @@
+
+
+Kursplan för
+Internationell distributionsteknik
+International Physical Distribution
+MTTN70, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning I
+Beslutsdatum: 2018-03-20
+Allmänna uppgifter
+Obligatorisk för: MLOG1
+Valfri för: E4-pla, I4, I4-lf, M4-lp
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursen skall ge såväl grundläggande som fördjupade kunskaper
+om externa transporter och distributionslösningar avseende olika
+typer av system och medel. Hela distributionskedjan beaktas. Kursen
+förmedlar inom området viktiga teorier, begrepp, modeller och
+metoder som används av teoretiker och praktiker för att
+identifiera, beskriva, analysera och utforma olika
+distributionslösningar. Kursen skall ge en förståelse för
+distributionens viktiga roll för företags framgång samt ge
+kunskaper och färdigheter för att metodiskt analysera
+transportbehov samt välja och utforma transport- och
+distributionssystem.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna använda teorier, modeller och verktyg för att beskriva,
+analysera och utvärdera företags distributionsbehov och kunna
+välja och utforma olika distributionslösningar.
+
+Detta innebär att studenten skall:
+ 
+
+ha tillägnat sig en helhetssyn på hela
+distributionskedjan.
+ha tillägnat sig kunskaper om distributionslösningar avseende
+olika typer av system, komponenter, aktörer och medel.
+ha tillägnat sig en förmåga att förstå, förklara och
+jämföra olika distributionsrelaterade teorier och modeller.
+ha erhållit kunskaper om aspekter som kan påverka
+utformningen av distributionssystem.
+ha utvecklat förståelse för hur gränsöverskridande
+transporter skiljer sig från transporter inom ett och samma
+land.
+ha erhållit en grundläggande förståelse för hur
+distributionsrelaterade förändringar kan påverka företags
+övriga verksamheter samt hur företags övriga verksamheter kan
+påverka kraven på distributionssystemet.
+ha grundläggande kunskaper om informations- och
+dokumentationsbehov samt om teknik och system för
+informationsöverföring.
+ha erhållit en förmåga att självständigt kunna beskriva,
+analysera och utforma distributionslösningar utifrån företags
+specifika situation och transportbehov.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+ha grundläggande färdigheter i att metodiskt analysera
+transportbehov samt välja och utforma transport- och
+distributionssystem.
+ha utvecklat förmågan att både muntligen och skriftligen
+kunna redogöra för, och sakligt argumentera för, egenhändigt
+utvecklade förslag avseende val och utformning av transport- och
+distributionssystem.
+kunna använda etablerade facktermer och på ett tydligt sätt
+kommunicera distributionsrelaterade frågeställningar, analyser
+och lösningar både med distributionsansvariga
+företagsrepresentanter och andra studenter.
+ha utvecklat sin förmåga att kunna praktisera och använda
+teori och teoretiska modeller.
+på egen hand kunna utnyttja referenslitteratur och
+vetenskapliga publikationer för att kunna analysera, värdera och
+utveckla företags distributionslösningar.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+ha fått ett självförtroende och sådan insikt i området att
+grunderna inom distributionsteknik behärskas.
+ha mött en ingenjörsmässig metodik som används vid analys
+av distributions- och transportsystem.
+ha uppmuntrats till självständigt arbete och stimulerats till
+ett kritiskt tänkande.
+ha ökat sin insikt om hur avgörande valet av
+distributionslösningar är för ett socialt- och miljömässigt
+hållbart samhälle.
+
+
+Kursinnehåll
+
+Transportslagen och deras samverkan med infrastruktur: bil,
+tåg, båt och flyg
+Distributionskanaler och –nätverk
+Transportsäkerhet och transporter ur ett
+hållbarhetsperspektiv
+Transportekonomi, transportkostnader och prissättning
+Val av transportslag samt val av skeppningstorlek
+Utformning av distributions- och transportsystem
+Planering av transporter
+Transportavtal, försäkringar, informationssystem och
+informationshantering
+Transportpolitik, lagar och regelverk
+Trender inom distribution och transporter
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Slutbetyg erhålles efter godkänd skriftlig tentamen och godkända inlämningsuppgifter. En sammanvägning sker av tentamensbetyg och betyg på inlämningsuppgifterna. Obligatorisk närvaro kan förekomma på vissa moment.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Internationell distributionsteknik. 
+Antal högskolepoäng: 4,5. Betygsskala: UG.  Prestationsbedömning: Godkänd skriftlig tentamen.  Delmomentet omfattar: Litteraturen, föreläsningar och inlämningsuppgifter. 
+Kod: 0217. Benämning: Inlämningsuppgifter. 
+Antal högskolepoäng: 3. Betygsskala: UG.  Prestationsbedömning: Godkända inlämningsuppgifter.  Delmomentet omfattar: Inlämningsuppgifterna genomförs i grupper om 4-6 studenter. Uppgifterna behandlar val av transportslag, design av distributionssystem och planering av transporter. 
+Antagningsuppgifter
+Förkunskapskrav:
+MTTF01 Logistik eller MTTN01 Logistik i byggprocessen
+
+
+Förutsatta förkunskaper: MTTN25 Materialhantering eller MTT091/MTTF10 Materialhantering.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: MTT045
+Kurslitteratur
+
+Lumsden, K.: Fundamentals of Logistics. Chalmers Tekniska Högskola, 2007. Kan laddas ner från avdelningens hemsida.
+Coyle, J, Novak, R, Gibson, B & Bardi, E: Transportation, A Supply Chain Perspective. South Western Cengage Learning, 2010, ISBN: 978-0324789195. Komplementlitteratur.
+Ett urval relevanta artiklar kommer att finnas på kurshemsidan.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Ebba Eriksson, ebba.eriksson@tlog.lth.se
+Hemsida: http://www.tlog.lth.se
+Övrig information: Deltagande vid första undervisningstillfället är obligatoriskt. Uteblivande från detta tillfälle kommer att medföra uteslutning från kursen.
+
+
+

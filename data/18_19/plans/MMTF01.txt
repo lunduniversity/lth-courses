@@ -1,0 +1,85 @@
+
+
+Kursplan för
+Produktion
+Production
+MMTF01, 6 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning M
+Beslutsdatum: 2018-03-27
+Allmänna uppgifter
+Huvudområde: Industridesign. 
+Obligatorisk för: KID3
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+En stor del av en produkts kostnad och egenskaper bestäms vid
+valet av material, tillverkningsmetod, samt av hur denna
+tillverkningsmetod styrs och utformas. Syftet med kursen är att ge
+studenten en bred kunskap om existerande materialgrupper och
+tillverkningsprocesser, för att i olika sammanhang kunna påverka
+en produkts kritiska attribut; kostnad, funktion och
+egenskaper.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+kunna definiera och beskriva specifika begrepp inom
+tillverkningstekniken, med såväl svenska som engelska termer.
+individuellt och i skriftlig form, kunna värdera och jämföra
+olika tillverkningsprocesser, avseende funktion, resultat och
+effektivitet.
+kunna värdera olika materialgruppers egenskaper och
+användning, samt relatera dessa till lämpliga
+tillverkningsprocesser.
+kunna integrera grundläggande kunskaper från materialteknik,
+hållfasthetslära, fysik, mekanik.
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+utgående från en fysisk detalj, inom givna ramar, kunna
+analysera vilken tillverkningsmetod som använts, integrera
+kunskaper från materialtekniken, samt redovisa resultatet gruppvis
+i en skriftlig rapport.
+självständigt kunna söka upp och sammanställa information
+kring en given tillverkningsprocess.
+
+Kursinnehåll
+Gjuteriteknologi: gjutmetoder, val av metod,
+materialegenskaper, kvalitetskontroll, godsets anpassning till
+gjutning. Klippande bearbetning: klippning, stansning,
+finstansning. Plastisk bearbetning: smidning,
+varmvalsning, kallvalsning, strängpressning, dragning av tråd,
+stång och rör, kallsmidning, bockning, dragpressning,
+trycksvarvning, högenergiformning. Skärande bearbetning:
+svarvning, hyvling, driftning, sågning, borrning, upprymning,
+försänkning, brotschning, fräsning, slipning, finbearbetning,
+gängning, kuggbearbetning. Ickemekaniska
+bearbetningsmetoder: kemisk bearbetning, elektrokemisk
+bearbetning, elektroerosiv bearbetning, ultraljudbearbetning,
+elektronstrålebearbetning, bearbetning med laser,
+plasmabearbetning. Svetsteknologi avseende smält- och
+trycksvetsmetoder, termiska skärmetoder, ljusbågsfysik,
+laserteknik, svetsmetallurgi, svetsbarhetsbegreppet,
+provningsmetoder, svetsekonomi och svetsmekanisering.
+Pulverteknologi: pulvermetallurgisk tillverkning, termisk
+sprutning, keramik och hårdmetaller.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen, skriftliga inlämningsuppgifter, obligatoriska laborationer.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: FKM050/FKMA05 Material och VSMA01 Mekanik eller motsvarande.
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Kalpakjian S., Schmid S. R.: Manufacturing Engineering and Technology, Sixth edition in SI units. Prentice Hall, 2010, ISBN: 978-981-06-8144-9.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Professor Jinming Zhou, jinming.zhou@iprod.lth.se
+Hemsida: http://www.iprod.lth.se
+
+
+

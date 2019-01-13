@@ -1,0 +1,155 @@
+
+
+Kursplan för
+BIM - modellering och visualisering
+BIM Modelling and Visualisation
+MMTF10, 8 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning V
+Beslutsdatum: 2018-03-27
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: IBYA2
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+I kursens introducerande del presenteras manuella och
+datorstödda metoder för att stödja idéskapande och
+gestaltning, samt visuell projektkommunikation i främst tidiga
+skeden. Syftet är att klargöra hur information kan förmedlas
+grafiskt och visuellt, liksom hur tolkningen kan påverkas av
+medier och tekniker. Även förmågan att skildra och kommunicera
+en verklighet med handskisser och perspektiv tränas och ska senare
+kunna värderas i förhållande till datorstödda metoder. Kursen
+tränar inledningsvis förmågan till datorstödd
+bildframställning och grafisk kommunikation i program för
+skiss, bildbehandling och 3D-modellering.
+I kursens fortsättningsdel ges teoretisk och praktisk kunskap
+om modellbaserad projektering och BIM. Därigenom ska kursen ge
+förståelse för hur man med hjälp av ett modernt
+objektsorienterat 3D modellerande program skapar en BIM (Building
+Information Model), och hur denna som informationsbärare optimalt
+kan stödja hela byggprocessen från inledande planerings-
+och projekteringsskeden fram till produktion,förvaltning och
+slutligen rivning av byggnaden. Inom det pågående
+paradigmskiftet i byggbranschen, från ett dokument- till ett
+databasbaserat informationssystem, ska kursen ge en förståelse
+för hur BIM kan stödja traditionellt grafisk
+projektkommunikation såväl som analytisk informationshantering
+till stöd för effektivare beslutsprocesser. Förutom praktisk
+övning i tilläggsapplikationer som stödjer det senare för
+exempelvis kollisionskontroll, mängdning, resurs- och
+tidsplanering ska teoristudium ge insikter om ändringar i
+arbetsmetoder, nya och skiftande arbetsroller, nya ansvarsområden
+m.m i relation till BIM.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna beskriva grundläggande förutsättningar för visuell
+kommunikation utifrån projektsituationen, avseende val av
+presentationstekniker, medium m.m
+kunna beskriva huvuddragen inom färgteori och
+perspektivlära
+kunna med manuellt framtagna frihandsskisser och
+perspektiv visualisera interiöra och exteriöra rum.
+vara förtrogen med ett modernt 3D-modellerande BIM-programs
+funktionalitet och användningsområde i projekteringsskedet.
+kunna beskriva och förstå modern integrerad ICT-teknik
+- dess hantering och uppbyggnad i en BIM-miljö.
+vara orienterad i hur fristående program eller
+tilläggsapplikationer kan generera data ur BIM-modeller för
+analys och beslutsstöd i senare projektskeden.  
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+utföra frihandsskisser som innefattar rum, skala och
+perspektiv
+med utgångspunkt i en kreativ skissprocess rita en liten enkel
+byggnad med en uttryckt arkitektonisk idé, utifrån givna
+förutsättningar och i ett givet rumsligt och arkitektoniskt
+sammanhang
+kunna använda ett modernt modellerande skissprogram med dess
+visualiseringsmöjligheter
+i en enkel arkitekturövning använda grundläggande funktioner
+i digital skissteknik.
+utföra ett fotomontage och en enkel layoutuppgift med hjälp
+av digital bildbehandling.
+kunna använda ett modernt 3D-modellerande BIM-program och
+förstå teorin bakom en
+bygginformationsmodells tillämpningsmöjligheter i byggprocessens
+olika skeden
+i BIM-miljön kunna sammanställa ritningar, text och
+bilder till en grafiskt genomtänkt presentation i ett
+projekterinsskede.
+kunna använda fristående program eller tilläggsapplikationer
+för att generera data ur en BIM-modeller för analys och
+beslutsstöd i upphandlings-, produkktions- eller
+förvaltningsskede. 
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna förstå värdet av att skissa som hjälp för minnet,
+som underlag för presentationer, samt som kommunikationsredksap
+vid diskusssioner av tekniska lösningar
+formulera nyanserade värdeomdömen om olika grafiska
+presentationer speciellt med avseende på deras estetiska och
+kommunikativa värde
+förstå integrerad ICT-hantering (Information and
+Communication Technology) med stöd av BIM som ett verktyg för
+hela bygg- och förvaltningsprocessen, från programskede till
+förvaltning.
+
+
+Kursinnehåll
+
+Praktisk gestaltning med stöd av handskisser och manuellt
+framställda perspektiv
+Praktisk träning i layout, digital bildbehandling,
+färgsättning och visuell kommunikation
+Praktisk träning i 3D-modelleringstekniker till stöd för
+modellbaserad projektering och BIM.
+Teoretisk översikt ICT, Cad och BIM-utvecklingen inom
+byggbranschen. Särskilt behandlas objektsorientering, parametri,
+interoperabilitet, informationsöverföringssätt, databaser,
+modelserver/delmodeller och tekniska lösningar som möjlggjort
+dagens BIM-applikationer.
+Processrelaterad BIM-teori avseende arbetsmetoder,
+arbetsroller, ansvarsområden, standardisering/klassifikation,
+koppling till industrialiserade byggprocesser.
+Teoretisk genomgång applikationsområden såsom mängdning,
+inköp, logistik, simulering, förvaltning, kollisionskontroll,
+produktionsberedning och -styrning.
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examination sker på underlag av enskilt redovisade övningsuppgifter, teoridugga samt avslutande projektuppgift med tillämpning av de under kursen genomgångna praktikmomenten. Såväl muntlig som skriftlig redovisning av uppgifter krävs. Slutbetyg (TH) med delavsnitt betygsatta med såväl TH betyg som UG betyg. 80% närvarokrav på föreläsningar.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0111. Benämning: BIM teknik. 
+Antal högskolepoäng: 4. Betygsskala: TH.  Prestationsbedömning: Examination sker genom att enskilt, utöver att redovisa övningsuppgifter, redovisa projektuppgifter med tillämpning av de under kursen genomgångna momenten. Såväl muntlig som skriftlig redovisning krävs, Slutbetyg (TH) med delavsnitt betygsatta med såväl TH betyg som UG betyg. Även krav på 80% närvaro på delavsnitt.  Delmomentet omfattar: - Cad historik inom byggbranschen - Olika 3D modelleringstekniker - BIM begreppet (objektsorientering, parametri, interoperabilitet, informationsöverföringssätt, databaser, modelserver/delmodeller, laserscanning) - Processfrågor och BIM teknologi (arbetsmetoder, arbetsroller, ansvarsområden, standardisering/klassifikation, koppling till industrialiserade byggprocesser och Lean tänkande - Olika aktörers användning av BIM teknologin (mängdning, inköp, logistik, simulering, förvaltning, kollisionskontroll, produktionsberedning och -styrning, ritningsframtagning) - Kursens visuella del innehåller specifikt övningar i kreativ gestaltning, digital 3D-modellering av hus, layout, digital bildbehandling, färgsättning och visuell kommunikation via posters med bilder, ritningar och text. Utveckling av och synliggörande av uppslag och idéer och slutligen träning i bedömningsförmåga att formulera sina intryck av bilder. 
+Kod: 0211. Benämning: Visualisering. 
+Antal högskolepoäng: 4. Betygsskala: UG.  Prestationsbedömning: Examination sker genom att enskilt, utöver att redovisa övningsuppgifter, redovisa projektuppgifter med tillämpning av de under kursen genomgångna momenten. Såväl muntlig som skriftlig redovisning krävs, Slutbetyg (TH) med delavsnitt betygsatta med såväl TH betyg som UG betyg. Även krav på 80% närvaro på delavsnitt.  Delmomentet omfattar: - Cad historik inom byggbranschen - Olika 3D modelleringstekniker - BIM begreppet (objektsorientering, parametri, interoperabilitet, informationsöverföringssätt, databaser, modelserver/delmodeller, laserscanning) - Processfrågor och BIM teknologi (arbetsmetoder, arbetsroller, ansvarsområden, standardisering/klassifikation, koppling till industrialiserade byggprocesser och Lean tänkande - Olika aktörers användning av BIM teknologin (mängdning, inköp, logistik, simulering, förvaltning, kollisionskontroll, produktionsberedning och -styrning, ritningsframtagning) - Kursens visuella del innehåller specifikt övningar i kreativ gestaltning, digital 3D-modellering av hus, layout, digital bildbehandling, färgsättning och visuell kommunikation via posters med bilder, ritningar och text. Utveckling av och synliggörande av uppslag och idéer och slutligen träning i bedömningsförmåga att formulera sina intryck av bilder. 
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: AFO680, MMT656
+Kurslitteratur
+
+Edwards, B.: Drawing on the Right Side of the Brain. Tarcher, 2012, ISBN: 9781585429202.
+Nilsson, K.G.: Färglära. Carlsson Förlag, 2004, ISBN: 9789172035973.
+Eastman et al: BIM Handbook. Wiley, 2011, ISBN: 9780470541371.
+
+
+Kontaktinfo och övrigt
+Kursadministratör: Christina Glans, christina.glans@construction.lth.se
+Kursansvarig: Anne Landin, anne.landin@construction.lth.se
+Hemsida: http://www.bekon.lth.se/utbildning/grundutbildning/
+
+
+

@@ -1,0 +1,104 @@
+
+
+Kursplan för
+Modern elektronik
+Modern Electronics
+ETIN70, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning E
+Beslutsdatum: 2018-04-05
+Allmänna uppgifter
+Obligatorisk för: N4-hn
+Valfri för: D4-dpd, F4, F4-hn, MSOC1
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Modern elektronik  är både forskning kring kommande
+teknologier och grunden till industriell användning av etablerad 
+teknologi. Kursen ger  grundläggande kunskaper i komponenter
+och  elektronik och  ger en översikt av  olika  etablerade
+teknologier. Kursen ger även en grund för nya forskningskoncept
+som neuromorfiska system såväl som avancerad digital och analog
+kretsdesign för IoT och 5G teknologi. Speciellt syftar kursen till
+att öppna för studenter med varierande förkunskaper att läsa
+fortsättningskurser inom både materialdriven elektronikutveckling
+och avancerad kretsdesign t.ex. Höghastighetskomponenter,
+Nanoelektronik, och Analog IC design.
+
+Det centrala temat i kursen är MOS transistorn som dominerar i
+kommersiella applikationer. Kursen ger en fysikalisk beskrivning av
+MOS transistorn samt hur den integreras i enkla förstärkarsteg.
+Även bipolära transistorer kommer att diskuteras. De
+frekvensberoende egenskaperna hos både MOS transistorn samt enkla
+förstärkarsteg kommer behandlas. Digitala kretstillämpningar av
+MOS transistorn kommer också diskuteras.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+• kunna förklara hur MOS och bipolära transistorer
+fungerar
+• kunna förklara hur arkitekturen hos MOS och bipolära
+transistorer påverkar deras elektriska egenskaper
+• känna till aktiva och passiva komponenters
+frekvensegenskaper
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+• kunna identifiera termerna i en hybrid-pi modell
+• kunna använda en småsignalmodell för kretskonstruktion
+• kunna designa en förstärkare baserad på negativ
+återkoppling
+• kunna analysera transistorer och kretsar i frekvensplanet
+• känna till S-parametrar och grundläggande
+högfrekvensmätteknik
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+För godkänd kurs skall studenten
+• förstå varför olika transistorteknologier används för
+olika applikationer
+
+Kursinnehåll
+Introduktion till halvledare, laddningsbärare, transport och
+pn-övergången. Bipolära och MOS transistorers stor- och
+småsignalsmodeller. Kortkanalseffekter i moderna komponenter.
+Enstegsförstärkare, återkopplade förstärkare,
+kaskodförstärkare, effektförstärkare samt OP-förstärkare.
+Frekvenssvar och bandbredd. Kursen innehåller två obligatoriska
+laborationer, en experimentell som behandlar transistorer samt en
+simuleringsbaserad kretslaboration.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen
+
+Inlämningsuppgifter
+
+Godkända laborationer
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0118. Benämning: Tentamen. 
+Antal högskolepoäng: 5. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen 
+Kod: 0218. Benämning: Laborationer. 
+Antal högskolepoäng: 1,5. Betygsskala: UG.  Prestationsbedömning: Godkända laborationer 
+Kod: 0318. Benämning: Inlämningsuppgifter. 
+Antal högskolepoäng: 1. Betygsskala: UG.  Prestationsbedömning: Godkänd inlämningsuppgift 
+Antagningsuppgifter
+Förutsatta förkunskaper: FFFF01, Elektroniska material eller FFFF05 Fasta tillståndets fysik
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: ETI290
+Kurslitteratur
+
+A. S. Sedra , K. C. Smith: Microelectronic Circuits, 7th edition. Oxford university press, ISBN: 9780199339136.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Johannes Svensson, johannes.svensson@eit.lth.se
+Kursansvarig: Lars Ohlsson, lars.ohlsson@eit.lth.se
+Hemsida: http://www.eit.lth.se/kurs/etin70
+Övrig information: Vid färre än 16 deltagare kan kursen komma att ges med reducerad undervisning och större inslag av självstudier.
+
+
+
+

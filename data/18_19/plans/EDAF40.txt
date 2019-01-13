@@ -1,0 +1,91 @@
+
+
+Kursplan för
+Funktionsprogrammering
+Functional Programming
+EDAF40, 5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning C/D
+Beslutsdatum: 2018-04-03
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: D2
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursen ger insikt i hur den funktionsorienterande
+programmeringsparadigmen ofta ger möjlighet att skriva program som
+är både kortare och lättare att förstå än med traditionell
+imperativ och objektorienterad programmering.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+ha god förståelse för de grundläggande principerna för
+funktionsprogrammering
+förstå de praktiska konsekvenserna av skillnaderna mot
+traditionell programmering
+kunna de vanliga idiomen i funktionsorienterad
+programmering
+förstå funktionen och fördelarna hos ett avancerat
+typsystem
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna läsa program skrivna i ett modernt funktionellt
+programmeringsspråk
+kunna utnyttja den funktionsorienterade paradigmens
+möjligheter till att skriva program i ett modernt funktionellt
+programmeringsspråk
+kunna utföra typanalys av uttryck i ett modernt funktionellt
+programmeringsspråk
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+ha utvecklat sin förmåga att använda programkod som
+kommunikationsmedium mellan människor
+
+
+Kursinnehåll
+Funktionsspråkens filosofi och möjligheter. Introduktion till
+ett modernt funktionsprogrammeringsspråk. Funktionella
+språkkonstruktioner och idiom. Högre ordningens funktioner. Lat
+evaluering och oändliga datastrukturer. Polymorfa typsystem.
+Typanalys och typhärledning.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen. Godkända inlämningsuppgifter krävs för att få deltaga i examen. Slutbetyg på kursen baseras på den skriftliga tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Inlämningsuppgifter. 
+Antal högskolepoäng: 2,5. Betygsskala: UG.  Prestationsbedömning: För godkänt betyg krävs godkända inlämningsuppgifter. 
+Kod: 0217. Benämning: Tentamen. 
+Antal högskolepoäng: 2,5. Betygsskala: TH.  Prestationsbedömning: För att få delta i tentamen krävs godkända inlämningsuppgifter. Slutbetyg i kursen baseras på resultatet av den skriftliga tentamen.  Delmomentet omfattar: Skriftlig tentamen 
+Antagningsuppgifter
+Förkunskapskrav:
+EDAA01 Programmeringsteknik - fördjupningskurs eller EDAA30 Programmering i Java - fortsättningskurs
+
+
+Förutsatta förkunskaper: FMAA01/FMAA05 och FMA420/FMAB20 alternativt FMA645/FMAA50 och FMA656/FMAA55.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: EDA120, EDAN40
+Kurslitteratur
+
+Webbaserat kursmaterial.
+Graham Hutton: Programming in Haskell, 2nd ed. Cambridge University Press, 2016, ISBN: 9780521692694. Rekommenderat referenslitteratur.
+Paul Chiusano and Rúnar Bjarnason: Functional Programming in Scala. Manning Publications, 2014, ISBN: 9781617290657. Rekommenderad referenslitteratur.
+Miran Lipovaca: Learn You a Haskell for Great Good. No starch press, 2011, ISBN: 9781593272838. Introduktion till språket Haskell.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Professor Jacek Malec, Jacek.Malec@cs.lth.se
+Hemsida: http://cs.lth.se/edaf40
+
+
+

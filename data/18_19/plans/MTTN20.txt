@@ -1,0 +1,102 @@
+
+
+Kursplan för
+Informationssystem för logistik och försörjningskedjor
+Supply Chain Information Systems
+MTTN20, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning I
+Beslutsdatum: 2018-03-20
+Allmänna uppgifter
+Alternativobligatorisk för: MLOG2
+Valfri för: E5-pla, I5, I5-lf, M5-lp
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursen skall ge en övergripande bild av och förståelse för
+utvärdering, val, implementering och användning av
+informationssystem och inom logistik och försörjningskedjor,
+såsom affärssystem och olika typer av system för design,
+planering och styrning av försörjningskedjor. Studenterna skall
+bli familjära med olika typer av informationssystem och dess
+fördelar och nackdelar, genom gästföreläsningar, laborationer
+och företagsprojekt. Studenterna kommer gruppvis att arbeta med
+kartläggning och analys av såväl generella systemstrukturer som
+specifika tillämpningsområden.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+• ha erhållit en förståelse för informationssystem i
+försörjningskedjor och dessas tillämpningsområden
+• ha erhållit en förståelse för systemuppbyggnad, val av
+system, samt implementering och användning av informationssystem i
+försörjningskedjor
+• ha erhållit en förståelse för de kriterier, den kunskap
+och de färdigheter som krävs för att utvärdera olika system
+inom försörjningskedjan
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+• kunna kritiskt utvärdera fördelar och nackdelar med
+informationssystem inom försörjningskedjan
+• kunna identifiera kritiska framgångsfaktorer vid
+implementering av informationssystem
+• kunna kartlägga och analysera systemstrukturer och specifika
+system i praktiska fall
+ 
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+• ha en förmåga att värdera betydelsen av
+informationssystem för effektiviteten i försörjningskedjor
+• ha utvecklat en insikt i hur informationssystem för
+försörjningskedjor fungerar
+
+Kursinnehåll
+Kursen innefattar föreläsningar, gästföreläsningar,
+laborationer och projektarbete. Föreläsningarna introducerar
+studenterna till olika informationssystem för
+försörjningskedjor. Gästföreläsningar ger specifik
+systemkunskap inom valda områden från systemleverantörer samt
+erfarenhetsmässiga perspektiv från användare i industrin.
+Laborationer ger studenterna djupare kunskap samt exponerar dem
+för hur specifika applikationer fungerar i praktiken. Studenterna
+kommer även att genomföra ett grupparbete i projektform, i
+samarbete med industriföretag.
+Kursen kommer att behandla följande teman:
+• Fördelar med informationssystem i försörjningskedjor
+• Systemarkitektur och funktionalitet
+• Innehåll och användningsområde för olika typer av
+informationssystem för försörjningskedjor
+• Implementeringsaspekter
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Projektarbeten i grupp, samt individuella uppgifter. Obligatorisk närvaro kan förekomma i vissa moment.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0115. Benämning: Projekt. 
+Antal högskolepoäng: 6. Betygsskala: UG.  Prestationsbedömning: Godkända projekt. 
+Kod: 0215. Benämning: Individuell uppgift. 
+Antal högskolepoäng: 1,5. Betygsskala: UG.  Prestationsbedömning: Godkända individuella uppgifter. 
+Antagningsuppgifter
+Förkunskapskrav:
+MTTF01 Logistik eller MTTN01 Logistik i byggprocessen, 
+samt minst en av följande: MTTN25 Materialhantering, MIOF10 Material- och produktionsstyrning, MTT045/MTTN70 Internationell distributionsteknik och MTT240/MTTN80 Logistik i försörjningskedjor. 
+
+
+
+Begränsat antal platser: Nej
+Kursen kan ställas in: Om färre än 16 anmälda.
+Kurslitteratur
+
+No particular textbook. Övrig litteratur meddelas senare.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Jan Olhager, jan.olhager@tlog.lth.se
+Hemsida: http://www.tlog.lth.se
+
+
+

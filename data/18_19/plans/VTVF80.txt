@@ -1,0 +1,94 @@
+
+
+Kursplan för
+Planerings- och projekteringsmetodik av järnvägsanläggningar
+Railway Planning and Design Methodology
+VTVF80, 11 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning V
+Beslutsdatum: 2018-03-27
+Allmänna uppgifter
+Obligatorisk för: IBYI3
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursens syfte är att studenterna ska förstå planerings- och
+projekteringsprocesserna för spårbunden trafik och kunna
+tillämpa kursens planeringsmetoder för att ta fram funktions- och
+systemkrav för ett övningsobjekt samt järnvägstekniska
+lösningar som tillfredsställer dessa krav.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+Kunna redogöra för planerings- och projekteringsprocessen
+avseende järnvägsanläggningar.
+Kunna redogöra för sambandet mellan förväntat trafikarbete
+och järnvägsanläggningars utformning.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+Utifrån verkliga och antagna förutsättningar kunna definiera
+funktions- och systemkrav för en studerad järnväg
+Kunna sammanställa och redovisa gjorda analyser och
+slutledningar samt motivera framtagna järnvägstekniska lösningar
+i en rapport. Av rapporten skall framgå att studenten behärskar
+de planeringsmetoder som kursen innehållit.
+Kunna specificera en järnvägsanläggning utifrån givna eller
+framtagna funktions- och systemkrav och kunna redovisa detta i ett
+strukturerat rapportformat.
+Redovisa resultatet av kursen i en samordnad slutrapport.
+Rapporten skall tillsammans med eventuella systemskisser och
+förprojektering redovisa järnvägstekniska lösningar härledda
+ur de funktions- och systemkrav som det antagna trafikarbetet ger.
+Redovisning sker muntligt och skriftligt.
+
+
+Kursinnehåll
+
+Järnvägslagstiftning, miljölagstiftning
+Strukturerad kravhantering
+Bedömning av nyttor, effekter och konsekvenser
+Samhällsekonomisk kalkyl
+Miljökonsekvensbeskrivningar
+Trafikplanering
+Anläggningskostnadskalkyl
+Samordnad tillämpning av järnvägsteknik
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Godkända skriftliga redovisningar och inlämningar. Godkända projektarbeten. Som slutbetyg erhålls det viktade medelvärdet av projektarbete och skriftliga redovisningar och inlämningar.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0112. Benämning: Del 1. 
+Antal högskolepoäng: 6. Betygsskala: TH.  Prestationsbedömning: Godkända skriftliga redovisningar och inlämningar. Som betyg för kursdel 1 erhålls det viktade medelvärdet av skriftliga redovisningar och inlämningar.  Delmomentet omfattar: Järnvägslagstiftning, Miljölagstiftning, Strukturerad kravhantering, Samhällsekonomisk kalkyl, nyttor, effekter och konsekvenser, Anläggningskostnader samt Trafikplanering. 
+Kod: 0212. Benämning: Del 2. 
+Antal högskolepoäng: 5. Betygsskala: TH.  Prestationsbedömning: Godkänt projektarbete.  Delmomentet omfattar: I kursdelen ingår momenten att i rapportform redovisa järnvägstekniska lösningar som uppfyller de funktions- och systemkrav som tagits fram under kursdel 1. 
+Antagningsuppgifter
+Förkunskapskrav:
+VTVA50 Transport och samhälle
+VTVA45 Väg- och järnvägsteknik
+
+
+Förutsatta förkunskaper: VTVA35, VTVF35, VTVF45.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: VTVF65, VTVF25
+Kurslitteratur
+
+Föreläsningspresentationer, anteckningar samt tillhandahållet och av studenterna framtaget underlagsmaterial.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Andreas Persson, andreas.persson@tft.lth.se
+Examinator: Andreas Persson, andreas.persson@tft.lth.se
+Lärare: Patrik Jargenius, patrik.jargenius@afconsult.com
+Kursansvarig: Stellan Jönsson, stellan.jonsson@trafikverket.se
+Hemsida: http://www.tft.lth.se/utbildning/grundutbildning/
+Övrig information: Kursen ges vid Campus Helsingborg.
+
+
+

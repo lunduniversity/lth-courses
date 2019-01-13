@@ -1,0 +1,129 @@
+
+
+Kursplan för
+Termodynamik och ytkemi
+Thermodynamics and Surface Chemistry
+KFKA10, 8 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning B/K
+Beslutsdatum: 2018-03-21
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: W2
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursen syftar till att ge en solid termodynamisk grund för
+fortsatta studier inom kemi och energiteknik genom att
+
+fördjupa förståelsen av termodynamikens första och andra
+huvudsatser.
+förtydliga de centrala begreppen och storheterna inom klassisk
+termodynamik så att de kan appliceras korrekt inom olika
+områden.
+visa hur termodynamiken kan användas för att förstå och
+förklara kemiska fenomen, både i bulksystem och vid ytor.
+öva upp förmågan att lösa problem inom dessa områden.
+
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+förstå centrala termodynamiska begrepp och storheter, som
+jämvikt, ångtryck, entropi, entalpi och fri energi
+förstå grundläggande ytkemiska begrepp, som ytspänning och
+adsorption
+känna till grundläggande egenskaper hos de typer av system
+som presenteras i kursen, som gaser, vätskeblandningar och
+surfaktantlösningar
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna utföra beräkningar och kvalitativa förutsägelser med
+hjälp av de modeller och ekvationer som presenteras i kursen.
+kunna analysera en praktisk frågeställning, göra rimliga
+antaganden, bryta ned problemet i delsteg och välja rätt
+beräkningsmodeller för att lösa problemet.
+kunna använda miniräknare och dator för att analysera data
+och utföra numeriska operationer som integrering,
+ekvationslösning och linjär regression.
+kunna utföra kemiska laborationer på ett noggrant och säkert
+sätt.
+kunna skriva laborationsredogörelser enligt givna
+instruktioner med korrekt presentation av data och
+feluppskattningar.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna värdera giltigheten i de modeller som presenterats i
+kursen.
+kunna avgöra rimligheten i de svar som erhålls under
+problemlösning.
+kunna resonera om fördelar och nackdelar hos tekniska
+tillämpningar som bygger på termodynamiska och ytkemiska
+principer.
+
+
+Kursinnehåll
+Kursen är uppdelad i två huvudavsnitt:
+1. Termodynamik
+Termodynamiska grundbegrepp som arbete och värme, entropi,
+entalpi, Gibbs energi och kemisk potential.  Reversibla och
+irreversibla, isoterma och adiabatiska processer.
+Tillståndsekvationer för gaser. Korresponderande tillstånd.
+Utvidgning och kompressibilitet.
+Kvantitativ behandling av fasjämvikter i enkomponentsystem.
+Clapeyrons och Clausius-Clapeyrons ekvationer.
+Termodynamik för blandningar. Ideala lösningar. Raoults lag.
+Destillering. Idealt utspädda lösningar. Henrys lag. Kolligativa
+egenskaper. Fasdiagram för tvåkomponentsystem.
+Aktivitetsbegreppet.
+Termodynamisk behandling av kemisk jämvikt för gaser och
+lösningar. Heterogena jämvikter. Tryck- och temperaturberoende av
+jämvikter.
+2. Ytkemi
+Gränsytor, ytspänning. Vätningsfenomen. Kapillärkraft. Krökta
+ytor: Laplace och Kelvins ekvationer. Ytaktiva ämnen. Gibbs
+adsorptionsekvation. Miceller, kritisk
+micellbildningskoncentration. Solubilisering. Ytfilmer. Skum och
+aerosoler. Emulsioner. DLVO-teorin. Kolloider och deras
+stabilitet.
+Laborationer
+Vid laborationerna tränas arbete med evakuerade system och
+destillationsutrustning, avläsning av tryckmätare, termometer,
+hygrometer, refraktometer m.m.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Laborationer, inlämningsuppgifter och tentamen. Slutbetyget på kursen bestäms av resultatet på tentamen, som består av två delar. Del 1 testar grundläggande förståelse och räknefärdighet. För godkänt betyg (3) på kursen krävs godkänt resultat på denna del. 
+Del 2 av tentamen är frivillig och rättas endast om del 1 är godkänd. Båda delarna används för att avgöra vilket av betygen 3, 4 eller 5 som skall ges. 
+
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0118. Benämning: Tentamen. 
+Antal högskolepoäng: 6,5. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen 
+Kod: 0218. Benämning: Laborationer och inlämningsuppgifter. 
+Antal högskolepoäng: 1,5. Betygsskala: UG.  Prestationsbedömning: För betyg G skall varje laboration utföras och redovisas enligt anvisningarna, vilket kan innebära skriftligt eller muntligt, på svenska eller engelska. För godkänt skall de skriftliga rapporterna vara enkla men korrekta och koncisa, ha lämplig struktur samt innehålla en relevant diskussion av resultaten. 
+Antagningsuppgifter
+Förutsatta förkunskaper: FMAA05 Endimensionell analys, FMAB30/FMA430 Flerdimensionell analys, KASA01 Grundläggande kemi, FAFA70 Energi- och omvärldsfysik
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: KFK060, KFK080, KFKA01
+Kurslitteratur
+
+Atkins, P., Jones, L. och Laverman, L.: Chemical Principles, The quest for insight, Seventh edition. W. H. Freeman, New York, 2016, ISBN: 978-1-4641-8395-9.
+Robert G. Mortimer: Physical chemistry (2nd edition). Elsevier, 2000, ISBN: 978-0-12-508345-4. Fritt tillgänglig genom LU på följande länk:
+http://www.sciencedirect.com/science/book/9780125083454.
+Kompendium, inkluderande komplement till kurslitteraturen, övningsuppgifter och laborationshandledningar, producerade vid avdelningen för Biofysikalisk kemi.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Pär Söderhjelm, Par.Soderhjelm@bpc.lu.se
+Hemsida: http://www.cmps.lu.se/bpc/education/
+
+
+

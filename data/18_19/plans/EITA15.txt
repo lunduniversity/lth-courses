@@ -1,0 +1,133 @@
+
+
+Kursplan för
+Digitala system
+Digital Systems
+EITA15, 15 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning C/D
+Beslutsdatum: 2018-04-03
+Allmänna uppgifter
+Obligatorisk för: IDA1, IEA1
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursens syfte är att ge högskoleingenjören grundläggande
+kunskaper i digitalteknik och datorteknik. Syftet är också att ge
+praktiska färdigheter i strukturerade metoder för
+problemlösning, konstruktion och felsökning.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna förklara den booleska algebran och den binära
+aritmetiken
+kunna beskriva funktionen hos kombinationskretsar och
+sekvenskretsar
+kunna beskriva principerna för hur en dator fungerar på
+registernivå
+kunna tillämpa systematiska metoder för analys och syntes av
+kombinatoriska nät och sekvensnät.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+med hjälp av hårdvarunära programmering (VHDL och C) kunna
+konstruera ett digitalt system bestående av programmerbara kretsar
+och enchipsdator
+skriftligt kunna dokumentera konstruktioner gjorda i VHDL och
+C
+ha nödvändiga grundkunskaper för att i den framtida
+yrkesrollen tillgodogöra sig nya hårdvarunära
+programmeringsspråk.
+
+
+Kursinnehåll
+
+Logisk algebra. Boolesk algebra. Modulo-2 algebra
+Binär aritmetik. Talsystem. Binära koder. 2-komplement och
+10-komplement
+Kombinationskretsar. Förenkling och realisering av booleska
+funktioner i grindnät. Karnaughdiagram. Standardgrindnät för
+realisering av booleska funktioner
+Fundamentala sekvenskretsar. Räknare. Register och
+skiftregister
+Sekvenskretsar. Tillståndsbegreppet. Sekvenskretsmodellen, typ
+Mealy och Moore. Synkrona och asynkrona sekvenskretsar. Latchar och
+vippor
+Hårdvarubeskrivande språket VHDL. Inledande begrepp i VHDL.
+Beskrivning av en liten kombinationskrets i VHDL
+Halvledarminnen. Minnesmodell. Klassificering av
+halvledarminnen. Läsminnen. Adressavkodning. Läs/skrivminnen RWM,
+statiska och dynamiska
+Digital/analog - Analog/digital-omvandlare
+Datormodellen: Datorns delar och funktion. CPU:n på
+registernivå
+Assemblyprogrammering: Data- och instruktionsformat.
+Adresseringsmetoder. Instruktionsrepertoar. ”Timing” och
+exekveringstid. Stack och subrutiner
+Programutveckling i C: Editering. Kompilering. Länkning.
+Testning med hjälp av högnivådebugger.
+Projektet innebär att självständigt genomföra en mindre
+konstruktion, redovisa muntligt samt dokumentera resultatet i en
+skriftlig rapport.
+
+Laborationerna ger en fördjupad träning i ämnet och belyser
+följande moment: 
+
+Anknytning till de moment som behandlas inom digitala
+system
+Grindar i MOS-teknik
+Hasard och kapplöpning
+Programmerbara logiska kretsar. Klassificering av integrerade
+kretsar
+Beskrivning av sekvenskretsar och kombinationskretsar i VHDL.
+Strukturbeskrivning på blocknivå
+Realisering av kombinations- och sekvenskretsar i
+programmerbara logiska kretsar
+Programutveckling i C: Problemstrukturering.
+Programkomponenter. Programmeringsteknik för inbyggda system
+In- och utmatning: Parallella portar. Seriella portar.
+A/D-omvandling. D/A-omvandling
+Avbrottssystem: Periodiskt avbrott. Prioritet mellan avbrott.
+Drivrutiner
+Datorn som systemkomponent: Interfaceteknik. Enkortsdatorer.
+Enchipsdatorer
+Datorteknikens utveckling: Historik. Utvecklingstrender.
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen, godkända laborationer i datorteknik och digitalteknik, godkända inlämningsuppgifter/dugga samt godkänt projekt innehållande konstruktion och skriftlig rapport. För deltagande i laborationskurs datorteknik, krävs att laborationskurs digitalteknik fullgjorts.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0118. Benämning: Tentamen. 
+Antal högskolepoäng: 4,5. Betygsskala: TH.  Prestationsbedömning: Godkänd skriftlig tentamen.  Delmomentet omfattar: Skriftlig tentamen 
+Kod: 0218. Benämning: Laborationer, digitalteknik. 
+Antal högskolepoäng: 3. Betygsskala: UG.  Prestationsbedömning: Godkända laborationsuppgifter.  Delmomentet omfattar: Laborationer i digitalteknik. 
+Kod: 0318. Benämning: Laborationer, datorteknik. 
+Antal högskolepoäng: 3. Betygsskala: UG.  Prestationsbedömning: Godkända laborationsuppgifter.  Delmomentet omfattar: Laborationer i datorteknik.  Övrig information: För deltagande i laborationskurs datorteknik krävs att laborationskurs digitalteknik fullgjorts.
+Kod: 0418. Benämning: Inlämningsuppgifter, dugga. 
+Antal högskolepoäng: 0. Betygsskala: UG.  Prestationsbedömning: Godkända inlämningsuppgifter/dugga.  Delmomentet omfattar: Inlämningsuppgifter, dugga. 
+Kod: 0518. Benämning: Projekt. 
+Antal högskolepoäng: 4,5. Betygsskala: UG.  Prestationsbedömning: Godkänt projekt innehållande konstruktion och skriftlig rapport.  Delmomentet omfattar: Projekt 
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: EDI601, EDT603, EDI610
+Kurslitteratur
+
+Föreläsningsanteckningar. Kommer finnas tillgängligt på kurshemsidan.
+Hemert, L-H: Digitala kretsar. Studentlitteratur, 2001, ISBN: 9789144019185.
+Tekniska manualer.
+Laborationsmaterial utdelas under kursens gång.
+Bilting & Skansholm: Vägen till C. Studentlitteratur, 2000, ISBN: 9789144014685. Rekommenderad litteratur, ej obligatorisk.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Bertil Lindvall, Bertil.Lindvall@eit.lth.se
+Hemsida: http://www.eit.lth.se/kurs/eita15
+
+
+

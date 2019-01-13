@@ -1,0 +1,112 @@
+
+
+Kursplan för
+Introduktion till trådlösa system
+An Introduction to Wireless Systems
+EITF50, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning E
+Beslutsdatum: 2018-04-05
+Allmänna uppgifter
+Huvudområde: Kommunikationssystem. Fördjupning: Grundnivå, har minst 60 hp kurs/er på grundnivå som förkunskapskrav.
+Alternativobligatorisk för: MWIR1
+Valfri för: C4, D4, E4-fh, F4, F4-hn, MSOC1, N4-hn
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Syftet med kursen är att ge en god allmänbildning i
+högfrekvenstillämpningar, speciellt sådana som förekommer vid
+radiokommunikation. Grunden läggs utan att tränga in i
+elektroniken eller att fördjupa sig i konstruktionsdetaljer. De
+olika delarna behandlas som block vilka definieras av sina
+fysikaliska egenskaper. Detta ger en förståelse för t.ex.
+radiomottagarens eller mobiltelefonens uppbyggnad och kunskap om
+vilka krav som ställs på de ingående kretsarna. Därigenom är
+kursen även en nödvändig grund för den som senare vill
+specialisera sig till högfrekvens- eller radiokonstruktör.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+vara väl förtrogen med radiomottagare och -sändare på
+blockschemanivå
+kunna beskriva och analysera en modulerad signal i tids-,
+frekvens- och fasdomänen
+kunna beskriva och analysera en hel radioförbindelse inklusive
+antenner och vågutbredning
+ha kunskap om spektrum- och nätverksanalys för höga
+frekvenser
+
+ 
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna utföra en brusanalys av ett system med givna
+förutsättningar
+kunna simulera mottagare på blocknivå
+för ett givet radiosystem kunna upprätta och tillämpa en
+länkbudget
+kunna utföra grundläggande mätningar med spektrum- och
+nätverksanalysator
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna tolka datablad för att med färdiga byggblock konstruera
+ett radiosystem som uppfyller en given specifikation
+ha en rimlighetsuppfattning avseende grundläggande parametrar
+i systemet och dess delar
+
+
+Kursinnehåll
+Områden som behandlas är:
+
+grundläggande begrepp som bandbredd, Q-värde och
+decibelräkning
+bruskällor, signalkvalitet (SNR, SINAD), brusfaktor och
+brustemperatur
+radiomottagarens och sändarens uppbyggnad och funktion på
+blocknivå
+linjäritetsegenskaper, kompressions- och interceptpunkter
+diskreta komponenters högfrekvensegenskaper
+egenskaper hos förstärkare, blandare, oscillatorer, faslåsta
+slingor (PLL) och frekvenssyntes
+speciella komponenter såsom effektdelare, -summerare,
+riktkopplare och cirkulator
+analog och digital modulation
+transmissionsledningar, antenner, vågutbredning och
+länkbudget
+datorstödd simulering av mottagare
+mätning vid höga frekvenser med spektrum- och
+nätverksanalysator
+orientering om moderna digitala kommunikationssystem
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Tentamen och godkända laborationer. Godkända laborationer är ett krav för att få tentera.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Laborationer. 
+Antal högskolepoäng: 1,5. Betygsskala: UG.  Prestationsbedömning: Godkända laborationer 
+Kod: 0217. Benämning: Tentamen. 
+Antal högskolepoäng: 6. Betygsskala: TH.  Prestationsbedömning: Godkänd skriftlig tentamen 
+Antagningsuppgifter
+Förutsatta förkunskaper: ESS010/ETIA01 Elektronik eller ETE115/EITF90 Ellära och elektronik.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: ETI031, ETIF05
+Kurslitteratur
+
+Young Paul H.: Chapters from Electronic Communication Techniques, Fifth Edition. Pearson, 2004, ISBN:  9780857766915.
+Laborationshandledning.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Johan Wernehag, johan.wernehag@eit.lth.se
+Hemsida: http://www.eit.lth.se/kurs/eitf50
+
+
+

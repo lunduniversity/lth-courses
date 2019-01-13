@@ -1,0 +1,80 @@
+
+
+Kursplan för
+Konstruktion av inbyggda system
+Design of Embedded Systems
+EDAN15, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning C/D
+Beslutsdatum: 2018-04-03
+Allmänna uppgifter
+Huvudområde: Elektronikkonstruktion. 
+Obligatorisk för: MSOC1
+Valfri för: D4-dpd, D4-is, E4-is, M4-me, MWIR2
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursens syfte är att studenterna skall lära sig grundläggande
+metoder för konstruktion av inbyggda system som innehåller
+hårdvaru- och programvarukomponenter.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna förklara metoder som används i konstruktion av inbyggda
+system,
+kunna förklara och definiera grundläggande metoder för
+systemspecifikation, analys, konstruktionsrepresentation (modeller
+av beräkningar), syntes och integration.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna använda olika beräkningsmodeller för modellering av
+inbyggda system,
+kunna konstruera och utvärdera arkitektur för inbyggda
+system,
+kunna beskriva och implementera hårdvarudelar av inbyggd
+system med hjälp av hårdvaru beskrivnings språk,
+kunna integrera hårdvaru- och programvarukomponenter i ett
+system,
+kunna utveckla enkla inbyggda system (hårdvara och
+programvara).
+
+
+Kursinnehåll
+Utvecklingsmetodik för SoC, HW/SW samkonstruktion,
+specifikation, konstruktionsrepresentation, systempartitionering,
+komponentallokering och schemaläggning, interface-syntes,
+testbarhet, konstruktion för låg effektförbrukning.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Tentamen är skriftlig. Slutbetyg på kursen baseras på resultatet av den skriftliga tentamen. Obligatoriska moment: laborationer, 2 övningar.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0110. Benämning: Obligatoriska moment. 
+Antal högskolepoäng: 4,5. Betygsskala: UG.  Prestationsbedömning: Godkända laborationer samt deltagande i de obligatoriska övningarna krävs för att få slutbetyg på kursen.  Övrig information: De obligatoriska momenten består av laborationer och övningar.
+Kod: 0210. Benämning: Tentamen. 
+Antal högskolepoäng: 3. Betygsskala: TH.  Prestationsbedömning: Slutbetyg på kursen baseras på resultatet på den skriftliga tentamen. 
+Antagningsuppgifter
+Förkunskapskrav:
+EDA016/EDA011/EDA017/EDAA45/EDAA50/EDAA55. Dessutom EIT020/EITF65 och EIT070/EITF70. För M gäller följande krav: EDA501/EDAA65 samt  MIE041/EIEF40 eller EIEF01
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: EDA380
+Kurslitteratur
+
+Marwedel, P: Embedded System Design. Springer, 2006, ISBN: 0-387-29237-3.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Professor Krzysztof Kuchcinski, Krzysztof.Kuchcinski@cs.lth.se
+Hemsida: http://cs.lth.se/edan15
+Övrig information: Kursen ingår i Socware-programmet.
+
+
+

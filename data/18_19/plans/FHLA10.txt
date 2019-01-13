@@ -1,0 +1,74 @@
+
+
+Kursplan för
+Hållfasthetslära, grundkurs
+Solid Mechanics, Basic Course
+FHLA10, 4,5 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning M
+Beslutsdatum: 2018-03-27
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: F2
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursen syftar till att ge baskunskaper i hållfasthetslära med
+tillämpningar på verklighetsnära problem.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+ha förmåga att förstå den klassiska hållfasthetslärans
+principiella grunder.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+ha uppnått den kunskap som är nödvändig för att kunna
+tillgodogöra sig de olika fortsättningskurserna inom
+hållfasthetsläran.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna analysera, värdera och dimensionera vanligt
+förekommande konstruktionselement.
+
+
+Kursinnehåll
+I kursen definieras hållfasthetslärans två mest
+grundläggande begrepp, spänning och töjning och sambandet mellan
+dessa båda storheter etableras. Ett viktigt delmoment i kursen är
+spänningsanalys, med tonvikten lagd på det plana
+spänningstillståndet. Spännings- och deformationsanalysen
+tillämpas på de tre grundläggande belastningsfallen enaxligt
+drag/tryck, vridning och böjning. Denna kunskap kommer också att
+användas för att lösa statiskt obestämda problem inom
+balkböjningen. Som en introduktion till behandling av material med
+tidsberoende egenskaper ägnas ett avsnitt åt sambandet mellan
+spänning och töjning i reologiska modeller.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen efter kursens slut.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: FMA430 Flerdimensionell analys, grundläggande kurser i Mekanik.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FHL013, FHL055
+Kurslitteratur
+
+Hållfasthetslära för F - Utdrag ur Introduktion till hållfasthetslära. Kurslitteraturen tillhandahålls av Avdelningen för Hållfasthetslära.
+
+
+Kontaktinfo och övrigt
+Lärare: Jonas Engqvist, jonas.engqvist@solid.lth.se
+Kursansvarig: Mathias Wallin, mathias.wallin@solid.lth.se
+Hemsida: http://www.solid.lth.se
+
+
+

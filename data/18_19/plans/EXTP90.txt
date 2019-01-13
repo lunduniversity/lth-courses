@@ -1,0 +1,87 @@
+
+
+Kursplan för
+Fasta tillståndets teori
+Solid State Theory
+EXTP90, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning N
+Beslutsdatum: 2018-03-28
+Allmänna uppgifter
+Huvudområde: Nanovetenskap. 
+Valfri för: F4, F4-tf, F4-nf, N4-nf
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursen ska ge en djupare förståelse för centrala begrepp
+inom fasta tillståndets fysik. Studenten ska lära sig hur dessa
+begrepp kan tillämpas på moderna fysikaliska fenomen. Särskilt
+behandlas ämnen som är relevanta inom pågående forskning inom
+fasta tillståndets fysik och nanovetenskap i Lund.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+förstå konceptet elektronisk bandstruktur i kristaller och
+kunna relatera detta till grundläggande kvantmekanik,
+kunna bedöma hur spridning påverkar elektrontransport i
+halvledare och metaller,
+kunna förklara mikroskopiska orsaker till para-, dia- och
+ferromagnetism inom enklare modeller,
+förstå principen av medelfältsapproximationen,
+ha förståelse för hur den dielektriska funktionen påverkas
+av fononer, optiska övergångar och elektron-elektron
+växelverkan,
+ha en överblick över supraledning och ha kännedom om det
+mikroskopiska BCS tillståndet.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna tillämpa envelope functions vid modellering av
+halvledarheterostrukturer,
+kunna hantera enklare problem i mångpartikel-kvantmekanik med
+hjälp av konceptet besättningstalsrepresentation,
+kunna genomföra elementära kvantitativa beräkningar för
+optiska egenskaper hos fasta kroppar såsom förstärkningsspektrum
+för halvledarlasrar.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna värdera hierarkien av koncepten inom fasta tillståndets
+fysik,
+kunna se användbarheten av grundläggande teorier inom fysiken
+för kvantitativ beskrivning av praktiska problem.
+
+
+Kursinnehåll
+Bandstruktur hos kristaller och halvledare. Elektrontransport
+och spridningsprocesser. Magnetism. Formalismen för
+täthetsmatriser och den optiska Blochekvationen för
+halvledarlasern. Coulombväxelverkan, dielektriska egenskaper och
+excitoner. Supraledning.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Muntlig eller skriftlig tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: FFFF05 Fasta tillståndets fysik eller FFFF01 Elektroniska material, FMFN01 Kvantmekanik, fortsättningskurs eller motsvarande. Grundläggande kunskaper i elektromagnetism samt statistisk fysik.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FFF051
+Kurslitteratur
+
+D. W. Snoke: Solid State Physics. Addison Wesley, 2008. Eller liknande.
+Kompendium, se kursens hemsida.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Andreas Wacker, Andreas.Wacker@fysik.lu.se
+Hemsida: http://www.teorfys.lu.se/education/FYST25/
+
+
+

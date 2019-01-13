@@ -1,0 +1,93 @@
+
+
+Kursplan för
+Teknisk modellering: Bärverksanalys
+Engineering Modelling: Analysis of Structures
+VSMF05, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning V
+Beslutsdatum: 2018-03-27
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Alternativobligatorisk för: V3
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Analys av stänger, balkar, fackverk och ramar tillhör de
+vanligaste beräkningsuppgifterna för en konstruktör. Kursens
+syfte är att ge kunskaper om att välja fysikaliskt riktiga
+modeller samt att använda dessa för att lösa ingenjörsproblem.
+Det generella i den elementbaserade analysmetoden understryks genom
+att även endimensionella flödesproblem som värmeledning,
+diffusion och grundvattenströmning behandlas.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna teoretiskt modellera stänger, balkar, fackverk, ramar
+samt endimensionella flödesproblem som värmeledning, diffusion
+och grundvattenströmning.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna använda elementbaserad förskjutningsmetod för att
+analysera fackverk, ramar och endimensionella flödesproblem.
+kunna upprätta beräkningsmodeller för konstruktioner,
+inkluderande att indela strukturen i element, definiera
+frihetsgrader, upplagsvillkor och laster.
+kunna genomföra datorberäkningar för analys av aktuella
+konstruktioner.
+kunna skriftligt redovisa förutsättningar, beräkningsmodell
+och resultat från handberäkningar och datorberäkningar för
+olika tillämpningsexempel.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna utvärdera om erhållet beräkningsresultat
+överensstämmer med beräkningsförutsättningar och uppställd
+beräkningsmodell.
+
+
+Kursinnehåll
+Matrisalgebra. Introduktion till diskreta system.
+Elementformulering för stång och balk. Elementbaserad analys av
+plana fackverk och ramar. Modelleringsaspekter; symmetri, leder i
+ramar, bivillkor, statisk kondensering, reducerade ekvationssystem.
+Endimensionella flödesproblem; värmeledning, diffusion,
+grundvattenströmning, rörströmning och elektrisk ström.
+Fjädarande upplag. Analys av ramar och fackverk med hänsyn tagen
+till geometrisk ickelinjäritet (andra ordningens teori) och
+instabilitet. Analys av ramar och fackverk med hänsyn tagen till
+materiell ickelinjäritet.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Obligatoriska inlämningsuppgifter, laboration och skriftlig tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0116. Benämning: Teknisk modellering: Bärverksanalys. 
+Antal högskolepoäng: 6. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen 
+Kod: 0216. Benämning: Inlämningsuppgifter. 
+Antal högskolepoäng: 1,5. Betygsskala: UG.  Prestationsbedömning: Skriftlig redovisning av inlämningsuppgifter 
+Antagningsuppgifter
+Förutsatta förkunskaper: VSMA05 Byggnadsmekanik ELLER FME602 Strukturmekanik ELLER VSMA20 Strukturmekanik OCH
+FMA420 Linjär algebra ELLER FMAB20 Linjär algebra OCH
+FMAA05 Endimensionell analys.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: VSM150
+Kurslitteratur
+
+Dahlblom, O. och Olsson, K.-G.: Strukturmekanik,  Modellering och analys av ramar och fackverk. Studentlitteratur , 2015, ISBN: 9789144107868.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Professor Ola Dahlblom, Ola.Dahlblom@construction.lth.se
+Hemsida: http://www.byggmek.lth.se
+
+
+

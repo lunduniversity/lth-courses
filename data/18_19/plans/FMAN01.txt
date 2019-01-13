@@ -1,0 +1,77 @@
+
+
+Kursplan för
+Biomatematik
+Biomathematics
+FMAN01, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning F/Pi
+Beslutsdatum: 2018-03-23
+Allmänna uppgifter
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Kursens huvudsyfte är att ge en grundläggande introduktion
+till teori och matematiska metoder inom biologi, i tillräcklig
+omfattning för att kunna ta sig an biologiska problemställningar.
+Vidare är syftet att få studenten att utveckla sin förmåga till
+problemlösning, både med och utan dator. Syftet är också att
+förbereda för fortsatta studier i t ex biologiska system och
+evolutionsbiologi.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna tydligt förklara och självständigt använda
+matematiska grundbegrepp inom biologi, speciellt inom
+cellmodellering, evolutionsdynamik och diffusionsfenomen.
+kunna beskriva och översiktligt förklara den matematiska
+teorin bakom några centrala biologiska modeller, såsom
+icke-linjära differensekvationer, icke-linjära
+differentialekvationer och reaktions-diffusions-ekvationer.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna använda programpaket på dator för att simulera
+lösningar till biologiska problem.
+kunna visa god förmåga att självständigt identifiera
+biologiska problemställningar som kan lösas med
+matematisk modellering, samt kunna välja lämplig metod.
+kunna självständigt applicera grundläggande modellering på
+industriellt och forskningsmässigt relevanta biologiska
+problem.
+med adekvat terminologi, väl strukturerat och logiskt
+sammanhängande kunna redogöra för lösningen till ett biologiskt
+modelleringsproblem.
+
+
+Kursinnehåll
+Populationstillväxt. Icke-linjära differensekvationer.
+Evolutionsdynamik. Kontinuerliga modeller. Fasplansmetoder.
+Molekyldynamik. Cellcykeln. Gränscykler, oscillationer och
+exciterbara system. Diffusionsmodellering. PDE-modeller.
+Mönstergenerering.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Obligatoriska inlämningsuppgifter. Godkänt resultat på dessa räcker för godkänt på kursen. För överbetyg fordras godkänt resultat på en hemtentamen och en muntlig tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: FMAF05 System och transformer och FMAN55 Kontinuerliga system, eller kurserna i Tillämpad matematik.
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Edelstein-Keshet, L.: Mathematical models in Biology. SIAM, 2004, ISBN: 0-07-554950-6.
+
+
+Kontaktinfo och övrigt
+Studierektor: Anders Holst, Studierektor@math.lth.se
+Kursansvarig: Anders Källén, andersk@maths.lth.se
+Kursadministratör: Studerandeexpeditionen, expedition@math.lth.se
+Hemsida: http://www.maths.lth.se/course/biomat/
+
+
+

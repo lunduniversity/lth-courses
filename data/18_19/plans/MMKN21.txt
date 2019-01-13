@@ -1,0 +1,143 @@
+
+
+Kursplan för
+Konstruktion i termoplastiska material
+Design in Thermoplastic Materials
+MMKN21, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning M
+Beslutsdatum: 2018-03-27
+Allmänna uppgifter
+Valfri för: M4-pu, MD4
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Kursen ska med stöd av de senaste forskningsrönen ge kunskap
+och insikt gällande konstruktion och tillverkning med
+termoplaster. Kunskapen omfatta materialkännedom, konstruktiv
+utformning och tillverkningsmetoder för termoplastiska material.
+Kursdeltagaren ska också ges kunskaper om grundläggande
+kostnadsanalys. Hållbar utveckling utgör ett viktigt fundament i
+kursen. Fokus ligger på bioplaster, energieffektiv produktion och
+att konstruera för materialåtervinning. Likaså behandlas
+plasters roll ur ett samhällsperspektiv.
+Inom respektive teknikområde behandlas såväl kvalitativa som
+kvantitativa metoder. Efter godkänd kurs ska kursdeltagaren aktivt
+kunna delta i utveckling och tillverkning av nya
+termoplastprodukter och att kunna vidareutveckla produkter där
+termoplaster ersätter konventionella material för att nå
+förbättrade egenskaper.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+ 
+
+utifrån en given principlösning kunna föreslå lämpligt
+plastmaterial
+utifrån en given principlösning kunna föreslå lämplig
+konstruktionslösning
+utifrån vald konstruktionslösning kunna föreslå lämplig
+produktionsmetod
+utifrån val av material, konstruktionslösning och
+tillverkningsmetod kunna beräkna kostnader
+inför en industriell uppdragsgivare eller motsvarande muntligt
+och skriftligt, självständigt eller i grupp, kunna redovisa
+resultatet från ett konstruktionsprojekt - i form av resultat och
+process
+
+ 
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+ 
+
+självständigt eller i grupp, med hjälp av publika
+materialdatabaser, kunna ta fram och analysera olika
+materialförslag för aktuell produkt
+självständigt eller i grupp kunna utarbeta en unik
+konstruktionslösning
+självständigt eller i grupp kunna göra en grundläggande
+formfyllnadssimulering och göra en enkel analys av förloppet och
+dess konsekvenser
+självständigt eller i grupp kunna kommunicera, muntligt och i
+skrift, framtagen konstruktionslösning för en industriell
+uppdragsgivare eller motsvarande
+
+ 
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+med ett forskningsmässigt förhållningssätt kunna reflektera
+över framtagna material-, konstruktions- och
+tillverkningslösningar och med detta som grund kunna föreslå
+eventuellt behov av ytterligare och/eller alternativa material-,
+konstruktions- och tillverkningslösningar
+kunna identifiera eventuella behov av fördjupade analyser av
+framtagna förslag
+
+ 
+
+Kursinnehåll
+För att säkerställa att det är aktuella forskningsrön som
+presenteras i kursen inbjuds externa föreläsare med
+forskningsanknytning. Under kursen får studenterna ta del av de
+senaste nyheterna inom termoplastområdet, som underlag för att
+lära sig att göra självständiga och kritiska bedömningar.
+Kursen består av föreläsningar, övningar och projektarbete.
+Studiebesök hos industrier med olika tillverkningstekniker
+genomförs. Kursen inleds med en genomgång av aktuella bas-,
+konstruktions- och avancerade plaster. Utgångspunkten är
+materialens egenskaper och pris, för att ge en insikt om de
+termoplaster som idag finns tillgängliga på marknaden. Därefter
+följer en beskrivning av de vanligaste tillverkningsmetoderna för
+termoplaster (formsprutning, vakuumformning, extrudering,
+formblåsning m.fl.) och grundläggande verktygsteknik. Därefter
+fokuserar kursen framförallt på konstruktionsaspekter för
+termoplaster.
+Baserat på dessa kunskaper redovisas hur en kravspecifikation
+upprättas som underlag för val av material och hur det konkreta
+materialvalet genomförs. Utifrån materialvalet belyses hur den
+konstruktiva utformningen tas fram, inte enbart med hänsyn till
+funktionella krav utan också med hänsyn till de
+produktionsbetingade krav som är så specifika för termoplaster.
+Den teoretiska genomgången avslutas med att de specifikt
+tillverkningsrelaterade aspekterna beaktas, såsom
+tillverkningsmetod, eventuell efterbearbetning och
+kostnadsanalys.
+Parallellt med teoridelen genomförs ett industrinära
+produktutvecklingsprojekt. Utgångspunkten är att även praktiska
+moment ska ingå, som tillverkning av formverktyg och prototyp. .
+Projektet utförs i grupp om 3-5 studenter per grupp. Projektet
+följer momenten: produktanalys och upprättande av
+kravspecifikation, val av lämpligt material och lämplig
+tillverkningsmetod, framtagning av konstruktiv utformning och
+produktionsförberedelser inkluderande kostnadsanalys.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: För att erhålla slutbetyg krävs godkänd tentamen och godkänt projektarbete. Projektet genomförs i form av ett grupparbete om 3 - 5 studenter per grupp och omfattar momenten: problemanalys och upprättande av kravspecifikation, materialval, konceptgenerering och konstruktiv utformning, produktionsaspekter och kostnadsanalys. I projektarbetet ingår också en projektrapport och avslutande presentation av resultat vid en gemensam redovisning av projekten. Varje delmoment bedöms i poängskalan 0 – 10 poäng. För godkänt delmoment krävs minimum 5 poäng, totalt för projektet 25 poäng. För godkänt projektarbete krävs att alla delmoment godkänts. Maximalt kan 50 poäng erhållas på projektarbetet. Varje medlem i projektgruppen erhåller den för projektresultatet uppnådda poängen. Den skriftliga tentamen behandlar genomgången teori och ger maximalt 50 poäng. För godkänd tentamen krävs minimum 25 poäng. Slutbetyget baseras på uppnådda poäng på de båda kursmomenten.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0119. Benämning: Skriftlig tentamen. 
+Antal högskolepoäng: 3. Betygsskala: UG.  Prestationsbedömning: Godkänd tentamen ger maximalt 50 poäng. För godkänd tentamen krävs minimum 25 poäng.   Delmomentet omfattar: Tentamen avser att individuellt kontrollera kunskaperna i genomgången teori. 
+Kod: 0219. Benämning: Projektarbete. 
+Antal högskolepoäng: 4,5. Betygsskala: UG.  Prestationsbedömning: Projektet omfattar momenten: analys och upprättande av kravspecifikation, val av lämpligt material och lämplig tillverkningsmetod, framtagning av konstruktiv utformning och kostnadsanalys. I projektarbetet ingår också en projektrapport och avslutande presentation av resultat vid en gemensam redovisning av alla projekten. Varje delmoment, inklusive den gemensamma redovisningen och projektrapporten bedöms i poängskalan 0 – 10 poäng. För godkänt delmoment krävs minimum 5 poäng. För godkänt projektarbete krävs att alla delmoment godkänts, dvs minimum 25 poäng. Maximalt kan 50 poäng erhållas på projektarbetet. Projektet genomförs i form av ett grupparbete med 3 - 5 studenter per grupp. Varje gruppmedlem erhåller den för projektresultatet gemensamt uppnådda poängen.  Delmomentet omfattar: Projektet omfattar momenten: analys och upprättande av kravspecifikation, val av lämpligt material och lämplig tillverkningsmetod, framtagning av konstruktiv utformning och kostnadsanalys. I projektarbetet ingår också en projektrapport och avslutande presentation av respektive projektarbete vid en gemensam redovisning av alla projekten. 
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: MMKN20
+Kurslitteratur
+
+Ulf Bruder: Värt att veta om plast. 2017, ISBN: 978-91-983811-1-5.
+Aktuell forskningslitteratur, vetenskapliga artiklar som görs tillgängligt under kursen.
+Ulf Bruder: User's Guide to Plastics. Carl Hanser Verlag, 2015, ISBN: 978-1-56990-572-2.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Katarina Elner-Haglund, katarina.elner-haglund@design.lth.se
+Kursadministratör: Cilla Perlhagen, cilla.perlhagen@design.lth.se
+Hemsida: http://www.product.lth.se/education/
+
+
+

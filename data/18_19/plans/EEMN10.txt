@@ -1,0 +1,88 @@
+
+
+Kursplan för
+Datorbaserade mätsystem
+Computerised Measurement Systems
+EEMN10, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning BME
+Beslutsdatum: 2018-03-23
+Allmänna uppgifter
+Valfri för: BME4, D5, E4-ss, F4, F4-mt, F4-ss, N4
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Automatiserad insamling av mätdata är av fundamental betydelse
+för test- och mätuppgifter i industri och forskningssammanhang.
+Kursen syftar till att ge en överblick över system och metoder
+för överföring av mätdata i test- och industrimiljöer, samt
+att presentera metoder att programmera ett sådant system på ett
+logiskt och strukturerat sätt.
+Kursen ges i form av lektioner med laborationer och
+inlämningsuppgifter som belyser och exemplifierar föreläst
+material.
+Ett avslutande projekt skall ge teknologen en chans att
+självständigt lösa ett mättekniskt problem. Projektet går ut
+på att till ett givet problem på egen hand planera för den
+bästa strategin att samla in mätdata. Systemet som löser
+uppgiften skall sedan programmeras med metoder som lärs ut i
+kursen. Projektet redovisas muntligt för övriga kursdeltagare,
+samt i en skriftlig rapport.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+Kunna kommunicera med mätinstrument från en dator via olika
+bussinterface
+Kunna samla in mätdata via ett datainsamlingskort på sätt
+som optimerar antingen enkelhet, datamängd eller snabbhet.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+Kunna programmera i det grafiska programmeringsspråket LabVIEW
+på ett logiskt och strukturerat sätt
+Kunna använda MATLAB för en enklare
+datainsamlingsuppgift
+Muntligt och skriftligt kunna presentera en automatiserad
+lösning på ett mätproblem
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+ha insikt om olika hård- och mjukvarulösningar för
+överföring av mätdata till en dator
+
+
+Kursinnehåll
+LabVIEW introduktion samt metoder för strukturerad
+programmering. Bussystem såsom IEEE-488 (GPIB), seriebussar,
+VXI/PXI, Fältbussar. Datainsamlingskort. Givaranpassning. Mjukvara
+för mätsystemstyrning. Mätdatabehandling. Intoduktion till
+mätdatainsamling via MATLAB.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Godkända inlämningsuppgifter, laborationer med förberedelse/inlämningsuppgifter, samt godkänt projekt ger godkänt betyg. För högre betyg krävs tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: EDA011, EDAA50 eller EDA017, EDAA55 Programmeringsteknik och ESSF10, BMEF05 eller EEM007 Mätteknik eller motsvarande.
+Begränsat antal platser: 30
+Urvalskriterier: Antal poäng som uppnåtts i den inriktning/djupkorg som kursen ingår i, inriktningen av påbörjat examensarbete samt antal poäng som återstår till examen.
+Kursen överlappar följande kurser: EEM070
+Kurslitteratur
+
+Kompendium.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Dr Christian Antfolk, christian.antfolk@bme.lth.se
+Kursansvarig: Dr Josefin Starkhammar, josefin.starkhammar@bme.lth.se
+Hemsida: http://bme.lth.se/course-pages/datorbaserade-maetsystem/datorbaserade-maetsystem/
+Övrig information: Vid färre än 12 deltagare kan kursen komma att ges med reducerad undervisning och större inslag av självstudier.
+
+
+

@@ -1,0 +1,124 @@
+
+
+Kursplan för
+Optimal och adaptiv signalbehandling
+Optimum and Adaptive Signal Processing
+EITN60, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning BME
+Beslutsdatum: 2018-03-23
+Allmänna uppgifter
+Valfri för: BME4-sbh, C4-ssr, D4-ssr, E4-ss, E4-bg, F5, F5-ss, MWIR2, Pi4-ssr
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursen ger grundläggande kunskaper i statistisk
+signalbehandling och behandlar teorin kring optimala metoder och
+hur dessa kan tillämpas. Kursen ger lösningsmetodiker för
+problem inom signalbehandling där system behöver ställa in sig
+själv och kunna följa förändringar i sin omgivning. Studenten
+skall ges tillräckliga insikter om teori och handhavande för att
+självständigt kunna formulera det matematiska problemet, lösa
+det och implementera lösningen för användning med verkliga
+signaler.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna och förstå och ha en helhetsbild i optimal och adaptiv
+filter teori.
+kunna tillämpa de vanligaste metoderna på verkliga problem
+och verkliga signaler (MATLAB-nivå)
+kunna formulera matematiska problem inom området utifrån
+situationsbeskrivningar.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna förstå principerna för de vanligaste adaptiva
+metoderna (LMS och RLS med varianter).
+kunna beräkna/beskriva konvergens- och stabilitetsegenskaper
+för dessa metoder.
+kunna beskriva/rita upp de vanligaste inkopplingsstrukturerna
+för adaptiva filter och dess egenskaper
+kunna ställa in de parametrar som behövs för att
+algoritmerna ska fungera
+kunna överblicka/beräkna konsekvenserna av att en algoritm
+används i heltalsaritmetik
+kunna implementera egna adaptiva filter
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+ha förmåga att analysera, värdera och implementera adaptiva
+algoritmer, samt tolka och beskriva deras inneboende
+principer.
+ha insikt om att till synes skilda tekniska problem kan lösas
+med samma metoder
+
+
+Kursinnehåll
+Områden som behandlas är:
+Optimal filtrering
+ 
+
+Wiener filter
+Linjär prediktering
+Levinson-Durbin algoritmen
+
+ 
+Grundläggande om adaptiva filter
+
+Vägen från optimala till adaptiva filter
+Kostnadsfunktioner, kvadratiska minimeringsproblem och
+iterativa strategier
+Konvergens- och trackingförmåga, implementationsaspekter
+Inkopplingsstrukturer vad gäller identifiering, avfaltning och
+störningsundertryckning.
+
+LMS-filter familjen
+
+Princip och härledning
+Konvergensanalys och inställningsförfarande
+Varianter inklusive Normalized LMS, Leaky LMS, Fast LMS, Sign
+LMS
+MATLAB-beskrivning av algoritmerna
+LMS i fixtalsaritmetik.
+
+RLS-filter familjen
+
+Princip och härledning
+Inställningsförfarande
+Aspekter vid användning
+MATLAB-beskrivning
+Numeriska egenskaper.
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Slutbetyget är baserat på tentamen i slutet av kursen. 
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0114. Benämning: Adaptiv signalbehandling. 
+Antal högskolepoäng: 6. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen. 
+Kod: 0214. Benämning: Projekt. 
+Antal högskolepoäng: 1,5. Betygsskala: UG.  Prestationsbedömning: Projektrapport. 
+Antagningsuppgifter
+Förutsatta förkunskaper: ESS040, EITF75 Digital signalbehandling eller ETI265, EITA50 Signalbehandling i multimedia eller EITF15 Signalbehandling - teori och tillämpningar.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: ETTN05, ETT042
+Kurslitteratur
+
+Haykin S: Adaptive Filter Theory, Fifth Edition. Pearson, 2014, ISBN: 0-273-76408-X.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Frida Sandberg, frida.sandberg@bme.lth.se
+Hemsida: http://www.bme.lth.se/course-pages/optimal-och-adaptiv-signalbehandling/optimum-and-adaptive-signal-processing/
+Övrig information: Övningarnas indelning: övningar 14 tim, MATLAB-övningar 14 tim. Antal laborationer: 2 à 4 tim.
+
+
+

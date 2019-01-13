@@ -1,0 +1,99 @@
+
+
+Kursplan för
+Teknisk mekanik
+Engineering Mechanics
+FHLA05, 7,5 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning M
+Beslutsdatum: 2018-03-27
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: BME2, K2, W2
+Valfri för: B4, E4, N4-nf
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursens syfte är att ge baskunskaper i mekanik och
+hållfasthetslära med tillämpningar på verklighetsnära problem.
+Kursen syftar också till att öka ingenjörsmässigheten och
+förmågan att bygga och analysera modeller.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna förklara och använda grundbegreppen kraft, moment,
+spänning och töjning
+förstå sambanden mellan krafter/moment och rörelse
+beskriva fenomenen plasticitet, utmattning och brott
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+formulera, strukturera och lösa statiska och dynamiska problem
+med hjälp av Newtons lagar och bevarandeprinciper
+kunna beskriva hastigheter och accelerationer i olika
+koordinatsystem
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+dimensionera enkla konstruktionselement som stänger, balkar
+och axlar vilka belastas med krafter, böjande och vridande
+moment
+
+
+Kursinnehåll
+Kursen omfattar grundläggande delar från såväl klassisk
+stelkroppsmekanik som deformerbara kroppars mekanik, d.v.s.
+hållfasthetslära.
+Inom stelkroppsmekaniken behandlas både statiska och dynamiska
+problem. Jämviktsekvationerna för stela kroppar formuleras
+utgående från friläggningsmetodik och problem både med
+punktlaster och utbredda belastningar behandlas. De utbredda
+lasterna exemplifieras av hydrostatik och tyngdpunktsberäkningar.
+Den dynamiska delen av kursen tar sin utgångspunkt i Newtons lagar
+och partikelns rörelseekvationer etableras. Ekvivalenta
+formuleringar utgående från bevarandeprinciper för energi och
+rörelsemängd sker också. Partikelrörelser beskrivs såväl i
+rätlinjiga som i kroklinjiga koordinatsystem. Exempel på
+tillämpningar i mekaniken hämtas både från vardagliga
+händelser såsom att klättra på stegar, flytta möbler, cykla,
+åka bergochdalbana och tekniska tillämpningar från
+robotteknologi och ballistik.
+Utgående från stelkroppsmekaniken introduceras
+hållfasthetsläran genom definitionen av tensorbegreppen spänning
+och töjning. Samband mellan spänning och töjning för olika
+material, d.v.s. konstitutiva lagar, etableras och
+tillämpningsexempel kommer att väljas från dimensionering av
+olika enkla konstruktionselement (linor, stänger, balkar, fackverk
+etc.) och även från givarteknologi. Viktiga hållfasthetstekniska
+fenomen som brott och utmattning kommer också att behandlas.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen som kompletteras med ett frivilligt skriftligt diagnostiskt test som kan bidra med upp till 20 procent av tentamenresultatet.
+
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: Grundläggande kurser i matematik.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FHLF15, FHLA10
+Kurslitteratur
+
+Nimal Rajapakse, Dietmar Gross, Werner Hauger, Jörg Schröder, Wolfgang A. Wall: Engineering Mechanics 1, Statics. Springer, 2009, ISBN: 9783540899372.
+Dietmar Gross, Werner Hauger, Jörg Schröder, Wolfgang Wall, Javier Bonet: Engineering Mechanics 2, Mechanics of Materials. Springer, 2011, ISBN: 9783642128868.
+Dietmar Gross, Werner Hauger, Jörg Schröder, Wolfgang Wall, Sanjay Govindjee: Engineering Mechanics 3, Dynamics. Springer, 2011, ISBN: 9783642140198.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Stephen Hall, stephen.hall@solid.lth.se
+Kursansvarig: Ralf Denzer, ralf.denzer@solid.lth.se
+Hemsida: http://www.solid.lth.se
+Övrig information: Kurslitteratur bestär av utdrag ur Gross et al. Engineering Mechanics, vol 1 - 3. Se avsnitt Kurslitteratur nedan.
+
+
+

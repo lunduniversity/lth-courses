@@ -1,0 +1,74 @@
+
+
+Kursplan för
+Matematiska strukturer
+Mathematical Structures
+FMAN65, 6 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning F/Pi
+Beslutsdatum: 2018-03-23
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: Pi3
+Valfri för: D4, F4
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Förutom ren kunskapsförmedling syftar kursen till att ge
+övning i bevisföring och att framhäva möjligheterna till en mer
+abstrakt framställning av matematiska begrepp och deras samband.
+Avsikten är att genom ett övergripande synsätt belysa de
+teoretiska grunderna för den matematik som ingått i
+grundkurserna.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+känna till och med egna ord kunna redogöra för de begrepp
+inom analys, algebra och geometri som berörs i kursen.
+kunna ge exempel på hur dessa utgör en abstraktion av i
+grundkurserna förekommande begrepp och visa förståelse för hur
+abstraktionerna tjänar till att förenkla och klargöra
+teorin.
+kunna med egna ord beskriva de logiska sammanhangen mellan
+förekommande begrepp (satser och bevis).
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+kunna visa förmåga att identifiera problem som kan
+modelleras med de införda begreppen.
+kunna visa förmåga att i samband med problemlösning i enkla
+situationer utveckla teorin vidare.
+med adekvat terminologi, väl strukturerat och logiskt
+sammanhängande kunna redogöra för sambanden mellan olika begrepp
+i kursen.
+med adekvat terminologi, lämpliga beteckningar, väl
+strukturerat och logiskt sammanhängande kunna redogöra för
+lösningen till ett problem eller beviset av en sats.
+ha utvecklat sin förmåga att självständigt läsa och
+värdera matematisk text på avancerad nivå.
+
+Kursinnehåll
+Mängder. Reella tal. Metriska rum. Algebra (grupper och
+linjära rum). Banach- och Hilbertrum med tillämpningar.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Hemtentamen följd av en muntlig tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: FMAF01 Funktionsteori och FMAF05 System och transformer.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FMA111, FMA110
+Kurslitteratur
+
+Kaplansky, I: Set Theory and Metric Spaces. American Mathematical Society, 2001, ISBN: 9780821826942.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Studierektor Anders Holst, Studierektor@math.lth.se
+Lärare: Jacob Stordal Christiansen, stordal@maths.lth.se
+Hemsida: http://www.maths.lth.se/course/matstrukt/
+
+
+

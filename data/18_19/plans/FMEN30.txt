@@ -1,0 +1,64 @@
+
+
+Kursplan för
+Utmattning - ingenjörs- och materialaspekter
+Fatigue
+FMEN30, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning M
+Beslutsdatum: 2018-03-27
+Allmänna uppgifter
+Valfri för: F5, M4-pu, M4-bem
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Syftet med kursen är att belysa de materialtekniska
+mekanismer som orsakar utmattning, och att gå igenom de metoder
+som används vid dimensionering mot utmattning.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+känna till de olika typerna av utmattning och de bakomliggande
+mekanismerna.
+känna till ingenjörsmässig utmattningsdimensionering.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+visa förmåga att kunna utföra utmattningsdimensionering samt
+kunna karakterisera olika situationer och mikromekaniska mekanismer
+förknippade med utmattning.
+
+
+Kursinnehåll
+Cyklisk deformation och sprickinitiering. Brottmekanismer vid
+utmattning. Brottmekanisk behandling av utmattningssprickor.
+Utmattningsspricktillväxt i duktila och spröda material. Små
+utmattningssprickor. Kontaktutmattning. Utmattning och miljö:
+korrosionsutmattning och högtemperaturutmattning.
+Livslängdsberäkning och dimensionering för
+utmattningsbelastning. Utmattningsprovning. Case-studie.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen. Laboration.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: FKM015/FKMA01 Konstruktionsmaterial eller FKM070/FKMN20 Avancerad Materialteknologi, FHL013/FHLF15 Hållfasthetslära.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FKM090
+Kurslitteratur
+
+S.Suresh: Fatigue of Materials, Cambridge University Press. Av institutionen utdelat material.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Prof. Solveig Melin, solveig.melin@mek.lth.se
+Kursansvarig: Per Hansson, per.hansson@mek.lth.se
+Hemsida: http://www.material.lth.se
+
+
+

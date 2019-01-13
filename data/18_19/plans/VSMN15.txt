@@ -1,0 +1,106 @@
+
+
+Kursplan för
+Integrerad design: Konstruktion - Arkitektur
+Integrated Design: Structural Design - Architectural Design
+VSMN15, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning V
+Beslutsdatum: 2018-03-27
+Allmänna uppgifter
+Valfri för: V4-ko
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Kursen syftar till att etablera en gemensam begreppsapparat
+avseende konstruktioner; optimering och arkitektoniskt uttryck, i
+samspelet mellan ingenjörer och arkitekter under den sista delen
+av utbildningen.
+Vidare syftar kursen till att visa att de strukturmekaniska
+begreppen och det arkitektoniska uttrycket har samband genom vårt
+sätt att förstå, det ena genom en naturvetenskaplig
+organisation, det andra genom intuitiv förståelse.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+Förklara det generella beteendet i konstruktioner av olika
+typer.
+Kunna utveckla sambandet mellan konstruktion och
+arkitektur.
+Kunna delta aktivt i en diskussion mellan arkitekt och
+konstruktör om uttryck och funktion i ett byggnadsverk.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+För arkitekterna
+
+Kunna omsätta ideér om form till konstruktioner i dialog
+mellan arkitekt och konstruktör.
+
+För ingenjörerna
+
+Formulera och analysera konstruktioner, från konceptuella
+skisser till färdiga projekt.
+Kunna utveckla strukturmekaniska principer i
+gestaltningsfrågor.
+Kunna använda avancerade beräkningsprogram i konceptuella
+projekt.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+Ha insikt om att ett fruktbart samarbete mellan arkitekt och
+ingenjör sker i dialog och inte sekventiellt.
+Aktivt kunna delta i ett samarbete mellan arkitekt och
+ingenjör.
+Redovisa förslag avseende konstruktion och beskriva hur detta
+är en konsekvens av ett gemensamt arbete.
+
+
+Kursinnehåll
+Kursen inleds med en serie föreläsningar och diskussioner
+kring strukturmekanikens begrepp och beteckningar och en allmän
+beskrivning av sambandet mellan strukturmekanik/konstruktion och
+arkitektur. Vidare diskuteras konstruktionselement och hur dessa
+bidrar till att ge olika uttryck och hur strukturmekanikens begrepp
+varierar med uttrycket.
+Under senare delen bedrivs kursen som ett projektarbete där
+både civilingenjörs- och arkitektstudenter bidrar till utformning
+av ett byggandsverk utifrån sin egen blivande professionalism.
+Projekten definieras så att de rumsliga egenskaperna möter
+konstruktiva utmaningar. Litteraturen bildar underlag för
+seminariediskussioner kring mötet mellan rumslig gestaltning och
+strukturdesign.
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: Bedömning sker genom inlämnade projekt. I slutprojektet deltar både arkitektstudent och ingenjörsstudent i ett nära samarbete. Detta redovisas vid ett seminarium. För godkänt skall studenten deltagit i undervisningen till 75% och projektredovisningen skall innehålla en kvalitativ diskussion som leder fram till projektförslag.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+FHL064 Finita elementmetoden eller FHLF20 Finita elementmetoden eller VSMF05 Teknisk modellering: Bärverksanalys eller VSMN30 Finita elementmetoden - konstruktionsberäkningar
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: AFO280, AAHN10
+Kurslitteratur
+
+Frei Otto and Bodo Rasch: Finding Form; Towards an Architecture of the Minimal. Axel Menges, 1996, ISBN: 3-930698-66-8.
+Tony Robbin: Engineering a New Architecture. Yale University Press, 1996, ISBN: 0-300-06116-1.
+Irvin Engel: Structural Principles. Prentice Hall, 1984, ISBN: 0138540195.
+Gyula Sebestyen: New Architecture and Technology. Architectural Press, 2003, ISBN: 0-7506-5164-4.
+Bill Addis: The Art of the Structural Engineer. Artemis-Aidc, 1994, ISBN: 1-874056-41-2.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Professor Erik Serrano, erik.serrano@construction.lth.se
+Lärare: Professor Christer Malmström, christer.malmstrom@arkitektur.lth.se
+Hemsida: http://www.byggmek.lth.se
+Övrig information: Kursen och genomförs i samarbete mellan avd för byggnadsmekanik och formlära. Samläses med motsvarande kurs för A: AAHN10
+
+
+

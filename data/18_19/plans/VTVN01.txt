@@ -1,0 +1,100 @@
+
+
+Kursplan för
+Utformning av vägar
+Highway Design
+VTVN01, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning V
+Beslutsdatum: 2018-03-27
+Allmänna uppgifter
+Obligatorisk för: IBYV3
+Valfri för: V4-at, V4-tv
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+I kursen behandlas metodik vid projektering av vägar på
+landsbygden. Fördjupade kunskaper om geometrisk utformning av
+vägar förmedlas med tonvikt på metoder och modeller samt
+kvalitetskrav på underlag och hjälpmedel.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+Analysera samspelet mellan plan och profil och dess effekter
+på vägens linjeföring.
+Karaktärisera de miljöeffekter som kan uppstå till följd av
+inplacering av vägar i landskapet.
+Analysera samhällsekonomiska effekter av olika lösningar för
+vägar.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+Utforma en väglinje med stöd av svenska normer och
+standardkrav med hänsyn till trafikantens förmåga och behov samt
+landskapets förutsättningar.
+Tillämpa en metodik som används vid vägutformning.
+Redovisa och motivera ett förslag till en väg med
+planritning, profilritning, tvärsektioner.
+Utföra dimensionering av en normalsektion hos en väg.
+Utföra enklare kostnadsberäkningar för väg.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+Värdera och genomföra en syntes av relevant information från
+olika discipliner med olika perspektiv vid projektering av en väg
+med ett hållbart förhållningssätt.
+
+Kursinnehåll
+Ett vägobjekt på landsbygden följs från idé till färdig
+detaljutformning. Förutsättningar för utformningsarbetet
+förmedlas. Principer och grunder för gällande anvisningar och
+riktlinjer för geometrisk utformning och dimensionering av vägar.
+Samspel plan och profil analyseras ur trafikantperspektiv.
+Vägarkitekturen beskrivs. Stor vikt läggs vid vägens inpassning
+i terrängen. En analysmetodik för olika element i landskapet
+förmedlas och diskuteras. Utformning av olika korsningstyper
+genomförs. Korsningen studeras samt för- och nackdelar av olika
+lösningar diskuteras. Datorhjälpmedel används för att beskriva
+olika underlag under projekteringens gång samt för
+projekteringsarbetet.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: En individuell skriftlig hemuppgift. Muntlig och skriftlig redovisning av projektarbete. Examinationen av projektuppgiften sker gruppvis. Obligatorisk fältövning i 1 dag.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0112. Benämning: Hemtentamen. 
+Antal högskolepoäng: 1,5. Betygsskala: UG.  Prestationsbedömning: Hemtentamen 
+Kod: 0212. Benämning: Projektarbete. 
+Antal högskolepoäng: 6. Betygsskala: TH.  Prestationsbedömning: Muntlig och skriftlig redovisning av projektarbete. Examinationen sker gruppvis. 
+Kod: 0312. Benämning: Fältövningar. 
+Antal högskolepoäng: 0. Betygsskala: UG.  Prestationsbedömning: Obligatorisk fältövning i 2 dagar. 
+Antagningsuppgifter
+Förkunskapskrav:
+VTVA45 Väg- och järnvägsteknik eller VVBF20 Vägbyggnad
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: VTVF10, VVB027
+Kurslitteratur
+
+Sven Agardh och Ebrahim Parhamifar: Vägbyggnad. Studentlitteratur, 2014, ISBN: 978-91-47-09346-5.
+Trafikverket: Vägar och Gators utformning, VGU. 2014. VGU finns tillgänglig på Trafikverkets hemsida och delar av den kommer att finnas på kursens hemsida.
+Föreläsningsanteckningar.
+Benny Birgersson: Vägen, En bok om vägarkitektur. Vägverket, 2006, ISBN: 91-88250-52-0.
+T.F. Fwa: The handbook of highway engineering. Talylor & Francis, 2006, ISBN: 10-0-8493-1986-2. Boken är tillgänglig som referenslitteratur hos kursansvarige lärare.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Ebrahim Parhamifar, Ebrahim.Parhamifar@tft.lth.se
+Examinator: Ebrahim Parhamifar, Ebrahim.Parhamifar@tft.lth.se
+Hemsida: http://www.tft.lth.se
+Övrig information: Kursen ges i Lund.
+
+
+

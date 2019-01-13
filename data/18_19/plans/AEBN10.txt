@@ -1,0 +1,142 @@
+
+
+Kursplan för
+Passivhus - integrering av termiska aspekter och fuktsäkerhet
+Passive House - Integrating Thermal and Moisture Issues
+AEBN10, 15 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning V
+Beslutsdatum: 2018-03-27
+Allmänna uppgifter
+Huvudområde: Energi- och miljöeffektiva byggnader. 
+Obligatorisk för: MEMB1
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Syftet med denna tillämpade kurs är att:
+
+undersöka passivhuskonceptets principer samt konkret tillämpa
+och prova integrationen av dessa principer i projekt med
+fallstudier med ett holistiskt angreppssätt som omfattar
+byggnadsteknik, byggnadsfysik och installationsteknik;
+utforska termiska och klimatmässiga möjligheter och
+begränsningar som ett styrmedel för utveckling av tekniska och
+arkitektoniska lösningar i fallstudieprojekt;
+kunna tillämpa professionella beräkningsverktyg (dator,
+hand- och överslagsmässiga beräkningar), som studerats i
+teoretiska kurser, för energibalans, termisk komfort och
+fuktsäkerhet. Dessa verktyg kommer att användas för att stödja
+designprocessen och ge underlag för goda designbeslut;
+kunna presentera passivhus och -strategier grafiskt och med
+stöd av data (resultat från simuleringar eller
+handberäkningar) på ett relevant sätt.
+
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+förstå och redogöra för byggnadens funktion som klimatiskt
+system;
+kunna beskriva och kritiskt diskutera passivhuskonceptet, dess
+principer, kvaliteter och huvudsakliga tekniska lösningar och
+därvid använda korrekt terminologi;
+kunna identifiera och diskutera vilka delar som är kritiska i
+lågenergibostäder utifrån fukt-, energi- och
+innemiljöperspektiv i relation till byggnadens utformning,
+placering, materialegenskaper, systemval, detaljeringsgrad
+etc.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+utforma en hållbar och energieffektiv byggnad bestående av
+integrerade delar av byggnadssystem, -material och installationer,
+genom att använda ett integrerat angreppssätt och även ta
+hänsyn till den enskilde användarens behov;
+visa förmåga att studera, analysera, transformera och
+presentera ett bostadshus baserat på passivhuskonceptet anpassat
+för ett kallt klimat;
+kunna föreslå ekonomiskt relevanta tekniska lösningar med
+helhetssyn för bostäder i kalla klimat utifrån
+passivhuskonceptet beaktande energi, fukt och
+innemiljöaspekter;
+kunna använda verktyg, energisimuleringar, fuktberäkningar
+och handberäkningar för att kunna analysera effekterna av
+föreslagna lösningar och därvid ge vägledning för beslut om
+utformning;
+kommunicera passivhuskonceptet såväl muntligt, skriftligt som
+grafiskt och därvid använda rätt terminologi;
+tillämpa fuktsäkerhetsprojekteringsmetodik i utformningen av
+ett helt bostadshus;
+kunna beskriva hur olika uppvärmningssystem i byggnader kan
+utformas.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna välja en lämplig, adekvat integrerad lösning som
+innebär mycket låg energianvändning i ett bostadsprojekt i ett
+kallt klimat;
+visa förmåga att diskutera kritiskt och motivera valda
+lösningar med användande av rätt terminologi och med
+faktabaserade argument;
+kunna diskutera aktuella tekniska och forskningsmässiga
+trender och utmaningar för passivhus i Sverige;
+kunna analysera kritiskt och värdera tekniska lösningar
+baserat på funktion, tillfredsställande inomhusklimat,
+energieffektivitet och fuktsäkerhet;
+formulera relevanta tekniska utmaningar och framtida
+utvecklingsmöjligheter för passivhus i Sverige.
+
+
+Kursinnehåll
+Passivhus har definierats som byggnader som i ett
+centraleuropeiskt klimat har ett minimalt energibehov för
+uppvärmning och därför inte behöver ett traditionellt
+värmesystem. Sådana hus kan hållas varma "passivt" genom att man
+huvudsakligen använder existerande interna värmekällor,
+solenergi genom fönster och genom återvinning av värme.
+Utformningen av passivhus skall vara en integrerad del av den
+arkitektoniska processen. konceptet har mestadels tillämpats vid
+nybyggande, men har också använts vid renoveringar.
+Kursen är en avancerad tillämpad kurs om passivhuskonceptet,
+principer och strategier, med speciell fokus på bostäder
+(principer för passivdesign, praktiska konsekvenser av olika
+designprinciper, integrerad design, byggnadsmaterial lämpliga för
+passiv solenergi med mera).
+Studenterna skall utforma ett passivt bostadsradhus som tar i
+beaktande energieffektivitet, hållbarhet, termisk komfort och
+fuktsäkerhet. Innehållet innefattar kvalitativa och kvantitativa
+metoder för att uppnå långsiktiga hållbara lösningar.
+Uppgiften baseras på de två teoretiska kurserna "AEBF10
+Energianvänding och termisk komfort i byggnader" samt "VBFF05
+Fuktsäkerhetsprojektering".
+En rapport skall lämnas in i slutet av kursen. Resultaten skall
+presenteras muntligt och bli kritiskt granskade av andra
+studenter.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Aktivt deltagande och närvaro vid föreläsningar, övningar, grupparbeten och presentationer m.m. är obligatoriskt. Slutbetyg baseras till 70% på en skriftlig rapport och till 20% på muntlig redovisning och till 10% på opposition på annans arbete.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+Inlämnade övningsuppgifter i kurserna AEBF10 Energianvändning och termisk komfort i byggnader samt VBFF05 Fuktsäkerhetsprojektering
+
+
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Till kursen finns tillgång till ett elektroniskt kursbibliotek via kurshemsidan.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Jouri Kanters, jouri.kanters@ebd.lth.se
+Kursansvarig: Vahid Nik, vahid.nik@byggtek.lth.se
+Hemsida: http://www.ebd.lth.se/master
+
+
+

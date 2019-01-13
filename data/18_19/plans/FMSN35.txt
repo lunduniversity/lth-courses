@@ -1,0 +1,100 @@
+
+
+Kursplan för
+Stationär och icke-stationär spektralanalys
+Stationary and Non-stationary Spectral Analysis
+FMSN35, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning I
+Beslutsdatum: 2018-03-20
+Allmänna uppgifter
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursen riktar sig till den som vill bredda och fördjupa sitt
+kunnande inom statistisk signalbehandling och utöka sin
+verktygslåda med mer avancerade tekniker. Den ligger i
+gränslandet mellan statistik och signalbehandling och bygger på
+de klassiska icke-parametriska metoder som är välkända och
+behandlas i, t.ex. Stationära stokastiska processer eller Optimal
+signalbehandling. Eftersom dessa metoder inte alltid räcker till
+behövs mer avancerade tekniker inom många tillämpningsområden,
+t.ex. inom kommunikation och medicin.
+Kursen tar därför upp mer statistiskt robusta metoder som
+blivit vanligare under de senaste åren, bl.a. tids-frekvensanalys,
+som är ett modernt verktyg för undersökning av icke-stationära
+signaler och processer. Forskningen inom detta område har
+expanderat de senaste 20 åren, vilket gör att detta numera är
+på väg att bli ett vanligt verktyg för analys.
+Flera tillämpningar kommer också att presenteras i kursen och
+deltagarna kommer att arbeta med data från verkliga
+problemställningar.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+tolka och förstå parametriska och icke-parametriska
+spektralestimeringsmetoder.
+tolka och förstå spatial spektralanalys och klassiska
+estimeringstekniker av riktningar.
+tolka och förstå tidsfrekvensanalys och klassiska
+estimeringstekniker av icke-stationära spektrum.
+
+ 
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna skatta klassiska parametriska och icke-parametriska
+spektralestimat.
+kunna skatta spektra av icke-uniformt samplade sekvenser.
+kunna använda klassiska tids-frekvensmetoder för
+skattning.
+
+
+Kursinnehåll
+Grundläggande definitioner. Fördjupat studium av AR (auto
+regressive), MA (moving average) och ARMA-processer. Linjespektrum
+och parametriska estimeringsmetoder. Underrumsbaserade tekniker.
+Icke-parametriska spektralskattare, data-adaptivatekniker och
+multifönstermetoder. Icke-uniform sampling. Orientering om
+cirkulära och icke-cirkulära processer. Spatial spektralanalys.
+Icke-stationära processes. Spektrogram. Wigner-Ville distribution.
+Cohen’s klass. Ambiguity-spektrum. Multi-fönster tekniker för
+icke-stationära signaler. Orientering om bispektrum.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Godkända inlämningsuppgifter och projektapport samt deltagande i alla obligatoriska moment. Slutbetyget avgörs av en sammanvägning av resultatet på inlämningsuppgifterna och den muntliga och skriftliga projektredovisningen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0116. Benämning: Laborationer. 
+Antal högskolepoäng: 3. Betygsskala: UG.  Prestationsbedömning: Projekt med skriftlig och muntlig redovisning 
+Kod: 0216. Benämning: Inlämningsuppgifter del 1. 
+Antal högskolepoäng: 1. Betygsskala: UG.  Prestationsbedömning: Första inlämningsuppgiften 
+Kod: 0316. Benämning: Inlämningsuppgifter del 2. 
+Antal högskolepoäng: 3,5. Betygsskala: UG.  Prestationsbedömning: Övriga inlämningsuppgifter 
+Antagningsuppgifter
+Förkunskapskrav:
+FMSF10 Stationära stokastiska processer
+
+
+Förutsatta förkunskaper: FMSN45 Tidsserieanalys
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: MASM26
+Kurslitteratur
+
+P. Stoica and R. Moses: Spectral analysis of signals. Prentice-Hall, 2005, ISBN: 0-13-113956-8.
+M. Sandsten: Lecture notes, Time-frequency analysis. 2011.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Prof Andreas Jakobsson, andreas.jakobsson@matstat.lu.se
+Kursansvarig: Prof Maria Sandsten, sandsten@maths.lth.se
+Studierektor: Studierektor Anna Lindgren, studierektor@matstat.lu.se
+Hemsida: http://www.maths.lth.se/matstat/kurser/fmsn35/
+Övrig information: Kursen ges även på naturvetenskaplig fakultet med kurskoden MASM26
+
+
+

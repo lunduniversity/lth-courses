@@ -1,0 +1,103 @@
+
+
+Kursplan för
+Allmän kemi
+General Chemistry
+KOOA15, 7,5 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning B/K
+Beslutsdatum: 2018-03-21
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: B1, K1
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Att ge en grundläggande förståelse och kunskap om kemiska
+processer och förlopp samt ge en grund för vidare
+kemistudier.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+Förklara och använda termodynamiska storheter och sambanden
+dem emellan
+Förklara och tillämpa begreppet kemisk jämvikt
+Härleda och tolka reaktionsmekanismer, formulera
+hastighetslagar och relatera hastigheten hos en kemisk process till
+temperaturen
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+Lösa enklare termodynamiska problem samt tolka resultaten
+Analysera och lösa jämviktsproblem
+Teckna elektrokemiska celler och analysera förloppen för
+elektrokemiska processer samt beräkna cellpotentialer
+Använda enklare integrerade hastighetslagar och beräkna
+storheter relaterade till dessa
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+Redovisa kemiska beräkningar med korrekta enheter och
+siffernoggrannhet på ett logiskt och relevant sätt.
+Ta upp, korrekt redovisa och utvärdera resultat från
+laborationsförsök.
+
+
+Kursinnehåll
+Med anknytning till verklighetsnära tillämpningar kommer
+fundamentala kemiska fenomen att belysas och förklaras.
+Följande moment behandlas:
+
+Allmän introduktion till begreppen entalpi, entropi, inre
+energi och fri energi
+Termodynamikens huvudsatser
+Standardbildnings- och reaktionsentalpier
+Kalorimetri
+Kemisk jämviktslära
+Elektrokemi: redox-processer och elektrokemiska celler
+Korrosionslära
+Kemisk kinetik: hastighetskonstanten och dess
+temperaturberoende, initialhastighetsmetoden, integrerade
+hastighetslagar, aktiveringsenergi, kedjereaktioner,
+reaktionsmekanismer
+
+Arbete med problemlösning spelar en stor roll vid inlärning av
+kursen.
+Kurslitteraturen är på engelska och ska ses som en
+introduktion till det engelska språket med naturvetenskaplig och
+fackmässig inriktning.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Kontinuerlig examination: Godkända laborationer och inlämningsuppgifter krävs. Godkända laborationer, inlämningsuppgifter och duggor ger betyg 3. Ej avklarade duggor kräver skriftlig tentamen. För högre betyg än 3 krävs skriftlig tentamen. 
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0115. Benämning: Obligatoriska moment. 
+Antal högskolepoäng: 5,5. Betygsskala: TH.  Prestationsbedömning: Godkända inlämningsuppgifter krävs. Godkända inlämningsuppgifter och duggor ger betyg 3. Ej avklarad kontinuerlig examination kräver skriftlig tentamen För högre betyg än 3 krävs skriftlig tentamen.  Delmomentet omfattar: Obligatoriska duggor och inlämningsuppgifter. 
+Kod: 0215. Benämning: Laborationer. 
+Antal högskolepoäng: 2. Betygsskala: UG.  Prestationsbedömning: Aktivt deltagande i laborationer samt godkänd redovisning av laborationerna.  Delmomentet omfattar: Obligatoriska laborationer som illustrerar kursinnehållet.
+ 
+Antagningsuppgifter
+Förutsatta förkunskaper: KOOA20 Inledande kemi
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: KOO070, KOO080, KOO081, KOOA01, KOOA05, KOO101
+Kurslitteratur
+
+Atkins, P, Jones, L, Laverman, L: Chemical Principles: The Quest for Insight, 7:e upplagan. Freeman , 2016, ISBN: 9781319154196.
+Aylward, G & Findlay, T: SI Chemical Data, 7:e upplagan. Wiley , 2014, ISBN: 9780730302469.
+Laborationshandledning.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Dr. Johan Reimer, Johan.Reimer@kemi.lu.se
+Kursansvarig: Prof. Jan-Olle Malm, jan-olle.malm@chem.lu.se
+Hemsida: http://www.kilu.lu.se/cas/education/undergraduate_education/
+
+
+

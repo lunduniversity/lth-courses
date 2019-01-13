@@ -1,0 +1,107 @@
+
+
+Kursplan för
+Programvaruutveckling för stora system
+Software Development for Large Systems
+ETSN05, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning C/D
+Beslutsdatum: 2018-04-03
+Allmänna uppgifter
+Valfri för: BME4, C4, D4-se, E4-pv, F4, F4-pv, I4, I4-pvs, L4-gi
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursens syfte är att ge studenten grundläggande kunskaper i
+projektledningsprinciper och utvecklingsprocesser samt de centrala
+begreppen kring projektbaserad storskalig utveckling av system med
+betydande andel programvara. Syftet är också att ge studenten
+erfarenheter kring de problem som uppstår i stora projekt, där
+många involverade aktörer och parallellt arbete skapar
+situationer som måste hanteras.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+Efter genomgången kurs ska studenten skriftligt kunna:
+
+förklara varför en process med tillhörande dokument behövs,
+och varför många problem i denna typ av projekt är
+organisatoriska, snarare än tekniska
+förklara hur samarbete och systematik är viktiga ingredienser
+i lösningen av dessa problem
+formulera lärdomar och möjliga förbättringsåtgärder
+relaterade till sin roll i projektet samt förklara projektets
+syfte.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+utifrån en given projektuppgift inom ramen för en given
+utvecklingsprocess utveckla viktiga leverabler.
+till ett givet existerande system lägga till nya
+funktioner
+aktivt bidra i ett stort programvaruprojekt som följer
+en definierad arbetsprocess.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+medvetet kunna problematisera över valet av utvecklingsprocess
+och väga de organisatoriska problemen mot de tekniska
+problemen.
+
+
+Kursinnehåll
+Kursen består till största delen av ett utvecklingsprojekt som
+genomförs i grupper om i storleksordningen 20 studenter.
+Kursen fokuserar på hur man arbetar i stora projekt på ett
+strukturerat sätt. Man utgår från ett existerande system som ger
+begränsningar i arbetet. Man använder en systematisk och
+väldefinierad utvecklingsprocess där kravspecifikation, design
+och testspecifikationer är viktiga dokument som skall tas fram. I
+utvecklingsprocessen ingår kvalitetsutvärderingar, där
+projektgruppen presenterar sitt arbete. Olika roller fördelas
+mellan projektmedlemmarna, såsom projektledare, systemledare,
+interaktionsdesigners, utvecklare och testare. Som stöd till
+projektet agerar lärarna i olika roller såsom sektionschef,
+kvalitetsgranskare och experter.
+Föreläsningar, övningar och datorövningar fungerar som en
+direkt introduktion till projektet, medan huvuddelen av kursen
+består i projektarbete. Datorövningarna och granskningsmöten är
+obligatoriska moment.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examinationen sker både enskilt och i grupp. Den individuella examinationen består av en skriftlig rapport samt deltagande i obligatoriska moment på kursen. Den gruppvisa examinationen består av en skriftlig rapport samt ett acceptanstest av gruppens levererade system. Kursen betygssätts genom en sammanvägning av projektets gemensamma resultat och studentens individuella prestationer. Omexamination sker med individuellt anpassad inlämningsuppgift.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0111. Benämning: Datorövningar. 
+Antal högskolepoäng: 0. Betygsskala: UG. 
+Kod: 0211. Benämning: Projekt. 
+Antal högskolepoäng: 6. Betygsskala: TH.  Prestationsbedömning: Examination av projektet består av en skriftlig rapport och ett acceptanstest av systemet utfört av projektgruppen.  Delmomentet omfattar: Projekt i grupp. 
+Kod: 0311. Benämning: Rapport. 
+Antal högskolepoäng: 1,5. Betygsskala: TH.  Prestationsbedömning: Den individuella examinationen består av en skriftlig rapport och deltagande i obligatoriska moment. Betyget baseras på projektgruppens resultat och studentens individuella resultat. Omexamination kommer att utföras som en individuellt anpassad uppgift.  Delmomentet omfattar: Skriftlig rapport 
+Antagningsuppgifter
+Förkunskapskrav:
+EDA011/EDA016/EDA017/EDAA20 Programmeringsteknik
+
+
+Förutsatta förkunskaper: ETSA01 Ingenjörsprocessen för programvaruutveckling - metodik eller ESSF05 Elektronikprojekt och hållbar utveckling eller annan projektkurs.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: ETS032, ETS312
+Kurslitteratur
+
+Kompendium som utges av institutionen.
+
+
+Kontaktinfo och övrigt
+Studierektor: Studierektor, studierektor@cs.lth.se
+Kursansvarig: Martin Höst, martin.host@cs.lth.se
+Hemsida: http://cs.lth.se/etsn05/
+Övrig information: Observera: Det mesta av den salsbundna undervisningen sker under de första fyra veckorna. Examinationen av projektet avslutas i andra veckan av nästföljande läsperiod. P.g.a. projektets karaktär krävs närvaro under alla kursveckorna.
+
+
+

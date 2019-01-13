@@ -1,0 +1,166 @@
+
+
+Kursplan för
+Hållbart byggande
+Sustainable Building Technology
+VBFN01, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning V
+Beslutsdatum: 2018-03-27
+Allmänna uppgifter
+Valfri för: V5-hb, V5-bf
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Att ge fördjupad kunskap om hur jordens naturresurser utnyttjas
+på ett så effektivt och varsamt sätt som möjligt vid
+husbyggnad.
+Målet är att använda de naturliga resurser/förutsättningar
+som finns på ett effektivt och miljövänligt sätt innan energi
+och resurser tillförs byggnadens system så att mängden köpt
+energi till uppvärmning, kylning och elförsörjning minimeras.
+För att uppnå detta krävs kunskap om vilka tekniska
+förutsättningar och begränsningar som finns, där bl a ett
+tillfredsställande inneklimat är en grundläggande
+förutsättning.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+Formulera hur en hållbar byggnad och dess ingående delar kan
+utformas.
+Kunna förklara olika begrepp inom området lågenergihus
+såsom passivhus, plusenergihus samt hus utan värmesystem.
+Kunna identifiera kritiska delar i
+hållbara/lågenergibyggnader som bör analyseras ur
+fuktsäkerhets-, inneklimat- samt energisynpunkt.
+Beskriva tekniska lösningar för utnyttjande av
+solenergi till uppvärmning och elförsörjning av
+byggnader. Beskriva hur solutnyttjande kan integreras i
+byggnadskonstruktionen. Förklara hur solavskärmning kan
+utformas.
+Beskriva resurssnåla lokala energiförsörjningssystem i
+byggnaden i form av t. ex. värmepumpar, solfångare och
+markvärme. Beskriva hur tapp- och spillvattensystem med
+en låg vatten- och energianvändning kan utformas.
+Karakterisera ventilationssystem vilka utnyttjar naturliga
+drivkrafter; vinden; s k hybridventilation och förklara
+tekniska begränsningar och förutsättningar som krävs för att
+skapa tillfredställande inneklimat.
+Beskriva hållbara byggnadsmaterial med hänsyn tagen
+till fuktsäkerhetsaspekt, livslängd och emissioner.
+Karakterisera farliga ämnen inom byggbranschen, dess effekter
+på människa och miljö samt hur hantering bör ske vid
+förekomst.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+Kunna utforma och utveckla en hållbar byggnad och dess
+ingående delar.
+Kunna bedöma hur olika kombinationer av åtgärder påverkar
+energi- och effektbehov samt inneklimat och
+fuktförhållanden.
+Kunna bedöma och utforma tekniskt effektiva
+systemkombinationer av lokala energiförsörjningssystem i
+byggnader.
+Kunna designa byggnader med ett stort
+dagsljusutnyttjande.
+Kunna utveckla passiva strategier för klimatkontroll.
+Kunna konstruera ventilationssystem och dess komponenter som
+kan anpassa funktionen efter behovet, sk behovsstyrd ventilation i
+syfte att skapa ett bra inneklimat på det energieffektivaste
+sättet.
+Självständigt kunna bedöma helhet och resulterande
+inneklimat, energianvändning och fuktsäkerhet utifrån byggnadens
+tekniska lösningar.
+Kunna beräkna kopplad värme- och fukttransport i
+byggnadsdelar och konstruktioner av icke-stationära förhållanden
+och utifrån detta bedöma fuktsäkerheten.
+Kunna bedöma tillförlitligheten av resultat från
+datorprogram.
+Kunna utvärdera tekniska lösningar utifrån
+livscykelkostnad.
+Kunna använda befintlig kunskap för att bedöma effekter av
+framtida klimatförändringar.
+Visa förmåga till lagarbete och samverkan i grupper. Visa
+förmåga att muntligt och skriftligt i dialog med andra grupper
+redogöra för och diskutera sina resultat och slutsatser.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+Kunna kritiskt bedöma tekniska lösningar utifrån funktion,
+tillfredsställande inneklimat, energieffektivitet och
+fuktsäkerhet samt värdera om det är "fakta eller myt".
+Kunna identifiera brister, risker och begränsningar med nya
+oprövade byggnads- och installationstekniska lösningar.
+Kunna identifiera sitt behov av ytterligare kunskap inom
+området husbyggnad.
+
+
+Kursinnehåll
+Inledningsvis behandlas relevanta begrepp såsom sustainable
+building och hållbart byggande i globalt perspektiv samt mål som
+ställs på internationell och nationell nivå. Fortsättningsvis
+tas byggnadstekniska och installationstekniska lösningar upp.
+I kursen behandlas hållbarhet ur aspekterna; låg
+energianvändning, komfortabelt och hälsosamt inneklimat,
+fuktsäkerhet och varsamt nyttjande av naturresurserna.
+Kursen tar upp bl a tekniska lösningar som används i
+lågenergihus som sk passivhus och plusenergihus där byggnaden
+producerar mer energi än den använder; hur man kan använda
+solenergi samt integrera detta i byggnadskomponenter; hållbara
+byggnadsmaterial; hybridventilation behandlas där de naturliga
+drivkrafterna utnyttjas under de perioder detta är möjligt. De
+tekniska lösningarna kontrolleras med avseende på energi,
+innemiljö och fukt. I kursen behandlas även hållbarhet för nya
+materialkonstruktioner ur miljö- och hälsosynpunkt, fukt, mögel,
+övriga miljöstörande ämnen i byggbranschen, passiv
+klimatisering samt rivning och återvinning.
+I kursen ingår projektuppgifter i vilka studenterna gruppvis
+får utforma hållbara byggnader med ingående tekniska
+lösningar; klimatskal, stomme, byggnadsmaterial, samt
+installationsteknik. I denna får studenterna beräkna fukt- och
+värmeförhållande i kritiska delar, beräkna tekniska prestanda
+och dimensionerande indata till lokala energiförsörjningssystem
+såsom värmepumpar och solfångare, utforma fönster och beräkna
+dagsljusfaktor, utforma stomme och solavskärmning vilka ger ett
+bra termiskt klimat med låg kylenergianvändning samt konstruera
+ett behovsstyrt ventilationssystem.
+Kursen är den avslutande kursen inom området installations-
+och byggnadsfysik och sammanfattar området varför denna utgör en
+synteskurs för denna inriktning.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen samt projektuppgift. Slutbetyg fås efter godkänd tentamen samt fullgjord projektuppgift. Projektuppgiften redovisas skriftligt och muntligt. Väl genomförd projektuppgift kan höja slutbetyget.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0112. Benämning: Hållbart byggande. 
+Antal högskolepoäng: 4,5. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen 
+Kod: 0212. Benämning: Projektuppgift. 
+Antal högskolepoäng: 3. Betygsskala: UG.  Prestationsbedömning: Godkänd skriftlig rapport och muntlig presentation av projektuppgift. Godkända datorövningar och laborationer.  Delmomentet omfattar: Dimensionering av passivhus avseende effektbehov, solceller, solfångare, dagsljus, val av miljö- och hälsovänliga material, solskydd, termiskt inneklimat, uppvärmningssystem, ventilationssystem och fuktsäkerhet. 
+Antagningsuppgifter
+Förkunskapskrav:
+VBFF01 Energieffektivitet och innemiljö och VBFN10 Projektering avseende energi, luft och fukt i nya byggnader
+
+
+Förutsatta förkunskaper: VBFN05 Energi, luft och fukt vid ombyggnad och förvaltning.
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Varis Bokalders, Maria Block: Byggekologi, Kunskaper för ett hållbart byggande. Svensk Byggtjänst, 2014, ISBN: 9789173336260.
+Föreläsningar tillgängliga via kurshemsidan.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Birgitta Nordquist, Birgitta.Nordquist@hvac.lth.se
+Kursansvarig: Petter Wallentén, petter.wallenten@byggtek.lth.se
+Hemsida: https://liveatlund.lu.se
+
+
+

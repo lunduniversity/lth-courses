@@ -1,0 +1,293 @@
+
+
+Kursplan för
+Tekniskt basår
+Pre-University Course in Technical Sciences
+TBAA01, 60 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning TB
+Beslutsdatum: 2018-03-26
+Allmänna uppgifter
+Obligatorisk för: TB1
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Målet med utbildningen är att komplettera en
+gymnasieutbildning med de förkunskaper och färdigheter som krävs
+för fortsatta studier vid LTHs högskoleingenjörs-,
+civilingenjörs- och brandingenjörsprogram.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+Lärandemål förekommer inte i denna form.
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+Lärandemål förekommer inte i denna form.
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+Lärandemål förekommer inte i denna form.
+
+Kursinnehåll
+Matematik 3c
+Föreläsningar 70 h, övningar 58 h, självstudier 170 h
+•    Allmän räknefärdighet: aritmetik med kända tal,
+rationella tal, algebraiska räkningar, formler,  potenser,
+kvadratrötter samt kvadratkomplettering.
+•    Begreppet absolutbelopp.
+•    Begreppen polynom och rationella uttryck samt
+generalisering av aritmetikens lagar för hantering av dessa
+begrepp.
+•    Egenskaper hos cirkelns ekvation och enhetscirkeln för
+att definiera trigonometriska begrepp.
+•    Bevis och användning av cosinus-, sinus- och areasatsen
+för en godtycklig triangel.
+•    Orientering kring kontinuerlig och diskret funktion samt
+begreppet gränsvärde.
+•    Egenskaper hos polynomfunktioner av högre grad.
+•    Begreppen sekant, tangent, ändringskvot och derivata
+för en funktion.
+•    Härledning och användning av deriveringsregler för
+potens- och exponentialfunktioner samt summor av funktioner.
+•    Introduktion av talet e och dess egenskaper.
+•    Algebraiska och grafiska metoder för bestämning av
+derivatans värde för en funktion.
+•    Algebraiska och grafiska metoder för lösning av
+extremvärdesproblem inklusive teckenstudium och
+andraderivatan.
+•    Samband mellan en funktions graf och funktionens första-
+och andraderivata.
+•    Begreppen primitiv funktion och bestämd integral samt
+sambandet mellan integral och derivata.
+•    Bestämning av enkla integraler i tillämpningar som är
+relevanta för karaktärsämnena.
+•    Strategier för matematisk problemlösning.
+•    Matematiska problem av betydelse för samhällsliv och
+tillämpningar i andra ämnen.
+•    Matematiska problem med anknytning till matematikens
+historia.
+ 
+Matematik 4, Del a
+Föreläsningar 24 h, övningar 28 h, självstudier 60 h
+•    Hantering av trigonometriska uttryck samt bevis och
+användning av trigonometriska formler inklusive trigonometriska
+ettan och additionsformler.
+•    Algebraiska och grafiska metoder för att lösa
+trigonometriska ekvationer.
+•    Olika bevismetoder inom matematiken med exempel från
+områdena aritmetik, algebra eller geometri.
+•    Egenskaper hos trigonometriska funktioner,
+logaritmfunktioner, sammansatta funktioner och absolutbeloppet som
+funktion.
+•    Skissning av grafer och tillhörande asymptoter.
+•    Härledning och användning av deriveringsregler för
+trigonometriska, logaritm-, exponential- och sammansatta funktioner
+samt produkt och kvot av funktioner.
+•    Strategier för matematisk problemlösning inklusive
+användning av digitala medier och verktyg.
+•    Matematiska problem av betydelse för samhällsliv och
+tillämpningar i andra ämnen.
+•    Matematiska problem med anknytning till matematikens
+historia.
+ 
+Matematik 4, Del b
+Föreläsningar 24 h, övningar 28 h, självstudier 60 h
+•    Metoder för beräkningar med komplexa tal skrivna på
+olika former inklusive rektangulär och polär form.
+•    Komplexa talplanet, representation av komplext tal som
+punkt och vektor.
+•    Konjugat och absolutbelopp av ett komplext tal.
+•    Användning och bevis av de Moivres formel.
+•    Algebraiska och grafiska metoder för att lösa enkla
+polynomekvationer med komplexa rötter och reella polynomekvationer
+av högre grad, även med hjälp av faktorsatsen.
+•    Egenskaper hos trigonometriska funktioner,
+logaritmfunktioner, sammansatta funktioner och absolutbeloppet som
+funktion.
+•    Skissning av grafer och tillhörande asymptoter.
+•    Algebraiska och grafiska metoder för bestämning av
+integraler med och utan digitala verktyg, inklusive beräkningar av
+storheter.
+•    Begreppet differentialekvation och dess egenskaper i
+enkla tillämpningar som är relevanta för karaktärsämnena.
+•    Strategier för matematisk problemlösning inklusive
+användning av digitala medier och verktyg.
+•    Matematiska problem av betydelse för samhällsliv och
+tillämpningar i andra ämnen.
+•    Matematiska problem med anknytning till matematikens
+historia.
+ 
+Fysik 1-2, Del a
+Föreläsningar 58 h, övningar 38 h, laborationer 8 h,
+självstudier 150 h
+Mekanik: Likformig och accelererad linjär rörelse,
+kaströrelse och centralrörelse. Krafter, vektorer och
+vektorkomponenter. Tryck. Jämviktsbegreppet för plana stationära
+system. Arbete, energi och effekt. Rörelsemängd och impuls.
+
+Fysik 1-2, Del b
+Föreläsningar 42 h, övningar 26 h, laborationer 6 h,
+självstudier 100 h
+Elektricitet och magnetism: Elektriska och magnetiska fält samt
+kraftverkan på laddade partiklar i dessa fält.
+Elektriska lik- och växelströmskretsar. Energi och effekt.
+Induktion.
+Vågrörelse: Mekanisk och elektromagnetisk vågrörelse.
+Geometrisk optik – ljusets reflektion och brytning. Speglar och
+linser. Polarisation.
+
+Fysik 1-2, Del c
+Föreläsningar 42 h, övningar 26 h, laborationer 6 h,
+självstudier 100 h
+Harmonisk svängning. Centralrörelse.
+Vågrörelse: Mekanisk och elektromagnetisk vågrörelse. Resonans.
+Polarisation. Böjning och
+interferens. Intensitet. Stående vågor.
+Reflektion och brytning av elektromagnetiska vågor.
+Våg och partikeldualitet. Temperaturstrålning. Fotoelektrisk
+effekt.
+Atom-, kärn- och partikelfysik: Atomens och atomkärnans
+struktur. Stark, svag, elektromagnetisk och gravitationell
+växelverkan.
+Absorption och emission av strålning. Energikvantisering. Bohrs
+atommodell. Kärnomvandlingar. Radioaktivt sönderfall och
+aktivitet. Joniserande strålning, stråldos.
+Massa–energiekvivalens.
+Relativistiska begrepp.
+ 
+Kemi 1, Del a
+Föreläsningar 48 h, övningar 30 h, laborationer 12 h, 
+självstudier 120 h
+Materia och kemisk bindning
+•    Modeller och teorier för materiens uppbyggnad och
+klassificering.
+•    Kemisk bindning och dess inverkan på till exempel
+förekomst, egenskaper och användningsområden för organiska och
+oorganiska ämnen.
+Stökiometri
+•    Tolkning och skrivning av formler för kemiska
+föreningar och reaktioner.
+•    Substansmängdsförhållanden, koncentrationer,
+begränsande reaktanter och utbyten vid kemiska reaktioner.
+Reaktioner och förändringar
+•    Syrabasreaktioner, inklusive pH-begreppet och
+buffertverkan.
+•    Fällningsreaktioner. Reversibla reaktioner.
+
+Kemi 1, Del b
+Föreläsningar 18 h, övningar 10 h, laborationer 4 h, 
+självstudier 40 h
+Reaktioner och förändringar
+•    Redoxreaktioner, inklusive elektrokemi.
+•    Energiomsättningar vid fasomvandlingar och kemiska
+reaktioner.
+Analytisk kemi
+•    Kvalitativa och kvantitativa metoder för kemisk analys,
+till exempel kromatografi och titrering.
+Termisk energi
+•    Värme och inre energi.Värmekapacitet.Temperatur.
+Fasomvandlingar.
+ 
+Teknisk orienteringskurs, Del a (Höst) / Del b
+(Vår)
+Föreläsningar 10h / 16h, övningar 2h / 20h, studiebesök 0h /
+4h ,  självstudier 20h / 60h
+Prestationsbedömning: Obligatoriska närvaro och godkända
+redovisningar.
+•    Studieteknik.
+•    Introduktion i Excel (Ej obligatorisk
+närvaro)
+•    Grundläggande kunskaper i teknikhistoria.
+•    Inspirationsföreläsningar från LTHs
+ingenjörsprogram.
+•    Orientering om ingenjörens roll i samhället.
+•    Introduktion till projektmetodik.
+•    Muntlig framställning.
+ 
+Tillämpad kemi
+Föreläsningar 16 h, övningar 10 h, laboration 8 h,
+självstudier 40 h
+Miljökemi
+•    Hållbar utveckling med diskussion om olika ämnens
+kretslopp
+•    Växthuseffekt, dess orsaker och effekter
+•    Försurning, dess orsaker och effekter
+•    Övergödning, dess orsaker och effekter
+•    Miljögifter exempelvis DDT, PCB och flamskyddsmedel
+•    Grön kemi
+Material
+•    Polymerers kemiska uppbyggnad, egenskaper och
+användning.
+•    Keramers kemiska uppbyggnad, egenskaper och
+användning.
+•    Legeringars kemiska uppbyggnad, egenskaper och
+användning.
+
+Livsmedelskemi
+•    Kolhydraters, fetters och proteiners uppbyggnad samt hur
+den kemiska strukturen påverkar deras egenskaper.
+•    Hur strukturen av olika ämnen påverkar dess smak, lukt
+och färg.
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: Ett godkänt tekniskt basår kräver att alla delmoment är godkända. Se "Prov/Delmoment" nedan.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0114. Benämning: Matematik 3c. 
+Antal högskolepoäng: 12. Betygsskala: UG.  Prestationsbedömning: Skriftlig tentamen.  Delmomentet omfattar: Matematik 3c - se ovan. 
+Kod: 0214. Benämning: Matematik 4, Del a. 
+Antal högskolepoäng: 5. Betygsskala: UG.  Prestationsbedömning: Skriftlig tentamen.  Delmomentet omfattar: Matematik 4, del a - se ovan. 
+Kod: 0314. Benämning: Matematik 4, Del b. 
+Antal högskolepoäng: 4. Betygsskala: UG.  Prestationsbedömning: Skriftlig tentamen.  Delmomentet omfattar: Matematik 4, del b - se ovan. 
+Kod: 1114. Benämning: Fysik 1-2, Del a, tentamen. 
+Antal högskolepoäng: 8. Betygsskala: UG.  Prestationsbedömning: Skriftlig tentamen.  Delmomentet omfattar: Fysik 1-2, Del a - se ovan. 
+Kod: 1214. Benämning: Fysik 1-2, Del a, laboration. 
+Antal högskolepoäng: 1. Betygsskala: UG.  Prestationsbedömning: Godkända laborationer.  Delmomentet omfattar: Laborationer avseende centrala begrepp i Fysik 1-2, Del a - Se ovan. 
+Kod: 1314. Benämning: Fysik 1-2, Del b, tentamen. 
+Antal högskolepoäng: 6. Betygsskala: UG.  Prestationsbedömning: Skriftlig tentamen.  Delmomentet omfattar: Fysik 1-2, Del b - se ovan. 
+Kod: 1414. Benämning: Fysik 1-2, Del b, laboration. 
+Antal högskolepoäng: 1. Betygsskala: UG.  Prestationsbedömning: Godkända laborationer.  Delmomentet omfattar: Laborationer avseende centrala begrepp i Fysik 1-2, Del b - Se ovan. 
+Kod: 1514. Benämning: Fysik 1-2, Del c, tentamen. 
+Antal högskolepoäng: 7. Betygsskala: UG.  Prestationsbedömning: Skriftlig tentamen.  Delmomentet omfattar: Fysik 1-2, Del c - se ovan. 
+Kod: 1614. Benämning: Fysik 1-2, Del c, laboration. 
+Antal högskolepoäng: 1. Betygsskala: UG.  Prestationsbedömning: Godkända laborationer.  Delmomentet omfattar: Laborationer avseende centrala begrepp i Fysik 1-2, Del c - Se ovan. 
+Kod: 2114. Benämning: Kemi 1, Del a, tentamen. 
+Antal högskolepoäng: 6. Betygsskala: UG.  Prestationsbedömning: Skriftlig tentamen.  Delmomentet omfattar: Kemi 1, Del a - se ovan. 
+Kod: 2214. Benämning: Kemi 1, Del a, laboration. 
+Antal högskolepoäng: 1. Betygsskala: UG.  Prestationsbedömning: Godkända laborationer.  Delmomentet omfattar: Laborationer avseende centrala begrepp i Kemi 1, Del a - Se ovan. 
+Kod: 2314. Benämning: Kemi 1, Del b, tentamen. 
+Antal högskolepoäng: 2. Betygsskala: UG.  Prestationsbedömning: Skriftlig tentamen.  Delmomentet omfattar: Kemi 1, Del b - se ovan. 
+Kod: 2414. Benämning: Kemi 1, Del b, laboration. 
+Antal högskolepoäng: 1. Betygsskala: UG.  Prestationsbedömning: Godkända laborationer.  Delmomentet omfattar: Laborationer avseende centrala begrepp i Kemi 1, Del b - Se ovan. 
+Kod: 3114. Benämning: Teknisk orienteringskurs, Del a. 
+Antal högskolepoäng: 1. Betygsskala: UG.  Prestationsbedömning: Obligatorisk närvaro.
+Undantag: Introduktion i Excel  Delmomentet omfattar: Teknisk orienteringskurs - se ovan. 
+Kod: 3214. Benämning: Teknisk orienteringskurs, Del b. 
+Antal högskolepoäng: 2. Betygsskala: UG.  Prestationsbedömning: Obligatorisk närvaro samt godkända redovisningar.  Delmomentet omfattar: Teknisk orienteringskurs - se ovan. 
+Kod: 4114. Benämning: Tillämpad kemi. 
+Antal högskolepoäng: 2. Betygsskala: UG.  Prestationsbedömning: Obligatorisk närvaro på föreläsningar. Godkänd slutredovisning samt godkända laborationer (inklusive inlämningsuppgifter).  Delmomentet omfattar: Tillämpad kemi - se ovan. 
+Antagningsuppgifter
+Förkunskapskrav:
+Förutom grundläggande behörighet krävs Matematik 2a, 2b eller 2c. 
+
+
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Andersson m fl: Gymnasiekemi 1. Liber, 2012, ISBN: 9789147085576.
+Kompendium (Tillämpad kemi). Utdelas av läraren.
+Alfredsson m fl: Matematik 5000 kurs 3c, Blå. Natur&Kultur, 2012, ISBN: 9789127426283.
+Alfredsson m fl: Matematik 5000 kurs 4, Blå. Natur&Kultur, 2013, ISBN: 9789127426320.
+Cutnell, Johnsson: Introduction to Physics, 10th Edition International Student Version. John Wiley & Sons Inc, 2015, ISBN: 9781118651520.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Håkan Linder, hakan.linder@hbg.lth.se
+Hemsida: http://www.lth.se/utbildning/tekniskt-basaar/
+Övrig information: Godkänt basår ger garantiplats på LTHs högskoleingenjörsutbildningar under förutsättning att man sökt via www.antagning.se senast 15 april 2019 och är godkänd på basåret senast 15 juni 2019. Alla delkurser ska vara examinerade (och godkända) inom LTH för att man ska erhålla garantiplatsen.Godkänt basår ger behörighet att söka LTHs civilingenjörsutbildningar och brandingenjörsutbildning. 
+
+
+

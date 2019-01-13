@@ -1,0 +1,72 @@
+
+
+Kursplan för
+Numerisk linjär algebra
+Numerical Linear Algebra
+FMNN01, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning F/Pi
+Beslutsdatum: 2018-03-23
+Allmänna uppgifter
+Valfri för: BME4, F4, F4-bs, F4-bg, Pi4-bs, Pi4-bg
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursen ger teoretisk förståelse av några mycket relevanta
+algoritmer liksom praktisk erfarenhet av  implementering av
+algoritmerna på dator och av deras tillämpning. Efter
+genomgången kurs skall studenten ha väsentligt utökad och mer
+användbar kunskap om numerisk linjär algebra än vad som täcks
+av grundkurser i beräkningsteknik. Kursen skall också stimulera
+till fortsatt självständigt lärande.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+- ha visat väsentlig utökad och mer användbar kunskap i
+numerisk linjär algebra än vad som krävs i en grundkurser i
+beräkningsteknik eller linjär algebra.
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+- kunna implementera algoritmer för numerisk linjär algebra
+på dator, och använda dessa i tillämpningar.
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+- under kursens gång med adekvat terminologi och logiskt
+välstrukturerat redogöra för konstruktion och tillämpning
+av moderna numeriska metoder för linjära problem.
+
+Kursinnehåll
+Kursen följer upp Linjär algebra. Studenten lär sig att lösa
+praktiska problem med hjälp av moderna numeriska metoder och
+datorer. Centrala begrepp är konvergens, stabilitet och
+komplexitet (hur noggrann approximationen är och hur snabbt den
+kan beräknas). Verktygen är till exempel matrisfaktorisering och
+ortogonalisering. De behandlade algoritmerna kan, bland annat,
+användas för att lösa sådana mycket stora system av linjära
+ekvationer som uppstår vid diskretisering av partiella
+differentialekvationer och för att beräkna egenvärden.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Veckovisa inlämningsuppgifter. Muntligt förhör på dessa vid kursens slut.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: Grundkurs i numerisk analys, FMAF05 Matematik - System och transformer.
+Erfarenhet av Matlab-programmering.
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Trefethen, L.N.  &  Bau, D.: Numerical Linear Algebra. SIAM, 1997, ISBN: 978-0898713619.
+
+
+Kontaktinfo och övrigt
+Studierektor: Studierektor Anders Holst, Studierektor@math.lth.se
+Kursansvarig: Claus Führer, claus@maths.lth.se
+Kursadministratör: Patricia Felix Poma de Kos, patricia.felix_poma_de_kos@math.lth.se
+Hemsida: http://www.maths.lth.se/na/courses/FMNN01
+
+
+

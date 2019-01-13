@@ -1,0 +1,93 @@
+
+
+Kursplan för
+Sensorteknik
+Transducer Technology
+BMEF10, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning BME
+Beslutsdatum: 2018-03-23
+Allmänna uppgifter
+Valfri för: BME4-bf, D5, E4-ss, E4-mt, F4, F4-mt, F4-r, F4-ss, IEA3, N4
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Sensorer får allt större betydelse i det moderna samhället.
+Exemplen är många där sensorer är en förutsättning för ökad
+säkerhet (t ex i bilar), minskad miljöpåverkan ( t ex styrning
+av processindustri, avgasrening i bilar), effektivare
+energianvändning (t ex klimatstyrning av inomhusmiljö).
+Ytterligare ett område där sensorer väntas få stor betydelse
+är Virtual Reality (t ex fjärroperationer inom medicin,
+datorspel, simulatorer).
+Syftet med kursen är att ge studenterna en bred översikt över
+de vanligaste givarprinciperna och mätmetoder för mätning av
+fysikaliska, kemiska och bio-kemiska storheter, t ex temperatur,
+tryck, acceleration, syrgashalt, pH.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+ha översiktlig kunskap om olika sensorers uppbyggnad,
+egenskaper och begränsningar för mätning av fysikaliska, kemiska
+och bio-kemiska storheter.
+
+ha detaljerad kännedom om givarprinciper och mätstorheter
+inom ett specifikt område.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna föreslå lämplig sensorprincip och mätmetod i en given
+mätuppgift samt utföra mätningar.
+ha fått erfarenhet av experimentellt arbete.
+kunna skriftligt och muntligt kunna kommunicera inhämtad
+information och experimentella resultat.
+kunna genomföra en praktisk demonstation av en
+mätsituation.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+söka, sovra och tillägna sig information ur ett omfattande
+material, utan läsanvisning.
+
+
+Kursinnehåll
+Kursen behandlar de vanligaste givarna och mätmetoderna för
+mätning av fysikaliska, kemiska och biokemiska mätstorheter inom
+process- och verkstadsindustri, medicin och samhälle.
+Härutöver diskuteras anpassningselektronik, tillämpad
+signalbehandling och datainsamlingssystem. I kursen ingår ett
+projekt som behandlar givare för en viss fysikalisk mätstorhet
+eller givarprincip. Projektuppgiften består i att genom
+litteraturstudier och experimentellt arbete sätta sig in i de
+givare som kommer till användning för den givna mätstorheten.
+Projektet redovisas muntligt vid ett seminarium med demonstrationer
+samt skriftligt i en rapport. En stor del av föreläsningarna i
+kursen ges i seminarieform kopplat till projekten av
+kursdeltagarma.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: För betyget 3 krävs godkänd rapport, genomförd muntlig presentation av projekt, genomförda laborationer och godkända kontrollfrågor vid dessa samt deltagande i 80% av föreläsningstillfällena och godkänd mindre omfattande skriftlig tentamen. Högre betyg kan erhållas vid en mera omfattande skriftlig tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: ESSF10 eller BMEF05 Mätteknik eller EEMF15 Sensorer och mätteknik eller BMEF15 Sensorer eller EITA40 Krets- och mätteknik
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: EEM031
+Kurslitteratur
+
+Grahm L, Jubrink H-G, Lauber A: Modern industriell mätteknik. KF-Sigma , 1996.
+Jacob Fraden: Handbook of Modern Sensors. Springer, New York, NY, 2010, ISBN: 978-1-4419-6465-6. Finns som e-bok (https://doi.org/10.1007/978-1-4419-6466-3).
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Johan Nilsson, johan.nilsson@bme.lth.se
+Kursansvarig: Christian Antfolk, christian.antfolk@bme.lth.se
+Hemsida: http://bme.lth.se/course-pages/sensorteknik/sensorteknik/
+
+
+

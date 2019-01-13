@@ -1,0 +1,107 @@
+
+
+Kursplan för
+Informationsteori
+Information Theory
+EITN45, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning C/D
+Beslutsdatum: 2018-04-03
+Allmänna uppgifter
+Huvudområde: Kommunikationssystem. 
+Valfri för: C4-ks, C4-sec, D4-ks, E4-ks, F4, MWIR1, Pi4-ssr
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Målet med kursen är att ge studenterna insikt i principer för
+informationslagring och transmission, samt hur information kan
+representeras binärt. Kursen skall också ge förståelse för
+prestanda och fundamentala begränsningar i dagens och framtidens
+kommunikationssystem.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna identifiera och formulera problem inom området
+Informationsteori.
+kunna klassificera problemens svårighetsgrad i förhållande
+till den egna kunskapsnivån.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna visa prov på förmåga att hantera för studenten nya
+metoder och resultat.
+kunna ställa upp krav för implementering av algoritmerna i
+kursen.
+på egen hand kunna realisera system för de i kursen
+presenterade algoritmerna.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+på egen hand kunna klassificera problemens svårighetsgrad i
+förhållande till den egna kunskapsnivån.
+vara medveten om vilka parametrar som är begränsande för
+tillförlitlig kommunikation samt kompressionsgraden av en
+källa.
+
+
+Kursinnehåll
+Definitionen av information går tillbaka till Shannons
+publikation 1948. Hans teorier för hur information kan behandlas
+är basen i alla, både dagens och morgondagens,
+kommunikationssystem. Kursen ger en modern introduktion till ämnet
+informationsteori. Den betonar både den formella teorin i ämnet
+och de ingenjörsmässiga metoderna för design
+kommunikationssystem och annan informationsbehandling. Kursen
+innehåller.
+
+Shannons informationsmått och dess släktingar, både för det
+diskreta och det kontinuerliga fallet.
+Tre fundamentala satser: Typiska följder, källkodningsssatsen
+och kanalkodningssatsen.
+Källkodning: Optimal källkodning och Huffmans konstruktion,
+men även universell källkodning så som Ziv-Lempel-kodning (zip,
+osv).
+Kanalkodning: Principer för feldetektering och felkorrigering
+för brusiga kanaler, främst åskådliggjort med
+Hammingkoder.
+Gausskanalen: Kontinuerliga källor och additivt vitt brus
+över både bandbegränsade och frekvensselektiva kanaler.
+Beräkning av Shannons fundamentala gräns.
+Gausskanal med diskret input: Maximal överföringshastighet
+för PAM och QAM, Coding och Shaping gain, samt SNR gap.
+Rate distortion-teori: Kanalkodningssatsen och den fundamentala
+gränsen för fallet då viss distorsion är accepterad.
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Inlämningsuppgifter och hemtenta.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0118. Benämning: Informationsteori. 
+Antal högskolepoäng: 5. Betygsskala: TH.  Prestationsbedömning: Hemtentamen  Delmomentet omfattar: Examination för den teoretiska delen av kursen 
+Kod: 0218. Benämning: Inlämningsuppgifter. 
+Antal högskolepoäng: 2,5. Betygsskala: UG.  Prestationsbedömning: Hemuppgifter  Delmomentet omfattar: Tillämpning av teorin i form av datakompression och kanalkodning 
+Antagningsuppgifter
+Förutsatta förkunskaper: FMS012/FMSF45/FMSF55 Matematisk statistik, allmän kurs, speciellt sannolikhetsteori, 
+ETT051/EITG05 Digital kommunikation
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: EIT080
+Kurslitteratur
+
+Stefan Höst: Information Theory and Communication Engineering. Compendium.
+Additional material.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Universitetslektor Stefan Höst, stefan.host@eit.lth.se
+Hemsida: http://www.eit.lth.se/kurs/EITN45
+
+
+

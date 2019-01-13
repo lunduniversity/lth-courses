@@ -1,0 +1,113 @@
+
+
+Kursplan för
+Trådlösa kanaler
+Wireless Communication Channels
+EITN85, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning E
+Beslutsdatum: 2018-04-05
+Allmänna uppgifter
+Huvudområde: Kommunikationssystem. 
+Obligatorisk för: MWIR1
+Valfri för: BME4, C4-ks, D4, E4-ks, MSOC2
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Syftet med kursen är att ge en genomgripande genomgång av den
+trådlösa kanalens egenskaper. Detta inkluderar förståelse av
+underliggande fysiska utbredningsmekanismer, mätning av
+kanalegenskaper, metoder för att modellera kanalegenskaper, samt
+en grundläggande förståelse av hur dessa saker relaterar till
+olika aspekter av ett trådlöst system.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+ha fått förståelse för den trådlösa radiokanalens
+egenskaper och dess samverkan med systemet.
+vara väl förtrogen med fysiska utbredningsmekanismer och
+därmed vara kapabel att själv skapa sig en uppfattning om
+utbredningen av radiovågor i specifika situationer.
+ha fått förståelse för mätning av kanalegenskaper och
+metoder för att modellera dessa.
+ha erhållit en grundläggande förståelse av kanalegenskaper
+som är av specifik vikt för nästa generations trådlösa
+system
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna analysera och beskriva radiokanalens egenskaper och
+inverkan på systemet, och utifrån detta välja lämpliga
+systemparametrar.
+kunna föreslå och utvärdera metoder för att utnyttja
+radiokanalen på bästa sätt.
+kunna skriva en väl underbyggd rapport om
+kanalegenskaperna.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+ha fått övergripande syn på hur radiokanalen samverkar med
+övriga komponenter ett radiosystem.
+känna sig väl rustad att förstå, analysera och beskriva
+radiokanalens egenskaper för att kunna utnyttja denna på bästa
+sätt.
+
+
+Kursinnehåll
+
+Utbredningsmekanismer - Frirumsutbredning, reflektion
+och transmission, diffraktion, spridningsfenomen,
+vågledareffekter.
+Statistisk beskrivning av den trådlösa kanalens
+egenskaper - Den tidsvarianta och
+tidsinvarianta tvåstrålekanalen, småskalig fädning med och
+utan frisikt, mottagen signalnivå, storskalig fädning.
+Karakterisering av den bredbandiga radiokanalen -
+Jämförelse mellan smalbandiga och bredbandiga system,
+systemteoretisk beskrivning av radiokanalen, WSSUS-modellen,
+beskrivning av tids- och vinkeldispersion.
+Kanalmodeller - Smalbandiga kanaler, bredbandiga
+kanaler, spatiella egenskaper, deterministiska modeller, modeller
+för UWB-system.
+Kanalmätning - Mätning i tids- och frekvensdomänen,
+mätning av riktningsegenskaper.
+Antenner - Krav på antenner för trådlös
+kommunikation, antenner för terminaler, basstationer och fordon.
+Multipel-antenn-tekniker.
+Trådlösa kanaler och 5G - Kanalegenskaper specifika
+för 5G-system: Millimetervågs-, Massive MIMO- och
+fordons-kanaler.
+Rapportskrivning - Hur författar man en vetenskaplig
+rapport inom ämnesområdet.
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Tentamen (muntlig eller skriftlig, 5 timmar) + godkända inlämningsuppgifter. Studentens prestation bedöms på två sätt. Studenten skall klara av kursens laborativa moment, vilket består av att i mindre grupp, vid tre tillfällen, analysera och utvärdera olika egenskaper hos radiokanalen och skriva en rapport om detta. Det andra och betygssättande momentet är en tentamen bestående av såväl teoretiska frågor som problemlösning. Denna tentamen kan både vara skriftlig och muntlig, inlämnade rapporter på samtliga laborativa moment är ett krav för att få delta i tentamen. Föranmälan krävs för omtentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0118. Benämning: Tentamen. 
+Antal högskolepoäng: 5. Betygsskala: TH.  Prestationsbedömning: Skriftlig eller muntlig tentamen 
+Kod: 0218. Benämning: Inlämningsuppgifter. 
+Antal högskolepoäng: 2,5. Betygsskala: UG.  Prestationsbedömning: Godkända inlämningsuppgifter 
+Antagningsuppgifter
+Förutsatta förkunskaper: ETT051/EITG05 Digital kommunikation och ETIF05 Grundläggande radioteknik eller EITF50 Introduktion till trådlösa system.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: ETIN10, ETI085
+Kurslitteratur
+
+Molisch, Andreas F: Wireless Communications, 2nd ed. John Wiley & Sons Ltd, 2011, ISBN: 978-0-470-74186-3.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Fredrik Tufvesson, fredrik.tufvesson@eit.lth.se
+Hemsida: http://www.eit.lth.se/kurs/eitn85
+
+
+

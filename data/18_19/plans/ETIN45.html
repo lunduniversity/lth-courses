@@ -1,0 +1,178 @@
+<!DOCTYPE HTML>
+<html lang="sv">
+<head>
+<title>Kursplan 2018/19 ETIN45</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<style type="text/css">
+body {
+    margin: auto;
+    margin: 30px;
+    font-family: times, sans-serif;
+}
+h1 {
+    font-family: Arial, Verdana, Geneva, Helvetica, sans-serif;
+    font-size: 150%;
+    font-style: normal;
+    font-weight: bold;
+    color: rgb(77,76,68);
+}
+h2 {
+    font-family: Arial, Verdana, Geneva, Helvetica, sans-serif;
+    font-size: 114%;
+    font-style: normal;
+    font-weight: bold;
+    color: rgb(77,76,68);
+}
+p {
+    font-size: 100%;
+    font-style: normal;
+    font-weight: normal;
+}
+.small {
+    font-size: 80%;
+}
+.bold {
+    font-weight: bold;
+}
+.italic {
+    font-style: italic;
+}
+@media print {
+    html {
+        font-size: 10pt;
+    }
+    a {
+        text-decoration: none;
+        color: #000;
+    }
+}
+</style>
+</head>
+<body>
+<div class="pdfbody">
+<span class="italic">Kursplan för</span><br />
+<h1>DSP-design<br />
+DSP-design</h1>
+<h2>ETIN45, 7,5 högskolepoäng, A (Avancerad nivå)</h2>
+<p><span class="bold">Gäller för: </span>Läsåret 2018/19<br />
+<span class="bold">Beslutad av: </span>Programledning E<br />
+<span class="bold">Beslutsdatum: </span>2018-04-05</p>
+<h2>Allmänna uppgifter</h2>
+<p><span class="bold">Valfri för: </span>D4-dpd, E4-is, MSOC1<br />
+<span class="bold">Undervisningsspråk: </span>Kursen ges på engelska</p>
+
+<h2>Syfte</h2>
+<p>Digital signalbehandling är ett område som blir allt viktigare
+i många produkter och system idag. När algoritmer inom detta
+område skall implementeras finns det ett stort antal möjliga
+alternativ beroende på krav angående till exempel realtid och
+effektförbrukning. Kursen skall ge studenterna en förståelse
+för hur olika implementeringsalternativ påverkar prestanda,
+flexibilitet och inte minst tid och kostnad för
+konstruktionsarbetet.</p>
+<p>Kursens övergripande mål är att lära ut systematiskt
+konstruktionsarbete av digitala signalprocessorer. Huvuddelen av
+kursen är inriktad mot att ge studenterna förståelse för
+konstruktion av tillämpningsspecifika arkitekturer utifrån en
+algoritmspecifikation och ett givet antal konstruktionsparametrar
+såsom beräkningskapacitet, effektförbrukning, kiselyta, etc.</p>
+
+<h2>Mål</h2>
+<p><span class="italic">Kunskap och förståelse</span><br />
+För godkänd kurs skall studenten</p>
+<ul>
+<li>ha förståelse för samband mellan parametrar såsom
+beräkningskapacitet, effektförbrukning och kiselyta.</li>
+<li>vara förtrogen med transformationer som hjälper
+konstruktören att utveckla olika lösningar för en given
+signalbehandlingsalgoritm.</li>
+<li>vara förtrogen med effekter vid val av olika former av
+talrepresentation.</li>
+</ul>
+
+<p><span class="italic">Färdighet och förmåga</span><br />
+För godkänd kurs skall studenten</p>
+<ul>
+<li>utifrån givna kriterier kunna föreslå en lämplig
+processorarkitektur.</li>
+<li>kunna analysera en processorarkitektur och föreslå
+alternativa lösningar.</li>
+</ul>
+
+<p><span class="italic">Värderingsförmåga och förhållningssätt</span><br />
+För godkänd kurs skall studenten</p>
+<ul>
+<li>ha fått övergripande syn på implementeringsaspekter av
+digitala signalbehandlingsalgoritmer.</li>
+<li>känna sig väl rustad att konstruera en specialanpassad
+signalprocessor utifrån givna krav med hjälp av de metoder som
+ges i kursen</li>
+</ul>
+
+<h2>Kursinnehåll</h2>
+<p>Digital signalbehandling är ett område som är starkt
+expansivt och som kommer in i de flesta moderna system. Exempel på
+sådana system är mobil kommunikation, MP3/CD/DVD-spelare och
+medicinsktekniska system såsom pacemakers och hörapparater och
+exempel på vanliga algoritmer är olika former av kodning,
+filtrering och bildigenkänning. Ofta har man ett behov av att
+signalbehandlingen skall utföras i realtid och möjligheterna
+försvinner då i många fall att utföra detta i en vanlig dator.
+Standardprocessorer är utvecklade för att passa ett vitt
+applikationsområde och ger därmed ett stort användningsområde
+och stor flexibilitet. För många applikationer kan dock krav på
+snabbhet eller låg effektförbrukning kräva specialanpassade
+processorarkitekturer med hög prestanda.</p>
+<p>Denna kurs kommer att ge inblick i hur man från en algoritm
+kommer fram till en lösning som passar givna krav. Tyngdpunkten
+kommer att ligga på design av specialanpassade arkitekturer som
+kan implementeras på antingen rekonfigurerbar hårdvara, t.ex.
+FPGA, eller specialutvecklade kretsar, så kallade ASICs.
+Standardprocessorer och deras relation till andra lösningar kommer
+också att diskuteras. Olika delar är:</p>
+<p> </p>
+<ul>
+<li>Karakterisering och representation av
+signalbehandlingsalgoritmer: signalflödes-, dataflödes- och
+beroende grafer och begreppet ”iteration bound”.</li>
+<li>Arkitekturtransformationer – Begreppen retiming, pipelining
+och parallellisering för hög beräkningskapacitet och/eller låg
+effektförbrukning. Olika typer av arkitekturer såsom
+tidsmultiplexade och hårdvaru-mappade samt hur man transformerar
+mellan dessa med hjälp av till exempel begreppen unfolding och
+folding.</li>
+<li>Algoritmtransformationer – Hur man kan reducera komplexiteten
+hos algoritmer och därmed åstadkomma en effektivare
+implementering genom begreppet ”strength reduction”.</li>
+<li>Olika system för talrepresentation, hur de används och hur de
+påverkar implementering och prestanda.</li>
+</ul>
+
+<h2>Kursens examination</h2>
+<p><span class="bold">Betygsskala: </span>TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)<br />
+<span class="bold">Prestationsbedömning: </span>Kursen har 3 delar som garanterar betyget 3: hemuppgifter som redovisas av studenterna i seminarieform, laborationer samt en dimensioneringsuppgift som skall ge en samlad bild av kursens olika moment. För högre betyg krävs en tentamen.</p>
+<p>Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.</p>
+<p><span class="bold">Delmoment</span><br />
+<span class="bold">Kod: </span>0118. <span class="bold">Benämning: </span>Dimensioneringsuppgift. <br />
+<span class="small"><span class="bold">Antal högskolepoäng: </span>5. <span class="bold">Betygsskala: </span>TH.  <span class="bold">Prestationsbedömning: </span>Godkänd dimensioneringsuppgift </span><br />
+<span class="bold">Kod: </span>0218. <span class="bold">Benämning: </span>Hemuppgifter. <br />
+<span class="small"><span class="bold">Antal högskolepoäng: </span>1,5. <span class="bold">Betygsskala: </span>UG.  <span class="bold">Prestationsbedömning: </span>Godkända hemuppgifter. </span><br />
+<span class="bold">Kod: </span>0318. <span class="bold">Benämning: </span>Laborationer. <br />
+<span class="small"><span class="bold">Antal högskolepoäng: </span>1. <span class="bold">Betygsskala: </span>UG.  <span class="bold">Prestationsbedömning: </span>Godkända laborationer </span></p>
+<h2>Antagningsuppgifter</h2>
+<p><span class="bold">Förutsatta förkunskaper: </span><a href="/kursplaner/16_17/ESS040.html">ESS040</a>/<a href="/kursplaner/18_19/EITF75.html">EITF75</a> Digital signalbehandling eller <a href="/kursplaner/16_17/ETI265.html">ETI265</a>/<a href="/kursplaner/18_19/EITA50.html">EITA50</a> Signalbehandling i multimedia eller <a href="/kursplaner/18_19/EITF15.html">EITF15</a> Signalbehandling - teori och tillämpningar<br />
+<span class="bold">Begränsat antal platser: </span>Nej<br />
+<span class="bold">Kursen överlappar följande kurser: </span><a href="/kursplaner/11_12/ETI180.html">ETI180</a></p>
+<h2>Kurslitteratur</h2>
+<ul>
+<li>Parhi K K: VLSI Digital Signal Processing Systems, Design and Implementation. John Wiley &amp; Sons, 1999, ISBN: 0-471-24186-5.</li>
+
+</ul>
+<h2>Kontaktinfo och övrigt</h2>
+<p><span class="bold">Kursansvarig: </span>Fredrik Edman, <a href="mailto:fredrik.edman@innovation.lu.se">fredrik.edman@innovation.lu.se</a><br />
+<span class="bold">Examinator: </span>Viktor Öwall, <a href="mailto:viktor.owall@eit.lth.se">viktor.owall@eit.lth.se</a><br />
+<span class="bold">Hemsida: </span><a href="http://www.eit.lth.se/kurs/etin45">http://www.eit.lth.se/kurs/etin45</a></p>
+
+</div>
+</body>
+</html>

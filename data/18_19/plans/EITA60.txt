@@ -1,0 +1,83 @@
+
+
+Kursplan för
+Datorkommunikation
+Computer Communication
+EITA60, 6 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning C/D
+Beslutsdatum: 2018-04-03
+Allmänna uppgifter
+Obligatorisk för: IDA1, IEA1
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursens syfte är att ge högskoleingenjören grundläggande
+kunskaper i datorkommunikation. Kursen ger också ingående
+förståelse för systemprinciper och implementering av
+datakommunikation, datanät och distribuerade system.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna förklara grundläggande begrepp såsom protokoll, lager,
+paket och vägval
+kunna redogöra för OSI- och TCP/IP-modellerna
+kunna förklara och jämföra olika metoder för access,
+flödeskontroll och feldetektering.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna analysera routingtabeller för enkla nätverk
+kunna använda protokollanalysatorprogram för analys och
+diagnos av nätverkstrafik.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+Visa prov på insikt om möjligheter och begränsningar inom
+datorkommunikation
+Visa prov på samarbetsförmåga i grupp
+
+
+Kursinnehåll
+Systemprinciper: Kretskopplade och paketförmedlande
+nät, nättopologier, vägval, prestanda.
+Olika typer av datanät, LAN, WAN. Accessmetoder för
+trådbundna och trådlösa lokala nät.
+Protokoll: OSI-modellen och TCP/IP-modellen för
+protokoll, kommunikation mellan olika protokollnivåer,
+adressering, synkronisering, flödeskontroll, felkontroll.
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: För godkänd kurs krävs godkänd tentamen, godkända laborationer, godkänd presentationsuppgift samt deltagande i Ingenjörsdag.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0118. Benämning: Tentamen. 
+Antal högskolepoäng: 4. Betygsskala: UG.  Prestationsbedömning: Godkänd tentamen.  Delmomentet omfattar: Skriftlig tentamen 
+Kod: 0218. Benämning: Laborationer. 
+Antal högskolepoäng: 1,5. Betygsskala: UG.  Prestationsbedömning: Godkända laborationer. 
+Kod: 0318. Benämning: Presentationsuppgift. 
+Antal högskolepoäng: 0,5. Betygsskala: UG.  Prestationsbedömning: Godkänd presentation. 
+Kod: 0418. Benämning: Seminarium. 
+Antal högskolepoäng: 0. Betygsskala: UG.  Prestationsbedömning: Deltagande i Ingenjörsdag.  Delmomentet omfattar: Obligatoriskt deltagande i Ingenjörsdag. 
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: ETS130, ETS302
+Kurslitteratur
+
+Kurose, JF, Ross, KW: Computer Networking, A top-down approach. Pearson , 2016, ISBN: 9781292153599.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Christian Nyberg, Christian.Nyberg@eit.lth.se
+Hemsida: http://www.eit.lth.se/kurs/eita60
+Övrig information: En del av de obligatoriska momenten är delar av Ing-dagar.
+
+
+

@@ -1,0 +1,112 @@
+
+
+Kursplan för
+Tillämpad vattenkemi
+Applied Aquatic Chemistry
+KOOF01, 5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning B/K
+Beslutsdatum: 2018-03-21
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: W2
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Många yrkesverksamma civilingenjörer i ekosystem arbetar med
+vattenresurshantering, vattenrening, markfrågor och
+myndighetsutövning där vattenfrågor spelar en stor roll. Inte
+minst är kemiska, biologiska och ekologiska frågor ständigt
+aktuella. Förmågan att kombinera kunskap om vattenkemi i
+naturliga system med en gedigen kompetens i teknik och ekologi gör
+civilingenjören i ekosystemen unik. Den breda arbetsmarknaden inom
+näringsliv och offentlig sektor ställer också stora krav på
+förmåga att kommunicera effektivt med medarbetare, kunder och
+allmänhet på engelska.
+
+Att ge nödvändig kunskap om vattenkemiska processer och de
+modeller som finns för att ge en förståelse för samspelet
+mellan människa och den akvatiska miljön. Kursen syftar också
+till att ge förmåga att värdera miljöfrågeställningar från
+ett naturvetenskapligt betraktelsesätt i arbetsliv och
+samhällsdebatt.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+ha god kännedom om pH-begreppet och buffertsystem samt se
+sambanden till naturliga system
+känna till de grundläggande vattenkemiska begrepp såsom ANC,
+alkalinitet, DOC, löslighet och redoxpotential
+känna till termodynamikens koppling till elektrokemi och dess
+användning inom vattenkemi
+tolka och lösa problem och frågeställningar
+med vattenkemiska modeller
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+planera och utföra beräkningar för den vattenkemiska
+modellen med MATLAB
+teckna elektrokemiska celler och analysera förloppen för
+elektrokemiska processer med speciell tillämpning inom
+vattenkemin, tex potential/Eh – diagram
+visa förmåga att klart och tydligt redovisa vattenkemiska
+laborationer i rapportform
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna redovisa och tolka beräkningar i rapportform på ett
+logiskt och relevant sätt
+ha ökad förmåga att presentera projekt som genomförts samt
+diskutera resultaten med kursledning och kursdeltagare
+
+
+Kursinnehåll
+Kursen tar upp vattenkemiska jämviktsprocesser såsom
+syra/bas-reaktioner, gas/vätske-reaktioner, buffertsystem,
+titreringsstrategier, fast fas/vätske-reaktioner, redoxprocesser
+samt redoxbuffring. En beräkningsteknisk metodik för komplexa
+vattenkemiska system utvecklas under kursens gång. Stor vikt
+läggs vid studentens förmåga att självständigt tolka
+vattenkemiska processer, system och beräkningar och att lösa
+verklighetsnära vattenkemiska uppgifter. Ett centralt pedagogiskt
+element är att studenterna stödjer varandras inlärning genom
+aktivt och reflekterande arbete i grupp. Laborationerna är
+obligatoriska och syftar till att ge en personlig upplevelse av de
+kemiska processer som hanteras teoretiskt, samt insikt i hur
+kemiska analyser hanteras i arbetslivet. Arbete med problemlösning
+och kommunikation spelar således en stor roll vid inlärning av
+kursen.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Kvantitativ och kvalitativ bedömning av inlämnad arbetsbok bestående av vattenkemiska beräkningsuppgifter med teori, metodbeskrivningar, beräkningar, resultat och tolkningar. Den kvalitativa bedömningen grundas på korrekthet, fullständighet, komplexitet och kreativitet. Godkända enskilda och gruppvisa laborationer och laborationsredogörelser.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0109. Benämning: Laborationskurs. 
+Antal högskolepoäng: 1. Betygsskala: UG.  Prestationsbedömning: Godkända laborationer och projekt.  Delmomentet omfattar: Omfattar laborationer i vattenkemi samt laborationer och projektarbete i atmosfärskemi 
+Kod: 0209. Benämning: Vattenkemi. 
+Antal högskolepoäng: 4. Betygsskala: TH.  Prestationsbedömning: Kontinuerlig examination i form av arbetsbok med beräkningar och kommentarer. Godkända laborationer och projekt. Slutbetyg viktas mellan kursdelarna.  Delmomentet omfattar: Kontinuerlig examination i form av arbetsbok med beräkningar och kommentarer. 
+Antagningsuppgifter
+Förutsatta förkunskaper: KASA01 Grundläggande kemi och FAFA70 Energi- och omvärldsfysik.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: KOO090
+Kurslitteratur
+
+Atkins P.; Jones L.; Laverman L.: Chemical Principles – The quest for insight, 7:e uppl. WH Freeman , 2016, ISBN: 9781464183959.
+Warfvinge, P: Kompendium i tillämpad vattenkemi.(Uppdaterad version av kompendiet varje läsår.).
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Prof. Per Warfvinge, per.warfvinge@chemeng.lth.se
+Kursansvarig: Dr. Johan Reimer, johan.reimer@kemi.lu.se
+Hemsida: http://www.kilu.lu.se/cas/education/undergraduate-education
+Övrig information: Närvaro vid första undervisningstillfället är obligatorisk.
+
+
+

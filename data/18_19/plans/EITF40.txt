@@ -1,0 +1,82 @@
+
+
+Kursplan för
+Digitala och analoga projekt
+Digital and Analogue Projects
+EITF40, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning E
+Beslutsdatum: 2018-04-05
+Allmänna uppgifter
+Valfri för: C4, D4-dpd, E4-is
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Arbete i projektgrupp är förmodligen den vanligaste
+situationen för en civilingenjör antingen som projektledare eller
+som specialist på något område. Kursen ger studenten
+färdigheter och säkerhet i att använda kunskaper om analoga och
+digitala byggblock, samt illustrerar industriellt
+utvecklingsarbete.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+analysera och beskriva system av låg och medelhög
+komplexitet
+känna till de yttre faktorer såsom störningar och hur
+de påverkar prestanda
+testa och felsöka en konstruktion på ett systematiskt
+sätt
+söka upp och tillgodogöra sig relevant information
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+realisera system av låg och medelhög komplexitet
+kunna uppvisa kunskaper i felsökningsmetodik
+driva ett projekt framåt till en fungerande prototyp
+formulera sig muntligt och skiftligt
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+visa prov på insikt om möjligheter och begränsningar med
+digitala och analoga projekt
+
+
+Kursinnehåll
+En förteckning med förslag till uppgifter kommer att finnas.
+Huvuddelen av kursen består i att konstruera, bygga och testa
+respektive konstruktion. Vid kursens början hålls några
+lektioner med genomgång av lämpliga konstruktionsuppgifter, samt
+allmänna praktiska råd. Därefter tilldelas varje grupp en
+arbetsplats med alla erforderliga verktyg och instrument, som fritt
+disponeras under hela kursen. Under kontorstid finns handledare
+tillgänglig för frågor och diskussion av uppkomna problem.
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: För betyget Godkänd krävs: Godkänd slutkonstruktion. Skriftlig dokumentation av konstruktionen. Muntlig redovisning. Fullgjord opposition på annans arbete. Examination endast en gång per år i samband med kursen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: För digitala projekt: EIT020 Digitalteknik och EIT070 Datorteknik. För analoga projekt: ESS010 /ETIA01 Elektronik och ESSF01 Analog elektronik.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: EDI021, ETI022
+Kurslitteratur
+
+Eriksson, Lilliensköld: Handbok för mindre projekt. Liber, ISBN: 91-47-05270-8.
+Utdelade projektspecifika stenciler.
+Handböcker och komponentkataloger finns tillgängliga på institutionen.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Bertil Lindvall, bertil.lindvall@eit.lth.se
+Hemsida: http://www.eit.lth.se/kurs/eitf40
+Övrig information: Kursen ersätter de tidigare kurserna EDI021 Digitala projekt och ETI022 Analoga projekt.
+
+
+

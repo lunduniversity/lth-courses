@@ -1,0 +1,85 @@
+
+
+Kursplan för
+Analytisk mekanik
+Analytical Mechanics
+FMEN15, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning M
+Beslutsdatum: 2018-03-27
+Allmänna uppgifter
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+
+ge grundläggande kunskaper om den analytiska mekanikens
+principer, begrepp och metoder utifrån Lagranges och Hamiltons
+formuleringar av den klassiska mekanikens lagar.
+ge en grund för vidare studier i klassisk mekanik och
+kvantmekanik.
+
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna redogöra för de viktigaste resultaten i den analytiska
+mekaniken.
+kunna formulera teoretiska modeller för mekaniska system
+utifrån Lagrange’s och Hamilton’s metoder.
+kunna redogöra för relationen till klassisk statistisk
+mekanik och kvantmekanik.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna analysera vissa enkla modeller för mekaniska system med
+hjälp av datorprogram (Matlab, Maple etc.).
+kunna redogöra för en genomförd analys av ett mekaniskt
+problem i en välskriven rapport.
+kunna beskriva några tekniska problem i industriella
+tillämpningar som kan studeras med hjälp av analytisk
+mekanik.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna värdera erhållna resultat utifrån den aktuella
+problemställningen och fysikalisk rimlighet.
+
+
+Kursinnehåll
+Lagranges metod: mekaniska system, frihetsgrader, generaliserade
+koordinater, Lagrange-funktion, variationsprinciper,
+Euler-Lagranges ekvationer, cykliska koordinater,
+rörelsekonstanter, Noethers teorem. Hamiltons metod: kanoniska
+momenta, Legendre-transformation, fasrum, Hamilton-funktion,
+Hamilton-dynamik, Liouvilles sats, kanoniska transformationer,
+Poisson-parentesen, integralinvarianter, transformationsteori,
+integrabla system, aktion-vinkel- variabler. Hamilton-Jacobis
+metod: Hamilton-Jacobi- och Schrödinger-ekvationerna. Periodiska
+och kaotiska system. Något om analytiska mekanikens relation till
+klassisk statistisk mekanik och kvantmekanik.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Inlämningsuppgifter och skriftlig tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: Grundläggande kurser i mekanik, linjär algebra och analys.
+Begränsat antal platser: Nej
+Kursen kan ställas in: Om färre än 12 anmälda.
+Kurslitteratur
+
+Goldstein, Poole & Safko: Classical Mechanics. 3rd ed. Addison Wesley. 2002.
+Lidström P.: Lecture Notes on Analytical Mechanics. Div. of Mechanics. Lund University. 2007.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Solveig Melin, solveig.melin@mek.lth.se
+Hemsida: http://www.mek.lth.se
+
+
+

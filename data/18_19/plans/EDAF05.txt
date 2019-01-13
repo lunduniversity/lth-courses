@@ -1,0 +1,100 @@
+
+
+Kursplan för
+Algoritmer, datastrukturer och komplexitet
+Algorithms, Data Structures and Complexity
+EDAF05, 5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning C/D
+Beslutsdatum: 2018-04-03
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: D2, Pi4-pv
+Valfri för: C4-pv, E4, F4, F4-pv, L4-gi
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Algoritmer och datastrukturer spelar en fundamental roll inom
+datavetenskap. Datastrukturer används för att modellera
+verkligheten och valet av representation påverkar algoritmers
+effektivitet. Ett syfte med kursen är att ge kunskap om ett
+antal avancerade datastrukturer för några av de abstrakta
+modeller som ingått i tidigare kurser samt om datastrukturer för
+ytterligare modeller såsom grafer. Ett annat syfte är att ge
+utökade kunskaper om algoritmer, framför allt grafalgoritmer.
+Vidare skall kursen ge goda kunskaper i hur man analyserar en
+algoritm med avseende på effektivitet.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna beskriva datastrukturer för grafer och deras
+tillämpningar
+kunna redogöra för olika problemlösningsstrategier såsom t
+ex söndra-och-härska och giriga algoritmer
+behärska ett antal tekniker för beräkning av algoritmers
+tidskomplexitet (effektivitet)
+vara orienterad om begreppen undre gränser,
+komplexitetsklasser och oavgörbara problem
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+utifrån problembeskrivningar kunna identifiera algoritmer och
+datastrukturer som är lämpliga att använda i en lösning
+kunna implementera de datastrukturer som ingår i kursen i ett
+objektorienterat språk
+kunna tillämpa problemlösningsstrategier på nya problem
+kunna tillämpa tekniker för beräkning av algoritmers
+tidskomplexitet och kunna använda sig av notationer för
+asymptotisk tillväxt av funktioner för att beskriva algoritmers
+komplexitet
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+ha utvecklat ett kritiskt förhållningssätt till hur val av
+lösningsmetod och representation påverkar programs användbarhet
+och effektivitet
+inse att det finns problem för vilka alla kända algoritmer
+är orealistiskt tidskrävande
+
+
+Kursinnehåll
+Grafer och grafalgoritmer. Datastrukturer för representation av
+grafer. Strategier för problemlösning såsom
+söndra-och-härska, giriga algoritmer och brute force. Tekniker
+för att analysera algoritmers tidskomplexitet. Orientering om
+komplexitetsklasserna P och NP. Orientering om beräkningsbarhet
+och Church-Turings tes.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen. För godkänt betyg på kursen krävs att de obligatoriska momenten i kursen redovisats med godkänt resultat. Slutbetyg i kursen bestäms av resultatet på den skriftliga tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0109. Benämning: Tentamen. 
+Antal högskolepoäng: 3. Betygsskala: TH.  Prestationsbedömning: Slutbetyg på hela kursen baseras på resultatet på den skriftliga tentamen. 
+Kod: 0209. Benämning: Obligatoriska moment. 
+Antal högskolepoäng: 2. Betygsskala: UG.  Prestationsbedömning: För godkänt betyg på hela kursen krävs att de obligatoriska momenten redovisats med godkänt resultat.  Delmomentet omfattar: Laborationer och inlämningsuppgift. 
+Antagningsuppgifter
+Förkunskapskrav:
+Godkänd grundkurs i programmering (EDA011/EDA016/EDA017/EDA501/EDAA20/EDAA45/EDAA50/EDAA55/EDAA65) samt godkänd på de obligatoriska momenten eller tentamen i EDAA01
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: EDA027, EDA690
+Kurslitteratur
+
+Kleinberg J, Tardos E: Algorithm Design. Addison-Wesley, 2005, ISBN: 0321295358.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Professor Thore Husfeldt, Thore.Husfeldt@cs.lth.se
+Hemsida: http://cs.lth.se/edaf05
+
+
+

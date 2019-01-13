@@ -1,0 +1,93 @@
+
+
+Kursplan för
+Tillämpad kärn-, neutron- och reaktorfysik
+Applied Nuclear, Neutron and Reactor Physics
+FKFN25, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning F/Pi
+Beslutsdatum: 2018-03-28
+Allmänna uppgifter
+Valfri för: F4, F4-aft
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Kursens syfte är att visa på de möjligheter som finns att
+utnyttja kunskaper i kärnfysik och kärnfysikalisk mätteknik som
+redskap inom andra discipliner.  Viktiga komponenter är
+jonstråleanalys, neutronspridning och neutrondetektion samt
+reaktorfysik. Kursen ska ge kunskap om moderna reaktorers
+uppbyggnad och funktion, neutronfysik för reaktorer, härddesign
+och bränsleoptimering. Kursen ska belysa strålskyddsövervakning
+och instrumentering för neutronmonitering, partikulära och
+gasformiga utsläpp och ge en introduktion till säkerhetsanalys
+för stora anläggningar.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+vara väl förtrogen med olika jonstråleanalytiska
+metoder
+vara väl förtrogen med grunderna i reaktorfysik
+vara väl förtrogen med metoder för neutrondetektion och ha
+kunskap om neutronspridningsfysik.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna välja lämplig analysmetod för givet problem
+ha utvecklat sin förmåga att experimentellt och
+kärnfysikaliskt förstå olika tillämpningar av kärnfysiken
+skriva en uppsats som kritiskt och kommenterande sammanfattar
+publicerade resultat inom kursens ämnesområde
+muntligt presentera det egna arbetet och diskutera andra
+studenters presentationer.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+på egen hand kunna söka vetenskaplig information som är
+relevant för en uppsats inom kursens ämnesområde
+genom kamratgranskning bedöma uppsatser skrivna inom
+kursen.
+
+
+Kursinnehåll
+Kursen fokuserar på tre huvudmoment av tillämpningar av den
+subatomära fysiken:
+
+Jonstråleanalys – föreläsningar, laborationer.
+Neutronfysik, neutronspridningsfysik och detektorer -
+föreläsningar, projekt, laborationer.
+Fissionsreaktorteknologi, strålskydd – tutorials
+(diskussionsgrupp).
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: För godkänd kurs krävs godkända laborationer, godkända projekt, godkänd uppsats samt aktivt deltagande i föreläsningar, tutorials och seminarier. Alternativt kan en tentamen (g/u) anordnas för den som ej aktivt deltager i föreläsningar och tutorials. Slutbetyget sammanvägs av betyget på laborationsdel, projektdel och uppsats.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: FAFF10 Atom- och kärnfysik med tillämpningar.
+Begränsat antal platser: Nej
+Kursen kan ställas in: Om färre än 8 anmälda.
+Kursen överlappar följande kurser: FYST18, FKFN01, FKFN10
+Kurslitteratur
+
+Lamarsh, J.R. : Introduction to Nuclear Engineering. Prentice Hall 2001. ISBN 0-201-82498-1.
+Krane, K.S.: Introductory Nuclear Physics. John Wiley & Sons 1988. ISBN 0-471-80553-X.
+Aktuella artiklar och texter utdelade i samband med föreläsningar i jonstråleanalys och neutronspridningsfysik.
+Laborationshandledningar (institutionen).
+Uppsatser i tillämpad kärnfysik (deltagarna).
+
+
+Kontaktinfo och övrigt
+Kursansvarig: dr Mikael Elfman, mikael.elfman@nuclear.lu.se
+Kursansvarig: Docent Kevin Fissum, Kevin.Fissum@nuclear.lu.se
+Hemsida: http://www.nuclear.lu.se/utbildning/valfria_kurser/
+
+
+

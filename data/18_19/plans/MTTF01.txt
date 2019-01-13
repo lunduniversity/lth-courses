@@ -1,0 +1,111 @@
+
+
+Kursplan för
+Logistik
+Logistics
+MTTF01, 5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning I
+Beslutsdatum: 2018-03-20
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: I2, M2
+Valfri för: E4-pla, MD4, Pi4
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursen ger grundläggande kunskaper om ämnesområdet logistik,
+dvs. planering, organisering och styrning av alla aktiviteter i
+materialflödet, från råmaterialanskaffning till slutlig
+konsumtion och returflöden av framställd produkt, och som syftar
+till att tillfredställa kunders och övriga intressenters behov
+och önskemål, dvs. ge god kundservice, låga kostnader, låg
+kapitalbindning och små negativa miljökonsekvenser. Kursen
+kommer främst att fokusera på hur man skapar effektiva flöden
+genom ett företags logistiksystem, d.v.s. materialflödet från
+leverantör, genom företaget och till kund. Den skall även ge en
+orientering om det därtill hörande informationsflödet, och ge en
+förståelse för hur logistiken kan påverka ett företags
+resultat och lönsamhet. Kursen skall vidare ge viss färdighet i
+att analysera, utforma och välja logistiksystem för
+företaget.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+ha tillägnat sig en helhetssyn på logistik och
+logistiksystemet
+ha tillägnat sig kunskap om logistikens roll i företaget med
+fokus på såväl strukturella som operationella frågor
+kunna självständigt redogöra på detaljnivå för viktiga
+logistiska begrepp
+kunna självständigt använda vanliga logistiska metoder och
+modeller
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+ha förmåga att identifiera, beskriva och analysera material-
+och informationsflödet inom företaget
+ha grundläggande färdigheter i att analysera och värdera hur
+logistiska förändringar påverkar företagets lönsamhet
+ha fått ett självförtroende och en sådan insikt i området
+att grunderna inom logistiken behärskas
+ha fått en sådan överblick att fördjupning inom
+logistikområdet kan väljas
+ha fått en medvetenhet om logistikens möjligheter
+ha använt en ingenjörsmässig metodik som används vid
+analys av logistiksystemet
+muntligen och skriftligen kunna redogöra för samt diskutera
+sina och andras analyser
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+använda kritiskt och kreativt tänkande och, förhoppningsvis,
+få ett bestående intresse av logistik. Studenten ska ha
+tillägnat sig ett ingenjörsmässigt förhållningssätt till
+företags logistiska utmaningar och möjligheter.
+
+Kursinnehåll
+Kursen ska ge en grundläggande förståelse för logistikämnet
+och ska förmedla kunskap i syfte att effektivisera logistiken.
+Kursen består av fyra delar: Ämnesområdet logistik,
+Logistiksystemets mål, Logistiksystemets strukturer och Styrning
+av logistiksystemet. Den första delen innehåller logistikens
+utgångspunkter, definierar logistiksystemet och materialflödet.
+Del två tar upp logistiksystemets målsättningar, dvs. god
+kundservice, låga logistikkostnader och kapitalbindning och små
+negativa miljökonsekvenser. Del tre behandlar,
+materialförsörjning, produktion och distribution ur ett
+logistikperspektiv. Del fyra behandlar kundorder- och
+prognosprocesser, materialstyrning, transportplanering och
+materialanskaffning.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen. Examinerande inlämningsuppgift eller annan uppgift förekommer. Obligatorisk närvaro kan förekomma i vissa moment.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Skriftlig tentamen. 
+Antal högskolepoäng: 4. Betygsskala: TH.  Prestationsbedömning: Godkänd tentamen. 
+Kod: 0217. Benämning: Inlämningsuppgifter. 
+Antal högskolepoäng: 1. Betygsskala: UG.  Prestationsbedömning: Godkända inlämningsuppgifter. 
+Antagningsuppgifter
+Förutsatta förkunskaper: MIO012/MIOA01 Industriell ekonomi AK eller motsvarande.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: MTT105, MTT202, MTTN01
+Kurslitteratur
+
+Jonsson & Mattsson: Logistik-läran om effektiva materialflöden. Studentlitteratur, 2016, ISBN:  ISBN: 978-91-44-11077-6.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Universitetsadjunkt Eva Berg, eva.berg@tlog.lth.se
+Hemsida: http://www.tlog.lth.se
+Övrig information: Kursen får ej kombineras med MTTN01, Logistik i byggprocessen.
+
+
+

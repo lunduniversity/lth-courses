@@ -1,0 +1,112 @@
+
+
+Kursplan för
+Energi- och omvärldsfysik
+Energy and Environmental Physics
+FAFA75, 9 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning N
+Beslutsdatum: 2018-03-28
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: I1
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursen syftar till att studenten skall utveckla förståelse
+för grundläggande begrepp och samband inom fysiken vilka har
+betydelse för vår omvärldsuppfattning, samhällets tekniska
+utveckling och som utgör en del av den naturvetenskapliga grunden
+för en civilingenjör i Industriell ekonomi. Studenten skall
+beredas möjlighet till förståelse av de viktigaste fysikaliska
+begreppen, erfarenhetslagarna och teorierna av relevans för en
+hållbar samhällsutveckling, särskilt m.a.p. energi. Kursen ska
+också ge träning i problemlösning, experimentellt arbete och
+modelltänkande.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+förstå kopplingen mellan experiment, modeller och
+teorier.
+med fysikaliska begrepp kunna beskriva och analysera fenomen,
+särskilt energiflöden, energiomvandlingar och energiutbyten, i
+naturen, tekniska system och i samhället.
+ha kännedom om den grundläggande fysik som krävs för att
+kunna kommunicera med experter.
+ha kunskap om begrepp och terminologi relevanta för hållbar
+utveckling.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna använda grundläggande färdigheter i fysik och med
+olika grad av approximation tillämpa modeller för att kunna
+analysera, förstå och beskriva olika tekniska problem.
+visa förmåga att diskutera, ta hänsyn till och balansera
+aspekter och ställningstaganden som är väsentliga för en
+hållbar utveckling.
+kunna kommunicera och presentera tekniska problem och uppnådda
+resultat för människor med olika utbildningsbakgrund.
+tydligt kunna redogöra för, diskutera och analysera
+experiment och resultat i en skriftlig rapport.
+muntligt kunna formulera och presentera argument och diskutera
+dessa i mindre grupper.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+visa insikt i fysikens möjligheter och begränsningar,
+speciellt i relation till framtida teknikutveckling.
+visa förmåga att identifiera sitt behov av ytterligare
+kunskaper även inom andra områden.
+vara medveten om såväl möjligheter som begränsningar
+relaterade till energiaspekter relevanta för samhällets
+behov.
+vara medveten om perspektiv på energifrågan bortom de
+naturvetenskapliga och om komplexiteten som kan finnas i reella
+problemställningar.
+
+
+Kursinnehåll
+Problemlösningsmetodik: modellbyggnad, koppling mellan modeller
+och experiment. Grundläggande metrologi: experimentell metodik,
+planläggning av experiment, hantering, analys, presentation av
+mätdata. Energi: omvandling, transport, kvalitet, källor,
+miljöpåverkan. Gaser: koncentration, tryck, transport. Ideala och
+reala gaser. Termodynamikens huvudsatser: temperatur, värme, inre
+energi, kretsprocesser, värmemaskin, kylmaskin. Elektromagnetisk
+strålning: temperaturstrålning, klimat och strålningsbalans,
+ljusets växelverkan med materia, speciellt atomer. Joniserande
+strålning: aktivitet, sönderfall, absorberad dos, dosekvivalent.
+Tillämpningar och mätmetoder.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen, deltagande i obligatoriska föreläsningar och workshops, godkänt projekt samt godkända laborationer.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0118. Benämning: Energi- och omvärldsfysik. 
+Antal högskolepoäng: 5,5. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen. 
+Kod: 0218. Benämning: Laborationer, projekt, obl. föreläsningar och workshops. 
+Antal högskolepoäng: 3,5. Betygsskala: UG.  Prestationsbedömning: Godkända laborationer och projekt, närvaro på obligatoriska workshops. 
+Antagningsuppgifter
+Förutsatta förkunskaper: FMAA05 Endimensionell analys, del 1 eller motsvarande.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FAF220, FAFA05, FAFA20, FAFA30, FAFA35, FAFA45, FAFF25, FAFA15, FAFA65, FAFA70
+Kurslitteratur
+
+Jönsson, Göran: Fysik i vätskor och gaser. Teach Support, 2016, ISBN: 9789197249997.
+Jönsson, Göran: Utdrag ur Atomfysikens grunder. Teach Support, 2012, ISBN: 9789163389580. Endast valda delar av denna bok kommer att ingå i kursen. Utdrag ur boken säljs via institutionen.
+Kurslaboratoriet för fysik, LTH: Laborationshandledningar. 2017. Laborationshandledningar tillhandahålls via live@lund.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Andreas Ehn, andreas.ehn@forbrf.lth.se
+Hemsida: http://www.ftf.lth.se/education/quick-links-to-course-pages/fafa75-energi-och-oemvaerldsfysik/
+
+
+

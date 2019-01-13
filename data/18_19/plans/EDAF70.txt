@@ -1,0 +1,75 @@
+
+
+Kursplan för
+Tillämpad artificiell intelligens
+Applied Artificial Intelligence
+EDAF70, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning C/D
+Beslutsdatum: 2018-04-03
+Allmänna uppgifter
+Valfri för: BME4, C4-pv, D4-pv, E4-bg, F4, Pi4
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Att ge en introduktion till flera delområden inom artificiell
+intelligens och att orientera om grundläggande metoder inom dessa
+områden. Att förmedla bredd och djup inom ämnet.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+vid en skriftlig tentamen visa grundläggande kunskaper om
+teori och metoder relaterade till följande delområden:
+intelligenta agenter, heuristisk sökning, spelprogrammering,
+kunskapsrepresentation, kunskapsbaserade system, probabilistisk
+resonemang, maskininlärning, behandling av naturligt språk.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+utföra ett antal inlämningsuppgifter av
+problemlösningskaraktär relaterade till några av följande
+delområden: heuristisk sökning, kunskapsbaserade system,
+probabilistisk resonemang, maskininlärning, behandling av
+naturligt språk.
+
+
+Kursinnehåll
+Intelligenta agenter. Heuristisk sökning. Spelprogrammering.
+Kunskapsbaserade system. Maskininlärning. Behandling av naturligt
+språk. Semantisk webb. Autonoma robotar. Planering.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Slutbetyg på kursen grundar sig på resultatet av den skriftliga tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Tentamen. 
+Antal högskolepoäng: 4,5. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen. 
+Kod: 0217. Benämning: Inlämningsuppgifter. 
+Antal högskolepoäng: 3. Betygsskala: UG.  Prestationsbedömning: För godkänt på kursen krävs att de obligatoriska inlämningsuppgifterna godkänts. Detaljerade regler för inlämningsuppgifterna kommer att finnas i kursprogrammet (syllabus) på kursens hemsida.  Delmomentet omfattar: Inlämningsuppgifter där AI-metoder som tagits upp på föreläsningarna implementeras för att ge praktisk erfarenhet av svårigheter, omfång, resultattolkning etc. 
+Antagningsuppgifter
+Förkunskapskrav:
+EDAA01 Programmeringsteknik - fördjupningskurs
+
+
+Förutsatta förkunskaper: FMAA01/FMAA05, FMA420/FMAB20 och FMA430/FMAB30.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: EDA132
+Kurslitteratur
+
+Stuart Russell, Peter Norvig: Artificial Intelligence , A Modern Approach. Pearson, 2010, ISBN: 0-13-207148-7. 3rd edition.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Professor Jacek Malec, Jacek.Malec@cs.lth.se
+Lärare: Professor Pierre Nugues, Pierre.Nugues@cs.lth.se
+Lärare: Elin Anna Topp, Elin_Anna.Topp@cs.lth.se
+Hemsida: http://cs.lth.se/edaf70
+Övrig information: Detaljerade föreskrifter för fullgörande av inlämningsuppgifterna kommer att finnas på kurswebben.
+
+
+

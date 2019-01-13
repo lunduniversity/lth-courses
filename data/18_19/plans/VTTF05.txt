@@ -1,0 +1,86 @@
+
+
+Kursplan för
+Trafikteknisk teori: Tillgänglighet, Framkomlighet, Säkerhet och Miljö
+Traffic Engineering Theory: Accessibility, Level of service, Safety and Environment
+VTTF05, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning V
+Beslutsdatum: 2018-03-27
+Allmänna uppgifter
+Obligatorisk för: IBYI2, IBYV2
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Syftet med kursen är att kursdeltagarna skall skapa sig en
+förståelse för hur olika variabler påverkar trafikens effekter
+inom främst områdena framkomlighet, säkerhet och miljö men
+även till viss del inom områdena tillgänglighet och trygghet.
+Kursen skall ge förståelse för komplexiteten i att det som är
+bra med hänsyn till ett område inte behöver vara bra med
+hänsyn till de andra, och att det ofta behövs kompromissas mellan
+dem. Efter kursen skall kursdeltagarna ha en god teoretisk bas
+inför vidare fördjupning inom trafikteknik och
+trafikplanering.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+Ha kunskap om de viktigaste variablerna som påverkar trafikens
+effekter inom framkomlighet, säkerhet och miljö
+Ha förståelse för samband mellan olika variabler och
+effekter och ha förståelse för att alla samband inte är kända
+och mätbara
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+Kunna analysera ett givet problem utifrån framkomlighet,
+säkerhet och miljö och kunna identifera potentiella viktiga
+variabler som påverkar trafikens effekter i det givna fallet
+Kunna kritiskt granska och analysera litteratur inom det
+trafiktekniska området
+Kunna presentera sitt arbete muntligt och skriftligt
+
+
+Kursinnehåll
+Då kursens främsat syfte är att bygga upp den trafiktekniska
+teoribasen ligger tonvikten på föreläsningar och
+litteraturstudier men kursen innehåller även seminarier och
+övningsuppgifter.
+Kursen delas in i fyra teman. Inom de flesta teman ingår
+föreläsningar, egna litteraturstudier och övningsuppgifter.
+Litteraturstudierna sammanfattas för en del av teman i en kortare
+rapport . Granskningen av rapporterna sker delvis genom
+kamratgranskning, varje student har i uppgift att utöver egna
+rapporter även granska andra studenters rapporter, samt delvis
+genom lärargranskning.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Tentamen fem timmar. Prestationerna på tentamen utgör grunden för slutbetyget. För godkänt betyg krävs även godkända övningsuppgifter, litteraturstudier och presentation.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0116. Benämning: Trafikteknisk teori. 
+Antal högskolepoäng: 5. Betygsskala: TH.  Prestationsbedömning: Godkänd tentamen 
+Kod: 0216. Benämning: Rapportskrivning. 
+Antal högskolepoäng: 2,5. Betygsskala: UG.  Prestationsbedömning: Godkänd rapport 
+Antagningsuppgifter
+Förutsatta förkunskaper: VTVA50 Transport och samhälle OCH
+FMSF30 Matematisk statistik.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: VTT131
+Kurslitteratur
+
+Hydén, C. red.: Trafiken i den hållbara staden. Studentlitteratur, 2008.
+Utöver detta kommer en lista med relevant litteratur att tillhandahållas, varav det mesta antingen kan laddas ner eller lånas på Studiecentrum.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Andreas Persson, andreas.persson@tft.lth.se
+Hemsida: http://www.tft.lth.se
+
+
+

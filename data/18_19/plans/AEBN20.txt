@@ -1,0 +1,155 @@
+
+
+Kursplan för
+Offentlig byggnad - integrering av solenergi-, kostnads- och miljöaspekter
+Public Building - Integrating Solar Energy, Costs and Environmental Issues
+AEBN20, 15 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning V
+Beslutsdatum: 2018-03-27
+Allmänna uppgifter
+Huvudområde: Energi- och miljöeffektiva byggnader. 
+Obligatorisk för: MEMB2
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+I denna kurs kommer studenterna att undersöka innovativa
+solenergisystem och koncept, aktiva såväl som passiva, och med
+hjälp av datorsimuleringar och beräkningar testa integreringen av
+dem i en fallstudie (en offentlig byggnad). Kursen kommer också
+att analysera möjligheter och begränsningar i solenergisystem som
+en vägledning i utvecklandet av konfigurationer, tekniska
+lösningar och detaljer. Studenterna kommer att studera lokal
+energiproduktion och genomföra livscykel- och kostnadsanalyser
+för den valda tekniken i det studerade fallet. De kommer också
+att lära sig tumregler och verktyg (datorverktyg,
+handberäkningar) för solenergiaspekter, livscykelkostnader och
+prognoser om miljömässig belastning (förvärvade i teoretiska
+kurser). Slutligen kommer de att få en djupare förståelse och
+kunskap, och kan testa sin förmåga att använda tidigare inlärda
+begrepp inom byggnadsfysik, energianvändning, termisk komfort,
+fuktsäkerhet, ventilation och belysning, genom att använda en
+integrerad designprocess.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+Visa förmåga att beskriva och diskutera solenergisystem och
+koncept, och de viktigaste principer och strategier som används
+idag i europeiska byggnader;
+Med lätthet kunna diskutera solenergiaspekter för byggnader i
+förhållande till utformning, morfologi, lokalisering, detaljer,
+integration etc;
+Kunna namnge och kritiskt diskutera några solenergibyggnader
+(exempel som visar solenergiintegration) som uppförts i Europa
+eller på annan plats;
+Visa förmåga att reflektera över och beskriva
+solenergisystemen i Sverige och deras möjligheter
+begränsningar;
+Ha kunskap om uppskattningar av den ekonomiska livscykeln hos
+olika aktiva solenergisystem och konfigurationer;
+Visa förmåga att beskriva och diskutera hur olika parametrar
+i solenergisystemen påverkar livscykelkostnader och miljön.
+ 
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+Kunna välja en lämplig, väl integrerad lösning som leder
+till kostnadseffektiv energiproduktion och samtidigt visa att
+övriga krav på byggnaden (t ex låg energianvändning, god
+termisk komfort, god luftkvalitet inomhus samt visuell komfort)
+tillfredsställs;
+Kunna utveckla och grafiskt presentera en solenergibyggnad
+lämplig för kallt eller tempererat klimat;
+Visa förmåga att använda verktyg, energisimuleringar eller
+handberäkningar på ett produktivt sätt som stöd för analys av
+solenergiinverkan på egna förslag och för vägledning av beslut
+om utformning;
+kunna presentera muntligt och grafiskt solenergikoncept och
+system för byggnader, och därvid använda rätt terminologi och
+argument baserade på fakta;
+Kunna beräkna livscykelkostnader och miljöpåverkan för att
+uppnå ett visst mål, för aktiva solenergisystem i fallstudien
+och liknande byggnad med traditionellt klimatskal och tekniska
+installationer;
+Kunna presentera livscykelkostnader och miljöpåverkan
+muntligt och grafiskt.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+Visa förmåga att kritiskt analysera och diskutera
+solenergilösningar och system i termer av effektivitet,
+integrering, kostnadseffektivitet och livscykelperspektiv;
+Visa kunnighet i att presentera och diskutera egenskaper och
+karakteristika för solenergiintegrering i byggnader, inklusive
+dess livscykelkostnader och miljöpåverkan;
+Visa förmåga att formulera relevanta utmaningar och uppgifter
+när det gäller utformning och utveckling av solenergisystem;
+Kunna diskutera såväl aktuell teknisk utveckling och
+forskningstrender som utmaningar relaterade till solenergisystemens
+integrering och effektivitet i byggnader i tempererat och kallt
+klimat.
+
+
+Kursinnehåll
+Denna avancerade pbl-kurs (problembaserat lärande) fokuserar
+på utformning av en större offentlig byggnad (t ex bibliotek,
+skola) med fokus på integrering av passiva och aktiva
+solenergistrategier, med system och komponenter, och med fokus på
+livscykelperspektiv genom kostnadsanalyser och studier av
+miljöpåverkan. Begrepp relaterade till integrering av
+solenergikomponenter, uppskattning av tillgänglig och användbar
+solenergi, produktion av elektricitet och värme genom att använda
+solenergikomponenter o s v, är kärnan i denna kurs. Kursen kommer
+därför att ha ett stort stöd av de teoretiska kurserna
+”Byggnadsintegrerade solenergisystem” och
+”Livscykelperspektiv och miljöbedömning”. De teoretiska
+kurserna ger såväl de vetenskapliga och tekniska grunderna som
+verktyg (datorverktyg, handberäkningar) för att kunna validera
+föreslagna lösningar genom en strategisk byggnadsintegrering.
+Kursen ger också en fördjupning och möjlighet att testa tidigare
+förvärvade kunskaper om energianvändning, termisk komfort,
+fuktsäkerhet, ventilation och belysning/dagsljus. En omfattande
+rapport skall lämnas in i slutet av kursen. Resultaten skall
+presenteras muntligt och bli kritiskt granskade av andra
+studenter.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Aktivt deltagande och närvaro vid föreläsningar, övningar, grupparbeten och presentationer m.m. är obligatoriskt. Slutbetyg baseras till 70% på en skriftlig rapport och till 20% på muntlig redovisning och till 10% på opposition på annans arbete.
+
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+Inlämnade övningsuppgifter i kurserna AEBF20 Byggnadsintegrerade solenergisystem samt ABKF15 Livscykelperspektiv och miljöbedömning av byggnader
+
+
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Till kursen finns tillgång
+till ett elektroniskt
+kursbibliotek via
+kurshemsidan.
+Lars Andrén: Solar installations, Practical applications for the built environment. James & James Science Publishers, 2003, ISBN: 978-1-902916-45-3.
+IEA Task 41: Solar Energy Systems in Architecture Integration Criteria and guidelines. International Energy Agency (IEA), 2012. Rapporten kan laddas ner på http://archive.iea-shc.org/publications/downloads/T41A2-Solar_Energy_Systems_in_Architecture-19sept2012.pdf.
+Åke Blomsterberg: Barriers to implementation of very low energy residential buildings and how to overcome them. Lund University, 2011.
+A general description of the calculation tools for Cost Benefit Analysis and Life Cycle Assessment of very low-energy houses. IVL, 2010.
+Identification of tools for cost-benefit and LCC analysis and success factors for very low-energy housing. 2010. IVL, 2010.
+Economic and environmental impact assessment of very low-energy house concepts in the North European countries. IVL, 2011.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Dennis Johansson, dennis.johansson@hvac.lth.se
+Kursansvarig: Henrik Davidsson, henrik.davidsson@ebd.lth.se
+Lärare: Ricardo Bernardo, ricardo.bernardo@ebd.lth.se
+Lärare: Jouri Kanters, jouri.kanters@ebd.lth.se
+Hemsida: http://www.ebd.lth.se/master
+
+
+

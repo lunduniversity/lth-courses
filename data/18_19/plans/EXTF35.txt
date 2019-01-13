@@ -1,0 +1,97 @@
+
+
+Kursplan för
+Portföljvalsteori
+Portfolio Selection
+EXTF35, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning I
+Beslutsdatum: 2018-03-20
+Allmänna uppgifter
+Valfri för: I4
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Syftet med kursen är att ge en genomgripande förståelse för
+portföljval och investeringsanalys.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+uppvisa kunskaper i portföljvalsteori och investeringsanalys
+med särskild fokus på:
+· "mean-variance"-modellen, i synnerhet förmågan att
+förklara och kritiskt värdera hur den optimala portföljen ser ut
+med och utan en riskfri tillgång,
+· faktormodeller, inklusive både modeller med ett index och
+multifaktormodeller,
+· jämviktsmodeller med tonvikt på
+kapitaltillgångsprissättningsmodellen och
+arbitrageprissättningsmodellen,
+· hypotesen om effektiva marknader, framför allt kunskaper om
+och förklaringar till avvikelser och hur test av ineffektivitet
+kan göras med fallstudier,
+· värderingsmodeller, inklusive både enperiods- och
+flerperiodsmodeller med tillväxt,
+utvärdering av portföljhantering genom "benchmarking" och
+enparameterstekniker.
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+ha uppvisat förmåga att självständigt:
+· göra beräkningar för att konstruera en "mean-variance"
+effektiv och optimal portfölj genom att använda lämpliga program
+och empiriska data,
+· göra beräkningar för att konstruera effektiva portföljer
+med utgångspunkt i faktormodeller,
+· göra beräkningar för att testa
+jämviktsprissättningsmodeller som
+kapitaltillgångsprissättningsmodellen,
+.analysera och tolka resultaten av sitt eget självständiga
+arbete.
+.kommunicera resultat, analys och slutsatser av empiriska
+finansiella undersökningar klart och entydigt till en publik som
+inte är specialiserad inom området.
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+ha utvecklat förmåga att bedriva vidare studier i ämnet och
+söka och utvärdera information med en häög grad av
+självständighet samt ha utvecklat förmågan att individuellt
+skriva en empiriskt orienterad uppsats.
+
+Kursinnehåll
+Kursen behandlar teoretisk och tillämpad portföljvalsanalys.
+Ämnesområden som behandlas innefattar frågor som är relaterade
+till "mean-variance"-teori, indexmodeller, jämvikts- och
+arbitrageprissättningsmodeller, teorier om effektiva marknader
+samt värdering och utvärdering av portföljhantering och
+investeringsanalys. Kursen syftar till att träna studenter i att
+använda datorprogram för att identifiera optimala portföljer
+under olika föutsättningar på marknaden.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Undervisningen bestär av föreläsningar, diskussioner och datorövningar. Examinationen består av datorbaserade övningar och en skriftlig tentamen i slutet av kursen som täcker kurslitteraturen och föreläsningarna. För att bli godkänd på kursen måste studenten bli godkänd på varje del av examinationen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+FMS012 Matematisk statistik, allmän kurs eller FMSF45 Matematisk statistik, allmän kurs
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: NEKH81, NEKK11, TEK030
+Kurslitteratur
+
+Benninga, Simon (2008): "Financial Modeling", MIT Press, tredje upplagan.
+Bodie, Zvi, Alex Kane  & Alan J. Marcus (2013): Investments and Portfolio Management, McGraw Hill, Global Edition 10:e utgåvan, ISBN 978-007-716114-9.
+Kompletterande material.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Thomas Fischer, thomas.fischer@nek.lu.se
+Hemsida: http://www.nek.lu.se/GU/GUB.asp
+Övrig information: Kursen ges av Nationalekonomiska institutionen vid Ekonomihögskolan och samläses med NEKH81. Tentamenstid meddelas av kursläraren.
+
+
+

@@ -1,0 +1,93 @@
+
+
+Kursplan för
+Funktionalanalys och harmonisk analys
+Functional Analysis and Harmonic Analysis
+FMAN80, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning F/Pi
+Beslutsdatum: 2018-03-23
+Allmänna uppgifter
+Valfri för: F5, F5-tf, F5-bs, F5-ss, Pi4-bs, Pi4-ssr
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Funktionalanalys och harmonisk analys är fundamentala verktyg 
+inom många matematiska tillämpningsområden, som till exempel
+fältteori, hållfasthetslära, reglerteori, signalbehandling, och
+inom matematisk statistik och numerisk analys. Kursens syfte är
+att ge kännedom om grundläggande begrepp och metoder i ämnet,
+samt förmåga såväl att följa resonemang där dessa används
+som att självständigt med dessa metoder lösa matematiska problem
+uppkomna i tillämpningarna. Ett viktigt mål för kursen är
+också att utveckla en förmåga till abstraktion som gör det
+lättare att se analogier mellan problem från till synes skilda
+problemområden.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+känna till olika vanliga normer och deras användbarhet i
+olika tillämpningar.
+känna till betydelsen av begreppen fullständighet och
+kompakthet, och att valet av norm har inverkan på dessa egenskaper
+hos ett rum. I synnerhet ha god förståelse för skillnaderna
+mellan det oändligdimensionella och det ändligdimensionella
+fallet.
+vara förtrogen med de grundläggande egenskaperna för dualen
+till ett normerat rum.
+vara förtrogen med de vanligaste klasserna av linjära
+begränsade operatorer samt ha förståelse för hur spektralteorin
+ger information om en linjär operators egenskaper.
+vara väl förtrogen med hur en funktions egenskaper
+återspeglas i dess Fouriertransform.
+kunna redogöra för grunderna av teorin i samband med ett
+muntligt förhör.
+
+ 
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+med tillgång till litteratur självständigt kunna integrera
+metoder och synsätt från olika delar av kursen för att lösa
+problem och besvara frågeställningar inom kursens ram
+kunna redogöra för lösningen till matematiska problem inom
+kursens ram i tal och i skrift, logiskt sammanhängande och med
+adekvat terminologi.
+kunna översätta konkreta matematiska
+problemställningar till kursens abstrakta begreppsapparat.
+
+ 
+
+Kursinnehåll
+Funktionalanalys: normer och approximation,
+fullständighet, kompakthet, funktionsrum, Hilbertrum,
+ortogonalitet och ortogonalsystem. Linjära operatorer, kompakta
+operatorer och självadjungerade operatorer. Spektralteori. Dualrum
+och Hahn-Banach' sats.
+Harmonisk analys: Fouriertransformationen. Sobolevrum
+och Sobolevs inbäddningssats.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Hemtentamen följt av en muntlig tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: FMAN55 Kontinuerliga system och FMAN70 Matristeori.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FMA260
+Kurslitteratur
+
+Renardy & Rogers: An Introduction to Partial Differential Equations. Springer, 2004, ISBN: 0-387-00444-0.
+Egenproducerat material.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Studierektor Anders Holst, Studierektor@math.lth.se
+Lärare: Pelle Pettersson, pelle@maths.lth.se
+Hemsida: http://www.ctr.maths.lu.se/course/funkharm/
+
+
+

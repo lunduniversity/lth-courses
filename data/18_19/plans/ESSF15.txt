@@ -1,0 +1,110 @@
+
+
+Kursplan för
+Elenergiteknik
+Electrical Engineering
+ESSF15, 5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning E
+Beslutsdatum: 2018-04-05
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: E3
+Valfri för: W4
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursen syftar till att ge baskunskaper i elenergiteknik och dess
+användning i samhället. Den syftar till att på ett
+ingenjörsmässigt sätt identifiera och förklara teknik och
+system för generering, överföring och användning av elektrisk
+energi samt modellbyggnad av dessa.
+Relation till andra kurser inom obligatoriet i
+elektroteknik
+Kursen har tydliga kopplingar till Elektromagnetisk fältteori
+vad gäller elektriska maskiners funktionsprincip, till Elektrisk
+mätteknik vad gäller mätning av både elektriska och icke
+elektriska storheter samt till Analog elektronik vad gäller system
+för styrning och elektrisk effektomvandling, och dessutom anknyter
+till kursen Komponentfysik genom användandet av
+krafthalvledare.
+Kursen elenergiteknik har stor relevans för en hållbar
+utveckling: Elektrisk energi är den för vårt välstånd
+viktigaste energiformen. Kursen beskriver generering, överföring
+och användning av el samt lösningar för att minimera
+energikonsumtion och miljöpåverkan.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna använda begreppen energi och effekt generellt,
+elektriska energislag speciellt,
+kunna beskriva metoder för generering, överföring och
+användning av elektrisk energi och deras egenskaper,
+kunna förklara och använda modellering och analys av ett
+antal olika energisystems dynamiska egenskaper.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna informera om och beskriva ämnet på ett nyanserat
+sätt,
+kunna relatera storleksordningar vad gäller olika former av
+energianvändning,
+kunna beskriva modellbyggnad och analys av industriella
+elektrotekniska problem.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+visa insikt i elenergins möjligheter och begränsningar, dess
+roll i samhället och människors ansvar för dess nyttjande,
+inbegripet tekniska, ekonomiska och miljömässiga aspekter.
+
+
+Kursinnehåll
+
+Historisk överblick över mänsklighetens energianvändning
+och dess geografiska fördelning. Vind-, vatten-, kol-, olja-,
+kärn- och solenergi samt batterier diskuteras med avseende på
+tillgång, förnyelsebarhet, miljöpåverkan och framtidsutsikter.
+Övning i att bedöma omfattningen av energianvändning för olika
+ändamål. Särskild vikt läggs vid byggnaders
+energiförbrukning.
+Teknik och system för generering av elektrisk energi från en
+rad energislag. Teknik och system för överföring av elektrisk
+energi. Funktion och egenskaper hos olika former av
+energianvändare, såsom motorer, uppvärmning och belysning.
+Beskrivning, modellering och analys av några karaktäristiska
+exempel på elektriska energiomvandlingssystem såsom
+transformatorer, likströms- och växelströmsmaskiner och
+kraftelektroniska omformare för lik- och växelspänning.
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Två laborationer med godkända förberedelseuppgifter samt två godkända skriftliga deltentamina under kursens gång ger betyget 3. För högre betyg eller om någon deltentamen är underkänd krävs skriftlig sluttentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0112. Benämning: Delprov,  laborationer. 
+Antal högskolepoäng: 5. Betygsskala: UG. 
+Kod: 0212. Benämning: Elenergiteknik. 
+Antal högskolepoäng: 0. Betygsskala: TH. 
+Antagningsuppgifter
+Förutsatta förkunskaper: ESS010, EITA35 Elektronik och ESSF01 Analog Elektronik eller liknande.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: ESS060
+Kurslitteratur
+
+Alaküla M, Gertmar L, Samuelsson O: Elenergiteknik, KFS AB.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Professor Olof Samuelsson, olof.samuelsson@iea.lth.se
+Hemsida: http://www.iea.lth.se/et
+
+
+

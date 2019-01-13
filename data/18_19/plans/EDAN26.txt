@@ -1,0 +1,97 @@
+
+
+Kursplan för
+Multicoreprogrammering
+Multicore Programming
+EDAN26, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning C/D
+Beslutsdatum: 2018-04-03
+Allmänna uppgifter
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursens syfte är att studenterna ska lära sig att implementera
+en algoritm så effektivt som möjligt på en given multicoredator,
+med fokus på multiprocessorer med delat minne. Ett annat syfte är
+att få insikt om fördelar och nackdelar med olika språk för
+multicore programmering, såsom Java, Scala, C samt OpenMP.
+Studenterna ska även få förståelse för låsningsfria
+algoritmer och datastrukturer.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+förstå hur cacheminnen fungerar på multicores
+förstå vikten av att minska antal cachemissar
+förstå vikten av load-balancing mellan olika processorer
+förstå hur man kan dela upp ett sekventiellt C program med
+hänsyn tagen till ovanstående
+förstå fördelar och nackdelar med olika
+multicorearkitekturer dels med avseende på (1) prestanda och dels
+på (2) hur komplicerad programmeringen blir
+förstå fördelar och nackdelar med olika
+programmeringsspråk
+förstå när låsfria algoritmer är lämpliga
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna använda Pthreads för att skapa trådar och synkronisera
+dessa på en multiprocessor
+kunna använda OpenMP för att parallellisera
+beräkningsintensiva sekventiella C program
+kunna förbättra prestandan på ett givet sekventiellt program
+genom att parallellisera detta på ett sätt som maximerar
+prestandan.
+kunna välja programspråk för ett givet problem
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna hitta en fördelaktig version av en algoritm med hänsyn
+taget till tillämpningens krav och arkitekturen hos den aktuella
+multiprocessorn som ska användas
+kunna välja rätt multicorearkitektur för en given
+algoritm.
+kunna välja rätt programspråk för en given algoritm.
+
+
+Kursinnehåll
+Multiprocessorer, klassificering av cachemissar,
+parallellisering av ett sekventiellt program genom decomposition,
+assignment, orchestration, och mapping, owner-computes regeln,
+memory consistency models, sequential consistency, weak ordering,
+release consistency, Pthreads, OpenMP, aktuell forskning inom
+multicores.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen. För godkänt betyg krävs godkänd tentamen, godkända datorlaborationer samt godkänd inlämningsuppgift (projekt). Projekt utgörs av ett program som ska skrivas för en multiprocessor med fyra processorer. Slutbetyg i kursen grundar sig på resultatet av den skriftliga tentamen. 
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0116. Benämning: Obligatoriska moment. 
+Antal högskolepoäng: 3,5. Betygsskala: UG.  Prestationsbedömning: För godkänt betyg krävs godkända laborationer och projekt.   Delmomentet omfattar: Laborationer och ett projekt. 
+Kod: 0216. Benämning: Tentamen. 
+Antal högskolepoäng: 4. Betygsskala: TH.  Prestationsbedömning: Slutbetyg på kursen baseras på resultatet av den skriftliga tentamen.  Delmomentet omfattar: Skriftlig tentamen. 
+Antagningsuppgifter
+Förkunskapskrav:
+EDAA01 Programmeringsteknik - fördjupningskurs
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: EDA116, EDAN25
+Kurslitteratur
+
+Jonas Skeppstedt and Christian Söderberg: Writing Efficient C Code: A Thorough Introduction, 2nd edition. Skeppberg, 2016, ISBN: 978-91-977940-4-6.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Jonas Skeppstedt, jonas.skeppstedt@cs.lth.se
+Hemsida: http://cs.lth.se
+
+
+

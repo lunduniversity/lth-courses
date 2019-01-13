@@ -1,0 +1,87 @@
+
+
+Kursplan för
+Konstruktionsmaterial, allmän kurs
+Materials Engineering, Basic Course
+FKMA01, 7,5 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning M
+Beslutsdatum: 2018-03-27
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: M2, MD2
+Alternativobligatorisk för: I3
+Valfri för: F4
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Syftet med kursen är att introducera teknologerna till
+materialvetenskapliga grunder och visa hur de kan tillämpas för
+att uppnå önskvärda egenskaper hos olika material som metalliska
+legeringar, keramer, polymerer och kompositer.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+känna till de vanligaste materialtyperna och
+materialbehandlingsprocesserna
+känna till sambandet mellan materialens struktur och
+egenskaper
+känna till miljöeffekter som associeras med produktion
+och användning av olika material och visa förståelse för
+hållbar utveckling.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+visa förmåga att studera materialbeteende med hjälp av
+mekanisk provning
+visa förmåga att planera materialbehandlingsprocesser för
+att uppnå vissa materialegenskaper
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+självständigt kunna välja lämpliga material för olika
+tillämpningar
+muntligt och skriftligt kunna presentera materialtekniska
+begrepp och processer
+
+
+Kursinnehåll
+I kursen behandlas:
+Materialvetenskapens grunder. Atombindningar, kristallstruktur
+och defekter. Diffusion, plastisk deformation,viskoelasticitet,
+utmattning, kryp, brott, fasdiagram och fasomvandlingar, korrosion,
+och materialprovning. Samband mellan mikrostruktur och egenskaper.
+Metalliska material som stål, aluminium, koppar, nickel och
+titanlegeringar, keramer, polymera material, kompositer och deras
+karakteristiska egenskaper, mekaniska och värmebehandlingar och
+tillämpningar. Material och miljö, återvinning. Materialval.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examinationen sker både individuellt och i grupp. För deltagande i tentamen fordras att de obligatoriska kursmomenten har fullgjorts. Obligatoriska moment: föreläsningar, seminarier, övningar, laborationer och inlämningsuppgifter. Detaljerade föreskrifter angående fullgörande av obligatoriska moment kommer att finnas i kursprogrammet.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Konstruktionsmaterial. 
+Antal högskolepoäng: 7,5. Betygsskala: TH. 
+Kod: 0217. Benämning: Laboration. 
+Antal högskolepoäng: 0. Betygsskala: UG. 
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kurslitteratur
+
+William D. Callister, David G. Rethwisch: Fundamentals of Materials Science and Engineering-An integrated Approach, 5th Edition. John Wiley, 2016, ISBN: 978-1-119-24925-2.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Professor Srinivasan Iyengar, Srinivasan.Iyengar@material.lth.se
+Kursansvarig: Dmytro Orlov, dmytro.orlov@material.lth.se
+Hemsida: http://www.material.lth.se
+
+
+

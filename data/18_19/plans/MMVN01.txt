@@ -1,0 +1,88 @@
+
+
+Kursplan för
+Aerodynamik och kompressibel strömning
+Aerodynamics and Compressible Flow
+MMVN01, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning M
+Beslutsdatum: 2018-03-27
+Allmänna uppgifter
+Valfri för: M4-en, M4-bem
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursen syftar till fördjupade kunskaper och färdigheter inom
+aerodynamik och kompressibel strömning, samt en generellt ökad
+förståelse för aerodynamisk utformning av omströmmade kroppar,
+speciellt vingar och andra bärande ytor.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+kunna definiera och/eller klargöra kortfattat vissa
+grundläggande och mer avancerade begrepp och fenomen inom
+aerodynamik och kompressibel strömning, exempelvis tryckcentrum,
+cirkulation, hastighetspotential, Kutta-Joukowskis
+lyftkraftsteorem, virvelskikt, kordalinje, von Kármáns loglag,
+gränsskiktsavlösning, Machvinkel och kompressionsstöt
+förstå generellt och redovisa i viss detalj ett antal
+grundläggande och mer avancerade strömningssamband, exempelvis
+Lanchester-Prandtls lyftlinjeteori och Prandtl-Meyers teori för
+sneda stötar och expansionsvågor
+förstå uppkomsten av strömningsförluster och
+strömningsrelaterade krafter vid teknisk aerodynamisk
+utformning
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+kunna bedöma rimlighet och noggrannhet avseende ingångsdata
+och beräknade resultat
+kunna genomföra elementär analys av laminära och turbulenta
+gränsskikt, strömningsmotstånd och lyftkrafter på omströmmade
+kroppar, samt en- och tvådimensionell kompressibel strömning
+kunna genomföra detaljerad strömningsteknisk analys av
+subsonisk och supersonisk strömning kring bärande ytor (vingar)
+och kompressibel strömning i rör och munstycken
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+kunna kommunicera muntligt och skriftligt med kursens lärare
+och övriga kursdeltagare avseende grundläggande
+strömningsmässiga fenomen och problemställningar
+kunna kommunicera skriftligt på ett välstrukturerat,
+förståelseinriktat och illustrativt sätt avseende projektrapport
+och annan skriftlig examination
+
+Kursinnehåll
+Översikt och historik; grundläggande principer, koncept och
+ekvationer; potentialströmning; inkompressibel strömning kring
+bärande ytor (vingteori); laminära gränsskikt; introduktion till
+turbulens och turbulenta gränsskikt; trubbiga kroppars
+aerodynamik; raka och sneda stötar samt expansionsvågor;
+kompressibel strömning i rör och munstycken; subsonisk och
+supersonisk strömning kring vingprofiler.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examination sker via bedömning av individuella skriftliga hemuppgifter och laborationsredogörelser, skriftlig och muntlig redovisning av projektrapport i grupp, samt ett skriftligt teoriprov (utan hjälpmedel). Betyget bestäms av en viktad total poängsumma som består av resultat vid godkänt prov, godkänd projektredovisning, samt ev. bonuspoäng från godkända hemuppgifter, enligt särskild formel.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+MMVF01 Termodynamik och strömningslära
+
+
+Förutsatta förkunskaper: FMEA30 Mekanik.
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Anderson, Jr., J. D: Fundamentals of Aerodynamics, Fifth Edition in SI Units. McGraw-Hill, 2011, ISBN: 978-007-128908-5.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: prof. Johan Revstedt, Johan.Revstedt@energy.lth.se
+Kursansvarig: Prof. Christoffer Norberg, Christoffer.Norberg@energy.lth.se
+Hemsida: http://www.energy.lth.se
+
+
+

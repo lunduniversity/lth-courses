@@ -1,0 +1,124 @@
+
+
+Kursplan för
+Kollektivtrafik
+Public Transport
+VTTN10, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning V
+Beslutsdatum: 2018-03-27
+Allmänna uppgifter
+Valfri för: IBYI3, IBYV3, V4-tv
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursen vänder sig till dig som vill lära mer om
+kollektivtrafik i alla dess former. Kursen ska ge kunskap om
+kollektivtrafik och kollektivtrafikplanering, dess
+förutsättningar och roll i samhället från lokal till
+interregional nivå. Sambandet mellan kollektivtrafikplanering och
+bebyggelseplanering betonas. Kollektivtrafikens väsentliga roll i
+ett hållbart samhälle studeras och kopplas mot de
+transportpolitiska målen. I kursen ingår kunskap om
+kollektivtrafikens företagsekonomiska förutsättningar och
+samhällsekonomiska effekter.
+En viktig del i kursen utgörs av en stor
+datorstödd planeringsövning. Den utformas tillsammans med en
+kommun, och syftet är att du tillsammans med de andra
+kursdeltagarna skall kunna bidra med värdefull analys och konkreta
+förslag på hur kollektivtrafiken skall kunna förbättras i det
+studerade området. Arbetet kräver stor insats för att på den
+korta tiden kunna bemästra programmets komplexitet (VISUM), och vi
+har god hjälp av extern konsulthjälp.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+Ha god kunskap om kollektivtrafikens roll i ett hållbart
+transportsystem
+Ha kunskap om kollektivtrafikens olika system.
+Ha kunskap om hur sambandet mellan kollektivtrafik och
+bebyggelse påverkar kollektivtrafikens möjligheter.
+Ha god förståelse för olika resenärsgruppers speciella
+förutsättningar och behov.
+Ha kunskap om vilka krav som bör ställas på fordon och
+anläggningar i kollektivtrafiken
+Ha kunskap om kollektivtrafikens organisation och ekonomiska
+förutsättningar.
+Ha kunskap om betydelsen av information och marknadsföring
+inom kollektivtrafiken.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+Kunna planera ett busslinjenät för en mindre stad och ta fram
+förslag till trafikering
+Kunna använda avancerade datorstödda planeringsverktyg
+Kunna utveckla egna enkla verktyg för analys, planering och
+drift
+Kunna planera regional kollektivtrafik (tåg och buss) baserat
+på kunskap om trafikeringsunderlag och skillnader mellan
+färdmedelstyper
+Kunna utforma bytespunkter och terminaler med hänsyn till
+såväl effektivitet som tillgänglighet för resenärerna
+Kunna genomföra samhällsekonomiska och om företagsekonomiska
+beräkningar av olika trafikeringsförslag
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+Kunna utforma utrednings- och beslutsunderlag i enlighet med
+det övergripande transportpolitiska målet 
+
+
+Kursinnehåll
+Grundläggande om kollektivtrafikens förutsättningar:
+
+Begrepp
+Standardfaktorer
+Organisation
+Efterfrågemodeller
+Prissättning
+
+Planering av kollektivtrafik på lokal och regional nivå:
+
+Linjenät i mindre och medelstora städer
+Regional kollektivtrafik
+Trafikering och drift, terminaler, företagsekonomi,
+samhällsekonomi
+
+Storstadens kollektivtrafik, information och marknadsföring
+inom kollektivtrafiken, framtida kollektivtrafik.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Prestationsbaserade moment är övningar och tentamen. 5 mindre övningar inlämnas och rättas. En stor planeringsövning lämnas in skriftligt och presenteras muntligt. Betyget sammanvägs av inlämnad planeringsövning (gruppvis) och skriftlig tentamen (enskilt) i tentamensperiod. Bedömning sker med undervisningsmålen som utgångspunkt.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+VTTF01 Trafikteknik eller VTVA50 Transport och samhälle
+
+
+Förutsatta förkunskaper: VTVN15 Trafikteknisk analys ELLER VTTF10 Trafikens effekter: Tillgänglighet, Framkomlighet, Säkerhet och Miljö.
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Christer Hydén (red.): Trafiken i den hållbara staden. Studentlitteratur, 2008, ISBN: 978-91-44-05301-1.
+Bård Norheim, Alberte Ruud: Kollektivtransport, Utfordringer, muligheter og løsninger for byområder. Statens Vegvesen, Norge, 2007. Tillgänglig på www.kollektivtransport.net.
+Effektsamband för vägtransportsystemet , Kollektivtrafik - Effektkatalog. Vägverket Publikation 2008:10. Trafikverket, 2008. Tillgänglig på http://publikationswebbutik.vv.se/shopping/ShowItem____3471.aspx.
+Ett web-baserat kursbibliotek med övrig litteratur står till studenternas förfogande.
+Trafikverket & SKL: Kol-Trast, Planeringshandbok för en attraktiv och effektiv kollektivtrafk. 2012, ISBN: 978-91-7164-842-6. Tillgänglig för nedladdning på kursens hemsida.
+
+
+Kontaktinfo och övrigt
+Lärare: Andreas Persson, andreas.persson@tft.lth.se
+Kursansvarig: Anders Wretstrand, anders.wretstrand@tft.lth.se
+Examinator: Anders Wretstrand, anders.wretstrand@tft.lth.se
+Hemsida: http://www.tft.lth.se
+Övrig information: Föreläsningar, planeringsövningar under handledd och egen tid samt studiebesök. Kursen ges i Lund.
+
+
+

@@ -1,0 +1,88 @@
+
+
+Kursplan för
+Miljösystemanalys, livscykelanalys
+Environmental Systems Studies: Life Cycle Analysis
+FMIN30, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning W
+Beslutsdatum: 2018-03-22
+Allmänna uppgifter
+Valfri för: E4-em, F4, V4-tv, W4-p, W4-es, W4-ms
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+De övergripande målen för kursen är att den studerande skall
+förvärva förståelse av miljösystemanalys och dess komplexitet,
+stimuleras till diskussion och eftertanke kring möjligheterna att
+bedöma en produkts eller tjänsts totala miljöpåverkan samt
+tränas i kritiskt tänkande, problemformulering och
+rapportskrivande.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+Ha fördjupade kunskaper om livscykelanalys (LCA) och dess
+möjligheter och begränsningar
+Kunna kritiskt granska befintliga livscykelanalyser utifrån
+gällande ISO 14 040-standarder
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+Självständigt kunna söka data och information och värdera
+desamma
+Självständigt formulera problemställning och genomföra en
+rapport inom ramen för ett miljösystemanalytiskt
+angreppssätt
+Kunna självständigt genomföra en översiktlig
+livscykelanalys samt värdera dess resultat, vari inbegrips val av
+ämne, sökande av data och information, beräkningar samt analys
+av osäkerhet och känslighet.
+
+
+Kursinnehåll
+I föreläsningar beskrivs metodologin för LCA enligt
+ISO 14 044, samt dess möjligheter och begränsningar.
+Genom övningsuppgifter granskas olika livscykelanalyser
+utifrån hur väl de uppfyller ISO-standardens krav.
+Ett projektarbete innefattar genomförandet av en översiktlig
+livscykelanalys. Resultaten från projektarbeten redovisas och
+diskuteras vid ett slutseminarium.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examination sker kontinuerligt under kursens gång genom deltagande i övningar och godkänt projektarbete (i mindre grupp) med redovisningar, samt skriftlig tentamen. Obligatorisk närvaro vid redovisningar. Godkända inlämningsuppgifter. För godkänt projekt ska arbetsprocessen ha kunnat följas, t ex genom fortlöpande handledarträffar. Betyget baseras på följande moment med inbördes viktning: projektarbete (3/5) och tentamen (2/5).
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Tentamen och inlämningsuppgift . 
+Antal högskolepoäng: 3. Betygsskala: TH.  Prestationsbedömning: Godkänd tentamen och inlämningsuppgift  
+Kod: 0217. Benämning: Projektarbete . 
+Antal högskolepoäng: 4,5. Betygsskala: TH.  Prestationsbedömning: Godkänt projekt, redovisat skriftligt och muntligt 
+Antagningsuppgifter
+Förkunskapskrav:
+Kurser motsvarande minst 6 hp miljö/hållbar utveckling (enskilda kurser eller en kombination av kurser). 
+FMI031 Miljövetenskap med miljökemisk profil eller FMIF01 Miljösystemanalys: Management för hållbar utveckling eller FMIF05 Miljö och management eller FMIF10 Miljösystemanalys och hållbar utveckling
+FMIF50 Miljövetenskap med miljökemisk profil
+
+
+Förutsatta förkunskaper: Minst 130 högskolepoäng inom utbildningen.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FMI055
+Kurslitteratur
+
+Walter Klöpffer & Birgit Grahl: Life Cycle Assessment (LCA): A Guide to Best Practice. Wiley-VCH, 2014. Finns att köpa hos vanliga nätbokhandlar eller att låna som e-bok via
+universitetsbiblioteket (sök i LUB Search eller katalogen Lovisa, https://lovisa2-lub-luse.
+ludwig.lub.lu.se/lib/item?id=4928588&theme=system&locale=en). Referensexemplar finns på
+Miljö- och energisystems bibliotek, V-huset, våning 2.
+På grund av områdets snabba utveckling kan litteraturen komma att ändras under läsåret.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Pål Börjesson, pal.borjesson@miljo.lth.se
+Hemsida: http://miljo.lth.se
+
+
+

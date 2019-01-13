@@ -1,0 +1,78 @@
+
+
+Kursplan för
+Sannolikhetsteori och diskret matematik
+Probability Theory and Discrete Mathematics
+FMSF40, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning I
+Beslutsdatum: 2018-03-20
+Allmänna uppgifter
+Obligatorisk för: IDA2
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursen har två huvudsyften:
+1) att ge grunderna till den diskreta matematiken, med speciell
+vikt på begrepp som är viktiga inom datalogin
+2) att ge en introduktion till de allmänna grunderna för
+sannolikhetsteorin.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+ha god kunskap om hur man genomför ett bevis på ett
+(informellt men) logiskt korrekt sätt
+i praktiska situationer kunna identifiera och räkna på olika
+kombinatoriska urvalssätt
+ha god kunskap om och förståelse för funktioner och
+relationer och de begrepp som förknippas med sådana
+ha god förståelse för de grundläggande begreppen inom
+sannolikhetsläran: oberoende händelser, sannolikhet, diskret och
+kontinuerlig fördelning, väntevärde och varians
+ha kunskap om hur man beräknar sannolikheten för en
+händelse samt väntevärde och varians, utifrån en given
+fördelning, och kunna visa förmåga att utföra beräkningen i
+huvudsak korrekt.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna visa god räkneförmåga inom kursens ram.
+i samband med problemlösning kunna visa förmåga
+att integrera metoder från kursens olika delar
+kunna visa förmåga att redogöra för ett matematiskt
+resonemang på ett strukturerat och logiskt sammanhängande
+sätt.
+
+
+Kursinnehåll
+Mängder. Logik. Bevisteknik. Kombinatorik. Rekursion.
+Relationer. Funktioner.
+Sannolikhetsaxiomen. Betingad sannolikhet. Oberoende händelser.
+Stokastiska variabler. Väntevärde och varians. Normalfördelning,
+binomialfördelning och andra viktiga fördelningar. Funktioner av
+stokastiska variabler.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftligt prov omfattande teori och problemlösning.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: FMAA50 Matematisk analys, FMAA55 Linjär algebra.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FMAA15, FMAA25, FMA091, FMAF20, FMAF30, FMA661, FMSF35, FMSF30
+Kurslitteratur
+
+Vännman, K: Matematisk statistik. Studentlitteratur, 2002, ISBN: 9789144016900.
+Eriksson, K & Gavel, H: Diskret matematik och diskreta modeller. Studentlitteratur, 2002, ISBN: 9789144024653.
+
+
+Kontaktinfo och övrigt
+Studierektor: Studierektor, Anna Lindgren, studierektor@matstat.lu.se
+Hemsida: http://www.lth.se/matematik_lth_helsingborg
+
+
+

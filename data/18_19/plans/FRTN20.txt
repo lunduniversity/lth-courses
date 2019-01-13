@@ -1,0 +1,103 @@
+
+
+Kursplan för
+Marknadsstyrda system
+Market-driven Systems
+FRTN20, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning F/Pi
+Beslutsdatum: 2018-03-23
+Allmänna uppgifter
+Valfri för: F4, I4, M4, Pi4-fm
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Kursen ger studenterna förståelse och kunskap om komponenterna
+och helheten i konceptet "smart industri (smart manufacturing,
+industrie 4.0, uppkopplad industri, etc)". Kursen har fokus på
+styrsystem för produktion (styrsystemsarkitektur, kommunikation
+och informationshantering) och ger genom föreläsningar och
+projekt inblick i trender, internationella standarder samt aktuella
+frågeställningar och utmaningar hos svensk industri.
+ 
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna definiera och förklara grundläggande begrepp i ett
+produktionsstyrsystem
+kunna definiera och förklara grundläggande begrepp inom
+"smart industri".
+kunna härleda grundläggande egenskaper hos en produktionslina
+från egenskaper hos ingående enheter samt att karaktärisera
+olika enheternas betydelse för helheten
+vara medveten om nya industriella koncept och tillhörande
+begrepp
+kunna skilja mellan funktionella och fysiska
+företagsmodeller
+känna till de vikigaste nationella och internationella
+industriella standarderna för automationssystem, integration och
+interoperabilitet.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+självständigt kunna tolka tekniska specifikationer på ett
+produktionssystem och kunna känna igen vanliga begränsningar
+utifrån en förståelse för hur ett automationssystem ska
+användas och samverka med omgivande miljö
+från resultatet av numeriska beräkningar kunna dra slutsatser
+om rimlighet i modell och specifikationer
+kunna analysera produktionsegenskaper genom användning av
+olika metoder.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+förstå samband och begränsningar då förenklade modeller
+används för att beskriva en komplex och dynamisk
+produktionsanläggning
+visa förmåga till lagarbete och samverkan i grupp vid
+projektarbete och redovisning
+visa förmåga att arbeta självständigt och redovisa
+munligt.
+
+
+Kursinnehåll
+Terminologi kring smart industri.  Funktionella modeller av
+företag. Fysiska modeller av företag. Operation management. RAMI
+4.0 och NIST modellen. Produktionsnära nyckeltal. Mjukvarusystem
+för automation. Internationella industristandarder (t.ex. IEC
+62264, IEC 61512, ISO 22400). Referensmaterial kring Industrie
+4.0.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen och två projekt.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0118. Benämning: Grupp-projekt. 
+Antal högskolepoäng: 1. Betygsskala: UG.  Prestationsbedömning: Skriftlig rapport och muntlig presentation. 
+Kod: 0218. Benämning: Marknadsstyrda system. 
+Antal högskolepoäng: 5,5. Betygsskala: TH.  Prestationsbedömning: Godkänd tentamen. 
+Kod: 0318. Benämning: Individuellt projekt. 
+Antal högskolepoäng: 1. Betygsskala: UG.  Prestationsbedömning: Muntlig presentation. 
+Antagningsuppgifter
+Förutsatta förkunskaper: Reglerteknik AK (FRTF05).
+Begränsat antal platser: Nej
+Kursen kan ställas in: Om färre än 12 anmälda.
+Kurslitteratur
+
+Ännu inte bestämt.
+
+
+Kontaktinfo och övrigt
+Studierektor: Professor Karl-Erik Årzén, karl-erik.arzen@control.lth.se
+Kursansvarig: Docent Charlotta Johnsson, charlotta.johnsson@control.lth.se
+Hemsida: http://www.control.lth.se/Education/EngineeringProgram/FRTN20.html
+
+
+

@@ -1,0 +1,100 @@
+
+
+Kursplan för
+Hydromekanik
+Hydromechanics
+VVRN35, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning W
+Beslutsdatum: 2018-03-22
+Allmänna uppgifter
+Huvudområde: Vattenresurshantering. 
+Obligatorisk för: MWLU1
+Valfri för: V4-vr, W4-vr
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursen skall förmedla en fysikalisk förståelse för fenomen
+och begrepp inom avancerad vattenströmning samt introducera
+beräkningsmetoder för att analysera en rad viktiga hydrauliska
+förlopp. Kursen behandlar till övervägande del strömning med
+fri vattenyta, med tyngdpunkt på kanalströmning.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+äga en fördjupad förståelse för de grundläggande fenomen
+och processer som styr strömning med fri vattenyta
+kunna formulera avancerade modeller baserade på de
+grundläggande ekvationerna för strömning med fri vattenyta och
+lösa dessa ekvationer för vanligt förekommande problem
+kunna analysera komplicerade strömningsproblem med
+utgångspunkt från dimensionsanalys och formulera regler för
+försök i skalmodeller
+i detalj förstå inverkan på konstruktioner och kroppar
+från strömmande vatten
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna övergripande, kvantitativt analysera olika situationer
+där strömning med fri vattenyta förekommer med avseende på
+strömningstillstånd, vattendjup, hastigheter, krafter etc.
+kunna formulera regler för hydrauliska modellförsök och
+bestämma de dimensionlösa parametrar som är styrande
+kunna kvantifiera påverkan på konstruktioner och kroppar
+från strömmande vatten
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna redogöra för grunderna vad gäller analyser och
+beräkningar, inkluderat förenklingar och antaganden, gjorda vid
+formulering av matematiska modeller
+i kvantitativa termer kunna kommunicera resultatet av gjorda
+analyser till en kvalificerad avnämargrupp omfattande personer
+från andra discipliner
+kunna kritiskt granska arbeten och utredningar som behandlar
+problem inom hydromekaniken
+
+
+Kursinnehåll
+Kursinnehåll: Fysikaliska modeller, likformighetsanalys,
+dimensionslösa tal såsom Reynolds tal, Froudes tal.
+Dimensionsanalys med Buckingham II-teorem. Gränsskiktsteori. Yt-
+och formmotstånd. Kanalströmning allmänt. Energiprincipen med
+specifik energi, hydrauliska kontroller, kritisk strömning,
+Froudes tal. Rörelsemängdsprincipen med hydrauliskt språng.
+Likformig strömning med Mannings formel och beräkningsmetoder.
+Teori och analys av svagt föränderlig kanalströmning.
+Vattenyteprofiler och stegmetoder för beräkning av vattendjup.
+Rumslig ändring av flödet i kanaler. Praktiska synpunkter på
+kanalutformning. Flödesmätning i kanaler. Olika typer av
+överfall och mätrännor. Flödesmätning i rör, bl.a.
+venturimetern. Snabbt föränderlig strömning i kanaler -
+bropelare, kontroll av hydrauliska språng.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen och inlämningsuppgifter.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: VVR145/VVRA05 eller VVR120/VVRF10 eller motsvarande kurs i grundläggande hydraulik/strömningslära.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: VVR090
+Kurslitteratur
+
+French, R.: Open channel hydraulics, McGraw-Hill, 1994.
+Vennard, J. and Street, R.: Elementary Fluid Mechanics, John Wiley & Sons, 6th edition, 1982 (valda delar).
+Diverse särtryck.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Professor Magnus Larson, Magnus.Larson@tvrl.lth.se
+Hemsida: http://www.tvrl.lth.se/utbildning/courses/
+
+
+

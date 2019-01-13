@@ -1,0 +1,102 @@
+
+
+Kursplan för
+El- och elhybridfordonsteknik 
+Electric and Electric Hybrid Vehicle Technology
+EIEN41, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning E
+Beslutsdatum: 2018-04-05
+Allmänna uppgifter
+Valfri för: E4-em, F4, F4-es, M5-tt, MD4
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Fordonsindustrin genomför nu en både viktig och nödvändig
+omställning till betydligt energisnålare fordon. I denna
+förändring är s k hybridisering och elektrifiering ett av de
+viktigaste medlen. Det innebär att minst en elmaskin används för
+att helt eller delvis driva fordonet och leder i huvudsak till
+bättre utnyttjande av en eventuell förbränningsmotor, möjlighet
+att återvinna bromsenergi, möjlighet att "tanka" el samt
+desssutom till att en lång rad sekundära laster, såsom t ex
+luftkonditionering eller kylvattenpunpar kan drivas elektriskt
+vilket i sig minskar dessa lasters energiförbrukning.
+Behovet av ingenjörer med specialistkunnande inom elektriska
+drivsystem, kraftelektronik samt inte minst systemfrågor rörande
+fordonets energianvändning (t.ex. fördelning
+elmaskin/förbränningsmotor-effekt i ett visst ögonblick) är
+stort och växande. Denna kurs avser att ge grundläggande
+kunskaper inom dessa områden.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+ha goda allmänna kunskaper om ett el- och elhybridfordons
+uppbyggnad och om egenskaperna hos de viktigaste
+komponenterna,
+ha goda allmänna kunskaper i komposition av drivlinan och
+styrning av energiflöden i fordonsdrivsystem.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+ha utvecklat färdighet i att välja lämpligaste drivlina för
+ett fordon med ett givet användningsområde samt kunna skapa
+styrstrategier för elektriska och elhybrida drivlinor.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+ha självförtroende i att kunna applicera modellbyggnad och
+analys på fordonsdrivsystem.
+
+
+Kursinnehåll
+Framdrivning och hjälpkraft. Effekt, moment och varvtal.
+Förbränningsprocesser – Otto, Diesel m.m. Utväxling –
+manuell, automat, CVT osv. Verkningsgrad och emissioner. Multipla
+systemspänningar. Fossilt bränsle, biobränsle – tillgång,
+kostnad och prestanda. EV, HEV-serie, parallell, mild, power split,
+FCV. Konventionell servostyrning, AC, broms, tryckluft osv.
+Eldrivna alternativ, funktion, verkningsgrad. Krav på elmaskiner
+och kraftelektronik i fordon. Dimensioneringskriterier. Livslängd,
+vikt, pris osv. Fältförsvagning, startegenskaper, momentrippel
+osv. Olika typer av reglering, behov av sensorer. Bränsleceller
+– princip, funktion och uppbyggnad. Fördelar och nackdelar med
+olika utföranden. Utvecklingstrender. Elektriska lagringsmedia
+(t.ex. batterier och superkondensatorer).
+Körcykler, verkningsgrad och utsläpp för några utvalda
+drivlinor. Acceleration, start och andra krav på fordon.
+Regenerativ bromsning. Behov av effekt- och energilagring i hybrid-
+och FC fordon.
+Kursen innehåller 28 timmar föreläsningar, 6 timmar
+datorövningar samt 2 handledda inlämningsuppgifter.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen och godkända projektuppgifter.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0118. Benämning: Simuleringsuppgifter. 
+Antal högskolepoäng: 7,5. Betygsskala: UG.  Prestationsbedömning: Skriftlig tentamen 
+Kod: 0218. Benämning: Skriftlig tentamen. 
+Antal högskolepoäng: 0. Betygsskala: TH. 
+Antagningsuppgifter
+Förutsatta förkunskaper: Grundläggande fysikkurs med mekanik.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: MIE100, EIEN40
+Kurslitteratur
+
+Compendium in Electric and Electric Hybrid Vehicle Technology, IEA/LTH 2018.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Professor Mats Alaküla, mats.alakula@iea.lth.se
+Hemsida: http://www.iea.lth.se
+
+
+

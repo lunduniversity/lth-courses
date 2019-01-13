@@ -1,0 +1,81 @@
+
+
+Kursplan för
+Medicin för tekniker
+Medicine for Engineers
+BMEA01, 6 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning BME
+Beslutsdatum: 2018-03-23
+Allmänna uppgifter
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursen syftar till att ge en överblick över olika fält inom
+medicinen, men är dock inte tänkt att vara heltäckande eller en
+kortversion av läkarutbildningen! Kursen ges i form av
+föreläsningar med inbjudna föreläsare, alla med mycket hög
+kompetens (ibland världsledande) inom sina områden. Därigenom
+ges också en god inblick i aktuella problem i forskningsfronten
+för respektive ämne. Det är dessa föreläsningar som definierar
+kursen. Ibland ger föreläsaren en vinkling åt teknologihållet
+för att antingen visa hur teknologin löser ett visst problem,
+eller möjligen hur det skulle kunna lösas. Vi anser att man bäst
+tillgodoser sig kursen om man är i slutfasen på sin utbildning
+så att man bättre kan relatera de presenterade medicinska
+problemen till sin tekniska kompetens.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+tillägnat sig tillräckligt med grundläggande begrepp och
+kunskaper att man kan beskriva idéer, problem och lösningar för
+sakkunniga personer, i området.
+identifiera grunddragen av kroppens uppbyggnad - i detalj inom
+de fält som definieras av tillämpliga föreläsningar
+förklara delar av kroppens fysiologi och patofysiologi
+(funktion som frisk respektive sjuk)
+beskriva olika former av diagnostiska och terapeutiska
+metoder
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna tillägna sig och sovra viktig information från
+föreläsningar
+
+
+Kursinnehåll
+Medicinsk terminologi. Hjärta och kärl. Lungor. Öron, näsa
+och hals. Klinisk kemi. Röntgenologi. AIDS. Cancer. Diabetes.
+Gynekologi, graviditet och förlossning. Kardiologi.
+Koagulationssjukdomar. Reumatologi. Urologi. Ögonsjukdomar.
+Allmän kirurgi. Handkirurgi. Ortopedi. Neurokirurgi – tanke –
+teknologi. Plastikkirurgi. Thoraxkirurgi. Vätskebalans och
+anestesi. Klinisk farmakologi. Missbruk. Biomaterial. Teknologi
+inom tandvården. Sjukvård med begränsade resurser.
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: Skriftlig tentamen, samt minst 78 % närvaro på föreläsningarna (högst sex missade tillfällen). Som omtentamen kan muntlig tentamen ges.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Begränsat antal platser: 60
+Urvalskriterier: Antal poäng som återstår till examen. 
+Kursen kan ställas in: Om färre än 24 anmälda.
+Kursen överlappar följande kurser: TNX006, GEMA55
+Kurslitteratur
+
+Kursen bygger som nämndes ovan på föreläsningar från inbjudna föreläsare. Kursen ser inte riktigt likadan ut från år till år, då ämnen kan komma till och andra falla bort. Således finns det ingen bok som täcker kursens innehåll. I några få fall delar föreläsaren ut anteckningar, men normalt får man räkna med att föra egna anteckningar under föreläsningen.
+
+
+Kontaktinfo och övrigt
+Lärare: Universitetslektor Tomas Jansson, tomas.jansson@med.lu.se
+Kursansvarig: Universitetslektor Magnus Cinthio, magnus.cinthio@bme.lth.se
+Hemsida: http://bme.lth.se/course-pages/medicin-foer-tekniker/medicin-foer-tekniker/
+Övrig information: Föreläsningar på svenska under kvällstid på LTH.
+
+
+

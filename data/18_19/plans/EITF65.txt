@@ -1,0 +1,108 @@
+
+
+Kursplan för
+Digitalteknik
+Design of Digital Circuits - A Systems Approach
+EITF65, 9 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning C/D
+Beslutsdatum: 2018-04-03
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: D2, E2
+Valfri för: BME4, C4-sec, F3, Pi4
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursens syfte är att ge grundläggande kunskaper om
+konstruktion av digitala system. Särskilt betonas förmågan att
+bygga och analysera modeller.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna identifiera och formulera problem inom området
+digitalteknik.
+kunna klassificera problemens svårighetsgrad i förhållande
+till den egna kunskapsnivån.
+kunna modellera digitala system av låg komplexitet genom att
+utnyttja tillståndsgrafer.
+kunna analysera och beskriva digitala system av låg och
+medelhög komplexitet.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna realisera digitala system av låg och medelhög
+komplexitet med digitala kretsar.
+kunna visa prov på förmåga att hantera för studenten nya
+metoder och resultat.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna visa prov på insikt om möjligheter och begränsningar
+med digitala system.
+
+
+Kursinnehåll
+Inledning: Tillstånd och tillståndsrum är viktiga
+begrepp för konstruktion av digitala system. Exempel från olika
+områden belyser hur dessa begrepp leder till en formalisering av
+informella problembeskrivningar.
+Grunder: Grunden för all konstruktion av digitala nät
+är den Booleska algebran. Denna introduceras från abstrakt
+algebra och Booleska ringar. Några viktiga teoretiska aspekter av
+Booleska funktioner diskuteras. Speciella Booleska funktioner,
+lineära och affina funktioner samt tillämpningar inom logik och
+datalogi presenteras.
+Kombinationskretsar: Realiseringar av exempelvis
+nästa-tillståndsfunktioner för sekvensnät involverar
+konstruktion av kombinationskretsar med en eller flera utgångar.
+Metoder för kretsrealisering och minimering diskuteras. Olika
+tillämpningar studeras och specifika problem som uppstår t.ex.
+fördröjningar nämns.
+Sekvensnät: Synkrona sekvensnät introduceras för att
+realisera beteendet i tillståndsgraferna. Konstruktionsaspekter
+som tillståndskodning och minimeringsmetoder diskuteras.
+Linjära sekvensnät: Linjära sekvensnät är av
+särskilt intresse i många tillämpningar. En rikare algebraisk
+struktur medger kraftfullare metoder för analys och konstruktion.
+Kanoniska former, styrbarhet och observerbarhet diskuteras
+tillsammans med analys av lineärt återkopplande
+skiftregister.
+Moderna konstruktionsmetoder för digitala kretsar: En
+orientering kring hur grindar och andra komponenter är
+konstruerade på transistornivå samt en introduktion till verktyg
+för konstruktion i ett hårdvarubeskrivande språk, exempelvis
+VHDL. Enkel syntax för ett hårdvarubeskrivande språk.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examination sker genom skriftlig tentamen, obligatoriska laborationer och hemuppgifter.
+
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Tentamen. 
+Antal högskolepoäng: 4,5. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen.  Delmomentet omfattar: Hela kursen.  Övrig information: Ordinarie tentamen schemalägges i tentamensperioden efter ht1.
+Kod: 0217. Benämning: Laborationer. 
+Antal högskolepoäng: 4,5. Betygsskala: UG.  Prestationsbedömning: Godkända laborationer.  Delmomentet omfattar: Kursen har fem obligatoriska laborationer som bygger på varandra. Den sista är dubbelt så omfattande som de första.
+Laborationsdelen avslutas med ett obligatoriskt test (moodle eller likande). 
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: EIT020
+Kurslitteratur
+
+Johannesson R, Smeets B: Design of Digital Circuits-A Systems Approach. (Säljs av KFS.).
+Laborationer i Digitalteknik. (Säljs av KFS.).
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Martin Hell, martin.hell@eit.lth.se
+Hemsida: http://www.eit.lth.se/kurs/eitf65
+
+
+

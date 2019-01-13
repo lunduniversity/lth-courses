@@ -1,0 +1,91 @@
+
+
+Kursplan för
+Mätning och modellering av centrala nervsystemets funktion
+Measurement and Modeling of the Central Nervous System Function
+EITN65, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning E
+Beslutsdatum: 2018-04-05
+Allmänna uppgifter
+Valfri för: BME4-sbh, N4-nbm, Pi4
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Att ge kunskap om hur nervsystemet fungerar, och hur det
+modelleras på olika nivåer, från cellnivå till högre
+hjärnfunktioner. Att förstå processerna för nervimpulser på
+cellnivå, och hur dessa mäts och simuleras. Att förstå hur
+celler kopplas ihop i enkla nätverk, och hur dessa kan simuleras.
+Att förstå hur högre funktioner kan beskrivas, modelleras och
+simuleras. Att förstå hur nervsignaler kan mätas genom både
+invasiva och icke invasiva metoder. Förstå grundläggande
+elektronik som impedans, förstärkning och filtrering vilket är
+nödvändigt för att kunna mäta signalerna. Förstå
+grundläggande signalanalys av nervsignaler, som spiksortering och
+korrelation.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+förstå hur nervcellers signaler uppkommer, kopplas och
+utbreds.
+förstå modellering av nervceller, både enskilda och i
+populationer.
+förstå kraven på mätteknik för att kunna registrera
+nervsignaler, både invasivt och med ytelektroder.
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+kunna föra ett resonemang om hur nervsystemet fungerar på
+olika nivåer och redogöra för hur dessa kan mätas och
+simuleras.
+kunna beskriva funktionen hos nervsystemet på olika nivåer och
+kunna sätta upp en simulering av dessa.
+kunna beskriva hur nervsignaler kan mätas på olika sätt och
+vilka krav dessa ställer.
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+förstå de etiska frågeställningar i analys av signaler från
+CNS och vid mätning av dessa.
+kunna se begränsningarna i resultaten av analys och
+modellering.
+
+Kursinnehåll
+Kursen ges i form av föreläsningar samt 5 inlämningsuppgifter
+där studenterna får tillämpa de olika simulerings- och
+modelleringsmetoderna. Föreläsningarna kommer att innefatta
+funktion och modellering av nervsystemet på olika nivåer samt
+genomgång av de simuleringsverktyg som kommer att användas.
+Kursen täcker även mätmetoder för nervsignaler in vitro och in
+vivo och den elektronik som behövs för detta. Kursen avslutas med
+ett mindre projekt där studenterna i par väljer ett problem och
+simulerar dess beteende alternativt analyserar dess signaler.
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: Godkänd kurs kräver godkända inlämningsuppgifter och godkänd rapport över projekt.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0115. Benämning: Skriftlig rapport. 
+Antal högskolepoäng: 5. Betygsskala: UG.  Prestationsbedömning: Godkänd skriftlig rapport. 
+Kod: 0215. Benämning: Inlämningsuppgifter. 
+Antal högskolepoäng: 2,5. Betygsskala: UG.  Prestationsbedömning: Godkända inlämningsuppgifter. 
+Antagningsuppgifter
+Förutsatta förkunskaper: Grundläggande kurser inom programmering, fysiologi och signalbehandling
+Begränsat antal platser: Nej
+Urvalskriterier: Förtur till studenter på BME. Därefter antal hp på sitt moderprogram.
+Kurslitteratur
+
+Kursen bygger på material som delas ut i samband med föreläsningarna.
+Wulfram Gerstner, Werner M. Kistler, Richard Naud and Liam Paninski: Neuronal Dynamics. Cambridge University Press, 2014, ISBN: 978-1107635197. http://neuronaldynamics.epfl.ch/index.html.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Anders J Johansson, anders.j.johansson@eit.lth.se
+Hemsida: http://www.eit.lth.se/kurs/eitn65
+Övrig information: Lärare på LTH och vid medicinska fakulteten ansvarar för undervisningen. Gästföreläsningar från andra fakulteter kan även förekomma.
+
+
+

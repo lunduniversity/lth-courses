@@ -1,0 +1,93 @@
+
+
+Kursplan för
+Avancerad ekonometri
+Econometrics, Advanced Course
+EXTN05, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning I
+Beslutsdatum: 2018-03-20
+Allmänna uppgifter
+Valfri för: I4
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Studenten ska utveckla förmåga till vidare studier inom ämnet
+samt söka och utvärdera information med hög grad av
+självständighet. Studenten ska även utveckla förmåga att på
+egen hand skriva en empiriskt inriktad uppsats.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+· ha en fördjupad förståelse för den linjära
+regressionsmodellen, inklusive dennas representation med hjälp av
+matrisalgebra,
+· kunna skatta linjära och icke-linjära modeller med hjälp
+av minsta kvadratmetoden, generaliserade minsta kvadratmetoden,
+maximum likelihood-metoden och instrumentvariabler, samt ha en
+förståelse för när dessa olika metoder ska användas,
+· kunna formulera och pröva linjära och icke-linjära
+hypoteser,
+· kunna analysera tvärsnittsmodeller med diskreta och
+trunkerade beroende variabler,
+· kunna analysera stationära och icke-stationära
+tidsseriemodeller,
+· kunna analysera paneldatamodeller,
+· kunna generalisera sina kunskaper till ekonomiska
+problemställningar som inte behandlats under kursen,
+· kunna förstå relevant empirisk och ekonometrisk
+forskning.
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+· tillämpa avancerade ekonometriska verktyg på olika
+ekonomiska problem,
+· utvärdera rimligheten i den valda modellens antaganden,
+· tillämpa rationella strategier för att välja modell även
+när grundläggande antaganden måste förkastas,
+· implementera ekonometriska analyser med hjälp av ett
+ekonometriskt mjukvaruprogram.
+· redogöra för och diskutera sitt ekonometriska kunnande
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+utveckla förmåga till vidare studier inom ämnet samt söka
+och utvärdera information med hög grad av självständighet.
+Studenten ska även utveckla förmåga att på egen hand skriva en
+empiriskt inriktad uppsats.
+
+Kursinnehåll
+Kursen ger den bas som behövs för att empiriskt analysera
+ekonomisk data utan att göra orealistiska antaganden. Moderna
+ekonometriska tekniker behandlas samtidigt som stor vikt läggs på
+grundläggande ekonometriskt tänkande. Teorimoment varvas med
+tillämpningar i form av datorövningar som utförs på persondator
+med hjälp av ett ekonometriskt mjukvaruprogram.
+.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examinationsuppgifter: Examinationen är skriftlig och äger rum vid slutet av kursen. Ytterligare examinationstillfälle anordnas i nära anslutning härtill. Datorövningarna är poänggivande. Poängen får tillgodoräknas vid examinationstillfället under innevarande termin. Andra examinationsmoment kan förekomma i mindre utsträckning.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+EXTG65 Ekonometri eller TEK190 Ekonometri
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: NEKM23, NEKN31
+Kurslitteratur
+
+Verbeek, Marno (2012): A Guide to Modern Econometrics, fjärde upplagan, Wiley (Paperback, ISBN: 9780470517697).
+Kompletterande material.
+Rekommenderad litteratur: Kennedy, Peter (2008): A Guide to Econometrics, sjätte upplagan, Blackwell Publishing (Paperback, ISBN: 9781405182577).
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Peter Jochumzen, peter.jochumzen@nek.lu.se
+Hemsida: http://www.nek.lu.se
+Övrig information: Kursen ges av ekonomihögskolan (NEKN31), information om schema och tentamen lämnas av institutionen för nationalekonomi.
+
+
+

@@ -1,0 +1,116 @@
+
+
+Kursplan för
+Geografisk informationsteknik - fortsättningskurs
+Geographic Information Technology - Advanced Course
+EXTG35, 15 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning L
+Beslutsdatum: 2018-03-23
+Allmänna uppgifter
+Huvudområde: Katastrofriskhantering och klimatanpassning. 
+Valfri för: MKAT2
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursens syfte är att ge fördjupade teoretiska och praktiska
+kunskaper inom rumslig analys och geografisk
+informationsbehandling.
+ 
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+förklara grundläggande metoder och konceptuella modeller för
+innehållet i en
+geografisk databas,
+förklara principerna för transformation mellan olika
+geodetiska referenssystem,
+förklara begrepp och beräkningsmetoder inom interpolation och
+avancerad
+rumslig analys,
+förklara grundläggande logik inom dataprogrammering och
+beskriva hur
+programmering kan användas med geografiska data och problem,
+redogöra för effekten av felfortplantningen vid geografisk
+modellering,
+redogöra för samhällets infrastruktur för geografiska data
+ser ut, samt översiktligtbeskriva vilka lagar som berör
+användningen av geografiska data,
+exemplifiera avancerad användning av GIS inom miljö och
+samhälle.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+bygga upp och hantera databaser utifrån geografiska data av
+olika geometriskt och formatmässigt ursprung,
+transformera data mellan vanliga geodetiska
+referenssystem,
+självständigt och i grupp föreslå arbetsgång och metoder
+för att lösa komplexa
+geografiska frågeställningar, samt att utföra dessa med
+GIS,
+presentera resultat från GIS-analys muntligt, skriftligt och i
+kartform för
+specialister och i ämnet inte insatta åhörare,
+insamla kunskap inom området på ett i stort sett självstyrt
+eller självständigt sätt.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+sammanställa, värdera och diskutera val av data och
+analysmetod för att lösa ett
+givet geografiskt problem,
+kritiskt granska, värdera och diskutera tillförlitligheten av
+analyser med GIS,
+beskriva och värdera användning av GIS i samhället.
+
+
+Kursinnehåll
+Kursen innehåller ett antal moment som bygger på avancerad
+användning av existerande program för databasuppbyggnad, analys
+och presentation av geografisk information. Studenten tränar
+förmågan att strukturera och lösa komplexa problem. Ett moment
+av egen programmering ingår som träning i logisk problemlösning
+och som förberedelse för högre studier och arbetslivet. Ett
+projektarbete avslutar kursen för att ge träning i
+självständigt arbete med GIS. Tillämpningsexempel väljs inom
+aktuella naturgeografiska problemområden.
+Kursens genomförandeUndervisningen utgörs
+av föreläsningar, laborationer, fältövningar, seminarier,
+gruppövningar och projektarbeten. Deltagande i laborationer,
+fältövningar, seminarier, gruppövningar och projektarbeten och
+därmed integrerad annan undervisning är obligatoriskt.
+
+Kursens examination
+Betygsskala: UV - (U,G,VG) - (Underkänd, Godkänd, Väl godkänd)
+Prestationsbedömning: Examineringen utgörs av en skriftlig tentamen vid kursens slut samt av betygsättning av muntliga och skriftliga rapporter på övningar och projektarbeten under kursens gång. För studerande som ej godkänts vid ordinarie tentamen erbjuds ytterligare tentamenstillfälle i nära anslutning härtill.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+EXTG20 Geografisk informationsteknik - introduktion eller EXTG30 Geografisk informationsteknik - grundkurs
+
+
+Begränsat antal platser: Nej
+Urvalskriterier: Kursen ges av Naturvetenskapliga fakulteten. Studenter från MKAT Masterutbildning i katastrofriskhantering och klimatanpassning är garanterade 3 platser på kursen. Urval sker genom rangordning av antal avklarade högskolepoäng inom Masterprogrammet i katastrofriskhantering och klimatanpassning. Vid likvärdiga meriter sker urval genom lottning.
+Kursen överlappar följande kurser: GISA22, EXTG25, NGEA12
+Kurslitteratur
+
+Harrie L. (red.): Geografisk informationsbehandling - teori, metoder och tillämpningar, 6 upplagan. Studentlittertur, 2013, ISBN: 9789144088778.
+Kang-Tsung Chang: Introduction to Geographic Information Systems. 2014, ISBN: 9781259010613. Senare upplagor fungerar också bra.
+
+
+Kontaktinfo och övrigt
+Kursadministratör: Karin Larsson, karin.larsson@nateko.lu.se
+Kursansvarig: David Tenenbaum, david.tenenbaum@nateko.lu.se
+Hemsida: http://www.nateko.lu.se/sv/extg35
+Övrig information: Tentamenstid meddelas av kursläraren.  
+ 
+
+
+

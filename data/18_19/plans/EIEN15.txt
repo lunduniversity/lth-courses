@@ -1,0 +1,118 @@
+
+
+Kursplan för
+Elkraftsystem
+Electric Power Systems
+EIEN15, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning E
+Beslutsdatum: 2018-04-05
+Allmänna uppgifter
+Valfri för: E4-em, E4-ra, F4, F4-es, M4-en
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Efterfrågan på elektrisk energi ökar alltjämt. Särskilt vid
+omfattande strömavbrott påminns vi om vårt beroende av el. För
+att behålla elförsörjningens höga driftsäkerhet och dessutom
+göra den mer ekonomisk och miljövänlig pågår arbete i flera
+riktningar: Förnyelsebar elproduktion installeras samtidigt som
+den internationella handeln med el ökar. Eftersom det är dyrt och
+tillståndsmässigt svårt att bygga nya kraftledningar strävar
+man efter att med avancerad övervakning och reglering att öka det
+befintliga kraftsystemets kapacitet. Detta förutsätter
+förståelse inte bara av de enskilda komponenternas funktion utan
+också av det övergripande systemets egenskaper. Kursen avser att
+ge kunskaper om system för produktion, överföring och
+distribution av elenergi under normala och onormala
+driftstillstånd. Som genomgående exempel används strömavbrott
+på nationell nivå.
+Kursen ger inblick i elkraftsystemets uppbyggnad och egenskaper,
+vilka föreläses och studeras genom, räkne- och datorövningar
+samt praktiska prov vid två laborationer. I industrin används
+datorberäkningar för analys av internationella kraftsystem. Dessa
+beräkningar ingår i kursen men parallellt görs även
+beräkningar för hand för att kunna tolka
+datorberäkningarna.
+Kursen elkraftsystem har relevans för en miljömässigt
+uthållig utveckling: Elektrisk energi är den för vårt
+välstånd viktigaste energiformen. Kursen lär dig hur
+kraftsystemet fungerar och kan styras i syfte att utnyttjas
+maximalt och därmed minimera vår energikonsumtion.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna formulera enkla modeller av ett enkelt elkraftsystem för
+beräkning av lastflöde respektive symmetriska och osymmetriska
+felströmmar,
+kunna beskriva beräkningsgången i datorprogram för
+beräkning av lastflöde,
+kunna beräkna symmetriska och osymmetriska felströmmar utan
+dator för en enkel modell av ett elkraftsystem,
+kunna formulera stabilitetskriterier för enkla
+kraftsystemmodeller,
+kunna förklara begreppet selektivitet i samband med
+bortkoppling av fel.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna genomföra datorberäkningar av felström, stabilitet och
+lastflöde för flera icke-triviala kraftsystemmodeller;
+kunna utvärdera datorberäkningar av felström, stabilitet och
+lastflöde genom överslagsräkning utan dator.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+visa insikt i kraftsystemets möjligheter och begränsningar
+och dess roll i samhället.
+
+
+Kursinnehåll
+Komponenter: De viktigaste komponenterna i
+kraftsystemet, från kraftverket till konsumenten, beskrivs till
+uppbyggnad och funktion.
+Systemrepresentation: Enlinjeschema och symmetriska
+komponenter används för att beskriva kraftsystemet. Normering med
+per unit-systemet införs för jämförelse av storheter mellan
+olika spänningsnivåer eller märkeffekter. Karakteristika som
+kortslutningseffekt och -impedans beskrivs.
+Systemegenskaper: Både normal drift och onormala
+tillstånd såsom kortslutning och osymmetri studeras.
+Kraftsystemets egenskaper avseende vinkel- och spänningsstabilitet
+analyseras. Dator används för bland annat dynamiska simuleringar
+och lastfördelningsberäkningar. Reglering av spänning, frekvens,
+aktiv och reaktiv effekt visas. Reläskydd och selektivitet
+beskrivs.
+Studiebesök: I kursen ingår studiebesök hos
+kraftbolag eller liknande.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen (5 tim) av problemlösningstyp med insprängda teorifrågor.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0112. Benämning: Elkraftsystem. 
+Antal högskolepoäng: 7,5. Betygsskala: TH. 
+Kod: 0212. Benämning: Laborationer. 
+Antal högskolepoäng: 0. Betygsskala: UG. 
+Antagningsuppgifter
+Förutsatta förkunskaper: ESS060, ESSF15 Elenergiteknik (E), MIE012, EIEF35 Elektroteknikens grunder (M), ETE115, EITF990 Ellära och elektronik (F).
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: EIE030
+Kurslitteratur
+
+Glover, J D, Sarma, M: Power System Analysis and Design, International Edition (4th). Cengage Learning, 2007, ISBN: 978-0-495-29596-9.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Professor Olof Samuelsson, olof.samuelsson@iea.lth.se
+Hemsida: http://www.iea.lth.se/eks
+
+
+

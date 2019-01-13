@@ -1,0 +1,99 @@
+
+
+Kursplan för
+Tillämpad matematik - Linjära system
+Applied Mathematics - Linear systems
+FMAF10, 5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning F/Pi
+Beslutsdatum: 2018-03-23
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: D2
+Valfri för: B4, BME4, C4-ssr, K4, L4-gi, M4, W4
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursens syfte är att behandla några matematiska begrepp och
+metoder, på nivån ovanför grundkurserna, som är viktiga för
+vidare studier inom till exempel maskininlärning,
+signalbehandling, reglerteknik, ellära samt för framtida
+yrkesverksamhet.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+ 
+
+känna till och kunna beskriva olika egenskaper hos linjära
+system, och hur dessa kan modelleras i tids- och
+frekvensområdet.
+känna till Laplacetransformen och dess betydelse i samband med
+insignal/utsignal-relationer och lösning av
+differentialekvationer, samt vara förtrogen med hantering av enkla
+transformtabeller.
+vara välbekant med den matrisalgebra som ligger till grund
+för egenvärdesproblem och lösning av system av
+differentialekvationer.
+
+ 
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+ 
+
+kunna visa förmåga att identifiera problem som kan
+modelleras med de införda begreppen.
+kunna visa förmåga att använda begreppen i samband med
+problemlösning.
+med adekvat terminologi, lämpliga beteckningar, väl
+strukturerat och logiskt sammanhängande kunna redogöra för
+lösningen till ett problem.
+
+ 
+
+Kursinnehåll
+Linjära system. Matematiska modeller av linjära
+tidsinvarianta system. Överföringsfunktion. Steg- och impulssvar.
+Frekvensfunktion.
+Laplacetransformationen. Steg- och impulsfunktioner.
+Räkneregler för tvåsidig Laplacetransformation.
+Inverstransformering, speciellt av rationella funktioner.
+Användning av transformtabell. Faltning.
+Matrisalgebra. Egenvärden och egenvektorer.
+Diagonalisering, speciellt av symmetriska matriser. Kvadratiska
+former, diagonalisering och klassifikation. System av
+differentialekvationer. Lösning genom diagonalisering. Lösning
+med exponentialmatris.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen. Datorlaborationer.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0109. Benämning: Tillämpad matematik. 
+Antal högskolepoäng: 5. Betygsskala: TH. 
+Kod: 0209. Benämning: Datorlaborationer. 
+Antal högskolepoäng: 0. Betygsskala: UG. 
+Antagningsuppgifter
+Förkunskapskrav:
+Minst 7 högskolepoäng inom en av kurserna FMAA01, FMAA05 och FMAA50
+
+
+Förutsatta förkunskaper: FMAA01/FMAA05 Endimensionell analys, FMAB20/FMAA55 Linjär algebra och FMAB30 Flervariabelanalys.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FMA030, FMA037, FMA062, FMA450, FMAF05
+Kurslitteratur
+
+Spanne, S. & Sparr, A.: Föreläsningar i Tillämpad matematik, Lineära system. KF-Sigma, 1996.
+Spanne, S. & Sparr, A.: Övningar i Tillämpad matematik 2, Lineära system. KF-Sigma, 1996.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Studierektor Anders Holst, Studierektor@math.lth.se
+Lärare: Victor Ufnarovski, ufn@maths.lth.se
+Kursadministratör: Studerandeexpeditionen, expedition@math.lth.se
+Hemsida: http://www.maths.lth.se/course/tillmatlinsys/
+
+
+

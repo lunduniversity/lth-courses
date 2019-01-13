@@ -1,0 +1,183 @@
+
+
+Kursplan för
+Styrning av produktionssystem och materialflöden
+Management of Production and Inventory Systems
+MION01, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2018/19
+Beslutad av: Programledning I
+Beslutsdatum: 2018-03-20
+Allmänna uppgifter
+Obligatorisk för: MLOG1
+Valfri för: E4-pla, I4, I4-pr, I4-lf, M4-lp
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursens syfte är att ge studenterna fördjupade kunskaper i
+metoder för styrning av produktions- och lagersystem både från
+en teoretisk och en praktisk synvinkel. En viktig aspekt är att
+öka studenternas förmåga att strukturera och lösa uppgifter i
+form av grupprojekt.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna använda avancerade kvantitativa metoder för styrning
+och utvärdering av produktionssystem och materialflöden.
+ha visat prov på att självständigt kunna strukturera och
+lösa projektarbeten av utredande  och problemlösande karaktär.
+Detta involverar både tillämpning och integrering av kunskaper
+som studenten  tillägnat sig under utbildningens gång men också
+självständig fördjupning inom områden relevanta för uppgiften
+i fråga.
+
+Vidare ställs krav på studenten:
+ 
+
+att förstå de grundläggande principerna för Toyotas
+produktionssystem som utgör basen för Lean produktion.
+att förstå utmaningarna och effekterna av osäkerhet och
+variabilitet på styrningen av produktionssystem och att kunna
+hantera dessa genom användande av relevanta metoder
+att förstå begränsningarna i vanligt förekommande
+produktionsstyrningsmodeller och kvantitativ modellering av dessa
+system. En viktig fråga som studenten förväntas kunna analysera
+är styrkor och svagheter med ”Pull” orienterade CONWIP system
+kontra ”Push” orienterade system av MRP karaktär.
+att inom ramen för ett ”Pull” orienterat produktionssystem
+förstå principerna för hierarkisk produktions- och
+personalplanering, detaljplanering och körplanering samt att kunna
+använda kvantitativa modeller för förbättrad styrning.
+att kritiskt kunna granska och välja lämplig
+modellbeskrivning för att effektivt styra vanligt förkommande
+produktionssystem. Ett speciellt fokus läggs på generaliserade
+KANBAN system (CONWIP system). Detta ställs i relation till de MRP
+baserade system som studeras i kursen Material- och
+Produktionsstyrning MIOF10.
+att kunna redogöra för, tillämpa och utvärdera olika typer
+av kvantitativa modeller för att effektivt styra CONWIP baserade
+system.
+att på ett statistiskt korrekt sätt analysera datamaterial
+från slumpmässiga processer som utgör indata till kvantitativa
+produktions- och lagerstyrningsmodeller. Speciellt fokus läggs på
+analys av efterfrågedata och olika typer av produktions- eller
+processtider. Detta involverar bl.a. val och anpassning av
+fördelningsfunktioner samt olika typer av hypotesprövning.
+att förstå olika principer som används för att bestämma
+kostnadsparametrar som används i olika typer av produktions- och
+lagerstyrningsmodeller så som lagerhållningskostnader,
+bristkostnader och ordersärkostnader.
+att kunna redogöra för och tillämpa kvantitativa modeller
+för styrning av enkla lagersystem med osäkerhet i efterfrågan
+och/eller ledtider. Detta involverar beräkning av olika typer av
+servicemått och förväntade kostnader samt optimering av
+styrparametrar i form av beställningspunkter, orderkvantiteter och
+påfyllnadsnivåer.
+att kunna redogöra för och tillämpa kvantitativa modeller
+för styrning av kopplade lagersystem av olika struktur med
+osäkerhet i efterfrågan. Detta involverar beräkning av olika
+typer av servicemått och förväntade kostnader samt optimering av
+styrparametrar i form av beställningspunkter, orderkvantiteter och
+påfyllnadsnivåer.
+att självständigt kunna strukturera och lösa uppgifter i
+projektform med höga krav på skriftlig och muntlig avrapportering
+och dokumentering.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+ha förmåga och färdighet att självständigt formulera, lösa
+och använda relevanta kvantitativa modeller för analys och
+styrning. Konkreta områden och modelltyper som studenten ska
+bemästra inkluderar:
+ 
+
+Huvudplanering/Aggregerad produktionsplanering.
+Detalj- och körplanering med fokus på CONWIP system
+(deterministiska och stokastiska modeller)
+Stokastiska modeller för utvärdering och optimering av enkla
+lagersystem (single-echelon systems) under olika antaganden:
+kontinuerlig inspektion, periodisk inspektion, kontinuerlig
+normalfördelad efterfrågan, diskret sammansatt Poisson
+efterfrågan, lagerhållning över en och flera perioder,
+fullständig bristnotering av restorder och förlorad
+försäljning, servicenivåkrav (S1, S2 och S3) och bristkostnader,
+(R,Q), (S-1,S) och (s,S) system, deterministiska och stokastiska
+ledtider (oberoende och beroende), koordinerad beordring (“joint
+replenishments” och “powers-of-two policies”)
+Stokastiska modeller för utvärdering och optimering av
+kopplade lagersystem (Supply chain systems) under olika antaganden:
+seriesystem och distributionssystem, METRIC approximationen kontra
+exakt beräkning, (S-1,S) och (R,Q) policies, echelon/flödes-lager
+kontra installationslager.
+Metoder och angreppssätt för implementering av lager och
+produktionsstyrningssystem.
+
+Studenten förväntas kunna använda etablerade facktermer och
+på ett tydligt sätt kommunicera problemformulering, lösning och
+tolkning av kvantitativa modeller. Efter genomgången kurs ska
+studenten självständigt kunna tillgodogöra sig litteratur på
+området och ytterligare kunna förkovra sig vid behov.
+För godkänd kurs skall studenten ha förvärvat förmåga att
+självständigt strukturera och lösa uppgifter i projektform.
+Detta innebär färdighet i att angripa och lösa i grunden
+ostrukturerade frågeställningar. Viktiga aspekter av detta är
+problematisering, formulering av syfte och mål, metodval och
+analys. För att skapa ett beslutsunderlag krävs färdighet att
+göra litteraturstudier och analysera data. För avrapportering
+krävs färdighet i muntlig och skriftlig presentationsteknik.
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+förstå och kunna förklara de underliggande antaganden och
+begränsningar som de studerade modellerna bygger på, samt de
+avväganden de implicerar.
+förstå behoven av koordinering och samarbete över
+funktionella organisationsgränser inom ett företag, och mellan
+olika företag i en försörjningskedja, för att uppnå hållbar
+utveckling och hållbart resursutnyttjande.
+förstå att gemensamma mål, värderingar och etiska
+förhållningssätt är viktiga griundpelare i framgångsrik och
+hållbar verksamhetsstyrning tillsammans med miljömässiga och
+ekonomiska överväganden.
+
+
+Kursinnehåll
+Kursen syftar till att fördjupa kunskaperna i kvantitativ
+modellering av produktions- och lagersystem både ur ett teoretiskt
+och praktiskt perspektiv. Kursen bygger vidare på de teorier och
+metoder som studerats i MIOF10 Material och Produktionsstyrning
+kursen och diskuterar utmaningar med att applicera dessa i
+praktiken, t. ex. vad gäller bestämning av kostnadsparametrar och
+anpassning av sannolikhetsfördelningar till verkliga
+datamaterial.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examinationen består av hemtentamen/inlämningsuppgifter i form av projekt. Slutbetyget avgörs genom en sammanvägning av prestationerna i dessa moment. Examinationsmomenten är utformade för att testa studenternas förmåga att självständigt lösa ostrukturerade och verklighetsnära problem. En viktig aspekt är att redovisa dessa  på ett tydligt och välstrukturerat sätt i skriftliga rapporter och muntliga presentationer.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+MIO012/MIOA01 Industriell Ekonomi AK, FMS012 Matematisk statistik AK (eller motsvarande)
+
+
+Förutsatta förkunskaper: MIO310 Optimering och simulering, MIO040 Industriell ekonomi FK,  MIOF10 Material- och produktionsstyrning,
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: MIO331
+Kurslitteratur
+
+Axsäter S. Inventory Control, Second edition. Springer, New York (2006).
+(Finns att tillgå gratis som e-bok via lunds universitets bibliotek).
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - - - - - - - - -.
+Hopp, W. J. and M. L. Spearman, Factory Physics third edition, Irwin McGraw-Hill, New York, 2008.
+- - -- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Professor Johan Marklund, johan.marklund@iml.lth.se
+Hemsida: http://www.pm.lth.se
+
+
+
