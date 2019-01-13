@@ -1,7 +1,7 @@
 # lth-courses
 Tools for analyzing courses at the Faculty of Engineering LTH, Lund University.
 # How to run
-  * Download `sbt` (using apt-get, homebrew or from https://www.scala-sbt.org/download.html)
+  * Download `sbt` using apt-get, homebrew or from https://www.scala-sbt.org/download.html
 
   * Type command `sbt` and then `run` or `run --words digital` as in this example:
 ```
