@@ -13,7 +13,7 @@ Tools for analyzing courses at the Faculty of Engineering LTH, Lund University.
   * Make sure you have `sbt` installed. Check this by typing in terminal `sbt sbtVersion`, which should print some version (any version will do). To install `sbt`:
       - on Linux (debian/Ubuntu): in terminal type `sudo apt-get install sbt`
       - on MacOS: install  and in terminal type: `brew install sbt@1`
-      - on Windows: download msi-installer from https://www.scala-sbt.org/download.html
+      - on Windows: download [msi-installer](https://piccolo.link/sbt-1.2.8.msi)
 
 ## Execute
 
