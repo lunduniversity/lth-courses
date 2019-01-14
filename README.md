@@ -1,9 +1,21 @@
 # lth-courses
 Tools for analyzing courses at the Faculty of Engineering LTH, Lund University.
-# How to run
-  * Download `sbt` using apt-get, homebrew or from https://www.scala-sbt.org/download.html
+# How to run this app
 
-  * Type command `sbt` and then `run` or `run --words digital` as in this example:
+## Download
+
+  * Download [https://github.com/lunduniversity/lth-courses/archive/master.zip](master.zip) and unpack, **or** `git clone` if you have git.
+
+  * Make sure you have [http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html](Java SE Development Kit 8) installed. Check this by typing in terminal `javac -version`, which should give something similar to `javac 1.8.0_191`
+
+  * Make sure you have `sbt` installed. Check this by typing in terminal `sbt sbtVersion`, which should print some version (any version will do). To install `sbt`:
+      - on Linux (debian/Ubuntu): in terminal type `sudo apt-get install sbt`
+      - on MacOS: install  and in terminal type: `brew install sbt@1`
+      - on Windows: download msi-installer from https://www.scala-sbt.org/download.html
+
+## Execute
+
+  * Open a terminal and navigate to `lth-courses` where you have downloaded this repo. Type `sbt` and then `run` or `run --words digital` as in this example:
 ```
 sbt:lth-courses> run
 [info] Running Main
