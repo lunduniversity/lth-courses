@@ -6,9 +6,9 @@ Tools for analyzing courses at the Faculty of Engineering LTH, Lund University.
 
 ## Download
 
-  * Download [https://github.com/lunduniversity/lth-courses/archive/master.zip](master.zip) and unpack, **or** `git clone` if you have git.
+  * Download [master.zip](https://github.com/lunduniversity/lth-courses/archive/master.zip) and unpack, **or** `git clone` if you have git.
 
-  * Make sure you have [http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html](Java SE Development Kit 8) installed. Check this by typing in terminal `javac -version`, which should give something similar to `javac 1.8.0_191`
+  * Make sure you have [Java SE Development Kit 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) installed. Check this by typing in terminal `javac -version`, which should give something similar to `javac 1.8.0_191`
 
   * Make sure you have `sbt` installed. Check this by typing in terminal `sbt sbtVersion`, which should print some version (any version will do). To install `sbt`:
       - on Linux (debian/Ubuntu): in terminal type `sudo apt-get install sbt`
