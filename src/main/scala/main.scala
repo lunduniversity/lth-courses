@@ -32,21 +32,23 @@ object DownloadAllCoursePlans {
 }
 
 object PrintStatistics {
-
   def apply(args: List[String] = List()): Unit = {
+    println(s"args=$args")
     val words = if (args.isEmpty) digiwords else args.toVector
-    val digiCourses = oblDigi(words).sorted
+    val nOblForProg = oblForProg.filter{ case (_,ps) => ps.nonEmpty }.keys.size
+    val digiCourses = oblForProg.keys.toSeq.findCourses(words).sorted
     val n = digiCourses.length
-    val percent = n * 100 / obl.size
+    val percent = n * 100 / nOblForProg
     val stats = s"""
     |  *** COURSES AT LTH 20$defaultYear ***
     |
     |                      courses: ${overview.nRows}
     |           obligatory courses: ${obl.size}
     |          alt.-oblig. courses: ${altObl.size}
+    |   program obligatory courses: ${nOblForProg}
     |             elective courses: ${elect.size}
     |
-    |  filtered obligatory courses: $n ($percent%)
+    |  filtered program obligatory courses: $n ($percent%)
     |  containing at least one of these strings: ${words.mkString(" ")}
     |
     |${digiCourses.mkString(",")}
