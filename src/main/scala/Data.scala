@@ -63,7 +63,7 @@ object Data {
   def planToTxt(htmlSoup: String): String = Jsoup.parse(htmlSoup).wholeText
 
   def loadPlan(coursId: String, year: String = defaultYear, suff: String = "txt"): Vector[String] = {
-    val buf = Source.fromFile(s"$baseDir/$year/plans/$coursId.txt")(Codec.UTF8)
+    val buf = Source.fromFile(s"$baseDir/$year/plans/$coursId.$suff")(Codec.UTF8)
     val lines = buf.getLines.toVector
     buf.close
     lines
@@ -82,6 +82,10 @@ object Data {
   lazy val plan: Map[String, String] =
     courseIds.map(id => (id, loadPlan(id).mkString("\n"))).toMap
 
+  lazy val planHtml: Map[String, String] =
+    courseIds.map(id => (id, loadPlan(id, suff = "html").mkString("\n"))).toMap
+
+
   lazy val propertyOf: Map[String, Map[String, String]] = // propertyOf("EDAA45")("hp").toDouble
     courseIds.map(id => (id, parsePlan(plan(id)))).toMap
 
@@ -89,14 +93,18 @@ object Data {
 
   lazy val obl: List[(String, Vector[String])]  = loadListByKey(Key.Obl)
 
-  lazy val oblFor: Map[String, Vector[String]]  = obl.toMap
+  lazy val oblForProgSpec: Map[String, Vector[String]]  =
+    obl.toMap.withDefaultValue(Vector())
 
   lazy val oblForProg: Map[String, Vector[String]] =
-    oblFor.mapValues(ps => ps.filterNot(_.contains("-")).map(_.takeWhile(_.isLetter)))
+    oblForProgSpec
+      .mapValues(_.filterNot(_.contains("-")).map(_.takeWhile(_.isLetter)))
+      .withDefaultValue(Vector())
 
   lazy val oblIds = obl.map(_._1)
 
-  lazy val programs = oblFor.values.fold(Vector())(_ ++ _).toSet
+  lazy val programSpecials = oblForProgSpec.values.fold(Vector())(_ ++ _).toSet
+  lazy val programs = programSpecials.map(_.takeWhile(_.isLetter))
 
   lazy val elect = loadListByKey(Key.Elect)
   lazy val electIds = elect.map(_._1)
@@ -104,13 +112,35 @@ object Data {
   lazy val altObl = loadListByKey(Key.AltObl)
   lazy val altOblIds = altObl.map(_._1)
 
-  val digiwords = "programmer digital programvar algoritm".split(" ").toVector
+  val digiwords = "programmer digital programvar algoritm"
 
   implicit class IdSeqOps(ids: Seq[String]){
     def findCourses(words: Vector[String]): Seq[String] =
-      ids.filter(id => words.exists(w => planLowerCase(id).contains(w)))
+      if (words.nonEmpty)
+        ids.filter(id => words.exists(w => planLowerCase(id).contains(w)))
+      else ids
 
-    def filterOblFor(progInit: String): Seq[String] =
-      ids.filter(id => oblFor(id).exists(_.startsWith(progInit)))
+    // def filterOblFor(prog: String): Seq[String] =
+    //   ids.filter(id => oblForProg(prog).contains(prog))
+
+    def showCourses: String = ids.map(id =>
+      s"$id ${(id.credits  + " hp").padTo(7, ' ')} ${id.name}"
+    ).mkString("\n")
   }
+
+  lazy val oblOfProgram: Map[String, Set[String]] =
+    programs.map(p =>
+      p -> oblIds.filter(id => oblForProg(id).contains(p)).toSet
+    ).toMap
+//    programs.map(p => p -> oblIds.filterOblFor(p).toSet).toMap
+
+  implicit class StringOps(id: String) {
+    def name: String = propertyOf(id)("namn")
+    def coursePlan: String = plan(id)
+    def credits: String = propertyOf(id)("hp")
+    def descr: String = propertyOf(id)("beskrivning")
+    def oblFor: Vector[String] = oblForProg(id)
+    def isOblForProgram(p: String): Boolean = oblOfProgram(p).contains(id)
+  }
+
 }

@@ -4,8 +4,8 @@ import Grid.StringToFile
 object Main {
   def main(args: Array[String]): Unit = args.toList match {
     case "--download":: xs => DownloadAllCoursePlans(xs)
-    case "--words"::xs     => PrintStatistics(xs)
-    case _                 => PrintStatistics()
+    case "--server"::xs    => CourseWebServer.start(); main(args.tail)
+    case xs                => println(Statistics(xs))
   }
 }
 
@@ -31,28 +31,48 @@ object DownloadAllCoursePlans {
 
 }
 
-object PrintStatistics {
-  def apply(args: List[String] = List()): Unit = {
+object Statistics {
+  def apply(args: List[String] = List()): String = {
     println(s"args=$args")
-    val words = if (args.isEmpty) digiwords else args.toVector
+    val argPairs = args.grouped(2).map{
+      case Seq(a,b) => (a,b)
+    }.toMap
+    println(s"argPairs=$argPairs")
+    val programs = argPairs.getOrElse("--programs", "K D").split(" ").toList
+    println(s"analyzing programs: $programs")
+    val words = argPairs.getOrElse("--words", digiwords).split(" ").toVector
     val nOblForProg = oblForProg.filter{ case (_,ps) => ps.nonEmpty }.keys.size
-    val digiCourses = oblForProg.keys.toSeq.findCourses(words).sorted
-    val n = digiCourses.length
+    val filteredCourses = oblForProg.keys.toSeq.findCourses(words).sorted
+    val n = filteredCourses.length
     val percent = n * 100 / nOblForProg
-    val stats = s"""
-    |  *** COURSES AT LTH 20$defaultYear ***
+    val allCourses = s"""
+    |  *** ALLA KURSER VID LTH 20$defaultYear ***
     |
-    |                      courses: ${overview.nRows}
-    |           obligatory courses: ${obl.size}
-    |          alt.-oblig. courses: ${altObl.size}
-    |   program obligatory courses: ${nOblForProg}
-    |             elective courses: ${elect.size}
+    |             tot antal kurser: ${overview.nRows}
+    |         obligatoriska kurser: ${obl.size}
+    |  programobligatoriska kurser: ${nOblForProg}
+    |                valfriakurser: ${elect.size}
     |
-    |  filtered program obligatory courses: $n ($percent%)
-    |  containing at least one of these strings: ${words.mkString(" ")}
-    |
-    |${digiCourses.mkString(",")}
+    |*** FILTRERAD LISTA OBLIGATORISKA KURSER
+    |    med en eller flera av: ${words.mkString(" ")}
+    |    antal: ${n}st ($percent%)
+    |${filteredCourses.showCourses}
     |""".stripMargin
-    println(stats)
+
+    val oblOfProgramFiltered =
+      oblOfProgram.mapValues(oblSet => oblSet.toSeq.findCourses(words).sorted)
+
+    val selectedPrograms = programs.map{ p =>
+      val cs = oblOfProgramFiltered(p).toSeq.sorted
+      s"""
+      |*** OBLIGATORISKA FÖR PROGRAM $p
+      |    med en eller flera av: ${words.mkString(" ")}
+      |    antal: ${cs.size}st
+      |    poäng: ${cs.map(_.credits.toDouble).sum.round}hp
+      |${cs.showCourses}
+      """.stripMargin
+    }.mkString("\n")
+
+    s"$allCourses $selectedPrograms"
   }
 }
