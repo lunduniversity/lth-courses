@@ -42,7 +42,8 @@ trait WebServer {
   def start(
     args: List[String] = List(),
     port: Int= 8090,
-    host: String = "localhost"
+    host: String = "0.0.0.0" //if "localhost" no remote access allowed
+    //https://stackoverflow.com/questions/43298909/akka-http-not-allowing-incoming-connections-from-remote-hosts-on-macos
   ): Unit = {
     implicit val system = ActorSystem("my-system")
     implicit val materializer = ActorMaterializer()
