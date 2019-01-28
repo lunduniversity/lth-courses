@@ -22,9 +22,9 @@ object Statistics {
     |  programobligatoriska kurser: ${nOblForProg}
     |                valfriakurser: ${elect.size}
     |
-    |        obl. efter filtrering: ${n}st ($percent%)
-    |
+    |alla program: ${Data.programs.toSeq.sorted.mkString(" ")}
     |""".stripMargin
+    //|        obl. efter filtrering: ${n}st ($percent%)
     // |*** FILTRERAD LISTA OBLIGATORISKA KURSER
     // |    med en eller flera av: ${words.mkString(" ")}
     // |    antal: ${n}st ($percent%)
