@@ -39,7 +39,11 @@ trait WebServer {
     }
   }
 
-  def start(port: Int= 8090, host: String = "localhost"): Unit = {
+  def start(
+    args: List[String] = List(),
+    port: Int= 8090,
+    host: String = "localhost"
+  ): Unit = {
     implicit val system = ActorSystem("my-system")
     implicit val materializer = ActorMaterializer()
     implicit val executionContext = system.dispatcher
