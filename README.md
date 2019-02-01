@@ -21,6 +21,6 @@ Tools for analyzing courses at the Faculty of Engineering LTH, Lund University.
   * Type `sbt` and then execute with `run --server localhost 8090` as in this example:
 ```
 $ sbt
-sbt:lth-courses> run --server local
+sbt:lth-courses> run --server localhost 8090
 ```
   * Open your browser and surf to "http://localhost:8090"
