@@ -7,8 +7,12 @@ object Statistics {
       case Seq(a,b) => (a,b)
     }.toMap
     println(s"argPairs=$argPairs")
-    val programs = argPairs.getOrElse("--programs", "K D").split(" ").toList
+
+    val psTrimmed = argPairs.getOrElse("--programs", "F E M V A K D").trim.toUpperCase
+    val selectedOrAll = if (psTrimmed.nonEmpty) psTrimmed else Data.allExistingProgs
+    val programs = selectedOrAll.split(" ").toList
     println(s"analyzing programs: $programs")
+
     val words = argPairs.getOrElse("--words", digiwords).split(" ").toVector
     val nOblForProg = oblForProg.filter{ case (_,ps) => ps.nonEmpty }.keys.size
     val filteredCourses = oblForProg.keys.toSeq.findCourses(words).sorted
@@ -22,7 +26,9 @@ object Statistics {
     |  programobligatoriska kurser: ${nOblForProg}
     |                valfriakurser: ${elect.size}
     |
-    |alla program: ${Data.programs.toSeq.sorted.mkString(" ")}
+    |alla program: ${Data.allExistingProgs}
+    |
+    |valda program: $selectedOrAll
     |""".stripMargin
     //|        obl. efter filtrering: ${n}st ($percent%)
     // |*** FILTRERAD LISTA OBLIGATORISKA KURSER
@@ -34,17 +40,18 @@ object Statistics {
       oblOfProgram.mapValues(oblSet => oblSet.toSeq.findCourses(words).sorted)
 
     val selectedPrograms = programs.map{ p =>
-      val cs = oblOfProgramFiltered(p).toSeq.sorted
-      s"""
-      |*** OBLIGATORISKA FÖR PROGRAM $p
-      |   filter: ${words.mkString(" ")}
-      |    antal: ${cs.size}st
-      |    poäng: ${cs.map(_.credits.toDouble).sum.round}hp
-      |${cs.showCourses}
-      |
-      """.stripMargin
-    }.mkString//("\n")
-
+      if (oblOfProgramFiltered.isDefinedAt(p)) {
+        val cs = oblOfProgramFiltered(p).toSeq.sorted
+        s"""
+        |*** OBLIGATORISKA FÖR PROGRAM $p ${progName(p)}
+        |   filter: ${words.mkString(" ")}
+        |    antal: ${cs.size}st
+        |    poäng: ${cs.map(_.credits.toDouble).sum.round}hp
+        |${cs.showCourses}
+        |
+        """.stripMargin
+      } else s"\n??? KONSTIG PROGRAMAKRONYM: $p\n"
+    }.mkString
     s"$allCourses $selectedPrograms"
     //s"$selectedPrograms"
   }

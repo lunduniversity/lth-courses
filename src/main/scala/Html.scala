@@ -5,28 +5,28 @@ object Html {
   val styles = """
     |body {
     |    background-color: pink;
-    |    font-size:medium;
+    |    font-size: medium;
     |    font-family: "Lucida Console", Monaco, monospace;
     |}
     |.button {
     |    background-color: #4CAF50;
     |    border: none;
     |    color: pink;
-    |    padding: 4px 4px;
+    |    padding: 8px 8px;
     |    text-align: center;
     |    text-decoration: none;
     |    display: inline-block;
     |    font-size: large;
-    |    margin: 4px 4px;
+    |    margin: 8px 8px;
     |    cursor: pointer;
     |}
     |.progsinput {
-    |    width: 25%;
+    |    width: 65%;
     |    font-size: medium;
     |    margin: 1px 1px;
     |}
     |.wordsinput {
-    |    width: 25%;
+    |    width: 65%;
     |    font-size: medium;
     |    margin: 1px 1px;
     |}
@@ -52,10 +52,12 @@ object Html {
   def inputFormProgWords(progs: String, words: String): String =
     s"""|<form action="" method="get">
         |  <div>
-        |    <label for="program">Programakronymer: </label>
+        |<p>Skriv programakronymer med blank emellan (om tom ges alla program).</p>
+        |    <label for="program"><b>Programakronymer:</b> </label>
         |    <input name="progs" id="progs" value="$progs" class="progsinput">
         |    </br>
-        |    <label for="ord">    Ord i kursplanen: </label>
+        |<p>Skriv (påbörjade) ord att söka på i kursplan med blank emellan (om tom ges alla obl. kurser).</p>
+        |    <label for="ord"><b>Ord i kursplanen:</b> </label>
         |    <input name="words" id="words" value="$words" class="wordsinput">
         |    </br>
         |    <button class="button">Filtrera!</button>
@@ -66,6 +68,12 @@ object Html {
   def kursomatenPage(progs: String, words: String, stats: String): String =
     page(s"""
       |${h1("=== KURSOMATEN ===")}
+      |<p>En snabbsökande webbapp för fritextfiltrering av LTH:s obligatoriska kursutbud.</p>
+      |<p>Koden finns <a href="https://github.com/lunduniversity/lth-courses/">här</a>
+      |   som öppen källkod (GPLv3).
+      |   Bidrag välkomna, kontakta
+      |   <a href="mailto://bjorn.regnell@cs.lth.se">bjorn.regnell@cs.lth.se</a>
+      |</p>
       |
       |${inputFormProgWords(progs, words)}
       |
@@ -87,4 +95,10 @@ object Html {
         |    <h1>Hello $msg</h1>
         |  </body>
         |</html>""".stripMargin
+
+  def linkToCourse(id: String): String =
+    s"""<a href="https://kurser.lth.se/kursplaner/18_19/$id.html">$id</a>"""
+
+  def replaceAllCourseIdsWithLinks(soup: String, courseId: String): String =
+    soup.replaceAllLiterally(courseId, linkToCourse(courseId))
 }

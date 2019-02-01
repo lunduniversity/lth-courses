@@ -9,6 +9,14 @@ object Data {
   lazy val overview: Grid = Grid.fromFile(s"data/$defaultYear/overview.csv")
   lazy val courseIds: Vector[String] = overview("kurskod")
 
+  lazy val progName: Map[String, String] =
+    Grid.fromFile(s"data/program-names.csv")
+      .toMap("program")("namn")
+      .mapValues(_.apply("namn"))
+      .withDefaultValue("???")
+
+  lazy val allExistingProgs: String = programs.toSeq.sorted.mkString(" ")
+
   val baseUrl = "https://kurser.lth.se/kursplaner"
   val baseDir = "data"
 
@@ -124,7 +132,7 @@ object Data {
     //   ids.filter(id => oblForProg(prog).contains(prog))
 
     def showCourses: String = ids.map(id =>
-      s"$id ${(id.credits  + " hp").padTo(7, ' ')} ${id.name}"
+      s"$id ${(id.credits  + "hp").padTo(21, ' ')} ${id.name}"
     ).mkString("\n")
   }
 
