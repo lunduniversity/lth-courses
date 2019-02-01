@@ -23,4 +23,4 @@ Tools for analyzing courses at the Faculty of Engineering LTH, Lund University.
 $ sbt
 sbt:lth-courses> run --server localhost 8090
 ```
-  * Open your browser and surf to "http://localhost:8090"
+  * Open your browser and surf to "http://localhost:8090/kursomaten"
