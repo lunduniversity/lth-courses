@@ -6,11 +6,11 @@ import scala.util.matching.Regex
 
 object Data {
   val defaultYear = "18_19"
-  lazy val overview: Grid = Grid.fromFile(s"data/$defaultYear/overview.csv")
+  lazy val overview: Grid = Grid.fromFile(s"data/$defaultYear/overview.tsv")
   lazy val courseIds: Vector[String] = overview("kurskod")
 
   lazy val progName: Map[String, String] =
-    Grid.fromFile(s"data/program-names.csv")
+    Grid.fromFile(s"data/program-names.tsv")
       .toMap("program")("namn")
       .mapValues(_.apply("namn"))
       .withDefaultValue("???")
