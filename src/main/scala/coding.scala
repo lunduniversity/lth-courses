@@ -1,9 +1,9 @@
 /** human coding of courses into categories based on areas and topics */
 object coding {
-  type HP = Double    // Higher education credit Points
-  type Area = String  // General topic
-  type Topic = String // Specific topic (less than 10 per course)
-  type Mode = String  // Type of teaching, e.g. "projekt", "laboration", ""
+  type HP    = Double    // Higher education credit Points
+  type Area  = String    // General topic
+  type Topic = String    // Specific topic (less than 10 per course)
+  type Mode  = String    // Type of teaching, e.g. "projekt", "laboration", ""
 
   case class Course(             // Examples:
     id: String,                  // EDAA45
