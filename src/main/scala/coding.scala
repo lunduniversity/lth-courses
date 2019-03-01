@@ -5,11 +5,11 @@ object coding {
   type Topic = String // Specific topic (less than 10 per course)
   type Mode = String  // Type of teaching, e.g. "projekt", "laboration", ""
 
-  case class Course(     // Examples:
-    id: String,          // EDAA45
-    hp: HP,         // 7.5
-    name: String,        // Programmering, grundkurs
-    areas: Set[Area] = Set(),    // Set(Programmering)
+  case class Course(             // Examples:
+    id: String,                  // EDAA45
+    hp: HP,                      // 7.5
+    name: String,                // Programmering, grundkurs
+    areas: Set[Area] = Set(),    // Set("programmering")
     topics: Set[Topic] = Set(),  // Set("kontrollstrukturer", "sekvenser", "tabeller", "mängder", "matriser", "algoritmer", "imperativ programmering", "funktionsprogrammering", "objektorientering")
     modes: Set[Mode] = Set(),    // Set("laboration", "föreläsning", "övning", "skriftlig tentamen")
   )
