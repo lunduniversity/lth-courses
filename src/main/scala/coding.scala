@@ -14,8 +14,6 @@ object coding {
     modes: Set[Mode] = Set(),    // Set("laboration", "föreläsning", "övning", "skriftlig tentamen")
   )
 
-  case class Program(name: String, acronym: String, hp: Int)
-
   val courses: List[Course] = List( //Program C, Informations- och kommunikationsteknik
     Course(id = "EDAA01", hp = 7.5, name = "Programmeringsteknik - fördjupningskurs",
       areas = Set("programmering"),
