@@ -10,7 +10,7 @@ object coding {
     hp: HP,                      // 7.5
     name: String,                // Programmering, grundkurs
     areas: Set[Area] = Set(),    // Set("programmering")
-    topics: Set[Topic] = Set(),  // Set("kontrollstrukturer", "sekvenser", "tabeller", "mängder", "matriser", "algoritmer", "imperativ programmering", "funktionsprogrammering", "objektorientering")
+    topics: Set[Topic] = Set(),  // Set("kontrollstrukturer", "sekvenser", "tabeller", "mängder", "matriser", "algoritmer", "imperativ programmering", "funktionsprogrammering", "objektorientering", "Scala", "Java")
     modes: Set[Mode] = Set(),    // Set("laboration", "föreläsning", "övning", "skriftlig tentamen")
   )
 
@@ -21,7 +21,7 @@ object coding {
     ),
     Course(id = "EDAA55", hp = 9.0, name = "Programmeringsteknik",
       areas = Set("programmering"),
-      topics = Set("kontrollstrukturer", "sekvenser", "matriser", "algoritmer", "imperativ programmering", "objektorientering", "matlab")
+      topics = Set("kontrollstrukturer", "sekvenser", "matriser", "algoritmer", "imperativ programmering", "objektorientering", "Java", "MatLab")
     ),
     Course(id = "EDAF60", hp = 4.5, name = "Objektorienterad modellering och design", areas = Set(), topics = Set()),
     Course(id = "EDAF75", hp = 7.5, name = "Databasteknik", areas = Set(), topics = Set()),
