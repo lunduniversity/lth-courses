@@ -15,6 +15,7 @@ object coding {
   )
 
   val courses: List[Course] = List( //Program C, Informations- och kommunikationsteknik
+    //BR - ready for review
     Course(id = "EDAA01", hp = 7.5, name = "Programmeringsteknik - fördjupningskurs",
       areas = Set("programmering"),
       topics = Set("användargränssnitt", "abstrakta datatyper", "rekursion", "komplexitetsanalys", "objektorientering", "Java")
@@ -23,6 +24,30 @@ object coding {
       areas = Set("programmering"),
       topics = Set("kontrollstrukturer", "sekvenser", "matriser", "algoritmer", "imperativ programmering", "objektorientering", "Java", "MatLab")
     ),
+    //KRG -ready for review
+    Course(id = "MAMA15", hp = 7.5, name = "Interaktionsdesign, grundkurs",
+      areas = Set("interaktionsdesign"),
+      topics = Set("designprocess","användbarhet","användarupplevelse","human factors","användarstudier","konceptuell design","interaktionstekniker","interaktion"),
+      modes = Set("föreläsningar","workshops","projekt","handledning", "inlämningsuppgift")
+    ),
+    Course(id = "MAMN01", hp = 7.5, name = "Avancerad interaktionsdesign ",
+      areas = Set("interaktionsdesign", "programmering"),
+      topics = Set("designprocess","prototyper","iterationer","utvecklingsprocess",
+        "multimodal interaktion","designmetodik","återkoppling","sensorer","användarcentrering"),
+      modes = Set("föreläsningar","workshops","projekt","handledning")
+    ),
+    Course(id = "EXTA65", hp = 4.5, name = "Kognition",
+      areas = Set("kognition"),
+      topics = Set("kognitionsvetenskap","människa-teknik","människocentrerat","perception",
+        "inlärning","minne","begreppsbildning","kommunikation"),
+      modes = Set("föreläsningar","övningar","laborationer","inlämningsuppgifter")
+    ),
+    Course(id = "FMIF45", hp = 4.0, name = "Hållbarhet och resursanvändning med perspektiv på informations- och kommunikationsteknik",
+      areas = Set("hållbar utveckling"),
+      topics = Set("miljö", "hållbar utveckling", "klimat", "luftkvalitet", "energisystem", "resursanvändning", "avfallshantering", "livscykelanalys", "informations- och kommunikationsteknik"),
+      modes = Set("föreläsningar","seminarier", "projekt")
+    ),
+    // TODO:
     Course(id = "EDAF60", hp = 4.5, name = "Objektorienterad modellering och design", areas = Set(), topics = Set()),
     Course(id = "EDAF75", hp = 7.5, name = "Databasteknik", areas = Set(), topics = Set()),
     Course(id = "EDAF90", hp = 7.5, name = "Webbprogrammering", areas = Set(), topics = Set()),
@@ -37,16 +62,12 @@ object coding {
     Course(id = "ETSA02", hp = 6.0, name = "Programvaruutveckling - metodik", areas = Set(), topics = Set()),
     Course(id = "ETSF05", hp = 9.0, name = "Internetprotokoll", areas = Set(), topics = Set()),
     Course(id = "ETSF25", hp = 7.5, name = "Affärsdriven programvaruutveckling", areas = Set(), topics = Set()),
-    Course(id = "EXTA65", hp = 4.5, name = "Kognition", areas = Set(), topics = Set()),
     Course(id = "FAFA60", hp = 5.0, name = "Fotonik", areas = Set(), topics = Set()),
     Course(id = "FMAA05", hp = 15,  name = "Endimensionell analys", areas = Set(), topics = Set()),
     Course(id = "FMAB20", hp = 6.0, name = "Linjär algebra", areas = Set(), topics = Set()),
     Course(id = "FMAB30", hp = 6.0, name = "Flerdimensionell analys", areas = Set(), topics = Set()),
-    Course(id = "FMIF45", hp = 4.0, name = "Hållbarhet och resursanvändning med perspektiv på informations- och kommunikationsteknik", areas = Set(), topics = Set()),
     Course(id = "FMSF55", hp = 7.5, name = "Matematisk statistik, allmän kurs", areas = Set(), topics = Set()),
     Course(id = "FRTF05", hp = 7.5, name = "Reglerteknik, allmän kurs", areas = Set(), topics = Set()),
-    Course(id = "MAMA15", hp = 7.5, name = "Interaktionsdesign, grundkurs", areas = Set(), topics = Set()),
-    Course(id = "MAMN01", hp = 7.5, name = "Avancerad interaktionsdesign ", areas = Set(), topics = Set()),
   )
 
 }
