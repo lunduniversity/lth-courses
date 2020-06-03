@@ -4,7 +4,7 @@ object Main {
 
     case "--server"   :: xs =>
       CourseWebServer.start(
-        host = xs.lift(0).getOrElse("0.0.0.0"),
+        host = xs.lift(0).getOrElse("0.0.0.0"), //if "localhost" no remote access allowed
         port = scala.util.Try(xs(1).toInt).getOrElse(8090)
       )
 
