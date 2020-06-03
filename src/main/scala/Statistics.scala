@@ -41,7 +41,8 @@ object Statistics {
     val oblOfProgramFiltered =
       oblOfProgram.mapValues(oblSet => oblSet.toSeq.findCourses(words).sorted)
 
-    var summary = ""
+    type SummaryRow = (String, String, Int, Int)
+    var summary: Vector[SummaryRow] = Vector()
 
     val filter = words.mkString(" ")
 
@@ -50,7 +51,9 @@ object Statistics {
         val cs = oblOfProgramFiltered(p).toSeq.sorted
         val name = progName(p)
         val count = cs.size
-        val credits = cs.map(_.credits.toDouble).sum.round
+        val credits = cs.map(_.credits.toDouble).sum.round.toInt
+        summary = summary :+ ((p, name, count, credits))
+
         s"""
         |*** OBLIGATORISKA FÖR PROGRAM $p $name
         |   filter: $filter
@@ -61,7 +64,21 @@ object Statistics {
         """.stripMargin
       } else s"\n??? KONSTIG PROGRAMAKRONYM: $p\n"
     }.mkString
-    s"$allCourses $selectedPrograms"
+    def pad(s: Any, i: Int): String = s.toString.padTo(i, ' ')
+    val namePad = summary.map(_._2.size).max + 2
+    def latexRow(row: SummaryRow): String = row match {
+      case (id, name, count, hp) => 
+        s"${pad(id, 4)} & ${pad(name, namePad)} & ${pad(count, 5)} & ${pad(hp, 4)}"
+    }
+    val latexRows = summary.sortBy(_._3).reverse.map(latexRow).mkString("\n")
+    val latexSummary = s"""
+    |% Summering för användning i latex-dokument
+    |\\begin{tabular}{l l c c}
+    |Id   & ${pad("Program", namePad)} & antal & hp \\\\\\hline 
+    |$latexRows
+    |\\end{tabular}
+    """.stripMargin
+    s"$allCourses $selectedPrograms <pre>$latexSummary</pre>"
     //s"$selectedPrograms"
   }
 }
