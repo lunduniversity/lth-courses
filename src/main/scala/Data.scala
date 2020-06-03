@@ -12,7 +12,7 @@ object Data {
   lazy val progName: Map[String, String] =
     Grid.fromFile(s"data/program-names.tsv")
       .toMap("program")("namn")
-      .mapValues(_.apply("namn"))
+      .view.mapValues(_.apply("namn")).toMap //aargh! deprecatde in 2.13
       .withDefaultValue("???")
   
   lazy val civIng: Map[String, String] = progName.filterNot { case (k, v) =>
@@ -51,7 +51,7 @@ object Data {
         .dropWhile(_.isSpaceChar)
         .takeWhile(!_.isSpaceChar)
         .reverse
-      maybeNumber.trim.replaceAllLiterally(",",".").toDouble
+      maybeNumber.trim.replace(",",".").toDouble
     }.toOption
 
   def section(lines: Seq[String], from: String, to: String, key: String): (String, String) =
@@ -63,7 +63,7 @@ object Data {
         .mkString(" ")
 
   def parsePlan(plan: String): Map[String, String] = {
-    val lines = plan.split("\n")
+    val lines = plan.split("\n").toSeq
     Seq(
       "hp" -> numberBefore(plan, "högskolepoäng").getOrElse("???").toString,
       following(lines,"Kursplan för","namn"),
@@ -108,7 +108,8 @@ object Data {
   lazy val propertyOf: Map[String, Map[String, String]] = // propertyOf("EDAA45")("hp").toDouble
     courseIds.map(id => (id, parsePlan(plan(id)))).toMap
 
-  lazy val planLowerCase: Map[String, String] = plan.mapValues(_.toLowerCase)
+  lazy val planLowerCase: Map[String, String] = 
+    plan.view.mapValues(_.toLowerCase).toMap
 
   lazy val obl: List[(String, Vector[String])]  = loadListByKey(Key.Obl)
 
@@ -117,7 +118,9 @@ object Data {
 
   lazy val oblForProg: Map[String, Vector[String]] =
     oblForProgSpec
+      .view
       .mapValues(_.filterNot(_.contains("-")).map(_.takeWhile(_.isLetter)))
+      .toMap
       .withDefaultValue(Vector())
 
   lazy val oblIds = obl.map(_._1)

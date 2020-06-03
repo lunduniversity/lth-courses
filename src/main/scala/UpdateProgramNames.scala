@@ -23,7 +23,7 @@ object UpdateProgramNames {
     val start = line.indexOf("<strong>")
     val trimmed = line
       .substring(start + "<strong>".length)
-      .replaceAllLiterally(":</strong>", "")
+      .replace(":</strong>", "")
       .takeWhile(_ != '<')
       .trim
     val progId = trimmed.takeWhile(_ != ' ')

@@ -47,7 +47,7 @@ object Html {
 
   def h1(heading: String): String = s"<h1>$heading</h1>"
 
-  def br(soup: String): String = soup.replaceAllLiterally("\n"," </br>\n")
+  def br(soup: String): String = soup.replace("\n"," </br>\n")
 
   def inputFormProgWords(progs: String, words: String): String =
     s"""|<form action="" method="get">
@@ -100,5 +100,5 @@ object Html {
     s"""<a href="https://kurser.lth.se/kursplaner/18_19/$id.html">$id</a>"""
 
   def replaceAllCourseIdsWithLinks(soup: String, courseId: String): String =
-    soup.replaceAllLiterally(courseId, linkToCourse(courseId))
+    soup.replace(courseId, linkToCourse(courseId))
 }
