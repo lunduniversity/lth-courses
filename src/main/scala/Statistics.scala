@@ -28,6 +28,8 @@ object Statistics {
     |
     |alla program: ${Data.allExistingProgs}
     |
+    |civ.ing.prog: ${Data.civIng.keys.toSeq.sorted.mkString(" ")}
+    |
     |valda program: $selectedOrAll
     |""".stripMargin
     //|        obl. efter filtrering: ${n}st ($percent%)
@@ -39,14 +41,21 @@ object Statistics {
     val oblOfProgramFiltered =
       oblOfProgram.mapValues(oblSet => oblSet.toSeq.findCourses(words).sorted)
 
+    var summary = ""
+
+    val filter = words.mkString(" ")
+
     val selectedPrograms = programs.map{ p =>
       if (oblOfProgramFiltered.isDefinedAt(p)) {
         val cs = oblOfProgramFiltered(p).toSeq.sorted
+        val name = progName(p)
+        val count = cs.size
+        val credits = cs.map(_.credits.toDouble).sum.round
         s"""
-        |*** OBLIGATORISKA FÖR PROGRAM $p ${progName(p)}
-        |   filter: ${words.mkString(" ")}
-        |    antal: ${cs.size}st
-        |    poäng: ${cs.map(_.credits.toDouble).sum.round}hp
+        |*** OBLIGATORISKA FÖR PROGRAM $p $name
+        |   filter: $filter
+        |    antal: $count st
+        |    poäng: $credits hp
         |${cs.showCourses}
         |
         """.stripMargin

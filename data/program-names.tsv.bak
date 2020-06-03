@@ -9,13 +9,12 @@ E	Elektroteknik
 F	Teknisk fysik
 I	Industriell ekonomi
 IBYA	Byggteknik med arkitektur
-IBYI	Byggteknik, inriktning järnvägsteknik
-IBYV	Byggteknik, inriktning väg- och trafikteknik
+IBYI	Byggteknik inriktning järnvägsteknik
+IBYV	Byggteknik inriktning väg- och trafikteknik
 ID	Industridesign
 IDA	Datateknik (Hbg)
 IDL	Datateknik med logistik
 IEA	Elektroteknik med automation (Hbg)
-INEK	Industriell ekonomi (avslutning)
 K	Kemiteknik
 KID	Industridesign (kandidatutbildningen)
 L	Lantmäteri
@@ -29,12 +28,9 @@ MFOT	Masterutbildning i fotonik
 MFST	Masterutbildning i brandteknik
 MID	Masterutbildning i design
 MKAT	Masterutbildning i katastrofriskhantering och klimatanpassning
-MLAK	Masterutbildning i läkemedelsteknologi: Forskning, utveckling och produktion
 MLIV	Masterutbildning i livsmedelsteknik och nutrition
 MLOG	Masterutbildning i logistik och styrning av försörjningskedjor
-MMSR	Masterutbildning i maskininlärning, system och reglerteknik
 MNAV	Masterutbildning i nanovetenskap
-MPRR	Masterutbildning i produktrealisering
 MSOC	Masterutbildning i system på chips
 MSUD	Masterutbildning i hållbar stadsgestaltning
 MWIR	Masterutbildning i trådlös kommunikation
@@ -42,8 +38,9 @@ MWLU	Masterutbildning i vattenresurshantering
 N	Teknisk nanovetenskap
 Pi	Teknisk matematik
 RH	Riskhantering
-TB	Tekniskt basår (Hbg)
-TM	Technology Management (avslutning)
 V	Väg- och vattenbyggnad
 W	Ekosystemteknik
 YL	Livsmedelsteknisk högskoleutbildning
+INEK	Industriell ekonomi (avslutning)
+TM	Technology Management (avslutning)
+TB	Tekniskt basår

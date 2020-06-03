@@ -14,6 +14,17 @@ object Data {
       .toMap("program")("namn")
       .mapValues(_.apply("namn"))
       .withDefaultValue("???")
+  
+  lazy val civIng: Map[String, String] = progName.filterNot { case (k, v) =>
+      v.contains("(") || 
+      v.contains("Master") || 
+      v.contains("högskole") || 
+      v.contains("ingenjör") || 
+      (k.startsWith("I") && k.length > 1) ||
+      k == "L" ||
+      k == "RH" ||
+      k == "A"
+    }
 
   lazy val allExistingProgs: String = programs.toSeq.sorted.mkString(" ")
 
