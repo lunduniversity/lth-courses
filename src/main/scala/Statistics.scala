@@ -8,7 +8,7 @@ object Statistics {
     }.toMap
     println(s"argPairs=$argPairs")
 
-    val psTrimmed = argPairs.getOrElse("--programs", "F E M V A K D").trim.toUpperCase
+    val psTrimmed = argPairs.getOrElse("--programs", "F E M V A K D").trim //.toUpperCase //need to accept program names such as Pi
     val selectedOrAll = if (psTrimmed.nonEmpty) psTrimmed else Data.allExistingProgs
     val programs = selectedOrAll.split(" ").toList
     println(s"analyzing programs: $programs")
