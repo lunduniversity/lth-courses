@@ -5,7 +5,7 @@ import org.jsoup.nodes.{Document, Element}
 import scala.util.matching.Regex
 
 object Data {
-  val defaultYear = "18_19"
+  val defaultYear = "20_21"
   lazy val overview: Grid = Grid.fromFile(s"data/$defaultYear/overview.tsv")
   lazy val courseIds: Vector[String] = overview("kurskod")
 
@@ -55,7 +55,7 @@ object Data {
     val lines = plan.split("\n")
     Seq(
       "hp" -> numberBefore(plan, "högskolepoäng").getOrElse("???").toString,
-      following(lines,"Kursplan","namn"),
+      following(lines,"Kursplan för","namn"),
       section(lines, "Syfte", "Kursens examination", "beskrivning")
     ).toMap
   }
