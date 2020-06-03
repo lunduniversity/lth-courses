@@ -1,0 +1,88 @@
+
+Kursplan 2019/20 MMKA25
+
+
+
+
+
+Kursplan för
+Ritteknik/datorstödd ritning
+Manual and Computer Aided Drafting
+MMKA25, 6 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning M
+Beslutsdatum: 2019-03-27
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: M1, MD1
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursens syfte är att ge studenterna grundläggande kunskaper om
+skissning, maskinritning och om hur ritningar framställs såväl
+manuellt som med datorstöd. Kursen syftar även till att ge
+grundläggande kunskaper i hjälpmedel för visualisering och
+presentation. Förvärvade kunskaper och insikter skall utgöra en
+plattform för vidare självständig utveckling av kunskaperna inom
+området.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna välja och värdera grundläggande perspektiv- och
+projektionsformer
+kunna använda grundläggande maskinritregler utifrån den
+senaste standarden
+kunna använda grundläggande maskinritregler och kommandon i
+ett CAD-program
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna skapa perspektivskisser av enkla produkter/föremål
+kunna tolka komplexa och framställa enkla maskinritningar i
+form av detalj- och sammanställningsritningar
+kunna granska enkla detaljritningar
+kunna skapa enkla 3D-modeller och maskinritningar i ett
+CAD-program
+
+
+Kursinnehåll
+I kursen avhandlas följande kursmoment: skissning,
+maskinritning samt datorstödd 3D-modellering och
+ritningsframställning. Teorin i kursen baseras på den senaste
+standarden.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Kursen består av de tre momenten skissning, maskinritning samt datorstödd 3D-modellering och ritningsframställning. Samtliga tre kursmoment måste vara godkända. Slutbetyget erhålls som heltalsdelen av den viktade summan av respektive moments delbetyg. Följande viktfaktorer gäller: skissning 0,2, maskinritning 0,4 och datorstödd 3D-modellering och ritningsframställning 0,4.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Skissning. 
+Antal högskolepoäng: 1,5. Betygsskala: UG.  Prestationsbedömning: En individuell tentamen.  Delmomentet omfattar: Perspektivlära såväl på frihand som med hjälp av projektioner. 
+Kod: 0217. Benämning: Maskinritning. 
+Antal högskolepoäng: 2. Betygsskala: UG.  Prestationsbedömning: För kursmomenten maskinritning finns två valfria alternativ för att få delbetyg. Det första alternativet är att studenterna gruppvis arbetar med betygsgrundande individuella övningshäften under övningarna. Det andra alternativet är en individuell tentamen som ges i slutet av läsperiod 1. Om båda alternativen väljes räknas det bästa resultatet.  Delmomentet omfattar: Grundläggande ritregler och ritstandard avseende: Användning av ritblanketter, textning, skalor, linjer, vyer, särskilda markeringar och snitt, måttsättning, dimensionstoleranser och passningar, form- och lägetoleranser, ytjämnhet, svetsbeteckningar, förenklade ritsätt för viktiga maskinelement samt branschritningar. 
+Kod: 0317. Benämning: Projekt i CAD. 
+Antal högskolepoäng: 2,5. Betygsskala: UG.  Prestationsbedömning: individuellt projekt i CAD  Delmomentet omfattar: individuellt projekt i CAD 
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Karl Taavola: Ritteknik 2000 faktabok. ATHENA lär, 2011, ISBN: 978-91-88816-21-4. Ritteknik 2000 Faktabok.
+Karl Taavola: Ritteknik 2000 Övningsbok. ATHENA lär, 2009, ISBN: 978-91-88816-22-1. Ritteknik 2000 Övningsbok.
+Övningshandledning för skissning. Avdelningen för maskinkonstruktion.
+Joseph D´Amelio: Perspective drawing handbook. ISBN: 978-0-486-43208-3.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Per-Erik Andersson, per-erik.andersson@design.lth.se
+Kursadministratör: Cilla Perlhagen, cilla.perlhagen@design.lth.se
+Lärare: Per Kristav, per.kristav@design.lth.se
+Lärare: Damien Motte, damien.motte@design.lth.se
+Lärare: Nanond Nopparat, nanond.nopparat@design.lth.se
+Hemsida: http://www.product.lth.se/education/courses/
+
+
+

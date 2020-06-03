@@ -1,0 +1,92 @@
+
+Kursplan 2019/20 FRTN40
+
+
+
+
+
+Kursplan för
+Projekt i reglerteknik
+Project in Automatic Control
+FRTN40, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning F/Pi
+Beslutsdatum: 2019-03-26
+Allmänna uppgifter
+Valfri för: BME4, C4, D4-ssr, D4-is, E4-ra, F4, M4-me, Pi4
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Syftet med kursen är att befästa och utveckla studentens
+reglerteknikkunskaper i form av ett praktiskt projekt. Projektet
+innehåller ett flertal av de typiska momenten i ett reglertekniskt
+projekt: modellering, identifiering, analys, syntes och
+datorimplementering.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+ha förbättrat sina grundläggande reglerteknikkunskaper
+ha inhämtat nya kunskaper inom de områden som projektet
+aktualiserat
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna genomföra ett flertal av momenten i ett typiskt
+reglerteknikprojekt: modellering, identifiering, analys, syntes,
+datorimplementation, dokumentation och presentation.
+presentera sina projektresultat i både skriftlig och muntlig
+form
+ge återkoppling på andra studenters arbete
+visa förmåga på lagarbete och samarbete i projektform
+
+
+Kursinnehåll
+I ett industriellt reglerprojekt tar ofta modelleringsarbete en
+stor del av tiden. Det gäller också att beskriva de
+prestandabegränsingar som ges av dynamik i givare och ställdon
+och av mätbrus och styrsignalmättning. Kursprojekten genomförs
+företrädesvis på verkliga modellprocesser tillgängliga på
+institutionen, i vissa fall kan det vara lämpligt att förlägga
+experimenten till en annan institution eller till en industri.
+Reglerdesignen genomförs först på en matematisk modell innan
+färdiga programpaket utnyttjas i modelleringsarbetet, vid
+designberäkningar och simulering, liksom under
+implementeringsarbetet. Modellprocesser lämpliga för projekt kan
+t.ex. vara inverterad pendel, helikopterstyrning,
+fyrtanksprocessen, styrning av industrirobot. Ofta används Lego
+Mindstorm NXT som implementationsplattform.
+Regelbundna projektmötena är en del av undervisningen. I
+projektet ingår regelmässigt att söka och inhämta speciell
+kunskap. Ibland kan lämpligaste sättet vara seminarier eller
+gästföreläsningar. Projektredovisningen sker både muntligt och
+skriftligt under varierande former.
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: Godkänt projektarbete, fullbordat inom de givna tidsramarna.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+FRTF05 Reglerteknik, allmän kurs
+
+
+Begränsat antal platser: 25
+Urvalskriterier: Antal poäng som uppnåtts i kurserna FRTF15, FRTN35, FRTN45, FRTN01, FRTN05, FRTN10, FRTN15. Förtur ges till studenter vars program har kursen listad i läro- och timplanen.
+Kursen överlappar följande kurser: FRT090
+Kurslitteratur
+
+Åström, KJ: Reglerteori, Almqvist & Wiksell 1976 eller Glad, T. & Ljung, L: Reglerteknik – grundläggande teori, Studentlitteratur, 1989.
+Utdelat material från institutionen.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Kristian Soltesz, kristian.soltesz@control.lth.se
+Studierektor: Anton Cervin, anton.cervin@control.lth.se
+Hemsida: http://www.control.lth.se/course/FRTN40
+
+
+

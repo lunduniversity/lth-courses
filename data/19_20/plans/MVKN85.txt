@@ -1,0 +1,116 @@
+
+Kursplan 2019/20 MVKN85
+
+
+
+
+
+Kursplan för
+Turbulent förbränning
+Turbulent Combustion
+MVKN85, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning M
+Beslutsdatum: 2019-03-27
+Allmänna uppgifter
+Valfri för: F5, M4
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Syftet med kursen är att ge studenten god förståelse för den
+turbulenta förbränning som sker i typiska brännkammare; att ge
+studenten grundläggande kännedom om strukturen i reaktionszonen i
+turbulenta flammor och hur turbulens och reaktioner interagerar;
+att ge studenten förmågan att analysera och modellera
+förbränningsförlopp i industriella tillämpningar.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna beskriva de grundläggande transportprocesser som sker
+vid förbränning, dvs. transport av massa, rörelsemängd och
+energi.
+kunna beskriva de grundläggande kemiska reaktioner som sker
+vid förbränning, dvs. uppstart av kedjereaktioner, förgrening
+och avbrytande av reaktioner och inverkan av temperatur och tryck
+på dessa reaktioner.
+kunna analysera den grundläggande strukturen på förblandade
+flammor, icke-förblandade flammor och delvis förblandade flammor,
+och förklara de olika mekanismerna bakom de turbulenta virvlarnas
+interaktion med reaktionszonen.
+kunna beskriva olika modelleringsmetoder för turbulent
+förbränning, och föreslå och tillämpa relevanta modeller för
+förbränningsförlopp i industriella tillämpningar.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna använda kunskaperna om elementära reaktioner för att
+bestämma, för typiska förblandade flammor, flammans
+utbredningsegenskaper, dvs. magra och feta flamgränser,
+flamhastighet och släckningsavstånd.
+kunna använda flamteori för att, för typiska
+icke-förblandade jetflammor, bestämma släckningsvillkor, och
+förklara flamstabilisering m.h.a. kanten på brännaren, trubbiga
+kroppar och roterande flöde (eng. swirl).
+kunna använda relevanta modeller för att bestämma
+sammansättning och temperatur i reaktionszonen och i postflamman
+för förblandade turbulenta flammor.
+kunna bestämma de olika regimer gällande turbulenta
+förblandade- och icke-förblandade- flammor utgående från skalor
+för den turbulenta strömningen och flammans skalor.
+kunna i grupp, under handledning av en lärare, använda teorin
+och modellerna som diskuterats i kursen för att förutsäga och
+analysera de typiska turbulenta förbränningsprocesser som
+återfinns i gasturbiner, kolvmotorer och pannor.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna aktivt delta i diskussioner rörande turbulenta
+förbränningsprocesser.
+kunna i både skrift och tal presentera analyser av de typiska
+turbulenta förbränningsprocesser som återfinns i industriella
+tillämpningar.
+
+
+Kursinnehåll
+Kursen börjar med att gå igenom grundläggande begrepp och ge
+kunskap i bl.a. termokemi, kemisk kinetik, transportprocesser och
+ekvationer för reagerande strömning och turbulens. Därefter
+studeras först laminära förblandade och icke-förblandade
+flammor, detta följs av teori av turbulenta flammor och
+modellering av turbulent förbränning, och olika modeller som
+finns samt hur turbulens och förbränning påverkar varandra.
+Kursens sista moment handlar om tillämpning av turbulent
+förbränningsteori och modellering på de typiska turbulenta
+förbränningsprocesser som återfinns i t.ex. gasturbiner,
+kolvmotorer och pannor.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examination sker både enskilt och baserat på arbete i grupp. De obligatoriska inlämningsuppgifterna och laborationerna redovisas skriftligt i grupp. Projektuppgift redovisas både skriftligt i form av en rapport och muntligt vid ett seminarium, där alla gruppmedlemmar skall deltaga aktivt. Kursen avslutas med en skriftlig tentamen. För att få godkänt på denna kurs måste alla obligatoriska moment dvs. hemuppgifter, laboratorioner samt en skriftlig tentamen vara godkända. Betyg sätts baserat på skriftlig tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+MMV021/MMV211/MMVF10 Strömningslära
+
+
+Förutsatta förkunskaper: MMVF01 Termodynamik och strömningslära, MVK140/MVKN90 Turbulens - teori och modellering.
+Begränsat antal platser: Nej
+Kurslitteratur
+
+S. R. Turns: An Introduction to Combustion: Concepts and Applications, 3rd Edition. McGraw-Hill, 2011, ISBN: 9780071086875.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Professor Xue-Song Bai, Xue-Song.Bai@energy.lth.se
+Hemsida: http://www.energy.lth.se
+Övrig information: Kursen baseras på föreläsningar, övningar, projekt och hemuppgifter.
+
+
+
+

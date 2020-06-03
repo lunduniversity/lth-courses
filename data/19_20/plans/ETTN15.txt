@@ -1,0 +1,111 @@
+
+Kursplan 2019/20 ETTN15
+
+
+
+
+
+Kursplan för
+Moderna trådlösa system - LTE och dess efterföljare
+Modern Wireless Systems - LTE and Beyond
+ETTN15, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning C/D
+Beslutsdatum: 2019-04-01
+Allmänna uppgifter
+Huvudområde: Kommunikationssystem. 
+Valfri för: C5-ks, D5, E4-ks, MSOC2, MWIR2
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursen behandlar den senaste teknikutvecklingen inom
+trådlös kommunikation, inklusive 5g och LTE-system. Dessa system
+är högpresterande och representerar i flera
+avseenden "state-of-the-art". En central del av kursen är att ge
+detaljerad kunskap om de kommunikationsmetoder som används i
+nedlänk respektive upplänk som möjliggör dessa kraftiga
+prestandaökningar. I kursen ingår även trender för framtida
+systemlösningar. Kursens syfte är att ge goda kunskaper om
+principer, begrepp, funktion, prestanda och begränsningar för
+sådana system för mobil kommunikation.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+visa en väsentligt fördjupad kunskap inom moderna system för
+mobil kommunikation
+kritiskt analysera och ur ett helhetsperspektiv beskriva
+moderna system för mobil kommunikation
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna identifiera, formulera och hantera komplexa
+frågeställningar beträffande moderna system för mobil
+kommunikation
+ange förslag på tekniska lösningar baserade på
+5g/LTE-koncept som uppfyller givna prestandakrav
+visa förmåga att självständigt och kreativt arbeta med
+avancerade projekt, samt muntligt och skriftligt klart redogöra,
+motivera och diskutera sina slutsatser
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+visa förmåga att göra bedömningar med hänsyn till
+relevanta vetenskapliga, samhälleliga och etiska aspekter
+
+
+Kursinnehåll
+Kursen innehåller ett urval av följande ämnen i
+läroboken:
+1. What is 5G
+2. 5G Standardization
+3. Spectrum for 5G
+4. LTE Overview
+5. NR Overview
+6. Radio-Interface Architecture
+7. Overall transmission structure
+8. Channel sounding
+9. Transport-channel processing
+10. Physical-layer control signaling
+11. Multi-antenna transmission
+12. Beam management
+13. Retransmission protocols
+14. Scheduling
+15. Uplink power and timing control
+16. Initial access
+17. LTE/NR interworking and co-existence
+18. RF characteristics and requirements
+19. RF mmWave
+20. Beyond the first release of 5G
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Tentamen (5 tim) är skriftlig och omfattar normalt fem uppgifter av problemtyp. Godkänt projektarbete är ett krav för att få tentera.
+
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0112. Benämning: Moderna trådlösa system - LTE och dess efterföljare. 
+Antal högskolepoäng: 6. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen. 
+Kod: 0212. Benämning: Projekt. 
+Antal högskolepoäng: 1,5. Betygsskala: UG.  Prestationsbedömning: Godkänt projekt.  Delmomentet omfattar: Skriftlig rapport, muntlig presentation, samt opponering på annan grupps rapport och presentation. 
+Antagningsuppgifter
+Förutsatta förkunskaper: ETT051/EITG05 Digital kommunikation.
+ETIN15 Radiosystem eller EITN75 Design av trådlösa system
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Erik Dahlman, Stefan Parkvall, and Johan Sköld: 5G NR: The Next Generation Wireless Access Technology. Academic Press, 2018, ISBN: 9780128143230.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Professor Buon Kiong Lau, buon_kiong.lau@eit.lth.se
+Hemsida: http://www.eit.lth.se/kurs/ettn15
+Övrig information: Vid färre än 16 deltagare kan kursen komma att ges med reducerad undervisning och större inslag av självstudier.
+
+
+

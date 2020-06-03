@@ -1,0 +1,109 @@
+
+Kursplan 2019/20 FAFA01
+
+
+
+
+
+Kursplan för
+Fysik - Mekanik och vågor
+Physics - Mechanics and Waves
+FAFA01, 9 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning N
+Beslutsdatum: 2019-03-28
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: E1
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Studenten skall utveckla en förståelse av grundläggande
+begrepp och samband inom både klassisk och modern fysik, vilka har
+betydelse för vår omvärldsuppfattning, samhällets tekniska
+utveckling och som utgör en del av en naturvetenskaplig
+allmänbildning. Kursen skall öva modelltänkande och
+experimentell färdighet. Den skall också träna
+problemlösningsförmåga samt skriftlig redovisning. Kursen ska
+också, tillsammans med andra kurser i programmet, öva
+färdigheten att använda högnivåprogram, t.ex. MatLab, som
+analys- och beräkningsverktyg.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+ha förståelse för kopplingen mellan experiment, modeller och
+teori.
+kunna använda mekanikens grunder för att analysera enklare
+statiska och dynamiska processer, speciellt oscillerade
+system.
+kunna förstå vågfenomen i allmänhet och tillämpa detta
+inom akustik och optik.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna formulera och lösa fysikaliska problemställningar med
+matematiska metoder.
+ha insikt i den naturvetenskapliga metoden att med olika grad
+av approximation tillämpa samma modeller på ett stort antal olika
+problem.
+kunna planera och genomföra experiment
+kunna skriftligt och muntligt presentera och analysera
+experimentella data och ställa dessa i relation till olika
+fysikaliska modeller.
+kunna använda högnivåprogram (t.ex. MatLab) för att
+visulalisera, presentera och analysera experimentella data och
+fysikaliska modeller
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+ha förmåga att med ett naturvetenskapligt förhållningssätt
+kritiskt granska modeller och tekniska tillämpningar.
+ha ökat sin erfarenhet att arbeta i grupp för ett gemensamt
+mål.
+
+
+Kursinnehåll
+Mekaniska grundbegrepp såsom: hastighet, acceleration, kraft,
+energi, effekt, rörelsemängd, tröghetsmoment,
+rörelsemängdsmoment och vridmoment. Newtons lagar.
+Bevarandelagar. Statik: moment- och kraftsystem, friläggning och
+jämvikt i två och tre dimensioner, masscentrum, friktion.
+Harmoniska svängningar: fria, dämpade och drivna. Vågfenomen i
+allmänhet med tillämpningar inom akustik och optik.
+Vågutbredning i olika material, reflektion vid gränsytor,
+polarisation, interferens och diffraktion. Optiska komponenter.
+Gitter och gitterspektroskopi.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen och godkända laborationer.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0108. Benämning: Fysik - Mekanik och vågor. 
+Antal högskolepoäng: 7. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen.  Delmomentet omfattar: Fysik - Mekanik och vågor 
+Kod: 0208. Benämning: Laborationskurs mekanik och vågor. 
+Antal högskolepoäng: 2. Betygsskala: UG.  Prestationsbedömning: Godkända laborationer.  Delmomentet omfattar: Laborationerna: Fallrörelse, Svängningar, Geometrisk Optik, Ljusets diffraktion. 
+Antagningsuppgifter
+Förutsatta förkunskaper: FMAA05 Endimensionell analys. Viss erfarenhet av MATLAB.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FAF260, FAFA05, FAFF30, FAFA65, FAFF25, FAFF40, FAFA50, FAFA60
+Kurslitteratur
+
+Tipler, P A, Mosca, G. Physics for Scientists and Engineers. Extended version, sixth edition. Freeman 2008, ISBN: 0-7167-8964-7.
+Laborationshandledning Fysik - Mekanik och Vågor för E.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Lars Engström, lars.engstrom@fysik.lth.se
+Lärare: Lars Rippe, lars.rippe@fysik.lth.se
+Hemsida: http://www.atomic.physics.lu.se/education/mandatory_courses/fafa01_fysik_mekanik_och_vaagor/
+Övrig information: Närvaro vid första föreläsningen är obligatoriskt för att få tillträde till kursen.
+
+
+

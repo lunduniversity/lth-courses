@@ -1,0 +1,126 @@
+
+Kursplan 2019/20 FMAF01
+
+
+
+
+
+Kursplan för
+Matematik - Funktionsteori
+Mathematics - Analytic Functions
+FMAF01, 7 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning F/Pi
+Beslutsdatum: 2019-03-26
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: E2, F2, I2, Pi2
+Alternativobligatorisk för: D2
+Valfri för: BME4, C4, M4, N3
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Att ge matematiska begrepp och metoder från reell och komplex
+analys som är viktiga för vidare studier inom till exempel
+matematik, ekonomi, fysik, fältteori, matematisk statistik,
+reglerteknik och signalteori samt för framtida yrkesverksamhet.
+Syftet är vidare att få studenten att utveckla sin förmåga att
+lösa problem, att tillgodogöra sig matematisk text och att
+kommunicera matematik.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna redogöra för definitionerna av och egenskaperna hos
+de elementära analytiska funktionerna.
+kunna redogöra för den grundläggande teorin för analytiska
+funktioner (derivator och integraler).
+kunna visa förståelse för begreppet konvergens av serie, och
+känna till och kunna använda några kriterier för att avgöra
+konvergens.
+kunna visa förståelse för hur funktioner och signaler
+kan representeras på olika sätt dels som följder, dels som
+funktionsserier.
+ha viss erfarenhet och förståelse av matematiska och
+numeriska datorprogram.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna visa förmåga att självständigt välja lämpliga
+metoder för att lösa linjära differensekvationer och för att
+genomföra lösningen i huvudsak korrekt.
+kunna visa förmåga att självständigt välja lämpliga
+metoder för att avgöra om numeriska serier konvergerar eller
+divergerar samt vid konvergens kunna uppskatta seriesumman med
+olika metoder.
+kunna visa god förmåga att identifiera situationer där olika
+slag av Fourierserieutvecklingar är lämpliga samt att välja
+lämpliga metoder för att bestämma sådana utvecklingar.
+kunna visa förmåga att självständigt välja lämpliga
+metoder för att avgöra om funktionsserier kan deriveras eller
+integreras termvis.
+kunna visa förmåga att självständigt välja lämpliga
+metoder för att lösa problem med anknytning till analytiska
+funktioner.
+kunna visa förmåga att välja lämpliga metoder för att
+beräkna några typer av reella integraler med hjälp av
+residykalkyl.
+i samband med problemlösning kunna visa förmåga att
+integrera kunskaper från de olika delarna av kursen.
+med adekvat terminologi, väl strukturerat och logiskt
+sammanhängande kunna redogöra för lösningen till ett
+problem.
+
+
+Kursinnehåll
+Summor och serier: följder, differensekvationer,
+numeriska serier, absolut och betingad konvergens.
+Funktionsföljder och funktionsserier. Funktionsnormer och
+likformig konvergens.
+Potensserier: konvergensradie, integration och
+derivation av potensserier, potensserieutveckling av de elementära
+funktionerna.
+Fourierserier: exponentiella och trigonometriska
+Fourierserier, konvergensfrågor, Parsevals formel.
+Analytiska funktioner: definition av analytisk
+funktion, Cauchy-Riemanns ekvationer. Elementära analytiska
+funktioner. Cauchys integralsats och integralformel. Utveckling i
+potensserie. Identitetssatsen. Residysatsen. Beräkning av reella
+integraler med residykalkyl.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftligt prov omfattande teori och problem. Obligatoriska inlämningsuppgifter, vilka kräver arbete både med och utan dator, som måste vara utförda FÖRE tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0116. Benämning: Funktionsteori. 
+Antal högskolepoäng: 7. Betygsskala: TH. 
+Kod: 0216. Benämning: Inlämningsuppgifter. 
+Antal högskolepoäng: 0. Betygsskala: UG. 
+Antagningsuppgifter
+Förkunskapskrav:
+Minst 13 hp sammanlagt inom FMAA05 Endimensionell analys och FMAB30 Flerdimensionell analys
+
+
+Förutsatta förkunskaper: Linjär algebra (FMAB20) samt analys i en och flera variabler (FMAA01/FMAA05 och FMAB30). 
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FMA030, FMA037, FMA280
+Kurslitteratur
+
+Wikström, F: Funktionsteori. Studentlitteratur, 2014, ISBN: 978-91-44-09375-8.
+Wikström, F: Funktionsteori, övningsbok. Studentlitteratur, 2016, ISBN: 9789144115061.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Studierektor Anders Holst, Studierektor@math.lth.se
+Kursadministratör: Studerandeexpeditionen, expedition@math.lth.se
+Hemsida: http://www.maths.lth.se/course/funkteori/
+Övrig information: För att en skrivning skall rättas krävs att tentanden blivit godkänd på inlämningsuppgifterna före skrivningstillfället.
+
+
+
+
+

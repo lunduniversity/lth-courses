@@ -1,0 +1,103 @@
+
+Kursplan 2019/20 ABKF01
+
+
+
+
+
+Kursplan för
+Teknisk byggnadsförvaltning
+Technical Management of Buildings
+ABKF01, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning V
+Beslutsdatum: 2019-04-01
+Allmänna uppgifter
+Valfri för: L4-fe
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+I de svenska miljömålen finns angivet att energianvändningen
+i byggnader ska minska radikalt inom den närmsta 10-årsperioden
+och halveras till år 2050. EU föreskriver att år 2020 ska alla
+nya byggnader uppföras som ”Nära-nollenergibyggnader”.
+Kursens syfte är att ge studenten utökade kunskaper för att
+kunna bidra till en hållbar utveckling för att minska
+klimatpåverkan och resursanvändning från byggnadsbeståndet.
+Tyngdpunkten ligger på befintliga byggnader och deras
+upprustningsbehov samt drift.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+Kunna redogöra för möjligheter och begränsningar vid
+förbättring av byggnaders klimatskal.
+Kunna redogöra för funktion hos VVS-tekniska installationer
+utöver de vanligaste.
+Kunna redogöra för byggnaders energianvändning och relatera
+till miljömål och krav på energieffektivisering och
+resurshushållning.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+Kunna värdera vad konstruktion och installationer betyder för
+en byggnads inomhusmiljö, energianvändning och
+fuktsäkerhet.
+Ha förmåga att analysera enkla byggnadsrelaterade tekniska
+problem.
+Kunna diskutera lösningar med övriga aktörer inom bygg- och
+förvaltningsbranschen.
+
+
+Kursinnehåll
+
+Energieffektivitet och inomhusklimat främst vid ombyggnad och
+förvaltning av befintliga byggnader.
+Byggnadsbeståndets tekniska status och
+förbättringsmöjligheter.
+Särskilda krav på passiv- och lågenergihus.
+Funktionen hos olika komfortstyrande installationer i olika
+hustyper.
+Fuktrelaterade problem i hus och förslag till åtgärder.
+Åtgärder som kan minska en byggnads energianvändning.
+Tolkning av byggnads- och installationstekniska ritningar.
+Lösning av projektuppgift som utgår ifrån byggnader med
+problem med inneklimat och/eller tekniska problem, hitta
+orsakssamband samt föreslå förbättrande åtgärder.
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen samt godkänd seminarieuppgift.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: VTVA05 Hållbart byggande
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: VBF015
+Kurslitteratur
+
+Energieffektivisering av Sveriges flerbostadshus, IVA 2012.
+Energi-och miljöklassning av byggnader i Sverige, Bengt Dahlgren AB/CIT 2013.
+Energi i bebyggelsen – tekniska egenskaper och beräkningar, Boverket 2010.
+Så mår våra hus, Boverket 2009.
+Energieffektiva flerbostadshus – erfarenheter, Per Levin, BeBo, 2008.
+Att tilläggsisolera hus – fakta, fördelar och fallgropar, STEM 2009.
+Fönsterrenovering med energiglas, Energimyndigheten 2008.
+Så byggdes husen 1880-2000. Reppen L, Kallstenius P, Björk C. Liber 2003 (ref.litt).
+Isoverboken, Isover.
+Fuktboken, Gunnar Anderlind, Gullfiber AB, 1991.
+Föreläsningsanteckningar.
+Material utdelat under kursens gång.
+
+
+Kontaktinfo och övrigt
+Examinator: Dennis Johansson, dennis.johansson@hvac.lth.se
+Kursansvarig: Akram Abdul Hamid, akram.abdul_hamid@byggtek.lth.se
+Kursansvarig: Victor Fransson, victor.fransson@hvac.lth.se
+Hemsida: http://www.byfy.lth.se/utbildning/
+
+
+

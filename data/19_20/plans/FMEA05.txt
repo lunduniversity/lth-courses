@@ -1,0 +1,116 @@
+
+Kursplan 2019/20 FMEA05
+
+
+
+
+
+Kursplan för
+Mekanik - Statik och partikeldynamik
+Engineering Mechanics - Statics and Particle Dynamics
+FMEA05, 6 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning M
+Beslutsdatum: 2019-03-27
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: F1
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Syftet med kursen är att studenten ska tillägna sig:
+
+kunskaper om mekanikens grundläggande begrepp och samband för
+materiella system i jämvikt och partiklar i rörelse
+insikt i och förmåga till ingenjörsmässigt
+modelltänkande
+förmåga till problemlösning inom ett brett utbud av
+tillämningar genom att använda kunskaper i mekanik och
+matematik
+en medvetenhet om etiska aspekter inom ingenjörsyrket
+
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna förstå och använda grundbegrepp och
+grundekvationer inom mekaniken, samt uttrycka dem skalärt och i
+vektorform
+kunna frilägga en materiell kropp och ställa upp
+jämviktsekvationer
+kunna beskriva hastigheter och accelerationer i ett lämpligt
+koordinatsystem
+kunna använda sina mekanikkunskaper för problemlösning
+inom ett brett utbud av olika praktiska tillämpningar inom statik
+och partikeldynamik
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna utifrån verkliga situationer avgränsa en
+problemställning och identifiera gränssnitt
+tillämpa systematiska metoder för analys av mekaniska
+system i jämvikt och partiklar i rörelse
+presentera skriftliga lösningar av mekanikproblem där
+studenten anger vilka antaganden och ekvationer som använts och
+där tillhörande bildillustrationer inkluderats 
+kunna utifrån en given projektspecifikation avgränsa en
+problemställning och skapa en modell för behandling av uppgiften
+i ett simuleringsprogram
+utveckla förmåga till problemlösning genom tillämpning av
+matematiska metoder inom till exempel lineär algebra och teorin
+för ordinära differentialekvationer
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+värdera erhållna resultat utifrån fysikalisk rimlighet
+i sin analys av ett mekanikproblem kunna beskriva vilka
+antaganden som gjorts vid formuleringen av den fysikaliska modellen
+och kunna ge exempel på förhållanden under vilka modellens
+giltighet är begränsad
+
+
+Kursinnehåll
+Statik: Krafter, moment och kraftsystem i två
+och tre dimensioner. Likvärdiga kraftsystem. Friläggning och
+jämvikt. Virtuella arbetets princip. Tillämpningar av
+jämviktsekvationerna på materiella kroppar och delkroppar.
+Punktkrafter, fördelade krafter, yttre och inre krafter.
+Masscentrum och tyngdpunkt. Friktion. Tillämpningar så som
+exempelvis fackverk och ramar, balkar och hydrostatik. 
+Dynamik: Newtons lagar. Tröghetssystem.
+Kinematik och kinetik för partiklar i rät- och kroklinjig
+rörelse. Cartesiska, naturliga och polära koordinater. Arbete och
+energi. Rörelsemängd och rörelsemängdsmoment. Impuls och
+impulsmoment. Stöt. Tröghetsmoment. Roterande koordinatsystem.
+Fria svängningar. Vibrationer av dämpade och odämpade
+system.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen som föregås av frivillig dugga. Duggaresultatet kan tillgodoräknas vid ordinarie tentamen under innevarande år. Betygsskala TH på den skriftliga tentamen. 
+
+ 
+
+För godkänt betyg på kursen krävs godkänt resultat på skriftlig tentamen.  
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: FMA420 Linjär algebra och FMAA01/FMAA05 Endimensionell analys.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FMEA30
+Kurslitteratur
+
+Christer Nyberg: Mekanik, Statik. Liber, 2014, ISBN: 978-91-47-11442-9. Nyberg C. : Mekanik, Statik, Liber, 2014.
+Christer Nyberg: Mekanik, Partikeldynamik. Liber, 2014, ISBN: 978-91-47-11443-6. Nyberg C. : Mekanik, Partikeldynamik, Liber, 2014.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Kristina Nilsson, kristina.nilsson@mek.lth.se
+Hemsida: http://www.mek.lth.se
+
+
+

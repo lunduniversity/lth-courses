@@ -1,0 +1,127 @@
+
+Kursplan 2019/20 AEBF25
+
+
+
+
+
+Kursplan för
+Solenergi - grundkurs i solvärmeteknik
+Solar Heating Technology, Basic Course
+AEBF25, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning V
+Beslutsdatum: 2019-04-01
+Allmänna uppgifter
+Valfri för: E4, F4, M4, W4-es
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Energianvändningen i Sverige för uppvärming och varmvatten i
+bostäder och service byggnader överstiger årligen 100 TWH. Det
+innebär att uppförande av nya byggnader med låg
+energianvändning och ombyggnad av gamla byggnader för att minska
+energianvändningen är angelägna uppgifter. Installation av
+solvärmesystem kan utgöra en del i detta arbete.
+Kursens syfte är att visa hur solvärmesystem kan integreras
+och samverka med byggnadens energisystem. En viktig del är att
+studenterna skall lära sig att använda beräkningsprogram som
+simulerar hur solvärmesystemet växelverkar med byggnaden och dess
+värmebehov.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna redogöra för Sveriges och världens energianvändning
+och de förnybara energiteknikernas betydelse i nuläget och i
+framtiden.
+kunna redogöra för mekanismen för den globala
+växthuseffekten och uttunningen av Ozon-skiktet.
+kunna redogöra för olika typer av solfångare fungerar och i
+vilka applikationer de skall användas.
+kunna redogöra för hur solvärmesystem kan användas för
+att spara energi.
+kunna redogöra för materialegenskaperna hos olika
+energieffektiva ytor.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna uppskatta behovet av värme och varmvatten i en byggnad
+och dess fördelning i tiden
+kunna använda ett simuleringsprogram för att beräkna
+energiutbytet från ett solvärmesystem.
+kunna bygga upp solvärmesystem med dess komponenter och
+anpassa det till en given byggnad.
+känna till egenskaperna hos olika typer av solfångare och
+solvärmesystem
+kunna beräkna instrålningen i olika geometrier och
+väderstreck
+att med olika metoder kunna beräkna kostnaden och nyttan av
+solvärmesystemet
+förstå hur solvärmesystem på ett effektivt sätt kan fås
+att växelverka med andra energitekniker som fjärrvärme,
+direktel, vattenburen el, biobränslesystem och värmepumpar.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kritisk kunna granska och värdera nyttan och det ekonomiska
+värdet av energi genererad av solvärmesystem och andra
+fluktuerande energitekniker.
+kritisk kunna granska och värdera nyttan och det ekonomiska
+värdet av energi genererad av solvärmesystem och andra
+fluktuerande energitekniker.
+lära sig att kritiskt granska och analysera information
+lära sig att dra specifika och generella slutsatser av sitt
+eget och andras arbeten
+
+
+Kursinnehåll
+
+Grundläggande energikunskaper och miljöproblem kopplade till
+energianvändning.
+Instrålningsförhållanden och klimatförutsättningar för
+att använda solvärme i Sverige.
+Funktion och prestanda hos olika typer av solfångare.
+Materialegenskaper hos energieffektiva ytor.
+Uppbyggnad av och funktion hos solvärmesystem för
+enfamiljshus och flerfamiljshus.
+Integrering av solvärmesystem i byggnader och dess
+energisystem. Analys av systemens energiutbyte samt investerings-
+och driftskostnader.
+Användning av simuleringsprogram för att beräkna årsutbyte
+och månadsfördelning för solvärmesystem.
+Studiebesök vid ett antal uppförda små och stora
+solvärmesystem.
+Laborationer: solfångarprovning och systemanalys.
+Fördjupningsuppgift i ett specifikt ämne.
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen, fördjupningsuppgift, laborationsredogörelse och deltagande i studiebesök. I examinationen kommer tentamen att utgöra 70%, fördjupningsuppgiften 20% och laborationen 10% av underlaget för bedömningen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: Grundläggande kunskaper i installationsteknik, värmeöverföring och termodynamik. Erfarenhet av att använda beräkningsprogram, t.ex. Matlab och Excel.
+Begränsat antal platser: Nej
+Kursen kan ställas in: Om färre än 5 anmälda.
+Kursen överlappar följande kurser: TNA165, AEBF20
+Kurslitteratur
+
+Andrén Lars: Solar installations, Practical applications for the built environment. James & James (SciencePublishers), 2007, ISBN: 978-902916-45-3. Boken finns även på svenska:
+Andrén Lars Solenergi – praktiska tillämpningar i bebyggelse, Lars Andrén 2011, 4:eupplagan ISBN13: 9789173334730.
+Interna kurskompendium.
+Simuleringsprogrammen Winsun Villa och Solar Collector.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Henrik Davidsson, Henrik.Davidsson@ebd.lth.se
+Kursansvarig: Jouri Kanters, jouri.kanters@ebd.lth.se
+Hemsida: http://www.ebd.lth.se
+
+
+

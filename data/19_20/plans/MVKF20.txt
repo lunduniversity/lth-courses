@@ -1,0 +1,103 @@
+
+Kursplan 2019/20 MVKF20
+
+
+
+
+
+Kursplan för
+Transportfenomen i människokroppen
+Transport Phenomena in the Human Body
+MVKF20, 5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning BME
+Beslutsdatum: 2019-03-28
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: BME3
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+
+Kursen avser att ge studenterna grundläggande kunskaper om utvalda
+transportfenomen och hur dessa styr människokroppens funktion.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+ 
+
+förstå hur ekvationerna för konserverande av massa,
+rörelsemängd och energi uttrycks på integral- respektive
+differentialform
+förstå vilka antaganden som leder till Bernoullis
+ekvation
+förstå skillnaden mellan laminär och turbulent strömning
+och hur deformerbara väggar och pulserande tryck påverkar
+flöden
+förstå hur värme genereras, leds och överförs i
+människokroppen
+förstå skillnaden mellan Newtonska och icke-Newtonska fluider
+och vad detta innebär för flöden i människokroppen
+
+ 
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+ 
+
+kunna beskriva hur mass- och värmetransport sker i andning och
+blodflöde
+kunna analysera inre organ, t.ex. njurar, ur ett
+transportprocessperspektiv
+kunna delta aktivt i diskussioner inom ämnet relevanta
+problem
+
+ 
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+ 
+
+kunna kritiskt granska och utifrån givna kriterier bedöma
+rimligheten hos beräkningar av värme- och masstransport
+kunna tolka resultat från flödesberäkningar och förstå
+deras betydelse för upprätthållandet av människokroppens
+homeostas
+
+ 
+
+Kursinnehåll
+Kroppens transportprocesser beskrivs med en fluidmekanisk
+begreppsapparat.  Bevarande av massa, rörelsemängd och energi i
+människokroppen ställs upp på olika form, integral respektive
+differential, med hjälp av Reynolds transportteorem, och
+utifrån dessa härleds Bernoulli’s ekvation. Kriterier för och
+konsekvenser av laminärt och turbulent flöde i människokroppen
+diskuteras. Många av flödena i kroppen sker i kanaler med
+deformerbara väggar och drivs pulserande och detta är en viktig
+del av kursen.  Många av kroppens vätskor har komplicerade
+egenskaper som gör att det inte är tillräckligt att beskriva dem
+förenklade som newtonska; därför omfattar kursen även
+beskrivning av icke-newtonska fluiders egenskaper. Kursen omfattar
+även värmegenerering, värmeöverföringsfenomen som är viktiga
+för kroppens funktioner.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen och godkända inlämningsuppgifter.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: TEK015, EXTG50 Människans fysiologi, FMA430, FMAB30 Flerdimensionell analys och FHL055, FHLA05 Teknisk mekanik
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Truskey G.A, Yuan F, Katz D.F: Transport Phenomena in Biological Systems. Pearson, ISBN: 978-0-13-513154-1.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Ingrid Svensson, ingrid.svensson@solid.lth.se
+Hemsida: http://www.fm.energy.lth.se/utbildning/kurser/transport
+
+
+

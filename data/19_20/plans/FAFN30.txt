@@ -1,0 +1,87 @@
+
+Kursplan 2019/20 FAFN30
+
+
+
+
+
+Kursplan för
+Svepspetsmikroskopi
+Scanning Probe Microscopy
+FAFN30, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning F/Pi
+Beslutsdatum: 2019-03-26
+Allmänna uppgifter
+Huvudområde: Nanovetenskap. 
+Valfri för: F4, N4-nf
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursen behandlar området extremt högupplösande mikroskopering
+med användande av svepspetsmetoder. Dessa tekniker har idag fått
+vitt spridda användningsområden från avancerad fysik och kemi
+med atomär precision till biologiska tillämpningar såsom studier
+av enskilda celler och virus. Kursen behandlar både bakomliggande
+teori och praktiska aspekter på handhavande samt möjliga
+användningsområden av svepspetsmikroskopi. Speciell tonvikt
+kommer att läggas på STM (eng. Scanning Tunneling Microscopy) och
+AFM (eng. Atomic Force Microscopy).
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna beskriva den gemensamma principen bakom metoder för
+svepspetsmikroskopi och hur sådana tekniker kan realiseras
+kunna förklara växelverkan mellan prov och spets för
+sveptunnelmikroskop och atomkraftmikroskop
+kritiskt kunna tolka bilder och spektra som har
+insamlats genom svepspetsmikroskopi
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+självständigt kunna tillgodogöra sig kunskap om en
+specifik svepspetsmikroskopiteknik genom litteraturstudier
+kunna utvärdera möjligheter och begränsningar för olika
+metoder för svepspetsmikroskopi och jämföra bilder från
+sådana mikroskop.
+
+
+Kursinnehåll
+Introduktion till svepspetsmikroskopi. Instrumentering:
+positionsstyrning av prov och spets, datainsamling och elektronik,
+ultrahögvakuum, vibrationsdämpning. Sveptunnelmikroskopi: princip
+och användning, metoder för avbildning och spektroskopi, kemiska
+och strukturella kontrastmekanismer, prov- och spetstillverkning,
+atomär upplösning av metaller och halvledare.
+Atomkraftmikroskopi: princip och användning, metoder för
+avbildning, kraftkurvor. Optisk svepspetsmikroskopi: princip och
+användning. Exempel på mera avancerade
+svepspetsmikroskopitekniker och kombinerade metoder. Användning av
+metoder för svepspetsmikroskopi i fasta tillståndets fysik, kemi
+och nanoteknik.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: För att bli godkänd på kursen krävs godkända inlämningsuppgifter, godkänt projektarbete och muntlig tentamen. Projektarbetet redovisas skriftligt och presenteras muntligt vid ett seminarium. Betyget baseras på en sammanvägning av inlämningsuppgifter (20%), projektrapport och seminariepresentation (30%) och muntlig tentamen (50 %).
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: FFFF05 Fasta tillståndets fysik eller FFFF01 Elektroniska material.
+Begränsat antal platser: 30
+Urvalskriterier: 1. Inriktningen av påbörjat examensarbete. 2. Avklarade högskolepoäng inom programmet. 3. Erhållna betyg på kurser inom programmet där slutbetyg erhållits. Förtur ges till studenter vars program har kursen listad i läro- och timplanen.
+Kursen överlappar följande kurser: FAF085
+Kurslitteratur
+
+Föreläsningsanteckningar och kompletterande litteratur delas ut under kursen.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Jan Knudsen, jan.knudsen@sljus.lu.se
+Kursansvarig: Rainer Timm, rainer.timm@sljus.lu.se
+Hemsida: http://ww2.sljus.lu.se/staff/rainer/SPM.htm
+
+
+

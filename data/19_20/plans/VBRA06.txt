@@ -1,0 +1,130 @@
+
+Kursplan 2019/20 VBRA06
+
+
+
+
+
+Kursplan för
+Introduktion till brandteknik
+Introduction to Fire Safety Engineering
+VBRA06, 6 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning BI/RH
+Beslutsdatum: 2019-03-27
+Allmänna uppgifter
+Obligatorisk för: BI1
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Syftet är att studenterna skall få en bred och översiktlig
+kunskap inom brandteknik, t ex relevanta lagar och regler,
+grundläggande brandteori, grundläggande brandskydds-teknisk
+dimensionering (inkl. riskhantering), och räddningstjänst. Efter
+genomgången kurs ska studenterna behärska vanliga termer och
+begrepp inom det brandtekniska området. Kursen syftar också till
+att introducera brandingenjörens roll i samhället, speciellt med
+fokus på brandingenjörens huvudsakliga yrkesroller. Slutligen
+syftar kursen till att ge kursdeltagande grundläggande kunskaper
+inom muntlig och skriftlig kommunikation, laborativt arbete samt
+förbereda dem för vidare universitetsstudier.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+Kunna beskriva lagar och regler kopplade till brandteknik.
+Kunna förklara vanliga termer och begrepp inom det
+brandtekniska området.
+Kunna beskriva grundläggande brandteori.
+Kunna översiktligt beskriva brandförlopp i rum samt de
+fenomen som uppstår vid en rumsbrand.
+Kunna beskriva de vanligaste släcksystemen och tillhörande
+släckmedel.
+Kunna beskriva vanligt förekommande branddetektorer i
+byggnader
+Kunna beskriva räddningstjänstens arbete och
+räddningsinsatser vid brand.
+Kunna beskriva brandskyddsteknisk dimensionering.
+Kunna beskriva hur det byggnadstekniska brandskyddet är
+uppbyggt av aktivt och passivt brandskydd.
+Kunna beskriva begreppen risk, riskanalys och
+riskhantering.
+Kunna beskriva säkerhetsregler för laboratoriearbete.
+
+ 
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+Kunna använda vanliga termer och begrepp inom det
+brandtekniska området i både tal och skrift.
+Kunna använda grundläggande brandteori.
+Kunna utföra grundläggande förenklad dimensionering.
+Kunna tillämpa vissa delar i riskhanteringsprocessen.
+Muntligt och skriftligt kunna beskriva ett ämnesområde, samt
+argumentera och övertyga.
+Kunna söka och sammanställa kunskap.
+Kunna utföra grundläggande informationssökningar.
+Behärska grunderna i formalia vid rapportskrivning.
+Vara bekant med frågor kring akademiskt skrivande och
+plagiering.
+
+ 
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+Visa förmåga att identifiera sitt behov av ytterligare
+kunskap.
+
+ 
+
+Kursinnehåll
+I kursen ingår följande delar:
+
+Grundläggande brandteori
+Brandskydd och brandskyddsteknisk dimensionering
+Räddningstjänst och insatser
+Brandingenjörens roll i samhället
+Brandtekniskt laboratoriearbete
+Muntlig och skriftlig kommunikation
+Introduktion i bibliotekens informationsresurser och i
+grundläggande sökteknik
+
+ 
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examination sker med (1) dugga, (2) uppgifter (skriftlig och/eller muntlig redovisning) och (3) laborativt arbete (skriftlig och/eller muntlig redovisning). Samtliga examinerande moment måste vara godkända för att studenten skall få godkänt på kursen. Dessutom krävs obligatorisk närvaro på samtliga seminarier/redovisningar och laborationer/praktikdagar.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0115. Benämning: Duggor/tentor. 
+Antal högskolepoäng: 3. Betygsskala: TH.  Prestationsbedömning: Skriftlig examination 
+Kod: 0215. Benämning: Uppgifter/laboration. 
+Antal högskolepoäng: 3. Betygsskala: UG.  Prestationsbedömning: Godkända skriftlig och muntlig redovisning samt obligatoriska laborationer   Delmomentet omfattar: Arbete med skriftlig och muntlig redovisning samt obligatoriska laborationer  
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: VBR150, VBR162, VBRA01, VBRA05
+Kurslitteratur
+
+Termer och begrepp inom brandteknik - ordlista.
+Ondrus, J.: Brandteori. Karlstad: Räddningsverket, 1996.
+Bengtsson, L-G: Inomhusbrand. Karlstad: Räddningsverket, 2001.
+Brandskyddshandboken: Brandskyddshandboken, Rapport 3161. Lund: Brandteknik, Lunds tekniska högskola, 2012.
+Nilsson, D., & Holmstedt, G.: Kompendium i aktiva system - Detektion. Lund: Brandteknik, Lunds tekniska högskola, 2008.
+Särdqvist, S.: Vatten och andra släckmedel. Karlstad: Räddningsverket, 2007.
+Nystedt, F & Frantzich, H.: Kvalitetsmanual för brandtekniska analyser vid svenska kärntekniska anläggningar, Rapport 3160. Lund: Brandteknik och riskhantering, Lunds tekniska högskola, 2011.
+Bengtsson, L-G.: Övertändning, backdraft och brandgasexplosion sett ur räddningstjänstens perspektiv, Rapport 1019. Lund: Brandteknik, Lunds tekniska högskola, 1999.
+Alfredsson, C. & Carlsson, C-H.: Räddningstjänst och miljö. Karlstad: Räddningsverket, 2006.
+Madsen, D.: Säkerhetsrutiner för laborativ och experimentell verksamhet vid avdelningen Brandteknik. Lund: Brandteknik, Lunds tekniska högskola, 2015.
+Enander, A.: Människors förhållningssätt till risker, olyckor och kriser. Karlstad: Räddningsverket, 2005.
+Nilsson, J.: Introduktion till riskanalysmetoder, Rapport 3124. Lund: Brandteknik, Lunds tekniska högskola, 2003.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Håkan Frantzich, hakan.frantzich@brand.lth.se
+Övrig information: I grupparbeten förutsätts aktivt deltagande. Varje gruppmedlem skall enskilt kunna redovisa och svara för innehållet. Uppfyller inte en medlem övrigas krav på aktiv medverkan, eller åsidosätter sina åtaganden, kan beslut av examinator om omplacering till annan grupp eller underkänt betyg erhållas.
+
+
+

@@ -1,0 +1,99 @@
+
+Kursplan 2019/20 FMAN20
+
+
+
+
+
+Kursplan för
+Bildanalys
+Image Analysis
+FMAN20, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning F/Pi
+Beslutsdatum: 2019-03-26
+Allmänna uppgifter
+Valfri för: BME4-sbh, BME4-br, C5, D4-bg, D4-mai, E4-mt, E4-bg, F4, F4-bg, F4-bm, L5-gi, Pi4-biek, Pi4-bam
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Kursens huvudsyfte är att ge en grundläggande introduktion
+till teori och matematiska metoder inom bildanalys, i tillräcklig
+omfattning för att studenten skall kunna ta sig an industriella
+bildbehandlingsproblem. Vidare är syftet att få studenten att
+utveckla sin förmåga till problemlösning, både med och utan
+dator. Ett ytterligare syfte är att förbereda studenten för
+fortsatta studier i t ex datorseende, multispektral bildanalys och
+statistisk bildanalys.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna tydligt förklara och självständigt använda
+matematiska grundbegrepp inom bildanalys, speciellt med avseende
+på transformteori (både i rums- och frekvensplanet),
+bildförbättringsmetoder, komprimering och
+mönsterigenkänning.
+kunna beskriva och översiktligt förklara den matematiska
+teorin bakom några centrala bildbehandlingsalgoritmer (såväl
+deterministiska som stokastiska).
+ha  förståelse för de statistiska principerna som ligger
+till grund för maskininlärning.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+på ett ingenjörsmässigt sätt kunna använda programpaket
+på dator för att lösa bildanalysproblem.
+kunna självständigt applicera grundläggande bildtekniker på
+industriellt och forskningsmässigt relevanta
+bildbehandlingsproblem.
+med adekvat terminologi, väl strukturerat och logiskt
+sammanhängande kunna redogöra för lösningen till ett
+bildanalysproblem.
+
+
+Kursinnehåll
+Matematiska grundbegrepp: Bildtransformer, Diskret
+Fourier Transform, Fast Fourier Transform.
+Bildförbättring: Grånivåtransformer,
+filtreringar.
+Bildrestaurering: Filtreringar, inversa metoder.
+Skalrumsteori: Kontinuerlig-diskret teori,
+interpolation.
+Särdragsextraktion: Filtreringar, kant- och
+hörndetektion.
+Segmentering: Graf-metoder, aktiva konturer, matematisk
+morfologi.
+Bayesiansk bildbehandling: Maximum A Posteriori
+(MAP)-skattningar, simulering.
+Mönsterigenkänning: Klassificering, SVM
+(StödVektorMaskin), PrincipalKomponentAnalys (PCA),
+inlärning.
+Registrering
+Maskininlärning: Inlärning, prövning,
+generalisering, hypotesrum
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Obligatoriska datorlaborationer och inlämningsuppgifter. Godkänt resultat på dessa räcker för godkänt på kursen. För överbetyg fordras godkänt resultat på en skrivning och en muntlig tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper:  FMAF05 System och transformer eller liknande (t. ex. FMAF10 Tillämpad Matematik - Linjära system)
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FMA170, FMA172, MATC20
+Kurslitteratur
+
+Szeliski, R.: Computer Vision, Algorithms and Applications. Springer, 2010, ISBN: 9781848829343. Det är möjligt att klara kursen utan att köpa boken, med användning av material på kurshemsidan.
+
+
+Kontaktinfo och övrigt
+Studierektor: Anders Holst, studierektor@math.lth.se
+Kursansvarig: Kalle Åström, kalle@maths.lth.se
+Kursadministratör: Studerandeexpeditionen, expedition@math.lth.se
+Hemsida: http://www.ctr.maths.lu.se/course/newimagean/
+
+
+

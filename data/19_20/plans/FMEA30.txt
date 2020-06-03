@@ -1,0 +1,161 @@
+
+Kursplan 2019/20 FMEA30
+
+
+
+
+
+Kursplan för
+Mekanik
+Engineering Mechanics
+FMEA30, 15 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning M
+Beslutsdatum: 2019-03-27
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: M2, MD2
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Syftet med kursen är att:
+
+ge kunskaper om mekanikens grundläggande begrepp och samband
+för materiella system i jämvikt
+ge kunskaper om mekanikens grundläggande begrepp och samband
+för materiella system i rörelse, främst partikelsystem och
+stela kroppar
+ge insikt i ingenjörsmässigt modelltänkande
+ge förmåga till problemlösning genom tillämpning
+av programsystemen MATLAB och ADAMS på mekanikproblem
+
+
+
+
+
+
+
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna definiera och använda grundbegreppen kraft, moment,
+rörelsemängd, rörelsemängdsmoment, impuls och impulsmoment,
+samt kunna uttrycka dessa i skalär och vektorform
+kunna frilägga en materiell kropp och ställa upp jämvikts-
+och rörelseekvationer
+kunna beskriva hastigheter och accelerationer i Cartesiska,
+naturliga och polära koordinatsystem, samt använda kraft- och
+momentekvationer för en partikel
+Kunna använda hastighets- och accelarationssamband vid stel
+kropps rörelse
+kunna definiera och använda grundbegreppen rörelsemängd,
+rörelsemängdsmoment, impuls och impulsmoment, tröghetsmoment,
+effekt, energi och arbete för en stel kropp
+kunna använda kraft- och momentekvationer för att beskriva
+stelkroppsrörelse i planet
+kunna analysera  olika praktiska problemställningar i
+mekaniken
+kunna använda MATLAB vid lösning av mekanikproblem
+
+
+
+
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna utifrån verkliga situationer avgränsa en
+problemställning och utföra en jämviktsanalys
+tillämpa systematiska metoder för analys av mekaniska system
+i jämvikt och partiklar i rörelse
+utifrån verkliga situationer kunna avgränsa en
+problemställning och behandla materiella kroppar som
+partiklar eller stela kroppar
+tillämpa systematiska metoder för analys av mekaniska system
+i rörelse
+presentera skriftliga lösningar av mekanikproblem
+innehållande lämpliga figurer över friläggningar och
+diagram
+kunna utifrån en given projektspecifikation avgränsa en
+problemställning och skapa en modell för behandling av uppgiften
+i ett simuleringsprogram
+
+
+
+
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+värdera erhållna resultat utifrån fysikalisk rimlighet
+
+
+
+
+Kursinnehåll
+Statik: Krafter, moment och kraftsystem i två
+och tre dimensioner. Likvärdiga kraftsystem. Friläggning och
+jämvikt. Tillämpningar av jämviktsekvationerna på materiella
+kroppar och delkroppar. Jämvikt för fackverk och ramar.
+Fördelade krafter (masscentrum, tyngdpunkt (3D), flexibla kablar).
+Friktion. Potentiell energi och stabilitet.
+Dynamik: Newtons lagar, kinematik och kinetik
+för partiklar i rät- och kroklinjig rörelse, cartesiska,
+naturliga och polära koordinater. Arbete och energi.
+Rörelsemängd och rörelsemängdsmoment. Impuls och impulsmoment,
+samt stöt.Partikelsystemets kinetik. Kinematik för partiklar i
+rät- och kroklinjig rörelse, cartesiska, naturliga och polära
+koordinater. Tröghetsmoment. Kinematik och kinetik för stela
+kroppar i planet. Arbete, energi, rörelsemängd,
+rörelsemängdsmoment, impuls, impulsmoment samt stöt. Roterande
+koordinatsystem. Små svängningar i odämpade och dämpade
+mekaniska system. Fri svängningsrörelse samt svängning med
+tvångsvillkor. Partikelrörelse och stelkroppssvängning. Studie
+av fysikaliska företeelser så som självsvängning och svävning.
+Vibrationsanalys innefattande egenvinkelfrekvens och
+dämpningsfaktor.
+MATLAB: Numeriska beräkningar, formulera
+scripts, definiera funktioner, grafisk presentation,sybolisk
+beräkning, derivering och integrering, ekvationslösning,
+differentialekvationer, lineär algebra
+
+
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftliga deltentamina. Godkänd projektrapport och godkända inlämningsuppgifter.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0113. Benämning: Statik och partikeldynamik. 
+Antal högskolepoäng: 7. Betygsskala: TH.  Prestationsbedömning: Skriftlig deltentamen.  
+Kod: 0213. Benämning: Dynamik. 
+Antal högskolepoäng: 5. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen.  
+Kod: 0313. Benämning: Projekt. 
+Antal högskolepoäng: 0. Betygsskala: UG.  Prestationsbedömning: Godkänd projektrapport.  
+Kod: 0413. Benämning: Inlämningsuppgift 1. 
+Antal högskolepoäng: 1,5. Betygsskala: UG.  Prestationsbedömning: Godkänd inl uppgift. 
+Kod: 0513. Benämning: Inlämningsuppgift 2. 
+Antal högskolepoäng: 1,5. Betygsskala: UG.  Prestationsbedömning: Godkänd inl uppgift. 
+Antagningsuppgifter
+Förutsatta förkunskaper: FMA420 Linjär algebra och FMAA01/05 Endimensionell analys.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FMEA01, FMEA25, FMEA05, FMEA20, FMEA10, FMEA15
+Kurslitteratur
+
+C.Nyberg: Mekanik : statik. Liber, 2014, ISBN:  9789147114429.
+C. Nyberg: Mekanik - Partikeldynamik. Liber, 2014, ISBN: 9789147114436.
+C. Nyberg: Mekanik - Stelkroppsdynamik. Liber, 2014, ISBN: 9789147114443.
+ William J. Palm III: A Concise Introduction to MATLAB, International Edition. McGraw Hill, 2008.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Per Hansson, per.hansson@mek.lth.se
+Hemsida: http://www.mek.lth.se/Education
+
+
+

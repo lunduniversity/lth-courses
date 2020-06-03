@@ -1,0 +1,109 @@
+
+Kursplan 2019/20 VTVN15
+
+
+
+
+
+Kursplan för
+Trafikteknisk analys
+Traffic Engineering and Analysis
+VTVN15, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning V
+Beslutsdatum: 2019-04-01
+Allmänna uppgifter
+Valfri för: V4-tv
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Syftet med kursen är att få en tillämpad och fördjupad
+kunskap inom det trafiktekniska området vad gäller teorier, mät-
+och analysmetoder samt hantering av trafikteknisk data.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+Ha kunskap om metoder för mätning och beräkning av
+trafiksystemets framkomlighet, tillgänglighet, buller och
+avgaser.
+Ha kunskap om vilka variabler som påverkar trafikens effekter
+inom framkomlighet och miljö.
+Ha kunskap om de viktigaste åtgärderna för att
+förändra/förbättra framkomlighet, tillgänglighet, trygghet,
+trafikbuller samt trafikens luftföroreningar.
+Ha kunskap om trafiktekniska mätmetoder och
+undersökningsmetodik på såväl övergripande som platsspecifik
+nivå.
+Ha förståelse för hur trafikanters beteenden förändras av
+olika typer av åtgärder.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+Kunna definiera behov av och kvalitet på data för att kunna
+bedöma trafikens effekter i en trafikmiljö samt genomföra denna
+datainsamling.
+Kunna använda olika program för att beräkna trafikens
+effekter.
+Kunna kommunicera skriftligt med argument som bygger på
+relevant trafikteknisk teori.
+Diskutera och muntligt presentera resultaten av det egna
+projektarbetet.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+Ha förmåga att använda relevant trafikteknisk data och
+trafiktekniska teorier för att kunna dra slutsatser om en plats
+trafiktekniska kvalitéer.
+Ha god förståelse för sambandet mellan trafikplanering och
+dess effekter.
+Äga en systemsyn vad gäller trafikens förutsättningar för
+olika trafikantgrupper och trafikslag.
+Kunna värdera och förhålla sig till trafikutredningar och
+bedöma kvalitet på insamlad data och de slutsatsar som kan dras
+ur detta.
+
+
+Kursinnehåll
+Kursen innehåller föreläsningar, övningar, fältstudier,
+projektarbete och litteraturstudier. Föreläsningar och
+litteraturstudier ger en god teoretisk bas och en bred kunskap och
+förståelse för trafiktekniska grundbegrepp och de praktiska
+övningarna ger tillämpade kunskaper. Ett projektarbete i grupp
+ger studenterna möjlighet att fördjupa sig ytterligare inom ett
+specifikt område.
+Projektarbetet redovisas såväl skriftligt som muntligt och
+lärarna lämnar såväl kontinuerlig formativ som summativ
+återkoppling på arbetet.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: För godkänd kurs krävs godkänd skriftlig tentamen, godkända övningar, godkända projektarbeten, godkänd muntlig presentation samt närvaro vid obligatoriska moment. Slutbetyget vägs samman av betygen på tentamen, övningar och projektarbete.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+VTTF01 Trafikteknik
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: VTTF05, VTTF10, VTT141
+Kurslitteratur
+
+Trafikverket: TRVMB Kapacitet och framkomlighetseffekter, Trafikverkets metodbeskrivning för beräkning av kapacitet. Ineko, 2013. TRV 2013:64343.
+Naturvårdsverket, Vägverket, Nordiska ministerrådet: Vägtrafikbuller, Nordisk beräkningsmodell, reviderad 1996. Naturvårdsverket Förlag, 2008, ISBN: 91-620-4653-5.
+Naturvårdsverket: Luftguiden, Handbok om miljökvalitetsnormer för utomhusluft. Naturvårdsverket, 2014, ISBN: 978-91-620-0178-0.
+Trafikverket: Effektsamband för transportsystemet. 2015.
+Department for Communities and Local Government: Multi Criteria Analysis: a manual. 2009, ISBN: 978-1-4098-1023-0.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Fredrik Pettersson, fredrik.pettersson@tft.lth.se
+Hemsida: http://www.tft.lth.se
+
+
+

@@ -1,0 +1,105 @@
+
+Kursplan 2019/20 FAFF30
+
+
+
+
+
+Kursplan för
+Våglära och optik
+Waves and Optics
+FAFF30, 9 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning N
+Beslutsdatum: 2019-03-28
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: F1
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Syftet med kursen är att utveckla studentens
+problemlösningsförmåga och modelltänkande samt introducera
+studenten till experimentellt arbete inklusive användning av
+datorstöd för att grafiskt representera och analysera data.
+Kursen behandlar vågor och vågors rörelse i tid och rum med
+tonvikt på elektromagnetisk strålning i det optiska området.
+Elektromagnetiska vågor och deras utbredning är ett centralt
+begrepp inom dagens teknologi, men också för den kvantmekaniska
+beskrivningen av mikrokosmos. Kursen ger en grund för att förstå
+och utveckla både tekniken omkring oss och den moderna
+fysiken.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna de grundläggande fysikaliska principerna för
+vågutbredning,
+förstå hur ett abstrakt modelltänkande i form av matematiska
+modeller, analogier och bilder relaterar till experiment och den
+fysikaliska verkligheten,
+kunna analysera problemställningar samt utföra och tolka
+beräkningar inom ämnesområdet.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+ha tillägnat sig förmåga att genomföra laborationer och
+använda datorer som hjälpmedel, särskilt för beräkningar,
+analys och simulering,
+ha tillägnat sig grundläggande färdighet i skriftlig
+framställning av observationer och beräkningar samt ha ökad
+förmåga att diskutera fysikaliska problem med kollegor,
+kunna angripa problemställningar på ett strukturerat
+sätt.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+visa insikt i den naturvetenskapliga metoden och fysikens
+möjligheter och begränsningar,
+kunna värdera utfall av olika experimentella metoder,
+visa förmåga att identifiera sitt behov av ytterligare
+kunskaper även inom andra områden.
+
+
+Kursinnehåll
+Ljuskällor, vågor och vågutbredning med tonvikt på ljus.
+Centrala moment i kursen är elektromagnetiska vågor, interferens,
+Fermats princip, Huygens princip, avbildning med linser och speglar
+(datorstödd stråloptik) och diffraktion (både Fraunhofer och
+Fresnel), polarisation, koherens och introduktion till lasrar. Stor
+vikt läggs vid begreppsförståelse samt vid hur kursens olika
+delar relaterar till varandra och till aktuell teknikutveckling och
+forskning. Kursens laborativa del används för att visualisera
+viktiga fysikaliska begrepp.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: För godkänt krävs godkänd skriftlig tentamen, godkända laborationer, godkända inlämningsuppgifter samt godkänt projekt.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0113. Benämning: Våglära och optik. 
+Antal högskolepoäng: 5. Betygsskala: TH.  Prestationsbedömning: Skriftlig examen 
+Kod: 0213. Benämning: Laborationer och inlämningsuppgifter. 
+Antal högskolepoäng: 4. Betygsskala: UG.  Prestationsbedömning: Godkända laborationer, inlämningsuppgifter och projekt.  Delmomentet omfattar: Laborationer, inlämningsuppgifter och projekt. 
+Antagningsuppgifter
+Förutsatta förkunskaper: FMAB30 Flerdimensionell analys
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FAFA25, FAFA01, FAFA05, FAFA50, FAFF25, FAFA65, FAFF40, FAF260, FAFA60
+Kurslitteratur
+
+Jönsson, G.: Våglära och optik. ISBN: 9789163943492.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Johan Mauritsson, johan.mauritsson@fysik.lth.se
+Hemsida: http://www.atomic.physics.lu.se/education/compulsory_courses/faff30_vaglara_och_optik
+Övrig information: Närvaro vid första föreläsningen är obligatoriskt för att få tillträde till kursen.
+
+
+
+

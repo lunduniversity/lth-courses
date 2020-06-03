@@ -1,0 +1,109 @@
+
+Kursplan 2019/20 FRTN10
+
+
+
+
+
+Kursplan för
+Flervariabel reglering
+Multivariable Control
+FRTN10, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning F/Pi
+Beslutsdatum: 2019-03-26
+Allmänna uppgifter
+Valfri för: B5, C4, D4-ssr, E4-ra, F4, F4-r, I4-pvs, K5, Pi4-ssr
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Att ge kunskap om de grundläggande principerna för reglering
+av system med flera insignaler och utsignaler. Kursen skall ge
+insikt om vilka fundamentala begränsningar som finns och hur man
+kan använda matematisk optimering som ett designverktyg. Kursen
+behandlar linjära tidskontinuerliga system.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna definiera och förklara grundläggande begrepp för
+system med flera in- och utsignaler.
+kunna översätta och ändamålsenligt välja mellan olika
+flervariabla systembeskrivningar, särskilt transientsvar,
+överföringsmatriser och tillståndsbeskrivningar.
+kunna härleda egenskaper hos sammankopplade system från
+egenskaper hos ingående delmodeller samt att karaktärisera och
+kvantifiera de olika delsystemens betydelse för helheten.
+kunna formulera villkor på in- och utsignaler till ett
+reglersystem och relatera dem till villkor på matriserna som
+beskriver systemet.
+kunna analysera hur processegenskaper sätter gränser för
+vilka reglertekniska prestanda som går att uppnå
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+självständigt kunna formulera tekniska specifikationer
+utifrån en förståelse för hur ett reglersystem ska användas
+och samverka med omgivande miljö
+kunna välja designmetod och modellstruktur samt översätta
+specifikationer till matematiska optimeringsproblem
+från resultatet av numeriska beräkningar kunna dra slutsatser
+om rimlighet i modell och specifikationer, samt konsekvenser för
+systemets samverkan med omgivande miljö
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+förstå samband och begränsningar då förenklade modeller
+används för att beskriva en komplex och dynamisk verklighet
+visa förmåga till lagarbete och samverkan i grupp vid
+laborationer.
+
+
+Kursinnehåll
+Helhetsbild av designprocessen, signalstorlek, förstärkning,
+stabilitet, känslighet, robusthet, lågförstärkningssatsen,
+överföringsmatriser, flervariabla nollställen,
+icke-minimumfas-system, störningsmodeller i tidsplanet och
+frekvensplanet, specifikationer i frekvensplanet, fundamentala
+begränsningar och målkonflikter, regulatorstrukturer,
+Youla-parametriseringen och internmodellsreglering,
+linjär-kvadratisk optimering av tillståndsåterkoppling och
+Kalmanfilter, syntes via konvex optimering, modellreduktion.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen (5 tim), tre laborationer. Vid färre än fem anmälda kan omtentamina ges på muntlig form.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0114. Benämning: Tentamen. 
+Antal högskolepoäng: 6. Betygsskala: TH.  Prestationsbedömning: Godkänd tentamen 
+Kod: 0214. Benämning: Laboration 1. 
+Antal högskolepoäng: 0,5. Betygsskala: UG.  Prestationsbedömning: Godkända förberedelseuppgifter och godkänd genomförd laboration 
+Kod: 0314. Benämning: Laboration 2. 
+Antal högskolepoäng: 0,5. Betygsskala: UG.  Prestationsbedömning: Godkända förberedelseuppgifter och godkänd genomförd laboration 
+Kod: 0414. Benämning: Laboration 3. 
+Antal högskolepoäng: 0,5. Betygsskala: UG.  Prestationsbedömning: Godkända förberedelseuppgifter och godkänd genomförd laboration 
+Antagningsuppgifter
+Förutsatta förkunskaper: FRTF05 Reglerteknik AK eller FRTN25 Processreglering
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FRT020
+Kurslitteratur
+
+Lecture Notes in Multivariable Control. Department of Automatic Control, LTH (kompendium).
+Torkel Glad, Lennart Ljung: Control Theory: Multivariable and Nonlinear Methods, Taylor & Francis, 2000, ISBN 0748408789 (bredvidläsning).
+Föreläsningsbilder, övningsmaterial och laborationsmanualer finns tillgängliga på kurshemsidan.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Anton Cervin, anton.cervin@control.lth.se
+Studierektor: Anton Cervin, anton.cervin@control.lth.se
+Hemsida: http://www.control.lth.se/course/FRTN10
+Övrig information: Kursen får ej förekomma i examen tillsammans med FRT020.
+
+
+

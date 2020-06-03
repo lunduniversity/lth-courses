@@ -1,0 +1,103 @@
+
+Kursplan 2019/20 FHLF01
+
+
+
+
+
+Kursplan för
+Finita elementmetoden
+Finite Element Method
+FHLF01, 6 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning M
+Beslutsdatum: 2019-03-27
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: F3
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursens syfte är att ge verktyg för lösning av problem inom
+fysiken som beskrivs av partiella differentialekvationer. Studenten
+skall ges en fysikalisk insikt och kunna använda denna för
+att matematiskt formulera fysikaliska problem. Kursens fokus är
+riktat mot en teoretisk förståelse av finita
+elementmetoden. Projektet som ingår i kursen skall ge studenten
+förståelse för hur finita elementmetoden implementeras.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+förstå grunderna i etablerandet av finita elementmetoden
+för linjära problem.
+förstå hur finita elementmetoden tillämpas på linjära
+problem.
+förstå skillnader på balanslagar och konstitutiva
+lagar.
+förstå olika typer av randvillkor och hur dessa
+implementeras.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna transformera den starka formen av differentialekvationer
+till den svaga formen.
+kunna etablera en finita elementformulering utifrån svag
+form.
+kunna skriva ett finita elementprogram.
+kunna implementera randvillkor.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+ha förmåga att analysera, modellera och simulera linjära
+strukturer med hjälp av finita elementmetoden, samt tolka och
+värdera resultaten.
+ha insikt om att till synes skilda tekniska och fysikaliska
+problem kan modelleras och simuleras med samma metoder.
+
+
+Kursinnehåll
+
+Direkt elementmetod.
+Stark och svag form av differentialekvationer.
+Approximerande funktioner.
+Viktade residualmetoder och Galerkins metod.
+Finita elementformulering av värmeledning.
+Finita elementformulering av elastiska kroppar.
+Isoparametriska element och numerisk integration.
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen och godkänd projektuppgift. Tentamenresultat ger slutbetyg. Projektuppgiften skall skrivas på engelska.
+
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0118. Benämning: Projekt. 
+Antal högskolepoäng: 1,5. Betygsskala: UG.  Prestationsbedömning: Skriftligt projekt som bedöms med underkänt eller godkänt. Projektet kan endast göras under kursens gång och vid ev underkänt ges studenten möjlighet till komplettering. 
+Kod: 0218. Benämning: Tentamen. 
+Antal högskolepoäng: 4,5. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen som bedöms med TH betyg (U,3,4,5). 
+Antagningsuppgifter
+Förutsatta förkunskaper: FMAN55 Kontinuerliga system eller motsvarande samt kurser i grundläggande mekanik och hållfasthetslära
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FHL064
+Kurslitteratur
+
+Ottosen and Petersson: Introduction to the Finite Element Method. Prentice Hall, 1992. Introduction to the Finite Element Method
+Ottosen and Petersson.
+CALFEM - A finite element toolbox to MATLAB. Studentlitteratur.
+Wallin, M., Introduction to the Finite Element Method Exercises.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Docent Mathias Wallin, Mathias.Wallin@solid.lth.se
+Hemsida: http://www.solid.lth.se
+
+
+

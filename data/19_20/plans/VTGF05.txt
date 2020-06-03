@@ -1,0 +1,98 @@
+
+Kursplan 2019/20 VTGF05
+
+
+
+
+
+Kursplan för
+Geoteknologi
+Geotechnology
+VTGF05, 6 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning V
+Beslutsdatum: 2019-04-01
+Allmänna uppgifter
+Obligatorisk för: BI3
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Syftet är att presentera grundkunskaper om människans yttre
+miljö med avseende på geologiska och geotekniska förhållanden
+och därmed en förståelse för att både naturliga processer och
+mänskliga aktiviteter utgör riskmoment i samhället. Särskild
+fokusering görs på förhållanden i Sverige varvid ämnesområden
+som grundvattenskydd samt ras och skred behandlas.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+känna till grunderna i geologi och särskilt Sveriges geologi
+med avseende på jord, berg, grundvatten, ytvatten och
+topografi.
+kunna relatera förorening av mark och grundvatten till olika
+föroreningskällor och strukturgeologiska förhållanden.
+kunna förstå grunderna i jordmekanik och särskilt
+släntstabilitet.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna tolka en geologisk karta och upprätta en geologisk
+sektion med lagerföljder - en typlagerföljd - och därmed
+beskriva en jord/bergmassa i tre dimensioner.
+kunna analysera en typlagerföljd för att bedöma
+grundvattenskydd och släntstabilitet.
+kunna identifiera de vanligaste geologiska jordmaterialen.
+kunna bedöma transportmönster och beräkna transporttider av
+föroreningar i mark och grundvatten.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+ha en insikt om vikten av att beakta geoteknologiska och
+geovetenskapliga förhållanden vid samhällsplanering och
+riskbedömning.
+
+
+Kursinnehåll
+Mineral. Bergarter. Jordartsbildande processer. Jordarter,
+allmänna egenskaper. Glacialgeologi och Sveriges jordarter.
+Naturkatastrofer. Geologiska katastrofer. Vulkaner och
+jordbävningar.
+Ytvatten, nederbörd och översvämning. Grundvatten, akviferer,
+strömning, kvalitet och sårbarhet. Transport av föroreningar i
+mark och grundvatten. Grundvattenskydd och förebyggande
+åtgärder.
+Grundläggande jordmekaniska begrepp. Jords hållfasthet och
+bärförmåga. Naturliga slänters stabilitet i friktionsjord
+och kohesionsjord samt risk för ras och skred. Metoder för att
+övervaka slänter med låg stabilitet. Jord och stendammar.
+Jordmekaniska effekter av översvämningar.
+Ingenjörsgeologisk exkursion i sydvästra Skåne.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen, obligatorisk inlämningsuppgift, obligatoriskt redovisningsseminarium och obligatorisk exkursion.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: VTGA05, VTGA01
+Kurslitteratur
+
+Conny Svensson: Kompendium i Teknisk Geologi AK. Tryckt av KFS, 2012. Kompendium endast på svenska.
+Gerhard Barmen och Conny Svensson: Föreläsningar i grundvattenskydd. Distribueras av institutionen, 2020. Tillgänglig endast på svenska.
+Conny Svensson: Conny Svensson Ingenjörsgeologiska exkursion. 1996. Som stöd till kurslitteraturen finns internetdokumentet "Conny Svenssons Ingenjörsgeologiska exkursion" åtkomligt via connywww.tg.lth.se.
+Nils Rydén: Föreläsningar kring släntstabilitet. Distribueras via institutionen, 2020. Tillgänglig endast på svenska.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Universitetslektor Nils Rydén, nils.ryden@tg.lth.se
+Hemsida: http://www.tg.lth.se/grundutbildning/kurser
+Övrig information: I timplanen har exkursionstimmar upptagits som laborationstimmar och seminarier och schemalagda frågestunder med lärare har upptagits som övningar. 
+
+
+

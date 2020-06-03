@@ -1,0 +1,88 @@
+
+Kursplan 2019/20 KBKN05
+
+
+
+
+
+Kursplan för
+Protein Engineering
+Protein Engineering
+KBKN05, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning B/K
+Beslutsdatum: 2019-03-29
+Allmänna uppgifter
+Huvudområde: Bioteknik. 
+Alternativobligatorisk för: MBIO2
+Valfri för: B4-mb
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Kursens syfte är att ge en fördjupad kunskap i proteiners
+struktur och funktion.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+beskriva, formulera och värdera metoder för mutationer av
+proteiner.
+beskriva och värdera information om proteiners struktur på
+primär-, sekundär- och tertiärnivå.
+beskriva tekniska och medicinska användningar av muterade
+proteiner.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+praktiskt genomföra en lägesspecifik mutation av ett
+protein.
+använda program för strukturmodulering på låg
+komplexitetsnivå.
+i tal och skrift kunna behärska och utnyttja vanligt
+förekommande nomenklatur inom protein engineering.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+analysera och kritiskt värdera vetenskapliga rapporter och
+artiklar inom protein engineering
+i grupp designa en modifiering av ett protein för att uppnå
+en önskad kemisk eller fysikalisk egenskap.
+
+
+Kursinnehåll
+I kursen behandlas hur proteiner kan muteras slumpmässigt och
+lägesspecifikt med gentekniska metoder. Kombinatoriska metoder med
+kemiska och biologiska angreppssätt belyses speciellt. Kursen
+innehåller en större laborationsuppgift där eleven
+självständigt får designa ett modifierat protein.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig och problemorienterad hemtentamen, samt skriftlig och muntlig redovisning i grupp av rapporter från den vetenskapliga litteraturen. Rapport från övningarna och laborationerna krävs.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+KBK041 Genteknik eller KBKF01 Genteknik
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: KBK050
+Kurslitteratur
+
+Berg, Tymoczko, Gatto, Stryer: Biochemistry. W.H. Freeman and Company, 2015, ISBN: 978-1-4641-2610-9.
+Brändén, C-I., Tooze, J.: Introduction to Protein Structure. Garland Publishing Inc, 1999, ISBN: 0-8153-2305-0.
+Laborationskompendium, delas ut under kursens gång.
+Datorövningskompendium, delas ut under kursens gång.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Johan Svensson Bonde, johan.svensson_bonde@tbiokem.lth.se
+Hemsida: http://www.tbiokem.lth.se
+
+
+

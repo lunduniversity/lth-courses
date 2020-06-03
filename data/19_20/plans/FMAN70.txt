@@ -1,0 +1,95 @@
+
+Kursplan 2019/20 FMAN70
+
+
+
+
+
+Kursplan för
+Matristeori
+Matrix Theory
+FMAN70, 6 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning F/Pi
+Beslutsdatum: 2019-03-26
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: Pi3
+Valfri för: BME4, C4, D4-bg, D4-ssr, E4-bg, E4-ra, F4, F4-tf, F4-bs, F4-bg, F4-r, F4-mai, I4
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Kursens främsta syfte är att ge kännedom om begrepp och
+metoder från matristeori och linjär algebra som är viktiga för
+tillämpningar inom ett stort antal tekniska,
+naturvetenskapliga och ekonomiska ämnen, samt förtrogenhet med
+deras användning. Därutöver ska kursen allmänt utveckla
+studentens förmåga att tillägna sig och kommunicera matematisk
+teori och att lösa problem. Dessutom ska kursen stärka
+studenternas färdighet i matematikprogrammering.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+självständigt kunna karaktärisera och använda olika typer
+av matrisfaktoriseringar.
+kunna förstå och självständigt förklara teorin för
+matrisfunktioner, i synnerhet polynom, och sambandet med Jordans
+normalform.
+kunna redogöra för olika typer av matris- och vektornormer
+samt beräkna eller uppskatta dem såväl med som utan
+datorstöd.
+vara väl bekant med de vanliga klasserna av normala matriser
+och deras egenskaper.
+
+ 
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+med tillgång till litteratur kunna integrera metoder och
+synsätt från de olika delarna i kursen för att lösa problem och
+besvara frågeställningar inom kursens ram.
+med tillgång till litteratur kunna skriva matlabprogram för
+att lösa matematiska problem inom kursens ram.
+i tal och i skrift logiskt sammanhängande och med adekvat
+terminologi kunna redogöra för lösningen till matematiska
+problem inom kursens ram.
+med tillgång till biblioteksresurser självständigt kunna
+tillgodogöra sig och sammanfatta innehållet i teknisk text i
+vilken matristeoretiska metoder används.
+
+ 
+
+Kursinnehåll
+Matriser och determinanter. Linjära rum. Spektralteori. Jordans
+normalform. Matrisfaktoriseringar. Matrispolynom
+och matrisfunktioner.  Normer. Skalärprodukter. Singulära
+värden. Normala matriser. Kvadratiska och hermiteska former.
+Minsta kvadrat-metoden och pseudoinverser.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Hemtentamen följd av en muntlig tentamen. Två mindre datorprojekt skall vara fullgjorda före tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+FMAB20 Linjär algebra
+
+
+Förutsatta förkunskaper: FMAF05 System och transformer eller FMAF10 Tillämpad matematik - Linjära system.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FMA120, FMA121, MATC70
+Kurslitteratur
+
+Holst, A & Ufnarovski, V: Matrix Theory. Studentlitteratur, 2014, ISBN: 978-91-44-10096-8.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Studierektor Anders Holst, Studierektor@math.lth.se
+Lärare: Victor Ufnarovski, ufn@maths.lth.se
+Hemsida: http://www.maths.lth.se/course/matrisnykod/
+
+
+

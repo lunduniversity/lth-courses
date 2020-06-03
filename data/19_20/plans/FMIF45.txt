@@ -1,0 +1,110 @@
+
+Kursplan 2019/20 FMIF45
+
+
+
+
+
+Kursplan för
+Hållbarhet och resursanvändning med perspektiv på informations- och kommunikationsteknik
+Sustainability and Resource Use with Perspectives on Information and Communication Technology
+FMIF45, 4 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning W
+Beslutsdatum: 2019-04-01
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: C3, D3
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Syftet med kursen är att ge studenter grundläggande kunskap om
+väsentliga miljö- och resursproblem och om hur en mer hållbar
+utveckling kan främjas genom politiska mål och styrmedel,
+tekniska lösningar och verktyg för miljöarbete. Informations-
+och kommunikationsteknik (IKT), inklusive dess fysiska
+infrastruktur (datorer, smarta telefoner, serverhallar etc) är en
+viktig utgångspunkt i kursen som särskilt syftar till att ge
+studenten kunskap om hur denna verksamhet bidrar till miljö- och
+resursproblem genom användning av energi och råmaterial och
+efterlämnande av avfall. Ett annat mål med kursen är att
+inspirera studenterna att fundera över hur IKT kan bidra till
+hållbara samhällslösningar.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+Kunna översiktligt redogöra för väsentliga miljö- och
+resursproblem, särskilt med koppling till IKT, samt hur dessa kan
+begränsas.
+Kunna redogöra för principer och begrepp avseende
+samhälleliga ramar såsom lagstiftning och styrmedel inom
+miljöområdet
+Kunna diskutera metoder och verktyg som används i företags
+och organisationers miljöarbete
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+Kunna inhämta och kritiskt värdera information inom ramen
+för ett projektarbete som behandlar en problemställning som tar
+sin utgångspunkt i något miljö- och resursproblem
+Kunna skriva en välstrukturerad uppsats (i grupp) med korrekt
+språk- och källhantering
+Kunna presentera sitt projektarbete (uppsats) muntligt och
+opponera på annan uppsats.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+Visa ett kritiskt förhållningssätt inför frågor som rör
+hållbar utveckling och ingenjörers arbetssätt.
+
+
+Kursinnehåll
+Kursen är uppdelad i två delar; en föreläsnings- och
+seminariedel och ett projektarbete (uppsats).
+
+Kursen belyser begreppet hållbar utveckling och vad det innebär
+samt väsentliga miljö- och resursfrågor såsom klimat,
+luftkvalitet och ändliga resurser. Kursen belyser också
+samhällets energisystem, resursanvändning och avfallshantering,
+samt hur dessa bidrar till miljö- och resursproblem och kan
+utvecklas i mer hållbar riktning. Vidare behandlar kursen
+politiska mål och styrmedel inom miljöområdet samt verktyg
+såsom livscykelanalys. Kursen lyfter även fram konkreta exempel
+på hur IKT kan bidra till lösningar som främjar hållbar
+utveckling.
+
+Projektarbetet genomförs i grupp och redovisas vid
+projektseminarier.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Kursens examination utgörs dels av en skriftlig tentamen med betygssättning enligt den graderade LTH-skalan (U, 3, 4 och 5), dels ett projektarbete (U, G). För godkänt projektarbete krävs godkänd uppsats enligt uppsatta kriterier, godkänd skriftlig opponering samt aktivt deltagande vid seminarier. Kursen som helhet betygssätts utifrån den skriftliga tentamen (U, 3, 4 och 5). 
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0119. Benämning: Tentamen. 
+Antal högskolepoäng: 2,5. Betygsskala: TH.  Prestationsbedömning: Godkänd tentamen 
+Kod: 0219. Benämning: Projekt. 
+Antal högskolepoäng: 1,5. Betygsskala: UG.  Prestationsbedömning: Godkänt projekt 
+Antagningsuppgifter
+Förutsatta förkunskaper: 90 hp inom program
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FMI031, FMIA01, FMIF01, FMIF05, FMIF10, FMIF20, FMIF35
+Kurslitteratur
+
+Ammenberg, J., Hjelm, O. (red.): Miljöteknik - för en hållbar utveckling. Studentlitteratur, 2013, ISBN: 978 91 44 09275-1.
+Artiklar och rapporter.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Karin Ericsson, karin.ericsson@miljo.lth.se
+Kursadministratör: Astrid Byrman, astrid.byrman@miljo.lth.se
+Hemsida: http://www.miljo.lth.se
+
+
+

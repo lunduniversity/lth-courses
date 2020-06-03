@@ -1,0 +1,91 @@
+
+Kursplan 2019/20 FFFN25
+
+
+
+
+
+Kursplan för
+Optoelektronik och optisk kommunikation
+Optoelectronics and Optical Communication
+FFFN25, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning F/Pi
+Beslutsdatum: 2019-03-26
+Allmänna uppgifter
+Valfri för: E4-fh, F4, F4-f, F4-hn, F4-es, F4-nf, N4-nf, N4-hn
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursen ska ge förutsättningar för att dels kunna välja
+lämpliga komponenter för olika tillämpningar inom optoelektronik
+och optisk kommunikation, dels kunna arbeta med utveckling av
+nästa generation komponenter. För att uppnå detta läggs stor
+vikt vid såväl den bakomliggande fysiken som vid hur prestanda
+påverkas av komponentdesign och materialval.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna förklara hur ljus och elektroner växelverkar i
+halvledare
+kunna förklara begrepp som energikvantisering och
+mikrokaviteter
+kunna förklara konstruktion och den resulterande
+funktionen hos olika typer av lysdioder, diodlasrar, detektorer
+och kamerachip
+kunna förklara hur ljus utbreder sig i vågledare och optiska
+fibrer
+kunna förklara principer för fiberoptiska komponenter för
+optisk kommunikation.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna välja lämpliga ljuskällor,
+ljusöverföringssystem och detektorer för olika tillämpningar
+inom optoelektronik och optisk kommunikation
+kunna beräkna prestanda hos optiska detektorer och
+fiberoptiska komponenter
+kunna tillgodogöra sig och integrera kunskaper från
+vetenskaplig litteratur inom området.
+
+
+Kursinnehåll
+
+Optiska processer i halvledare, materialegenskaper,
+laddningsbärardynamik.
+Vågledaroptik, fiberoptik och optisk kommunikation.
+Kvantstrukturer och mikrokaviteter.
+Ljusutsändande komponenter: lysdioder och laserdioder.
+Ljusabsorberande komponenter: detektorer, kamerachip och
+solceller.
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen och godkända laborationer.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0115. Benämning: Skriftlig tentamen. 
+Antal högskolepoäng: 6,5. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen 
+Kod: 0215. Benämning: Laborationer. 
+Antal högskolepoäng: 1. Betygsskala: UG.  Prestationsbedömning: Skriftliga rapporter. 
+Antagningsuppgifter
+Förutsatta förkunskaper: Kunskaper i halvledarfysik motsvarande FFFF05 Fasta tillståndets fysik, FFFF01 Elektroniska material eller ESSF20 Komponentfysik.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FFFN15, FAF095
+Kurslitteratur
+
+B. E. A. Saleh and M. C. Teich	: Fundamentals of Photonics, 2nd ed. Wiley-Interscience, 2007, ISBN: 978-0-471-35832-9.
+Föreläsningsanteckningar och vetenskapliga artiklar.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Dan Hessman, dan.hessman@ftf.lth.se
+Hemsida: http://www.ftf.lth.se/education/elective_courses/
+
+
+

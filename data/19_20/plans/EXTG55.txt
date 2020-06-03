@@ -1,0 +1,99 @@
+
+Kursplan 2019/20 EXTG55
+
+
+
+
+
+Kursplan för
+Biokemi
+Biochemistry
+EXTG55, 15 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning B/K
+Beslutsdatum: 2019-03-29
+Allmänna uppgifter
+Valfri för: BME4, N4-nbm
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+ha en grundlig förståelse för hur proteinstruktur
+bestäms och hur den avgör ett proteins funktion.
+ha en grundlig förståelse för hur enzymer katalyserar
+livsviktiga reaktioner.
+ha en grundlig förståelse för hur dessa reaktioner
+regleras.
+ha en grundlig förståelse för vanliga katalytiska
+mekanismer.
+ha en grundlig förståelse för enzymkinetik och hur
+denna används för att studera enzymer.
+ha en grundlig förståelse för cellens metabolism,
+inklusive glykoneogenes, glykogenmetabolism, fettsyremetabolism,
+samt omsättning av proteiner och aminosyror.
+ha en grundlig förståelse för tillvägagångssättet
+för att utveckla nya mediciner.
+ha en grundlig förståelse för teorin bakom metoder
+som används för proteinupprening och -studier, såsom
+elektrofores-, kromatografiska, centrifugerings- och
+spektroskopiska metoder, samt röntgen-kristallografi.
+ha en grundlig förståelse för bioinformatik och dess
+användningsområden.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+ha uppnått färdighet i laborativ biokemi, inklusive
+proteinupprening, affinitetskromatografi, elektrofores, och
+aktivitetsmätning med fluorometri.
+ha uppnått färdighet i försöksplanering.
+ha uppnått färdighet i analys av biokemiska data,
+inklusive enzymkinetiska beräkningar.
+ha uppnått färdighet i sökning i proteindatabaser och
+litteraturdatabaser efter bioinformatisk information, samt tolkning
+av denna information med hjälp av bl.a. PDB viewer.
+ha uppnått färdighet i att föra en biokemisk
+diskussion på hög intellektuell nivå med betoning på resonemang
+framför utantillkunskaper.
+
+
+Kursinnehåll
+Läskursen täcker cellens uppbyggnad, nukleinsyrors struktur
+och funktion, proteiners och membraners struktur och funktion,
+enzymkatalys, cellens metabolism och dess reglering, bioinformatik
+och proteomik, och cellbiologiska metoder. Kursen innefattar
+dessutom en omfattande datorlaboration i bioinformatik samt en
+flerdagarslaboration.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig och muntlig tentamen. Deltagande i laborationer och vissa gruppövningar, och därmed integrerad annan undervisning, är obligatoriskt.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+EXTA70 Cellens biologi eller TEK295 Cellens biologi
+EXTG50 Människans fysiologi eller TEK015 Människans fysiologi
+
+
+Begränsat antal platser: 20
+Urvalskriterier: Avklarade högskolepoäng inom programmet. Förtur ges till studenter vars program har kursen listad i läro- och timplanen.
+Kursen överlappar följande kurser: TEK287, MOB102
+Kurslitteratur
+
+Berg, Tymoczko and Stryer: Biochemistry. WH Freeman and Company, 2011, ISBN: 9781429276351.
+Exakta läsanvisningar ges vid kursstart.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Cecilia Emanuelsson, Cecilia.Emanuelsson@biochemistry.lu.se
+Kursansvarig: Celia Cabaleiro Lago , Celia.Cabaleiro-Lago@biochemistry.lu.se
+Hemsida: http:// http://www.kemi.lu.se/utbildning/grund/moba02/
+Övrig information: Kursen ges av naturvetenskapliga fakulteten och följer inte nödvändigtvis läsperiodsindelningen. Undervisningen utgörs av föreläsningar, gruppövningar och laborationer. Kursen ges på engelska på hösttermin och på svenska på vårterminen.
+
+
+

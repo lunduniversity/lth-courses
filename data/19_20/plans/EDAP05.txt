@@ -1,0 +1,103 @@
+
+Kursplan 2019/20 EDAP05
+
+
+
+
+
+Kursplan för
+Programspråkskoncept
+Concepts of Programming Languages
+EDAP05, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning C/D
+Beslutsdatum: 2019-04-01
+Allmänna uppgifter
+Valfri för: C4-pv, D4-pv, E4-pv, F4, F4-pv, I4, Pi4-pv
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+En mjukvaruutvecklare träffar på många olika programspråk
+under sin karriär.  Varje språk har sina egna funktionsbibliotek
+och terminologi, men dessa dras från ett fåtal fundamentala
+begrepp. Kursens syfte är att ge studenterna en överblick över
+och förtrogenhet med de gemensamma begreppen så att de kan
+bättre förstå och snabbare anpassa sig till nya programspråk. 
+Dessutom har kursen som syfte att ge studenterna förkunskaper som
+krävs för att arbeta med utveckling av nya programspråk, både
+allmänna och domänspecifika språk.
+
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+förstå formalismer för syntaktiska och semantiska
+beskrivningar, inklusive kontextfria grammatiker.
+förstå grundläggande programspråkskoncept: variabler,
+kontrollflödestrukturer, typsystem,  satser, uttryck och
+sidoeffekter.
+förstå modulära programspråkskoncept: moduler, klasser,
+separatkompilering.
+förstå programspråkparadigmer: imperativ, funktionell,
+logikbaserad, objektorienterad.
+
+ 
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna utnyttja olika programspråkskoncept och paradigmer inom
+programmering.
+kunna resonera om programspråkskoncept genom att använda
+lämpliga formella beskrivningar.
+
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna visa skillnaderna mellan olika programspråkskoncept och
+resonera om fördelar och nackdelar.
+
+ 
+
+Kursinnehåll
+Namn, namnrymder, bindningar.  Typer, inklusive typkontroll och
+typinferens.  Datastrukturer.  Olika former av uttryck, satser
+och deklarationer.  Kontrollflöde, inklusive
+undantagshantering. Avvägningar mellan uttrycksfullhet,
+läsbarhet och undvikande av fel. Bindningsmekanismer.
+Exekveringsmodeller för programspråk. Subrutiner och
+parameteröverföring. Modularisering och separatkompilering.
+Reflektion och generativ programmering.  Formella beskrivningar av
+syntax och semantik.
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen. För deltagande i tentamen fordras att laborationerna har fullgjorts. Slutbetyg i kursen bestäms av resultatet på den skriftliga tentamen.
+
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0119. Benämning: Laborationer. 
+Antal högskolepoäng: 3. Betygsskala: UG.  Prestationsbedömning: Fullgjorda laborationer.  Delmomentet omfattar: Laborationer 
+Kod: 0219. Benämning: Tentamen. 
+Antal högskolepoäng: 4,5. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen. Slutbetyg på hela kursen bestäms av resultatet på denna tentamen. För att få deltaga i tentamen krävs att laborationerna fullgjorts.  Delmomentet omfattar: Skriftlig tentamen 
+Antagningsuppgifter
+Förkunskapskrav:
+EDAA01 Programmeringsteknik - fördjupningskurs eller EDAA30 Programmering i Java - fortsättningskurs
+
+
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Robert W. Sebesta: Concepts of Programming Languages. Addison Wesley, 2018, ISBN:  0134997182. Preliminär kursbok.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Christoph Reichenbach, christoph.reichenbach@cs.lth.se
+Hemsida: http://cs.lth.se/edap05
+
+
+

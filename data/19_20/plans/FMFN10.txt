@@ -1,0 +1,79 @@
+
+Kursplan 2019/20 FMFN10
+
+
+
+
+
+Kursplan för
+Kvantmekanik, fortsättningskurs 2
+Quantum Mechanics, Advanced Course 2
+FMFN10, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning F/Pi
+Beslutsdatum: 2019-03-26
+Allmänna uppgifter
+Valfri för: F4, F4-tf, N4
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursen syftar till att ge en förmåga att utföra beräkningar
+och härledningar i en modern kvantmekanisk formalism, speciellt i
+vektorrum med kontinuerliga egenvärdesspektra. Studenten ska
+också få en förbättrad förmåga att tillgodogöra
+sig forskningsartiklar i modern fysik och kunna tillämpa
+formalismen i sitt eget arbete i fysiken.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna och förstå kvantmekanikens grunder och modern
+kvantmekanisk formalism
+förstå kvantmekanikens möjligheter och begränsningar
+utifrån en fysikalisk frågeställning kunna välja och
+genomföra en kvantmekanisk analys
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna härleda kvantmekaniska samband och lösa fysikaliska
+problem med utnyttjande av modern kvantmekanisk formalism.
+
+
+Kursinnehåll
+
+Fundamentala begrepp och kvantdynamik.
+Teorin för rörelsemängdsmoment, grupperna SO(3) och SU(2),
+Euler rotationer, representationer av rörelsemängdsoperatorn,
+additon av rörelsemängdsmoment, Bells olikhet,
+tensoroperatorer, Wigner-Eckart teoremet.
+Symmetrier i kvantmekaniken, paritet, periodiska potentialer,
+tidsspegling.
+Approximationsmetoder, 'Interaction picture', tidsberoende
+störning.
+Mångpartikelteori och andrakvantisering: identiska
+partiklar, bosoner, fermioner, fältoperatorer.
+Spridningsteori: Lippmann-Schwinger ekvationen, Born
+approximationen, optiska teoremet, partialvågor.
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examinationen består av en skriftligt tentamen där studenten individuellt besvarar frågor av både redogörande och beräkningskaraktär. Betyg bestäms av tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: FMFN01 Kvantmekanik, fortsättningskurs 1.
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Sakurai, J.J., Modern Quantum Mechanics,Addison-Wesley Publ. Company, 1994, ISBN: 0-201-53929-2.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Ferdi Aryasetiawan, ferdi.aryasetiawan@teorfys.lu.se
+Hemsida: http://www.matfys.lth.se
+
+
+

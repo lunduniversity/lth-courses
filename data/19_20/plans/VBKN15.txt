@@ -1,0 +1,105 @@
+
+Kursplan 2019/20 VBKN15
+
+
+
+
+
+Kursplan för
+Konstruktion av broar och avancerade konstruktioner
+Design of Bridges and Advanced Structures
+VBKN15, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning V
+Beslutsdatum: 2019-04-01
+Allmänna uppgifter
+Valfri för: V5-ko
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Kursen skall ge aktivt tillämpbar kunskap om konstruktion av
+broar och andra avancerade konstruktioner som är lämpliga för
+större spännvidder, t.ex. kabelkonstruktioner,
+spännbandkonstruktioner och bågar.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna dimensionera brokonstruktioner och andra speciella
+konstruktionstyper som är lämpliga för större spännvidder
+ha kunskap om analysmetoder och verkningssätt hos olika typer
+av ovannämnda konstruktioner
+ha kunskap om olika brotyper och byggmetoder för dessa
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+ha förmåga att tillämpa kunskaper förvärvade i tidigare
+kurser, för dimensionering och utformning av broar och andra
+avancerade konstruktioner som behandlas i kursen
+självständigt kunna välja konstruktionstyp, konstruktiv
+utformning och byggmetod i tidiga skeden av projekteringen
+kunna redovisa resultaten av konstruktionens projektering
+skriftligt och i form av ritningar
+självständigt kunna söka och kritiskt värdera information
+om tekniska lösningar för broar och avancerade
+konstruktioner
+
+ 
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna kritiskt utvärdera olika typer av konstruktioner som
+behandlas i kursen
+kunna kritiskt utvärdera olika typer av konstruktiva
+lösningar som redovisas i litteraturen och vid
+föreläsningar
+självständigt kunna anpassa och modifiera typlösningar för
+ett specifikt projekt
+
+ 
+
+Kursinnehåll
+I kursen ingår föreläsningar, övningsuppgifter,
+gästföreläsningar av praktiskt verksamma ingenjörer och/eller
+arkitekter, samt studiebesök. Kursen är upplagd kring två
+projekteringsuppgifter, därav första uppgiften består av en
+vägbro. I första uppgiften görs projektering och
+konstruktionsberäkningar på relativt detaljerad nivå. I den
+andra uppgiften projekteras översiktligt en konstruktion med
+större spännvidd. Den senare projekteringsuppgiften presenteras
+vid ett seminarium.
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: Projektuppgifter (skriftlig redovisning och presentation vid seminarium) samt individuell tentamen. Datum för tentamen bestäms under kursens gång.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0118. Benämning: Projektuppgifter. 
+Antal högskolepoäng: 6. Betygsskala: UG.  Prestationsbedömning: Rapport och presentation vid seminarium  Delmomentet omfattar: Hela kursinnehållet 
+Kod: 0218. Benämning: Dugga. 
+Antal högskolepoäng: 1,5. Betygsskala: UG.  Prestationsbedömning: Skriftlig tentamen  Delmomentet omfattar: Hela kursinnehållet 
+Antagningsuppgifter
+Förkunskapskrav:
+VBKN05 Betongbyggnad
+VBKN01 Stål- och träbyggnadsteknik eller VBKN25 Stålbyggnadsteknik
+
+
+Förutsatta förkunskaper: VSMF15 Balkteori, VSMF05 Teknisk modellering: Bärverksanalys
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: VBK041
+Kurslitteratur
+
+Ytterligare kurslitteratur om avancerade konstruktioner kommer att tillhandahållas via kurshemsidan.
+Hirt, M., Lebet, J.-P. : Steel Bridges: Conceptual and Structural Design of Steel and Steel-Concrete Composite Bridges. EPFL Press, 2013, ISBN: 978-1466572966. Boken finns i V-biblioteket och kan även laddas ner (pdf) via bibliotekets hemsida.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Ivar Björnsson, ivar.bjornsson@kstr.lth.se
+Hemsida: http://www.kstr.lth.se
+
+
+

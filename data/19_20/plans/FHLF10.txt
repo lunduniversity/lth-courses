@@ -1,0 +1,114 @@
+
+Kursplan 2019/20 FHLF10
+
+
+
+
+
+Kursplan för
+Finita elementmetoden och introduktion till materialmekanik
+Finite Element Method and Introduction to Strength of Materials
+FHLF10, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning M
+Beslutsdatum: 2019-03-27
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: Pi3
+Alternativobligatorisk för: I3
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Kursen har två huvudsyfte varav det första är att ge en
+grudläggande förståelse för begrepp inom hållfasthetslära.
+Det andra syftet med kursen är att ge verktyg för lösning av
+problem inom fysiken som beskrivs av partiella
+differentialekvationer. Studenten skall ges en fysikalisk insikt
+och kunna använda denna för att matematiskt
+formulera fysikaliska problem. Kursens fokus är riktat mot en
+teoretisk förståelse av finita elementmetoden. Projektet som
+ingår i kursen skall ge studenten förståelse för hur finita
+elementmetoden implementeras.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+förstå de grundläggande koncepten spänningar, töjningar
+och elasticitet
+förstå konceptet flytvillkor
+förstå grunderna i etablerandet av finita elementmetoden
+för linjära problem.
+förstå hur finita elementmetoden tillämpas på linjära
+problem.
+förstå skillnader på balanslagar och konstitutiva
+lagar.
+förstå olika typer av randvillkor och hur dessa
+implementeras.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna tolka och beräkna spänningar och töjningar från ett
+förskjutningsfält
+kunna transformera den starka formen av differentialekvationer
+till den svaga formen
+kunna etablera en finita elementformulering utifrån svag
+form
+kunna skriva ett finita elementprogram
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+ha förmåga att analysera, modellera och simulera linjära
+strukturer med hjälp av finita elementmetoden, samt tolka och
+värdera resultaten.
+ha insikt om att till synes skilda tekniska och fysikaliska
+problem kan modelleras och simuleras med samma metoder.
+
+
+Kursinnehåll
+
+Spänningar och töjningar
+Hooke's lag
+Flytvillkor
+Böjtillstånd
+Direkt elementmetod.
+Stark och svag form av differentialekvationer.
+Approximerande funktioner.
+Viktade residualmetoder och Galerkins metod.
+Finita elementformulering av värmeledning.
+Finita elementformulering av elastiska kroppar.
+Isoparametriska element och numerisk integration.
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen och godkänd projektuppgift. Tentamenresultat ger slutbetyg. Projektuppgiften skall skrivas på engelska.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0118. Benämning: Projekt. 
+Antal högskolepoäng: 1,5. Betygsskala: UG.  Prestationsbedömning: Skriftligt projekt som bedöms med underkänt eller godkänt. Projektet kan endast göras under kursens gång och vid ev underkänt ges studenten möjlighet till komplettering. 
+Kod: 0218. Benämning: Tentamen. 
+Antal högskolepoäng: 6. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen som bedöms med TH betyg (U,3,4,5). 
+Antagningsuppgifter
+Förutsatta förkunskaper: Kontinuerliga system (FMAN55) eller motsvarande och grundläggande kunskaper i mekanik
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FHLF20, FHLF01, VSMN25, VSMN30
+Kurslitteratur
+
+Ottosen and Petersson: Introduction to the Finite Element Method. Prentice Hall, 1992. Introduction to the Finite Element Method
+Ottosen and Petersson
+Prentice Hall.
+CALFEM - A finite element toolbox to MATLAB. Studentlitteratur.
+Wallin, M., Introduction to the Finite Element Method Exercises.
+
+
+Kontaktinfo och övrigt
+Studierektor: Docent Mathias Wallin, Mathias.Wallin@solid.lth.se
+Hemsida: http://www.solid.lth.se
+
+
+

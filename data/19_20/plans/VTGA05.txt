@@ -1,0 +1,107 @@
+
+Kursplan 2019/20 VTGA05
+
+
+
+
+
+Kursplan för
+Teknisk geologi
+Engineering Geology
+VTGA05, 5 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning V
+Beslutsdatum: 2019-04-01
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: W1
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+
+att presentera grundkunskaper i allmän geologi, tillämpad
+geologi och hydrogeologi samt att tydliggöra sambanden mellan
+ekologi och geologi. Det sistnämnda torde tydligt framgå då
+kurserna Terrester Ekologi och Teknisk Geologi går parallellt i
+tiden, har ett visst samarbete och är anpassade för
+civilingenjörsprogrammet W.
+framställningen baseras på en geologiskt vetenskaplig grund
+med fokus på miljömässiga och ekologiska aspekter inkluderande
+allmän ingenjörsgeologi.
+
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna redogöra för de vanligaste geologiska materialen och
+särskilt Sveriges jordarter och deras bildning, förekomst,
+landskapsformer och terrängläge, inre strukturell uppbyggnad,
+jordlagerföljder samt fysikaliska och tekniska egenskaper såsom
+permeabilitet och tjälfarlighet.
+kunna förstå hur man läser en geologisk karta, upprättar en
+geologisk sektion med lagerföljder - en typlagerföljd - och
+därmed beskriver en jord/bergmassa i tre dimensioner.
+känna till att det finns samband mellan geologiska
+förutsättningar och ekologiska betingelser i människans yttre
+miljö.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna identifiera de vanligaste mineralen, bergarterna och
+jordarterna.
+
+
+Kursinnehåll
+Föreläsningar
+Mineral, bergarter och jordarters bildningssätt, uppträdande och
+egenskaper. Strukturell uppbyggnad av de lösa jordlagren och
+berggrundens strukturella uppbyggnad.
+Sambandet mellan landskapsformer, bildningssätt,
+materialsammansättning, kornstorlek samt jordarters och bergarters
+egenskaper.
+Grundvattnets bildning, uppträdande, rörelse och
+sammansättning som funktion av geomiljön.
+Fältundersökningsmetodik. Geomaterialens roll i
+samhällsbyggandet. Geologi i byggprocessen.
+Sambandet geologi - ekologi där bl.a. mera mineralkemi,
+vittringsprocesser, jordmånsbildning, postglacial geologisk
+utveckling och paleoekologi behandlas. Sambandet understryks
+ytterligare då kursen i Terrester Ekologi genomförs parallellt i
+tiden.
+Övningar
+Mineral-, bergarts- och jordartsövningar, vilka utförs som
+självständiga övningar med viss lärartillgång i en
+semipermanent samling i geolaboratoriets korridor under hela
+läsperioden. Geologisk kartövning. Grundvattenövning.
+Exkursioner
+1. Ingenjörsgeologisk resa i Skåne i syfte att demonstrera olika
+geologiska bildningars uppbyggnad, sammansättning och
+nyttjande.
+2. Geologisk - ekologisk resa i Skåne, i samarbete med
+parallellkursen i Terrester Ekologi, i syfte att demonstrera
+sambandet geologiska förutsättningar och terrester ekologi.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen och obligatoriska exkursioner.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: VGTA01, VTGA01, VTGF05
+Kurslitteratur
+
+Conny Svensson: Kompendium i Teknisk Geologi AK. Tryckt av KFS, 2012. Kompendium endast på svenska.
+Conny Svensson: Conny Svenssons Ingenjörsgeologiska exkursion. 1996. Som stöd till kurslitteraturen finns internetdokumentet ”Conny Svenssons Ingenjörsgeologiska exkursion" åtkomligt via connywww.tg.lth.se.
+Conny Svensson: Geologi och ekologi - några synpunkter. Distribueras av institutionen, 2012. Tillgänglig endast på svenska.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Joakim Robygd, joakim.robygd@tg.lth.se
+Hemsida: http://www.tg.lth.se/grundutbildning/kurser
+Övrig information: I timplanen har exkursionstimmar upptagits som laborationstimmar. Lärare tillgänglig för inlärningsdiskussion cirka 70 timmar i geolaboratoriets övningssamling.
+
+
+

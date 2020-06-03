@@ -1,0 +1,117 @@
+
+Kursplan 2019/20 KASF10
+
+
+
+
+
+Kursplan för
+Funktionella material
+Functional Materials
+KASF10, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning B/K
+Beslutsdatum: 2019-03-29
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: N2
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+
+Att ge studenten en översikt av tekniskt viktiga (oorganiska
+och polymera) material, samt deras tillämpningar, ur ett atomärt
+och molekylärt perspektiv
+Att genom inlämningsuppgifter och föreläsningar ge exempel
+på tillämpningar av materialkunskap inom nanoteknologin
+Ge studenten insikt i hur man framställer funktionella
+material, dvs material eller kombinationer av olika material, som
+designas på atomär- , eller nanoskala med tanke på en speciell
+funktion.
+
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna beskriva framställning och egenskaper hos
+metallegeringar, keramer och polymerer av teknisk betydelse.
+kunna förklara hur mikro- och nanostrukturen på olika nivåer
+påverkar egenskaperna hos olika material.
+kunna beskriva principer för viktiga metoder för
+materialkarakterisering.
+kunna exemplifiera metoder för nanostrukturering av
+material.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna föreslå enkla verktyg, prepararations- och
+syntesmetoder för att åstadkomma nanometerstrukturer
+kunna tillämpa grundläggande kunskaper om ett brett utbud av
+olika materials egenskaper och använda dessa i nya konstruktioner
+inom fysik, biomedicin, mekanik, nanoskaliga lab etc.
+
+
+Kursinnehåll
+Följande moment behandlas:
+ 
+
+Nanotillämpningar av polymerer
+Vanliga kristallstrukturer för nanomaterial
+Katalys på nanoskala
+Nano- och mikroporösa material
+Piezoelektriska nanoverktyg
+Rat-on-a-chip
+Kemiska bindningars mekaniska egenskaper
+Kristallstrukturer (positioner, riktningar, plan)
+Kristalldefekter av olika dimensionalitet
+Dislokationer och plastisk deformation
+Punktdefekter och diffusion
+Mekaniska egenskaper och olika brottyper
+Metallhärdning och binära fasdiagram
+Viktiga legeringar baserade på järn, aluminium, koppar och
+titan
+Keramer
+Elektriska och magnetiska materialegenskaper
+Klassificering, nomenklatur och molekylviktsbegrepp hos
+polymererekanismer och begrepp inom stegvis- och kedjevis
+polymerisation
+Polymerisationsmetoder i industriell skala
+Polymerers konformation och löslighet
+Struktur-egenskasrelationer hos amorfa och semikristallina
+polymerer
+Mekaniska egenskaper hos polymerer, polymerblandningar och
+kompositer
+Bearbetning och reologi hos polymerer
+Polymertillämpningar: membran och elektronik
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen och inlämningsuppgifter. Tentamensresultatet ger slutbetyg.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+KOKA30 Allmän, oorganisk och organisk kemi
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: KOO095
+Kurslitteratur
+
+Askeland, D.R., Wright, D.K.: The Science and Engineering of Materials , 7th edition, SI edition. Cengage, 2015, ISBN: 9781305077102.
+Fried, J. R. : Polymer Science & Technology, 3rd edition. Prentice Hall Ptr. , 2014, ISBN: 978-0-13-703955-5.
+Utdelat material och material utlagt på hemsida.
+'Handouts' till föreläsningar om nanotillämpningar (tillgängliga via hemsida).
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Professor Reine Wallenberg, reine.wallenberg@chem.lu.se
+Kursansvarig: Professor Kimberly Thelander, kimberly.thelander@ftf.lth.se
+Hemsida: http://www.polymat.lth.se
+Övrig information: Undervisningen sker i form av föreläsningar, gruppövningar i stor sal och enskilda inlämningsuppgifter (obligatoriska). PBL-övningar genomförs under föreläsningarna.
+
+
+

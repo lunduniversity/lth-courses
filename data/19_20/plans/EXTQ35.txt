@@ -1,0 +1,110 @@
+
+Kursplan 2019/20 EXTQ35
+
+
+
+
+
+Kursplan för
+Värdering och hantering av finansiell risk
+Financial Valuation and Risk Management
+EXTQ35, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning I
+Beslutsdatum: 2019-04-01
+Allmänna uppgifter
+Valfri för: F4, F4-fm, I4-fir, Pi4-fm
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursens syfte är att ge studenterna förståelse för och
+förmåga att arbeta med kunskaper om grundläggande metoder för
+riskhantering.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+Kursens mål är att utveckla studenternas förståelse för
+modeller för finansiell riskhantering och deras förmåga att
+tillämpa modellerna på verkliga problem. Mer specifikt ska
+studenten efter genomgången kurs förstå:
+• VaR (Value-at-Risk),
+• ES (Expected shortfall),
+• marknadsrisk,
+• kreditrisk,
+• Basel-regleringen,
+• ränteswappar och swaptioner,
+• kreditswappar.
+ 
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+Studenten ska ha förmåga att självständigt tillämpa sina
+kunskaper på verkliga problem. Mer specifikt ska studenten
+kunna:
+• implementera metoder för att estimera VaR och ES,
+• implementera tester för att utvärdera tillförlitligheten av
+VaR- och ES-estimatorer,
+• implementera metoder för att estimera kreditrisk,
+• implementera metoder för att värdera ränteswappar och
+kreditswappar,
+• identifiera relaterade praktiska finansiella frågeställningar
+och applicera relevanta metoder och teorier för att analysera
+dessa frågeställningar,
+• klart och pedagogiskt rapportera resultatet av sina egna och
+andras empiriska undersökningar.
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+Studenten ska utveckla:
+• inlärningsförmåga som möjliggör vidare studier i finans
+och nationalekonomi,
+• förmåga att självständigt söka och utvärdera information
+i riskhanteringslitteraturen,
+
+Kursinnehåll
+Kursens målsättning är att ge studenterna en förståelse
+för och praktisk kunskap om fundamentala metoder inom finansiell
+riskhantering. I kursen behandlas huvudsakligen två delområden:
+att kvantifiera och hantera marknadsrisk samt att kvantifiera och
+hantera kreditrisk. Kursen inleds med en översikt av riskhantering
+i allmänhet med Basel-regleringen som en praktiskt förankrad
+bakgrund. Denna översikt följs av en diskussion om olika
+riskmåtts teoretiska egenskaper, speciellt behandlas VaR
+(Value-at-Risk) och ES (Expected shortfall). Kursen fortsätter med
+mer praktiskt orienterade aspekter, särskilt den faktiska
+implementeringen av metoder för att mäta VaR och ES. Detta följs
+av en allmän diskussion av kreditrisk och i praktiken använda
+modeller för att mäta kreditrisk. En omfattande del av kursen
+kommer att handla om hantering av kreditrisk med hjälp av olika
+derivatinstrument som ränteswappar, swaptioner, och kreditswappar
+samt värdering av dessa instrument.
+ 
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Studenterna bedöms i en skriftlig tentamen. Obligatoriska laborationer förekommer också.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+EXTF45 Finansiell ekonomi
+FMS012 Matematisk statistik, allmän kurs eller FMSF45 Matematisk statistik, allmän kurs
+
+
+Begränsat antal platser: 60
+Urvalskriterier: Avklarade högskolepoäng inom programmet. Förtur ges till studenter vars program har kursen listad i läro- och timplanen.
+Kursen överlappar följande kurser: TEK180, NEKM41, NEKN83
+Kurslitteratur
+
+Hull, John C.: Risk Management and Financial Institutions, fifth edition. Wiley Finance, 2018, ISBN: 978-1-119-44811-2.
+Hull, John C: Options, Futures and Other Derivatives, 9th edition. Prentice-Hall, 2017, ISBN: 978-1-292-21289-0.
+Supplementary material.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Docent Birger Nilsson, birger.nilsson@nek.lu.se
+Hemsida: http://www.nek.lu.se
+Övrig information: Kursen ges av Nationalekonomiska institutionen vid Ekonomihögskolan och samläses med NEKN83. Tentamenstid meddelas av kursläraren.
+
+
+

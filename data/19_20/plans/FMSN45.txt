@@ -1,0 +1,106 @@
+
+Kursplan 2019/20 FMSN45
+
+
+
+
+
+Kursplan för
+Matematisk statistik, tidsserieanalys
+Mathematical Statistics, Time Series Analysis
+FMSN45, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning I
+Beslutsdatum: 2019-04-01
+Allmänna uppgifter
+Valfri för: BME4-sbh, C4, D4-ssr, E4-ss, F4, F4-bg, F4-bm, F4-fm, F4-r, F4-ss, I4-fir, Pi4-fm, Pi4-ssr, Pi4-biek, Pi4-bam
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Praktisk och teoretisk kunskap i modellering, skattning och
+validering, prediktion och interpolation av tidsdiskreta dynamiska
+stokastiska system, i huvudsak linjära system. Kursen ger också
+en grund för vidare studier i tidsseriesystem, t.ex. Finansiell
+statistik och Olinjära tidsserier.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna konstruera en modell baserad på data för ett konkret
+praktiskt tidsserieproblem,
+utföra enkla transformationer av en icke-stationär tidsserie
+till en stationär tidsserie,
+prediktera och interpolera i linjära tidsseriemodeller,
+skatta parametrar i linjära tidsseriemodeller och validera en
+resulterande modell,
+konstruera ett Kalman-filter baserat på en linjär
+tillståndsmodell,
+skatta i tidsvarierande stokastiska system med rekursiva och
+adaptiva tekniker.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+redovisa analysen av ett praktiskt problem i en skriftlig
+rapport samt presentera den muntligt.
+
+
+Kursinnehåll
+Tidsserieanalys handlar om matematisk modellering av
+tidsvariabla stokastiska fenomen som t.ex. havsvågor, vattenstånd
+i sjöar och floder, efterfrågan på elkraft, radarsignaler,
+muskelreaktioner, EKG-signaler eller optionskurser på
+aktiemarknaden. Modellens struktur väljs dels med ledning av
+fysikalisk kunskap om processen, dels med hjälp av observerade
+data. Centrala problem är olika modellers egenskaper och
+prediktionsförmåga, skattning av modellens parametrar samt
+kontroll av att modellen på ett tillfredsställande sätt
+beskriver data. Hänsyn måste tas både till behovet av snabba
+beräkningar och till förekomst av mätfel. Kursen ger en
+sammanhängande framställning av statistiska modeller och metoder
+inom tidsserieanalysen. Tidsserieproblem uppträder i många av
+högskolans ämnen och kunskaper från kursen används bl.a. i
+reglerteknik, signalbehandling och ekonometri. Fördjupat studium
+av ARMA-processer. Icke-stationära modeller, långsamt avtagande
+beroende. Transformationer. Optimal prediktion och rekonstruktion
+av processer. Tillståndsrepresentationer, ortogonalitetsprincipen
+och Kalmanfiltrering. Parameterskattningar: MK-och ML-metoder samt
+rekursiva och adaptiva varianter. Ickeparametriska metoder,
+kovariansskattningar, spektralskattningar. Orientering om robusta
+metoder och detektion av avvikande värden.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig och muntlig projektredovisning med hemtentamen samt obligatorisk närvaro på laborationerna. Betyget är en sammanvägning av projektet och hemtentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Laborationsdel 1. 
+Antal högskolepoäng: 0,5. Betygsskala: UG.  Prestationsbedömning: Datorlaboration 1 
+Kod: 0217. Benämning: Laborationsdel 2. 
+Antal högskolepoäng: 0,5. Betygsskala: UG.  Prestationsbedömning: Datorlaboration 2 och 3 
+Kod: 0317. Benämning: Tentamen. 
+Antal högskolepoäng: 2. Betygsskala: UG.  Prestationsbedömning: Skriftlig hemtentamen 
+Kod: 0417. Benämning: Projektarbete. 
+Antal högskolepoäng: 4,5. Betygsskala: UG.  Prestationsbedömning: Skriftlig och muntlig projektredovisning 
+Antagningsuppgifter
+Förkunskapskrav:
+FMSF10 Stationära stokastiska processer eller FMSF20 Matematisk statistik, allmän kurs eller FMSF25 Matematisk statistik - kompletterande projekt eller FMSF45 Matematisk statistik, allmän kurs eller FMSF50 Matematisk statistik, allmän kurs eller FMSF55 Matematisk statistik, allmän kurs eller FMSF70 Matematisk statistik eller FMSF75 Matematisk statistik, allmän kurs
+
+
+Förutsatta förkunskaper: FMSF10 Stationära stokastiska processer.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FMS051, MASM17
+Kurslitteratur
+
+Andreas Jakobsson: An Introduction to Time Series Modeling. Studentlitteratur, 2013, ISBN: 9789144083742.
+
+
+Kontaktinfo och övrigt
+Studierektor: Johan Lindström, studierektor@matstat.lu.se
+Hemsida: http://www.maths.lth.se/matstat/kurser/fms051/
+Övrig information: Bytt kurskod från FMS051. Kursen ges även på naturvetenskaplig fakultet med koden MASM17.
+
+
+

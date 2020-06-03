@@ -1,0 +1,109 @@
+
+Kursplan 2019/20 EDAN95
+
+
+
+
+
+Kursplan för
+Tillämpad maskininlärning
+Applied Machine Learning
+EDAN95, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning C/D
+Beslutsdatum: 2019-04-01
+Allmänna uppgifter
+Valfri för: BME4, C4-pv, D4-bg, D4-mai, E4-bg, F4, F4-pv, F4-mai, Pi4-pv
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Att ge en introduktion till flera delområden inom
+maskininlärning och att orientera om grundläggande metoder och
+algoritmer tillgängliga inom dessa områden. Att förmedla bredd
+och djup inom ämnet.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+ 
+
+vid en skriftlig tentamen visa grundläggande kunskaper om
+teori och metoder relaterade till följande delområden:
+oövervakad och övervakad inlärning, klassificering och
+regression
+neurala nätverk inklusive konvolutionella neurala nätverk,
+återkommande neurala nätverk och djupinlärning
+bayesisk inlärning
+förstärkningsinlärning
+support vector machines, beslutsträd, slumpskogar,
+ensemble-metoder
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+ 
+
+utföra ett antal inlämningsuppgifter av
+problemlösningskaraktär relaterade till några av ovannämnda
+delområden som visar studentens kapacitet att:
+bedöma och förbereda data
+välja och träna en modell
+bedöma resultatet och justera modellen
+
+ 
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+ 
+
+kunna bedöma tillämpningsbarheten av en
+maskininlärningsmetod till ett givet problem,
+förstå begränsningar av maskininlärningsmetoder och
+ansatser
+
+ 
+
+Kursinnehåll
+ 
+
+oövervakad och övervakad inlärning, klassificering och
+regression
+neurala nätverk inklusive konvolutionella nätverk,
+återkommande neurala nätverk och djupinlärning
+bayesisk inlärning
+förstärkningsinlärning
+support vector machines, beslutsträd, suumpskogar,
+ensemblemetoder
+hårdvaru- och mjukvaruarkitekturer för maskininlärning,
+parallellisering, användning av GPUer
+
+ 
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Laborations/-inlämningsuppgifter och frivillig skriftlig tentamen. Fullgjorda laborationer ger betyg godkänt (3), högre betyg kan uppnås vid deltagande i den frivilliga tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+EDAA01 Programmeringsteknik - fördjupningskurs eller EDAA30 Programmering i Java - fortsättningskurs
+
+
+Begränsat antal platser: 60
+Urvalskriterier: Avklarade högskolepoäng inom programmet. Förtur ges till studenter vars program har kursen listad i läro- och timplanen.
+Kurslitteratur
+
+Kevin P. Murphy: Machine Learning, A Probabilistic Perspective. MIT Press, 2012, ISBN: 9780262018029. Referenstext om ämnet.
+Ian Goodfellow, Yoshua Bengio, Aaron Courville: Deep Learning. MIT Press, 2016, ISBN: 9780262035613. Referenstext om djupinlärning.
+François Chollet: Deep Learning with Python. Manning Publications, 2018, ISBN: 9781617294433. Referenstext om den praktiska delen av ämnet.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Jacek Malec, jacek.malec@cs.lth.se
+Kursansvarig: Pierre Nugues, pierre.nugues@cs.lth.se
+Kursansvarig: Elin Anna Topp, elin_anna.topp@cs.lth.se
+Hemsida: http://cs.lth.se/edan95
+Övrig information: Detaljerade föreskrifter för fullgörande av inlämningsuppgifterna kommer att finnas på kurswebben.
+
+
+
+

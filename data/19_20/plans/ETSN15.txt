@@ -1,0 +1,126 @@
+
+Kursplan 2019/20 ETSN15
+
+
+
+
+
+Kursplan för
+Kravhantering
+Requirements Engineering
+ETSN15, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning C/D
+Beslutsdatum: 2019-04-01
+Allmänna uppgifter
+Valfri för: C4-da, D4-se, E4-pv, F4, F4-pv, I4, I4-pvs
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursens syfte är att ge studenten grundläggande och
+fördjupade kunskaper och färdigheter inom kravhantering i
+storskalig utveckling av system med betydande andel programvara.
+Kursen ger både teoretisk analysförmåga inom ämnet och praktisk
+tillämpning av metoder och tekniker för kravhantering. Kursen ger
+träning i att läsa vetenskapliga artiklar i ämnet.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+definiera grundläggande begrepp och principer inom
+kravhantering
+redogöra för ett flertal olika typer av krav
+redogöra för och värdera ett flertal olika metoder och
+tekniker för kravhantering
+beskriva och relatera olika delprocesser inom
+kravhantering
+beskriva kravhanteringsprocessens relation till övriga
+processer i produktlivscykeln
+redogöra för kravhanteringens relation till
+marknadsorienterad produktledning
+diskutera några forskningsresultat inom
+kravhanteringsområdet
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna välja lämplig kravhanteringsteknik för
+sammanhanget
+kunna använda flera olika tekniker för att identifiera
+krav
+kunna använda flera olika tekniker för att specificera
+krav
+kunna använda flera olika tekniker för att validera krav
+kunna använda flera olika tekniker för att prioritera
+krav
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+medvetet kunna välja arbetssätt efter hur kravbilden ser
+ut.
+visa prov på ett systematiskt och långsiktigt
+arbetssätt.
+medvetet kunna problematisera över kravkvalitetens påverkan
+på slutproduktens kvalitet.
+på ett adekvat sätt kunna involvera användare i
+kravprocessen.
+medvetet kunna problematisera över kravhanteringens relation
+till ekonomiska aspekter i produktutveckling
+
+
+Kursinnehåll
+
+Krav på olika abstraktionsnivåer och i olika sammanhang
+Kravhanteringens delprocesser och deras relation
+Specificering av datakrav, t ex med virtuella fönster och
+datamodeller
+Specificering av funktionella krav, t ex med egenskapskrav och
+uppgiftsbeskrivningar
+Specificering av olika typer av kvalitetskrav
+(icke-funktionella krav), t ex användbarhet, prestanda, och
+tillförlitlighet
+Olika tekniker för kravidentifiering, t ex fokusgrupper
+Olika tekniker för kravvalidering, t ex granskningar
+Olika tekniker för kravprioritering, t ex parvisa
+jämförelser
+Marknadsorienterad kravhantering, produktledning och
+prioritering
+
+Föreläsningar ger en översikt av teorin och hjälp till
+självstudier. Projektarbete ger praktisk träning i kravprocessens
+olika delar. Övningarna relaterar teorin till praktik genom
+diskussion av lösningar till uppgifter.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examinationen sker både enskilt och i grupp. Projektarbete bedöms i grupp, genomförda och rapporterade laborationer bedöms parvis, och skriftlig tentamen bedöms individuellt. Slutbetyget ges av en sammanvägning mellan projektarbetets betyg och poängtalet på tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Kravhantering. 
+Antal högskolepoäng: 4,5. Betygsskala: TH.  Prestationsbedömning: Slutbetyg på kursen baseras till 60% på resultatet av tentamen.  Delmomentet omfattar: Skriftlig tentamen. 
+Kod: 0217. Benämning: Projekt. 
+Antal högskolepoäng: 3. Betygsskala: TH.  Prestationsbedömning: Slutbetyg på kursen baseras till 40% på resultatet på projektarbetet.  Delmomentet omfattar: Projekt och laborationer. 
+Antagningsuppgifter
+Förkunskapskrav:
+EDA260 Programvaruutveckling i grupp – projekt eller EDAF45 Programvaruutveckling i grupp - projekt eller ETS032 Programvaruutveckling för stora system eller ETSA01 Ingenjörsprocessen för programvaruutveckling - metodik eller ETSA02 Programvaruutveckling - metodik eller ETSF20 Programvaruutveckling för stora projekt eller ETSN05 Programvaruutveckling för stora system
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: ETS672, ETSF30, ETS170
+Kurslitteratur
+
+Lauesen S.: Software Requirements – Styles and Techniques. Addison-Wesley, 2002, ISBN: 0-201-74570-4.
+Kompendium och artiklar som anvisas av institutionen.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Professor Björn Regnell, bjorn.regnell@cs.lth.se
+Hemsida: http://cs.lth.se/etsn15
+Övrig information: Kursen innefattar ett projekt på 3 hp.
+
+
+

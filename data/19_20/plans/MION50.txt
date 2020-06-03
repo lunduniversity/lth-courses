@@ -1,0 +1,136 @@
+
+Kursplan 2019/20 MION50
+
+
+
+
+
+Kursplan för
+Kvalitetsstyrning
+Quality Management
+MION50, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning I
+Beslutsdatum: 2019-04-01
+Allmänna uppgifter
+Alternativobligatorisk för: MLOG2
+Valfri för: I5-pr, I5-lf, M5-lp
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Att göra rätt saker och att göra saker rätt, dvs. grunderna
+för effektivitet och produktivitet, är hörnpelare i all
+industriell verksamhet. Kunder och andra intressenter förväntar
+sig att få erbjudanden som motsvarar deras behov och krav.
+Kunderna förväntar sig också att leverantörer förverkligar
+erbjudandet i enlighet med avtalet. Samhället förväntar sig
+uthållighet i flera aspekter att reducera användning av
+begränsade resurser, återanvända och återvinna, men också ur
+ett finansiellt samhällsekonomiskt perspektiv.
+Kursens syfte är att ge studenterna en förståelse för
+grundläggande principer och verktyg inom området
+kvalitetsstyrning (Quality Management). Detta innefattar koppling
+av kundernas behov till företagets förmåga att utveckla
+produkter och tjänster, förmåga att använda befintliga resurser
+för att producera produkter och tjänster, och att betrakta
+produkten ur användarens synpunkt.
+
+Konkreta mål är att ge studenterna:
+
+• en översikt över området kvalitetsstyrning (Quality
+Management) med fokus på grundläggande principer och verktyg för
+analys och förbättringsarbetet
+• förståelse för kopplingar mellan den dagliga verksamheten
+och styrande internationella kvalitetsstandarder
+• träning i att använda vanligt förekommande kvantitativa och
+kvalitativa verktyg för att mäta/analysera/ förbättra inom
+DMAIC/Sex sigma och LEAN
+• förmåga att mäta förluster och kartlägga värdeflöden,
+samt utveckla sin egen/kursens verktygslåda
+• insikt i kopplingarna mellan kvalitet och ekonomi.
+ 
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+• demonstrera en övergripande förståelse för
+kvalitetsstyrning (Quality Management) som disciplin
+• genomföra beräkningar i tillförlitlighet och
+flerfaktorförsök
+• kunna förklara och använda statistisk processtyrning olika
+kapabilitets mått
+• känna till verktyg för datainsamling, -bearbetning och
+presentation
+• förklara innebörden av kvalitetssäkring under och efter
+tillverkning
+• identifiera, problematisera samt beskriva kvalitet i
+tjänsteproduktion
+• relatera och tolka ständig förbättring via metodik som LEAN
+och sex sigma
+• relatera och tolka företagets samspel med omvärlden och
+samhället i uthållighetskonceptet.
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+• kunna utföra analys av 2 faktorförsök enligt etablerade
+försöksplaneringsmetoder
+• visa förmåga att granska och tillämpa tillförlitlighet
+för komplexa produkter
+• kunna beräkna och bedöma processutfall och ge förslag på
+styrning
+• kunna redogöra för olika standarder för kvalitetsstyrning
+(Quality Management) och utvärdera dess konsekvenser på den
+dagliga verksamheten
+• ha förmåga att utvärdera, välja och använda olika
+kvalitetsverktyg för datainsamling, bearbetning och presentation
+samt att utveckla en egen verktygslåda
+• visa förmåga att utveckla och tillämpa kvalitetsstyrning av
+varu- och tjänsteproduktion
+• kunna utvärdera och välja metodik för ständig
+förbättring som LEAN och Sex sigma
+
+Studenten förväntas kunna använda etablerade facktermer och på
+ett tydligt sätt kommunicera problemformulering, lösning och
+tolkning av kvantitativa modeller. Kursen skall också ge insikt i
+att jämföra olika koncept och strategier, för utveckling på
+systemnivå.
+Efter genomgången kurs ska studenten självständigt kunna
+tillgodogöra sig litteratur på området och ytterligare kunna
+förkovra sig vid behov.
+
+Kursinnehåll
+Kursens innehåll beskrivs av syfte och lärandemål ovan
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examinationen består av en skriftlig tentamen samt obligatoriska inlämningsuppgifter av projektkaraktär. Inlämningsuppgifterna genomförs i mindre grupper och examineras genom skriftliga rapporter och muntliga presentationer. Inlämningsuppgifter examineras endast i samband med kursens genomförande.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0115. Benämning: Kvalitetsstyrning. 
+Antal högskolepoäng: 7,5. Betygsskala: TH. 
+Kod: 0215. Benämning: Inlämningsuppgifter. 
+Antal högskolepoäng: 0. Betygsskala: UG. 
+Antagningsuppgifter
+Förkunskapskrav:
+FMS012 Matematisk statistik, allmän kurs eller FMSF45 Matematisk statistik, allmän kurs
+
+
+Förutsatta förkunskaper: MIO012/MIOA01/MIOA12 Industriell ekonomi AK.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: MIO060, MION35
+Kurslitteratur
+
+Foster,S Thomas: Managing Quality, Integrating the Supply Chain. 6th global edition Pearson, 2017.
+Kurs kompendium.
+Urval av aktuella vetenskapliga artiklar med syfta att illustrerar senaste resultat från forskning och applikationer i företag och andra organisationer.
+Rekommenderade internationella hemsidor av typ isixsigma, ifm.eng.cam.ac.uk/dctools, asq.org, itl.nist.gov/div898/handbook, för utveckling av den egna verktygslådan.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Professor Johan Marklund, Johan.Marklund@iml.lth.se
+Lärare: Bertil Nilsson, Bertil.Nilsson@iml.lth.se
+Hemsida: http://www.pm.lth.se
+Övrig information: Kursen får inte ingå i examen samtidigt som kursen MION35.
+
+
+

@@ -1,0 +1,142 @@
+
+Kursplan 2019/20 VTAN01
+
+
+
+
+
+Kursplan för
+Akustik
+Acoustics
+VTAN01, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning V
+Beslutsdatum: 2019-04-01
+Allmänna uppgifter
+Valfri för: F4, V4-hb, V5-ko
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Syftet med kursen är att ge kunskap om ljudutbredning i olika
+media, nämligen fluider som luft och i vibrerande system av solida
+konstruktionselement, där olika vågtyper (t.ex. longitudinella
+vågor, transversella vågor och böjvågor) och deras egenskaper
+introduceras.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+Kunna redogöra för de fysikaliska grunderna för vågor i
+fasta material och beskriva vågutbredning i oändliga elastiska
+media samt stavar, balkar och plattor.
+Kunna tolka och beskriva grundbegrepp som akustisk effekt,
+intensitet och vågimpedans.
+Kunna redogöra för olika mekanismer för dämpning och
+metoder för experimentell bestämning av dämpning, samt känna
+till hur man kan förändra en strukturs dämpegenskaper.
+Kunna förstå och använda uttryck för punktimpedans för
+oändliga balkar och plattor.
+Kunna beskriva orsakerna till ljudreflexion och –transmission
+vid blockerande element, och förstå vad som händer vid periodisk
+upprepning av blockerande element.
+Kunna redogöra för ljudutstrålning från strukturer.
+Kunna förstå hur ljud sprider sig i ventilationsanläggningar
+och redogöra för hur man kan åtgärda relaterade
+bullerproblem.
+Kunna modellera och mäta buller från vindkraftverk.
+Kunna modellera och mäta ljudreduktion i väggelement och
+strukturer.
+Kunna modellera och mäta enkla ljudmiljöer.
+Kunna ordentlig designa ett rum från en akustisk
+perspektiv.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+Kunna beräkna egenfrekvenser, egenmoder och modtäthet i
+ändliga system med enkla geometrier och randvillkor.
+Givet en konstruktion, kunna analysera konstruktionen avseende
+ljudreflexion och -transmission.
+Givet ett strukturelement, kunna utforma en diskontinuitet så
+att önskvärd reflexion erhålls.
+Kunna beräkna ljudutstrålning från punkt-, linje- och plana
+källor.
+Bekvämt kunna använda begrepp som införs i kursen som t.ex.
+impedans, förlustfaktor, strålningsfaktor.
+Kunna redovisa lösningen av ett akustiskt problem i en teknisk
+rapport.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+Kritiskt kunna utvärdera olika tekniska lösningar,
+mätmetoder och beräkningsmetoder och deras tillämpbarhet i olika
+situationer.
+
+ 
+
+Kursinnehåll
+Olika vågtyper och deras egenskaper. Longitudinalvåg,
+transversalvåg och böjvåg. Vågutbredning i balkar och plattor.
+Vågutbredning, transmission och reflektion i och mellan olika
+media. Dämpningsmekanismer och deras matematiska beskrivning.
+Plattor med dämpskikt. Impedansbegreppet. Inimpedans i balkar och
+plattor. Transmission av strukturburet ljud. Periodiska strukturer.
+Buller i ventilationsanläggningar. Statistisk Energi-Analys.
+Ljudutstrålning från strukturer. Elementära ljudutstrålare.
+Akustik i volymer. Kursen innehåller en större projektuppgift
+där flera av dessa aspekter ska behandlas.
+Laborationer
+Kursen innehåller tre laborationer á 4h vars innehåll beror på
+det fokus kursen har under det givna året. Exempel på
+laborationer är:
+
+Introduktion till ljudutbredning
+Impedansmätning
+Ljudutbredning i fasta material
+Efterklangstid och egenmoder inom rumsakustiken
+Ljudtransmission
+Stegljudsisolering
+Mätning av buller från vindkraftverk
+
+
+Projektuppgifter
+Kursen innehåller en projektuppgift som inriktas mot ett område
+som kursen fokuserar på:
+
+Modellering av svängningar i balkar och plattor
+Modellering av flank- och direkttransmission
+Mätning och utvärdering av buller från vindkraftverk
+Egen uppgift
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Godkänd skriftlig tentamen, godkänd projektuppgift, samt godkända laborationsrapporter.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+FMAA05 Endimensionell analys
+FMA430 Flerdimensionell analys eller FMAB30 Flerdimensionell analys
+
+
+Förutsatta förkunskaper: VTAF01 Ljud i byggnad och samhälle
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: VTA016, VTA060, VTAF05
+Kurslitteratur
+
+Delphine Bard and Juan Negreira: Acoustics in Practice. 2016.
+Extra material som tillhandahålls av avdelningen.
+Föreläsningsanteckningar, anvisningar för projektuppgift och laborationer.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Delphine Bard, delphine.bard@construction.lth.se
+Lärare: Juan Negreira, Juan.Negreira@construction.lth.se
+Hemsida: http://www.akustik.lth.se
+
+
+

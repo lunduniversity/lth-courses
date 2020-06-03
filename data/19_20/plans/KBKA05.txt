@@ -1,0 +1,95 @@
+
+Kursplan 2019/20 KBKA05
+
+
+
+
+
+Kursplan för
+Teknisk biologi
+Technical Biology
+KBKA05, 7,5 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning B/K
+Beslutsdatum: 2019-03-29
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: K2
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursens syfte är att ge grundläggande kunskaper i biokemi och
+mikrobiologi samt en orientering om den moderna bioteknikens
+möjligheter.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna beskriva den prokaryota och den eukaryota cellens
+uppbyggnad
+kunna beskriva hur man arbetar sterilt och hur man odlar
+celler
+kunna beskriva geners struktur och funktion samt hur de
+uttrycks i form av proteiner
+kunna beskriva proteiners och enzymers struktur och
+egenskaper
+kunna beskriva den moderna bioteknikens möjligheter
+kunna redogöra för cellmetabolismen på ett översiktligt
+sätt
+kunna beskriva mikrobiologiska applikationer inom
+industrin
+kunna beskriva teknisk användning av enzymer
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+behärska ett antal vanliga biokemiska och mikrobiologiska
+laborationstekniker
+kunna presentera resultat från laboration i en skriftlig
+rapport
+
+
+Kursinnehåll
+
+Den prokaryota och den eukaryota cellens uppbyggnad
+Sterilisering och aseptisk arbetsteknik
+Tillväxt och odlingstekniker
+Generna och deras uttryck i form av proteiner
+Proteiner (struktur, funktion, upprening och
+karakterisering)
+Enzymer (struktur och funktion)
+Grundläggande metabolism
+Enzymers tekniska användning
+Den moderna genteknikens möjligheter
+Industriell mikrobiologi
+Gruppdiskussioner kring biokemiska frågeställningar
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen, litteraturrapport och laborationsrapporter.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0108. Benämning: Teknisk biologi, teori. 
+Antal högskolepoäng: 6. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen.  Delmomentet omfattar: Cellens uppbyggnad. Sterilteknik samt odling av celler. Generna och deras uttryck i form av proteiner. Proteiner (struktur, funktion, upprening och karakterisering). Enzymer (struktur och funktion). Grundläggande metabolism. Enzymers tekniska användning. Den moderna genteknikens möjligheter. Industriell mikrobiologi. 
+Kod: 0208. Benämning: Teknisk biologi, laborationer. 
+Antal högskolepoäng: 1,5. Betygsskala: UG.  Prestationsbedömning: Laborationsrapporter.  Delmomentet omfattar: Användning av ett antal vanliga biokemiska och mikrobiologiska laborationstekniker 
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Willey, Sherwood and Woolverton: Prescott’s Microbiology, 10th ed. McGraw-Hill, ISBN: 978-1-259-28159-4.
+Kompendium i Biokemi.
+Laborationskompendium.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Professor Lei Ye, lei.ye@tbiokem.lth.se
+Kursansvarig: Lektor Magnus Carlqvist, magnus.carlquist@tmb.lth.se
+Hemsida: http://www.tbiokem.lth.se/utbildning/teknisk-biologi-75-hp/
+Övrig information: Delar av kursen kan ges på engelska.
+
+
+

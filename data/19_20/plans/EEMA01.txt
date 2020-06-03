@@ -1,0 +1,146 @@
+
+Kursplan 2019/20 EEMA01
+
+
+
+
+
+Kursplan för
+Medicinteknisk design
+Biomedical Design
+EEMA01, 9 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning BME
+Beslutsdatum: 2019-03-28
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: BME2
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Syftet med kursen är att studenten skall utveckla förståelse
+för de speciella innovations- och utvecklingsprocesser som gäller
+för medicintekniska produkter. Detta inkluderar att skapa
+förståelse för att medicintekniska produkter ofta har en kritisk
+funktion och måste vara säkra för patienter, användare och
+omgivning. Dessutom behöver studenten förstå att förutom krav
+från professionen och patienter på säkerhet, vetenskap och
+beprövad erfarenhet finns det idag legala krav som gör det
+nödvändigt för ingenjören att ha god kunskap om kvalitets- och
+myndighetskrav vid utveckling och hantering av medicintekniska
+produkter.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+Beskriva och diskutera olika delar i innovationsprocessen som t
+ex behovsanalys, trend- och teknologisökning samt koncept- och
+prototypgenerering
+Redogöra för grundläggande kunskaper om de viktigaste
+lagarna och förordningarna som gäller medicinteknisk
+utrustning
+Beskriva och diskutera processen att uppnå CE-märkning
+Diskutera hur ett kvalitetssystem implementeras och
+används
+Diskutera hur ett riskhanteringssystem implementeras och
+används
+Redogöra för hur klinisk utvärdering kan genomföras
+
+ 
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+Utforska och analysera behov, trender och teknologier
+Skapa och utvärdera idéer för att möta identifierade
+behov
+Demonstrera och utvärdera konceptuella lösningsförslag
+Analysera CE-märkningsprocessen för en medicinteknisk
+produkt
+Föreslå kvalitetssystem beroende på den medicintekniska
+produktens klassificering
+Genomföra en enkel riskanalys
+
+ 
+ 
+ 
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+På ett tydligt sätt muntligen och skriftligen kunna
+presentera sina metoder, erfarenheter och slutsatser av projektet
+för resten av gruppen, samt muntligen diskutera och kritiskt
+värdera de metoder, erfarenheter och slutsatser som presenteras av
+andra studenter
+Kunna diskutera medicinteknisk design med medicintekniska
+företag och sjukvårdspersonal
+
+ 
+
+Kursinnehåll
+Kursen behandlar innovations- och utvecklingsprocessen för en
+medicinteknisk produkt i både föreläsnings- och projektform.
+Projektet startar vid kursstart och kommer att fortgå parallellt
+med föreläsningarna. Ämnen som tas upp på föreläsningarna
+skall tillämpas i projektet.
+Medicintekniska produkter är en mycket väsentlig del vid
+diagnos och behandling av patienter i modern hälso- och sjukvård.
+En ingenjör som arbetar med medicinsk teknik och medicintekniska
+produkter har speciella krav på sig vare sig hon/han arbetar som
+entreprenör, inom forskning/utveckling, service/underhåll,
+administration eller juridik, inom ett litet eller stort företag,
+eller inom privat eller offentlig sektor; hon/han måste ha
+patientsäkerhet som prioritet nummer ett – ett
+säkerhetstänkande som endast har sin motsvarighet inom
+flygsektorn.
+Medicintekniska produkter har ofta en kritisk funktion och
+måste vara säkra för patienter, användare och omgivning.
+Förutom krav från professionen och patienter på säkerhet,
+vetenskap och beprövad erfarenhet finns det idag legala krav som
+gör det nödvändigt för ingenjören att ha god kunskap på
+kvalitets- och myndighetskrav vid hantering av medicintekniska
+produkter.
+Kursen kommer att behandla behovsanalys, trend- och
+teknologisökning, koncept- och prototypgenerering,
+kravspecifikation, patentfrågor, hur en produkt ”sätts” på
+marknaden inom (CE-märkning) och utanför Europa, lagar och
+förordningar, medicintekniska produktdirektiv (Medical Devices
+Directive, MDD), standarder, Anmälda organ (Notified Body),
+kvalitetssystem, riskanalys, klinisk utvärdering och
+miljöledningssystem.
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftliga inlämningsuppgifter, skriftligt individuellt prov, skriftlig projektrapport samt individuell skriftlig reflektion.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0118. Benämning: Inlämningsuppgifter. 
+Antal högskolepoäng: 1,5. Betygsskala: UG.  Prestationsbedömning: Godkända inlämningsuppgifter. 
+Kod: 0218. Benämning: Skriftligt prov. 
+Antal högskolepoäng: 3,5. Betygsskala: TH.  Prestationsbedömning: Godkänt skriftligt prov. 
+Kod: 0318. Benämning: Projekt. 
+Antal högskolepoäng: 3,5. Betygsskala: TH.  Prestationsbedömning: Godkänd skriftlig projektrapport och en muntlig presentation på projektdelen.
+  Delmomentet omfattar: Projektet redovisas i form av en rapport. 
+Kod: 0418. Benämning: Personlig reflektion av grupparbetet. 
+Antal högskolepoäng: 0,5. Betygsskala: TH.  Prestationsbedömning: Individuell skriftlig självreflektion. 
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Stefanos Zenios, Losh Makower, Paul Yock: Biodesign, The Process of Innovating Medical Technologies. Cambridge, 2010, ISBN: 978-0-521-51742-3,. Rekommenderad för fördjupning och bredvidläsning.
+Peter Landvall: Medicintekniska produkter. SIS Förlag AB, 2010, ISBN: 978-91-7162-774-2.
+Kumar, V.     : 101 Design Methods. John Wiley & Sons, 2012, ISBN: 9781118083468. Rekommenderad för fördjupning och bredvidläsning.
+Both. T.: D.School – bootcamp bootleg. https://dschool.stanford.edu/resources/the-bootcamp-bootleg, 2010. Rekommenderad för fördjupning och bredvidläsning.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Universitetslektor Magnus Cinthio, magnus.cinthio@bme.lth.se
+Kursansvarig: Professor Anders Warell, anders.warell@design.lth.se
+Hemsida: http://bme.lth.se/course-pages/medicinteknisk-design/medicinteknisk-design/
+Övrig information: Kursen ges tilsammans av institutionerna Biomedicinsk Teknik  och Designvetenskaper.
+
+
+

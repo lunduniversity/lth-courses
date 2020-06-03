@@ -1,0 +1,92 @@
+
+Kursplan 2019/20 FMAF25
+
+
+
+
+
+Kursplan för
+Matematisk modellering med statistiska tillämpningar, projekt
+Mathematical Modelling with Statistical Applications, Project
+FMAF25, 3 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning F/Pi
+Beslutsdatum: 2019-03-26
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: Pi2
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+
+Att utveckla studentens förmåga till rapportskrivning och
+muntlig presentation av vetenskapliga resultat.
+Att utveckla studentens förmåga att samarbeta i grupp och
+följa en tidsplan.
+Att ge studenten grunderna i matematisk modellering av
+slumpmässig variation och förståelse för
+principerna bakom statistiska analyser.
+
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+ha god kännedom om reglerna för rapportskrivande.
+ha förståelse för behovet av statistiska metoder vid
+beslutsfattande inom företag och organisationer.
+kunna beskriva grundläggande tekniker för statistisk
+slutledning och kunna modifiera och anpassa dem till realistiska
+situationer.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+tillsammans med en annan student ha författat en
+projektrapport på svenska som uppfyller de gängse kraven.
+kunna presentera rapportens innehåll muntligt med adekvat
+användning av moderna AV-hjälpmedel.
+kunna implementera matematiska och/eller statistiska metoder i
+Matlab.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+kunna granska en matematisk eller statistisk modell och dess
+förmåga att beskriva verkligheten.
+
+Kursinnehåll
+Kursen innehåller en föreläsningsdel (30%) av generell
+karaktär och en projektdel (70%).
+Föreläsningsdelen inkluderar en gästföreläsning med
+obligatorisk närvaro,
+Projektdelen består av två mindre projekt. Deltagarna får
+grova arbetsplaner för projekten vid start.
+ 
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: Skriftlig rapport på ett till två mindre projekt. Muntlig redovisning av ett projekt. Skriftligt prov på projektet kan förekomma.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+FMAA10 Matematisk modellering
+
+
+Förutsatta förkunskaper: FMAF05 Matematik - System och transformer, FMSF45 Matematisk statistik, allmän kurs
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Material som distribueras till deltagarna.
+Walla, E: Så skriver du bättre tekniska rapporter. Studentlitteratur, 2004, ISBN: 9789144019130.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Anders Holst, studierektor@math.lth.se
+Lärare: Anders Källén, anderskallen@gmail.com
+Kursadministratör: Studerandeexpeditionen, expedition@math.lth.se
+Hemsida: http://www.maths.lth.se/course/mathmodproj/
+
+
+

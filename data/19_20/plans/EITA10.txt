@@ -1,0 +1,99 @@
+
+Kursplan 2019/20 EITA10
+
+
+
+
+
+Kursplan för
+Elektronik
+Electronics
+EITA10, 5 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning E
+Beslutsdatum: 2019-03-25
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: D2
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Studenterna skall få en förståelse för kretsteknikens
+grunder och de däri ingående grundläggande elementen. Studenten
+skall kunna tillämpa dessa kunskaper tillsammans med den
+introduktion till de elektroniska komponenterna som kursen
+innehåller för att kunna bygga enklare elektriska kopplingar till
+ett inbyggt system. Studenten skall också få en inblick i
+inbyggda system, och det samspel mellan programvara,
+mikrokontroller och elektronik som finns i dessa.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+självständigt kunna beskriva de grundläggande
+kretsteoretiska sambanden (t ex Ohms lag och Kirchhoffs
+lagar),
+förstå samspelet mellan elektroniken, kretstekniken och
+inbyggda system.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+självständigt kunna konstruera och analysera enklare
+elektroniska kopplingar (t ex gränssnitt mellan omvärlden och
+datorn),
+kunna koppla mätningar till teori och analysera tillhörande
+mätosäkerhet,
+självständigt kunna beskriva försöksuppställningar och
+erfarenheter från laborationer i rapportform,
+självständigt kunna genomföra en laboration på ett
+professionellt sätt,
+ha förmåga att skriva en teknisk rapport av god
+kvalitet.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+ha skaffat sig en god förståelse för den begreppsbildning
+som finns inom ingenjörsvetenskaperna,
+kunna utvärdera olika kretslösningar mot varandra,
+ha förståelse för de kompromisser som behöver göras vid
+implementation av teknik.
+
+
+Kursinnehåll
+Kursen innehåller en genomgång av den enklare delen av
+kretstekniken. Den tar upp de grundläggande kretselementen,
+signalers tids- och frekvensegenskaper. Detta tillämpas sedan på
+elektriska kopplingar företrädesvis kopplat till gränssnittet
+mellan dator och omvärld. De teoretiska kunskaperna omsätts i
+praktiken på laborationerna.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examinationen består av godkända laborationer, labbrapporter, elektroniska hemuppgifter samt frivillig tentamen. Godkända laborationer, labbrapporter och inlämningsuppgifter ger betyget 3. En skriftlig tentamen krävs för högre betyg (4 eller 5). Två omtentamina per år ges, men övriga moment examineras endast under kursens gång.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Tentamen. 
+Antal högskolepoäng: 2,5. Betygsskala: TH.  Prestationsbedömning: Hemuppgifter som görs online. För betyg 4 eller 5 krävs dessutom skriftlig tentamen.  Delmomentet omfattar: Hela kursen 
+Kod: 0217. Benämning: Laborationer. 
+Antal högskolepoäng: 2,5. Betygsskala: UG.  Prestationsbedömning: Godkända laborationer.  Övrig information: Laborationerna erbjuds endast under ordinarie kursomgång.
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: ESS010, ETE022, ETE115, ETIA01, EITA35, EITF90
+Kurslitteratur
+
+Allan R. Hambley: Electrical Engineering Principles and Applications, 6th ed. Pearson, 2014, ISBN: 0133116646 • ISBN: 9780133116649.
+Elektrovetenskap, Exempelsamling Kretsteori. 2016. 2016.
+Elektrovetenskap, Elektronik Laborationshandledning.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Per Andersson, per.andersson@eit.lth.se
+Hemsida: http://www.eit.lth.se/kurs/EITA10
+
+
+

@@ -1,0 +1,140 @@
+
+Kursplan 2019/20 EDAA35
+
+
+
+
+
+Kursplan för
+Utvärdering av programvarusystem
+Evaluation of Software Systems
+EDAA35, 7 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning C/D
+Beslutsdatum: 2019-04-01
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: D1
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursens syfte är att ge förståelse om hur vetenskapliga
+studier genomförs, samt kunskap om vetenskapligt skrivande och
+muntlig presentation av vetenskapligt arbete. Mer specifikt
+behandlar kursen hur man kan utvärdera programvarusystem, samt hur
+utvärderingar av denna i typ bör planeras, genomföras och
+rapporteras.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna redogöra för de typiska stegen i en vetenskaplig
+undersökning, som planering med design, genomförande med
+datainsamling, dataanalys, validitetsanalys och
+slutsatsformulering.
+kunna redogöra för hur ett exekveringssystem fungerar, med
+avseende på kompilering, interpretering, ”skräpsamling”
+etc.
+kunna redogöra för hur man kan mäta på programvarusystem
+och ha kunskap om dynamiska och statiska mått som kan definieras
+för olika kvalitetsaspekter av programvarusystem, i huvudsak
+prestanda och statiska kodmått.
+Kunna redogöra för hur man kan mäta på föränderliga
+(stokastiska) processer och ha kännedom om både medelvärde och
+variation.
+
+ 
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna planera och genomföra en studie där mätningar på
+programvarusystem ingår.
+kunna praktiskt genomföra mätningar av exekveringstid för
+program som kör på en modern virtuell maskin. Detta innefattar t
+ex att ta hänsyn till både start av den virtuella maskinen och
+insvängning till jämviktsläge efter kompilering och
+optimering
+kunna praktiskt genomföra mätningar av statiska
+kodmått.
+kunna analysera mätningar och bestämma medelvärden,
+konfidensintervall, etc., samt kunna tolka mätningarna och
+förstå den praktiska betydelsen av dem.
+kunna analysera jämförande studier och undersöka om
+uppmätta skillnader är slumpmässiga eller inte, dvs genomföra
+enkla hypotestest.
+kunna rapportera denna typ av arbete skriftligt. Studenten ska
+även, på ett akademiskt hederligt sätt, kunna hänvisa till
+andras arbete.
+kunna bedöma kvaliteten av en rapport som beskriver en
+utvärdering av ett programvarusystem
+kunna genomföra en muntlig presentation av denna typ av
+undersökning
+
+ 
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+ha förståelse för hur designen av en studie påverkar
+validiteten av resultaten
+ha förståelse för vilka delar av en rapport som krävs för
+att ge läsaren en heltäckande bild av genomförandet, resultaten
+och validiteten av en utvärderande studie
+inför framtida kurser i statistik ha en förståelse för
+betydelsen av statistiska metoder inom dataanalys
+
+ 
+
+Kursinnehåll
+
+Planering och design av vetenskapliga studier, med fokus på
+fallstudier och experiment
+Skriftlig och muntlig presentation av utvärderande
+studier
+Introduktion till statistisk analys av mätning, medelvärde,
+variation, etc.
+Exekveringssystem, virtuella maskiner
+Mätning av dynamiska mått, t ex exekveringstid i Java
+Mätning av statiska mått på kod
+Deskriptiv och statistisk analys av mätdata och
+hypotestest
+Grundläggande statistisk analys med hjälp av verktyg/paket
+för detta
+Rapportstruktur och språkbehandling för vetenskapliga
+rapporter
+Referenshantering med Bibtex
+Bedömning av presenterade utvärderande studier,
+opponering
+
+ 
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: Examination sker genom bedömning av inlämnade rapporter, samt muntliga 
+presentationer. För godkänd kurs ska laborationer och projekt vara godkända.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0118. Benämning: Laborationer. 
+Antal högskolepoäng: 3. Betygsskala: UG.  Prestationsbedömning: Laborationer examineras som en del av uppgiften under laborationen i sal och/eller baserat på laborationsrapporter som lämnas in efter laborationen.   Delmomentet omfattar: Laborationer i kursen 
+Kod: 0218. Benämning: Projekt. 
+Antal högskolepoäng: 4. Betygsskala: UG.  Prestationsbedömning: Projektet examineras baserat på en skriftlig rapport och en muntlig presentation. Dessutom ingår separata prov i form av "quizz"-uppgifter.   Delmomentet omfattar: Kursen innehåller ett projekt som genomförs i mindre grupper. I denna kursdel ingår även den teori som ingår i kursen och som behövs för projektet och för laborationerna.  
+Antagningsuppgifter
+Förkunskapskrav:
+Godkända laborationer eller godkänd tentamen EDAA45 Programmering, grundkurs 
+
+
+Förutsatta förkunskaper: Relevanta delar ur Programmeringsteknik fortsättningskurs
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Material. Kompendium, "EDAA35 Utvärdering av programvarusystem".
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Martin Höst, Martin.Host@cs.lth.se
+Hemsida: http://cs.lth.se/edaa35
+
+
+

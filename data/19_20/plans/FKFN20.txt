@@ -1,0 +1,87 @@
+
+Kursplan 2019/20 FKFN20
+
+
+
+
+
+Kursplan för
+Kärnfysik, fördjupningskurs
+Nuclear Physics, Advanced Course
+FKFN20, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning F/Pi
+Beslutsdatum: 2019-03-26
+Allmänna uppgifter
+Valfri för: F4, F4-aft
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursen är den första avancerade kursen inom
+kärnfysikområdet. Syftet är att ge fördjupade kunskaper om
+atomkärnans fysik genom ett kvantmekaniskt betraktelsesätt.
+Speciellt behandlas olika modeller av hur kärnan är uppbyggd,
+sönderfallsprocesser och kärnreaktioner. Kursen har många
+kopplingar till pågående forskning inom grundläggande och
+tillämpad kärnfysik vid Lunds universitet.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+ha ingående kunskaper om atomkärnans fysik
+kunna förklara hur atomkärnan beskrivs med olika modeller av
+kvantmekanisk natur
+ha förståelse för kvantmekaniska beskrivningar av
+sönderfallsprocesser
+ha förståelse för kvantmekaniska beskrivningar av
+reaktionsprocesser.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+ha förståelse för hur kvantmekanikens metoder appliceras
+för analys och beräkning av kärnfysikaliska
+problemställningar
+ha utvecklat sin förmåga att analysera och sammankoppla olika
+delar av kursinnehållet för en djupare förståelse av
+atomkärnan, representerad av ett mångkroppars kvantsystem
+ha förbättrat sin förmåga att redogöra för uppnådda
+experimentella resultat i skriftlig och muntlig form.
+
+
+Kursinnehåll
+Kärnkrafterna och nukleonernas uppbyggnad. Kärnmodeller. Det
+radioaktiva sönderfallet, alfa-, beta- och gamma-emission.
+Kärnreaktioner. Fission och fusion. Neutrondetektorer och ESS.
+Kärnreaktorer. Astrofysikaliska aspekter av kärnfysik.
+Kärnspektroskopi.
+Individuellt fördjupningsprojekt med seminarium.
+Laborationsmoment med anknytning till aktuell forskning.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Muntlig tentamen med krav på godkända inlämningsuppgifter, laborationer och laborationsrapporter. Godkänt fördjupningsseminarium. Laborationsmomenten utförs i grupp. 
+
+Närvaro vid introduktionsmötet, alternativt första föreläsningen, är obligatoriskt för att få tillträde till kursen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: FAFF10 Atom- och kärnfysik med tillämpningar.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FYSC12, FKF021
+Kurslitteratur
+
+Krane, K.S.: Introductory Nuclear Physics. John Wiley & Sons, 1988, ISBN: 0-471-80553-X.
+Laborationshandledningar/Guides to laboratory work. Distribueras av institutionen.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Professor Dirk Rudolph, dirk.rudolph@nuclear.lu.se
+Hemsida: http://www.nuclear.lu.se/utbildning/valfria_kurser/foerdjupningskurs_i_kaernfysik/
+Övrig information: Undervisningen bedrivs i form av föreläsningar, räkneövningar och laborationer. Kursen samordnas med motsvarande kurs vid Naturvetenskapliga fakulteten (kärnfysik, nuvarande FYSC12).
+
+Närvaro vid introduktionsmötet, alternativt första föreläsningen, är obligatoriskt för att få tillträde till kursen.
+
+
+

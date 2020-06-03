@@ -1,0 +1,109 @@
+
+Kursplan 2019/20 FMAA50
+
+
+
+
+
+Kursplan för
+Matematisk analys
+Calculus
+FMAA50, 13,5 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning F/Pi
+Beslutsdatum: 2019-03-26
+Allmänna uppgifter
+Obligatorisk för: IBYA1, IBYI1, IBYV1, IDA1, IEA1
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursens syfte är att ge en grundläggande introduktion till den
+endimensionella analysen. Särskild vikt läggs på den roll denna
+spelar i tillämpningar inom teknikämnen av olika slag, med avsikt
+att ge den blivande ingenjören en god grund för vidare
+studier.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+inom ramen för kursens innehåll med säkerhet kunna hantera
+elementära funktioner av en variabel inklusive gränsvärden,
+derivator och integraler av dessa
+kunna ställa upp och lösa några för tillämpningar viktiga
+typer av linjära och separabla differentialekvationer
+översiktligt kunna redogöra för och illustrera betydelsen av
+sådana matematiska begrepp inom endimensionell analys som används
+för att ställa upp och undersöka matematiska modeller i
+tillämpningarna.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna demonstrera god algebraisk räkneförmåga och kunna
+räkna med komplexa tal
+i samband med problemlösning kunna visa förmåga att
+självständigt välja och använda matematiska begrepp och metoder
+inom endimensionell analys, samt att ställa upp och analysera
+enklare matematiska modeller
+i samband med problemlösning kunna visa förmåga att
+integrera kunskaper från  olika delar av kursen
+kunna visa en elementär förmåga att redogöra
+för lösningen till matematiska problem inom kursens ram på ett
+strukturerat och logiskt sammanhängande sätt.
+
+
+Kursinnehåll
+Algebra
+Algebraisk räknefärdighet. Funktioner, ekvationer, olikheter och
+absolutbelopp. Komplexa tal. Potenser och logaritmer. Trigonometri.
+Kurvritning: elementära funktioner, andragradskurvor.
+Analys 1
+Komplexa tal och polynom. Funktionsbegreppet. De elementära
+funktionernas egenskaper: grafer, formler, elementära
+gränsvärden. Gränsvärden med tillämpningar: talet e, serier.
+Kontinuerliga funktioner. Derivator: definition och egenskaper,
+tillämpningar. Derivation av de elementära funktionerna.
+Egenskaper hos deriverbara funktioner: medelvärdessatsen med
+tillämpningar. Kurvritning. Lokala extremvärden. Optimering.
+Analys 2
+Primitiva funktioner. Partiell integration och
+variabelsubstitution. Partialbråksuppdelning. Definition av
+Riemannintegralen. Integrationsmetoder. Riemannsummor. Geometriska
+och andra tillämpningar av integraler. Generaliserade integraler.
+Differentialekvationer av ordning 1: linjära och separabla med
+tillämpningar. Linjära differentialekvationer av ordning 2:
+lösning av homogena och vissa inhomogena ekvationer, med
+tillämpningar. Taylors och Maclaurins formler.
+Potensserieutvecklingar av de elementära funktionerna, med
+tillämpningar.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen på alla delmoment. Algebra betygsättes endast med betygen Godkänd eller Underkänd. Delkurserna Analys 1 och Analys 2 betygsättes i en skala från 3.0 (godkänd) till 6.0 i steg om 0.1. Som slutbetyg erhålles heltalsdelen av medelvärdet av resultaten på de två senare delmomenten (dock högst 5).
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Algebra. 
+Antal högskolepoäng: 3. Betygsskala: UG.  Prestationsbedömning: Skriftligt prov som betygsätts med Godkänd eller Underkänd.  Delmomentet omfattar: Algebra, se ovan. 
+Kod: 0217. Benämning: Analys 1. 
+Antal högskolepoäng: 6. Betygsskala: TH.  Prestationsbedömning: Skriftligt prov.  Delmomentet omfattar: Analys 1, se ovan. 
+Kod: 0317. Benämning: Analys 2. 
+Antal högskolepoäng: 4,5. Betygsskala: TH.  Prestationsbedömning: Skriftligt prov.  Delmomentet omfattar: Analys 2, se ovan. 
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FMA415, FMAA01, FMAA05, FMA410, FMA645
+Kurslitteratur
+
+Månsson, J. och Nordbeck, P.: Endimensionell analys. Studentlitteratur, 2011, ISBN: 9789144056104.
+Övningar i endimensionell analys. Studentlitteratur, 2018, ISBN: 9789144127187.
+Dunkels, A m.fl.: Mot bättre vetande i matematik. Studentlitteratur, 2002, ISBN: 9789144019192. Tredje upplagan.
+
+
+Kontaktinfo och övrigt
+Studierektor: Studierektor Anders Holst, Studierektor@math.lth.se
+Kursadministratör: Studerandeexpeditionen, expedition@math.lth.se
+Hemsida: http://www.maths.lth.se/course/analHbg/
+
+
+

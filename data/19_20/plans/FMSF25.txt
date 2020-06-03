@@ -1,0 +1,106 @@
+
+Kursplan 2019/20 FMSF25
+
+
+
+
+
+Kursplan för
+Matematisk statistik - kompletterande projekt
+Mathematical Statistics - Complementary Project
+FMSF25, 2,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning I
+Beslutsdatum: 2019-04-01
+Allmänna uppgifter
+Valfri för: V2
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursen ska ge studenten de delar som saknas i
+högskoleingenjörsutbildningen när det gäller grunderna i
+matematisk modellering av slumpmässig variation och förståelse
+för principerna bakom statistiska analyser. Framför allt
+datoranalys av observerade data, hypotesprövning och
+regressionanalys.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna relatera frågeställningar om slumpmässig variation och
+observerade data till begreppen slumpvariabler, fördelningar och
+samband mellan variabler,
+kunna beskriva grundläggande tekniker för statistisk
+slutledning och kunna använda dem på enklare statistiska
+modeller.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna konstruera en enkel statistisk modell utifrån ett
+problem hämtat ut verkligheten eller från ett insamlat
+datamaterial,
+kunna granska en statistisk modell och dess förmåga att
+beskriva verkligheten,
+kunna använda ett beräkningsprogram för simulering och
+tolkning av statistiska modeller samt för analys av data,
+kunna välja, utföra och tolka en statistik procedur som
+besvarar en given statistisk frågeställning,
+kunna använda statistiska termer inom området i skrift,
+kunna redovisa en statistisk analys i en teknisk rapport.
+
+
+Kursinnehåll
+Kursen innehåller grundläggande begrepp inom
+sannolikhetsteori, statistikteori och sambandsanalys.
+I momentet sannolikhetsteori utnyttjas begreppen slumpvariabler
+och fördelningar för att beskriva variation och slumpmässiga
+fenomen. Olika fördelningar, såsom binomial-, poisson-, normal-,
+exponential- och lognormalfördelningen. Simuleringar från
+fördelningarna och studier av modellerna görs med hjälp av
+Matlab.
+I statistikteorin utgår vi från observerade data och skattar
+parametrar i enkla sannolikhetsmodeller samt beskriver
+skattningarnas osäkerhet. Stor vikt läggs vid kopplingen mellan
+modell och verklighetsrelaterad frågeställning samt vilka
+slutsatser som kan dras från observerade data. I denna analys
+används grundläggande tekniker som konfidensintervall och
+hypotesprövning.
+I sambandsanalys (regression) studerar vi hur samband mellan
+två eller flera variabler kan beskrivas, oftast är sambandet
+linjärt. Modeller med indikatorvariabler kan förekomma. Vi
+studerar olika tekniker för att kunna jämföra och välja bland
+olika modeller för samband. Detta moment vilar tungt på
+användningen av Matlab.
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: Obligatorisk närvaro på laborationerna, godkänd projektrapport och godkänt färdighetsprov.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Laborationer. 
+Antal högskolepoäng: 2. Betygsskala: UG.  Prestationsbedömning: Datorlaborationer och skriftlig projektrapport. 
+Kod: 0217. Benämning: Färdighetsprov. 
+Antal högskolepoäng: 0,5. Betygsskala: UG.  Prestationsbedömning: Datorbaserat test 
+Antagningsuppgifter
+Förkunskapskrav:
+FMAF30 Matematisk statistik eller FMSF30 Matematisk statistik
+
+
+Förutsatta förkunskaper: Högskoleingenjörsexamen i Byggteknik (Helsingborg)
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FMS032, FMS035, FMSF01, FMSF50, FMSF55
+Kurslitteratur
+
+Vännman K: Matematisk statistik, andra upplagan. Studentlitteratur, 2002.
+
+
+Kontaktinfo och övrigt
+Studierektor: Johan Lindström, studierektor@matstat.lu.se
+Hemsida: http://www.maths.lth.se/matstat/kurser/fmsf01/
+Övrig information: Ges endast för den som läst Byggingenjör i Helsingborg och behöver komplettera FMAF30 5hp med 2.5hp Matematisk statistik för att få motsvarande FMA032 eller FMS035 7.5hp. Kursen ges två gånger per år och samläses med laborationerna på FMS032 i lp2 respektive FMS035 i lp4. Kursanmälan görs av utbildningsprogrammet.
+
+
+

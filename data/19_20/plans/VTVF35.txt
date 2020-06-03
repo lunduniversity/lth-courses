@@ -1,0 +1,120 @@
+
+Kursplan 2019/20 VTVF35
+
+
+
+
+
+Kursplan för
+Trafikstyrning och telekommunikation inom spårtrafiken
+Traffic Control and Telecommunication in Railway Traffic
+VTVF35, 12 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning V
+Beslutsdatum: 2019-04-01
+Allmänna uppgifter
+Obligatorisk för: IBYI2
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursens syfte är att ge grundläggande kunskaper inom det
+signal- och teletekniska området på både system- och
+komponentnivå. Kursen syftar också till att ge insikt i hur
+utformningen av de signaltekniska anläggningarna påverkar
+kapaciteten samt hur de teletekniska anläggningarna utnyttjas av
+olika aktörer inom järnvägen.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+Kunna redogöra för TSD:er, grundläggande föreskrifter,
+normer och trafikala villkor som styr utformningen av
+signaltekniska anläggningar samt förstå hur utformningen av de
+signaltekniska anläggningarna är kopplade till
+järnvägsfordonens egenskaper
+Ha förståelse för kretslösningar i de signaltekniska
+delsystemen i samband med projekteringsarbete
+Ha förståelse för hur utformningen av det signaltekniska
+systemet påverkar kapaciteten
+Kunna redogöra för de viktigaste teletekniska
+anläggningarnas konstruktion, utformning och funktion
+Ha förståelse för hur kritiska de teletekniska
+anläggningarna är för järnvägstrafiken
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+Kunna redogöra för de signaltekniska grundtermerna och
+definiera dessa
+Kunna redogöra för de signaltekniska anläggningarnas
+konstruktion, utformning och funktion
+Signaler och tavlor
+Spårledningar
+Växlar
+Vägskydd
+Signalställverk
+Linjeblockering
+ATC
+ERTMS/ETCS
+Kunna redogöra för uppbyggnad och funktion för:
+Trafikverkets transmissionsnät
+Trafikverkets radiosystem MobiSIR
+Trafikverkets telefonnät
+Kunna redogöra för hur det teletekniska systemet används av
+olika aktörer inom järnvägen
+Kunna redogöra för hur störningar i de teletekniska
+anläggningarna kan påverka hela järnvägssystemet
+
+
+Kursinnehåll
+Kursen innehåller omfattande delar om de olika signaltekniska
+anläggningarnas konstruktion, utformning och funktion samt hur
+dessa anläggningar samverkar i ett trafikstyrningssystem.
+Sambandet mellan järnvägsfordonens egenskaper och utformningen
+av de signaltekniska anläggningarna samt hur utformningen
+påverkar kapaciteten är också centrala avsnitt.
+Kursen innehåller även avsnitt om de olika teletekniska
+anläggningarnas konstruktion, utformning och funktion.
+En viktig del av kursen är att påvisa hur de teletekniska
+anläggningarna samverkar med andra tekniska system som används
+vid järnvägen.
+Kursens afu-del består av en veckas praktik, studiebesök eller
+projektföreläsningar inom ett branschanknutet företag, myndighet
+eller förvaltning.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Godkända skriftliga tentamina, godkänd skriftlig rapport, godkänd afu.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0110. Benämning: Del 1. 
+Antal högskolepoäng: 5. Betygsskala: TH.  Prestationsbedömning: Godkänt tentaresultat. 
+Kod: 0210. Benämning: Del 2. 
+Antal högskolepoäng: 5. Betygsskala: TH.  Prestationsbedömning: Godkänt tentaresultat. 
+Kod: 0310. Benämning: Del 3. 
+Antal högskolepoäng: 2. Betygsskala: TH.  Prestationsbedömning: Godkänd skriftlig rapport/inlämningsuppgift. 
+Antagningsuppgifter
+Förkunskapskrav:
+FAFA40 Fysik
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: ETS605, VTT622
+Kurslitteratur
+
+Elektroniskt kompendium Trafikstyrning och Telekommunikatinon. Tillhandahålles på kursens hemsida.
+
+
+Kontaktinfo och övrigt
+Examinator: Andreas Persson, andreas.persson@tft.lth.se
+Lärare: Mattias Rosberg, 
+Kursansvarig: Stellan Jönsson, stellan.jonsson@trafikverket.se
+Hemsida: http://www.tft.lth.se/utbildning/grundutbildning/
+Övrig information: Kursen ges vid Trafikverksskolan i Ängelholm.
+
+Eventuella kostnader för resor i samband med AFU/obligatoriska studiebesök bekostas av studenten.
+
+
+

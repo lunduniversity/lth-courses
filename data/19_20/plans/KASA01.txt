@@ -1,0 +1,120 @@
+
+Kursplan 2019/20 KASA01
+
+
+
+
+
+Kursplan för
+Grundläggande kemi
+Fundamental Chemistry
+KASA01, 9 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning B/K
+Beslutsdatum: 2019-03-29
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: W2
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursen skall väcka intresse för kemi, samt lägga en teoretisk
+och färdighetsmässig grund för fördjupade kemiska studier inom
+utbildningsprogrammet. Kursen utgör basen för de kommande
+kurserna i kemi.
+Kursen ska även ge en förståelse för det kemiska
+fackspråket på såväl svenska som engelska.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+Systematiskt kunna ge namn respektive ange kemiska formler för
+oorganiska och organiska substanser samt använda grundläggande
+kemiska begrepp och termer.
+Känna till enklare modeller för atomens uppbyggnad,
+elektronkonfigurationer och kopplingen av dessa till periodiska
+systemet samt orbitalteori
+Förklara och använda termodynamiska data och storheter samt
+utnyttja sambanden mellan dem.
+Förklara och tillämpa begreppet kemisk jämvikt
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+Beskriva och förklara inter- och intramolekylära krafter hos
+kemiska substanser.
+Analysera och lösa kemiska jämviktsproblem.
+Teckna elektrokemiska celler och analysera förloppen för
+elektrokemiska processer samt beräkna cellpotentialer.
+Utföra enklare laboratoriearbete och göra riskanalys i
+samband med dessa
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+Redovisa kemiska beräkningar med korrekta enheter och
+siffernoggrannhet på ett logiskt och relevant sätt.
+Ta upp, korrekt redovisa och utvärdera resultat från
+laborationsförsök.
+
+
+Kursinnehåll
+Med anknytning till verklighetsnära tillämpningar kommer
+fundamentala kemiska fenomen att belysas och förklaras.
+Följande moment behandlas:
+
+Grundläggande kemiska begrepp och nomenklatur.
+Enklare laboratoriearbete
+Atomers uppbyggnad och periodiska systemet
+Kemiska formler, reaktioner och stökiometri
+Kemisk bindning
+Molekylgeometrier.
+Allmän introduktion till begreppen entalpi, entropi, inre
+energi och fri energi.
+Intermolekylära krafter (dispersionskrafter, vätebindningar,
+dipol-dipol).
+Standardbildnings- och reaktionsentalpier.
+Kalorimetri.
+Kemisk jämviktslära med tillämpningar t.ex. inom löslighet,
+syra-bas jämvikter, buffertlösningar och titrerreaktioner.
+Elektrokemi belyser redox-processer, elektrokemiska celler och
+elektrolys.
+Korrosionslära.
+
+Arbete med problemlösning spelar en stor roll vid inlärning av
+kursen.
+Kurslitteraturen är på engelska och ska ses som en
+introduktion till det engelska språket med
+naturvetenskaplig inriktning.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen, inlämningsuppgifter och laborationer. Frågor hämtade från kursens obligatoriska moment utgör del av tentamen (vid ordinarie tentamenstillfälle). Tentamensresultatet ger slutbetyg.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Tentamen. 
+Antal högskolepoäng: 8. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen 
+Kod: 0217. Benämning: Inlämningsuppgifter. 
+Antal högskolepoäng: 0. Betygsskala: UG.  Prestationsbedömning: Inlämningsuppgifter 
+Kod: 0317. Benämning: Laborationer. 
+Antal högskolepoäng: 1. Betygsskala: UG.  Prestationsbedömning: Laborationer.  Delmomentet omfattar: Obligatoriska laborationer som illustrerar kursinnehållet. 
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: KOOA01, KOOA05, KOOA10, KOOA15, KOOA20
+Kurslitteratur
+
+Atkins, P, Jones, L, Laverman, L: Chemical Principles: The Quest for Insight, 7:e upplagan. WH Freeman , 2016, ISBN: 9781319154196.
+Ellervik, U, Kann, N och Sterner, O: Organisk kemi, 3:e upplagan. Studentlitteratur, 2014, ISBN: 978-91-44-09991-0.
+Laborationshandledning.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Prof. Jan-Olle Malm, Jan-Olle.Malm@polymat.lth.se
+Kursansvarig: Dr. Johan Reimer, Johan.Reimer@kemi.lu.se
+Hemsida: http://www.kilu.lu.se/cas/education/undergraduate-education/ekosystemteknik/
+
+
+

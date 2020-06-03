@@ -1,0 +1,73 @@
+
+Kursplan 2019/20 EXTG11
+
+
+
+
+
+Kursplan för
+Biologisk modellering
+Biological Modelling
+EXTG11, 4 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning W
+Beslutsdatum: 2019-04-01
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Alternativobligatorisk för: Pi3
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Kursen syftar till att introducera modellerings- och
+beräkningsmetoder som är vanliga inom biologi.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+självständigt kunna använda olika beräknings- och
+modelleringsmetoder som används inom biologi
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna visa förmåga på hur man tillämpar de biologiska
+beräkningsmetoder som ingår i kursen
+kunna på egen hand tillämpa kunskaper i matematik och
+datavetenskap på biologiska problem.
+
+
+Kursinnehåll
+Varje modelleringsmoment föregås av en till två förberedande
+föreläsningar. Dessa följs sedan av en beräkningsövning, de
+flesta av dessa är datorövningar. Kursen fokuserar på
+modelleringsbara moment inom teoretisk biologi, exempelvis inom
+populationsgenetik, populationsekologi och spelteori. Kursen
+innehåller också matematiska tillämpningar av biologiska
+analysverktyg såsom genetiska algoritmer, neurala nätverk och
+cellulära automater. Programmeringsspråket på övningarna är
+MATLAB, varför en viss vana med detta är en fördel.
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: Ingen tentamen. Betygssättningen grundas på inlämnade och godkända övningsuppgifter.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: FMAF05 System och transformer eller motsvarande.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: EXTG15, TEK290, EXTG10
+Kurslitteratur
+
+Utdelade kompendier.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Anders.Brodin, Anders.Brodin@biol.lu.se
+Hemsida: http://www.biologi.lu.se/utbildning/grund-och-avancerad-utbildning/kurser/kurser-grundniva/biologiska-kurser-pa-grundniva-for-teknologer
+Övrig information: Kursen är en alternativobligatorisk kurs under tredje året på civilingenjörsutbildningen i teknisk matematik. Kursen samkörs med kursen EXTG15 Biologisk översiktskurs.
+
+EXTG11 utgörs av de teoretiska och beräkningstekniska delarna av EXTG15 men däremot inte den grundläggande biologiska introduktionen från EXTG15.
+
+
+

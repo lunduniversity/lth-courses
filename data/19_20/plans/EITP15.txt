@@ -1,0 +1,90 @@
+
+Kursplan 2019/20 EITP15
+
+
+
+
+
+Kursplan för
+Kretskortsdesign och prototypkonstruktion
+Printed Circuit Board and Prototyping
+EITP15, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning E
+Beslutsdatum: 2019-03-25
+Allmänna uppgifter
+Valfri för: D4-dpd, E4-is
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Arbete i projektgrupp är förmodligen den vanligaste
+situationen för en civilingenjör antingen som projektledare eller
+som specialist på något område. Kursen ger studenten
+färdigheter och säkerhet i att använda kunskaper om analoga och
+digitala byggblock, samt illustrerar industriellt
+utvecklingsarbete.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+analysera och beskriva system av låg och medelhög
+komplexitet
+känna till de yttre faktorer såsom störningar och hur
+de påverkar prestanda
+testa och felsöka en konstruktion på ett systematiskt
+sätt
+söka upp och tillgodogöra sig relevant information
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+realisera system av låg och medelhög komplexitet
+kunna uppvisa kunskaper i felsökningsmetodik
+driva ett projekt framåt till en fungerande prototyp
+formulera sig muntligt och skiftligt
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+visa prov på insikt om möjligheter och begränsningar med
+digitala och analoga projekt
+
+
+Kursinnehåll
+En förteckning med förslag till uppgifter kommer att finnas.
+Huvuddelen av kursen består i att från idé designa och
+konstruera kretskort med hjälp av lämpliga designverktyg, samt
+bestycka och testa konstruktionen. Vid kursens början hålls
+några lektioner med genomgång av lämpliga
+konstruktionsuppgifter, samt allmänna praktiska råd. Därefter
+tilldelas varje grupp en arbetsplats med alla erforderliga verktyg
+och instrument, som fritt disponeras under hela kursen. Under
+kontorstid finns handledare tillgänglig för frågor och
+diskussion av uppkomna problem.
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: För betyget Godkänd krävs: Godkänd slutkonstruktion. Skriftlig dokumentation av konstruktionen. Muntlig redovisning. Fullgjord opposition på annans arbete. Examination endast en gång per år i samband med kursen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: EIT020/EITF65 Digitalteknik, EIT070/EITF70 Datorteknik och ESS010/ETIA01/EITA35/EITA10 Elektronik, eller motsvarande.
+Begränsat antal platser: 24
+Urvalskriterier: Antal poäng på programmet.
+Förtur ges till studenter vars program har kursen listad i sin lär- och timplan.
+Kursen överlappar följande kurser: EDI021, ETI022, EITF40
+Kurslitteratur
+
+Utdelade projektspecifika stenciler.
+Handböcker och komponentkataloger finns tillgängliga på institutionen.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Christoffer Cederberg, christoffer.cederberg@eit.lth.se
+Hemsida: http://www.eit.lth.se/kurs/
+Övrig information: Kursen ersätter den tidigare kursen EITF40 Digitala och analoga projekt. I denna uppdaterade versionen ingår design av kretskort med hjälp av CAD-verktyg, vilket både ger ett modernare konstruktionsarbete och mer komplexa konstruktioner.
+
+
+

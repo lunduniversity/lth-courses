@@ -1,0 +1,92 @@
+
+Kursplan 2019/20 EDAF85
+
+
+
+
+
+Kursplan för
+Realtidssystem
+Real-Time Systems
+EDAF85, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning C/D
+Beslutsdatum: 2019-04-01
+Allmänna uppgifter
+Obligatorisk för: IDA3
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursens syfte är att ge högskoleingenjören en överblick
+över de programmeringstekniska problem som uppkommer då datorer
+sammankopplas med extern utrustning.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna redogöra för olika metoder för att garantera
+ömsesidig uteslutning
+kunna avgöra om deadlock kan uppkomma i ett givet system
+kunna redogöra för egenskaper hos olika
+schemaläggningsmetoder
+kunna analysera ett system med avseende på tidskrav.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna strukturera ett givet realtidsproblem och implementera
+lösningen i Java
+kunna använda trådar i programmering av realtidssystem
+kunna utnyttja semaforer, monitorer och meddelanden i
+realtidsprogrammering.
+
+
+Kursinnehåll
+
+Exempel på realtidssystem och inbyggda system
+Grundläggande begrepp: jämlöpande processer, synkronisering
+och kommunikation, odelbara operationer, ömsesidig
+uteslutning
+Semaforer, monitorer, meddelanden
+Uppkomst och analys av dödläge
+In- och utmatning och avbrottshantering
+Tidskrav, prioritering, periodiska processer.
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Tentamen är normalt skriftlig och består av uppgifter av utredande karaktär samt programmeringsproblem. 
+Slutbetyg i kursen grundar sig på resultatet av den skriftliga tentamen. För deltagande i tentamen fordras att de obligatoriska kursmomenten i form av laborationer har fullgjorts, inklusive den muntliga presentationen av laborationsprojekten.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Tentamen i realtidssystem. 
+Antal högskolepoäng: 4,5. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen. För att få delta i tentamen krävs att laborationerna fullgjorts. Slutbetyg på kursen baseras på resultatet av den skriftliga tentamen. 
+Kod: 0217. Benämning: Laborationer. 
+Antal högskolepoäng: 3. Betygsskala: UG.  Prestationsbedömning: För godkänt betyg krävs fullgjorda laborationer. En laboration räknas som fullgjord när båda dennes delmoment (förberedande design och implementering) har redovisats för och är godkända av lärare.  Delmomentet omfattar: Laborationerna omfattar ett teoretiskt moment (program-design) samt ett praktiskt moment (implementering av det föreslagna programmet).  
+Antagningsuppgifter
+Förkunskapskrav:
+EDAA10 Programmering i Java samt godkänd på ett av delproven i EDA690 eller EDAA30
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: EDA040, EDA698, EDAF55
+Kurslitteratur
+
+Kursmaterial som tillhandahålls av institutionen samt elektroniskt tillgängligt material. Detaljerad information tillhandahålls innan kursstarten via kursens hemsida.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Elin Anna Topp, Elin_Anna.Topp@cs.lth.se
+Hemsida: http://cs.lth.se/edaf85
+Övrig information: Kursen ges vid Campus Helsingborg.
+
+Obligatoriska laborationer och tillhörande förberedande övningar skall genomföras/redovisas på tid och plats som anges i samband med gruppindelning i början av kursen. Den som uteblir utan giltigt skäl kan inte räkna med att få redovisa mer än en laboration/övning vid följande tillfälle. För dem som trots rimliga förberedelser och närvaro inte hinner redovisa vid ett obligatoriskt tillfälle kan redovisning också ske vid nästa schemalagda tillfälle. För den sista obligatoriska laborationen/övningen ordnas i dessa fall ett uppsamlingstillfälle i anslutning till kursen. 
+Den som blir sjuk eller har annat giltigt skäl för att vara borta från obligatorisk undervisning skall snarast kontakta kursansvarig lärare och meddela detta och för att komma överens om redovisning vid senare tillfälle. De som är borta från ett stort antal tillfällen måste dock även i dessa fall hänvisas till nästa kurstillfälle.
+
+Undervisningsspråket för kursen är svenska, materialet inklusive tentamen tillhandahålls på engelska. Studenten har rätt att besvara tentamensfrågorna på svenska.
+
+
+
+

@@ -1,0 +1,86 @@
+
+Kursplan 2019/20 EXTN95
+
+
+
+
+
+Kursplan för
+Acceleratorer och frielektronlasrar
+Accelerators and Free Electron Lasers
+EXTN95, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning N
+Beslutsdatum: 2019-03-28
+Allmänna uppgifter
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursen syftar till att ge fördjupade kunskaper i fysiken kring
+acceleratorer och erfarenhet om beräkningar och modellering av
+acceleratorsystem. Dessutom syftar kursen till en grundläggande
+förståelse av frielektronlasern och dess acceleratorsystem.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+ha kunskap om olika acceleratortyper och deras
+funktionssätt.
+förstå och kunna använda stråldynamik för
+acceleratorer
+ha förståelse för acceleratorer för synkrotronljus.
+ha förståelse av frielektronlaser-processen och olika typer
+av frielektronlaser.
+ha kunskaper om ett acceleratorlaboratoriums uppbyggnad och
+drift.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+känna till och kunna använda de grundläggande fysikaliska
+metoderna relevanta för acceleratorer och frielektronlaser.
+ha kännedom om och kunna göra enklare simuleringar av
+acceleratorer.
+
+
+Kursinnehåll
+Kursen fokuserar på acceleratorer för synkrotronljusproduktion
+(linjäracceleratorer och synkrotroner), deras funktionssätt och
+uppbyggnad och hur deras egenskaper kopplar till olika
+användningsområden. De olika komponenterna i en accelerator
+analyseras (elektronkanoner, linjäracceleratorer, lagringsringar,
+diagnostik). Teorin för magneter (dipol-, kvadrupol- och generella
+magneter) och hur dessa används inom stråldynamiken beskrivs
+(partikeloptik, fokusering, matrisformulering, betatron- och
+synkrotron-svängningar, beta funktioner, betatrontoner, emittans
+mm.). Detta används för att bygga simuleringsmodeller av
+acceleratorer. Grundläggande kunskap om strålningsinstabilitet
+presenteras. Synkrotronljus källor och egenskaper beskrivs i mer
+detaljer. Frielektronlaser-processen och olika typer av
+frielektronlasrar (SASE, cavity-FEL, harmonic generation, High gain
+harmonic generation, seeding) analyseras och fysiken kring
+förstärkning beskrivs.
+
+Kursens examination
+Betygsskala: UV - (U,G,VG) - (Underkänd, Godkänd, Väl godkänd)
+Prestationsbedömning: Tentamen med skriftliga och muntliga delar, godkända laborationer och inlämningsuppgifter. Deltagande i laborationer är obligatoriskt. Slutbetyget avgörs genom en sammanvägning av resultaten på de moment som ingår i examinationen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: EXTF90 Produktion av fotoner och neutroner för vetenskap.
+Begränsat antal platser: Nej
+Kursen kan ställas in: Om färre än 5 anmälda.
+Kurslitteratur
+
+Enligt fastställd litteraturlista, vilken skall finnas tillgänglig senast fem veckor före kursstart, se https://liveatlund.lu.se/departments/max-lab/MAXM05/Pages/default.aspx.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Sverker Werin, sverker.werin@maxiv.lu.se
+Kursansvarig: Francesca Curbis, Francesca.Curbis@maxiv.lu.se
+Hemsida: https://www.lunduniversity.lu.se/lubas/i-uoh-lu-MAXM05/
+Övrig information: Kursen ges av naturvetenskapliga fakulteten (MAXM05) och följer inte läsperiodsindelningen.
+
+
+

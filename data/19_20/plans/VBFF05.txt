@@ -1,0 +1,117 @@
+
+Kursplan 2019/20 VBFF05
+
+
+
+
+
+Kursplan för
+Fuktsäkerhetsprojektering
+Moisture Safety Design
+VBFF05, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning V
+Beslutsdatum: 2019-04-01
+Allmänna uppgifter
+Huvudområde: Energi- och miljöeffektiva byggnader. 
+Obligatorisk för: MEMB1
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Att ge mer avancerad kunskap om fuktsäkerhet i byggnader och
+byggnadsdelar; de faktorer som påverkar fuktsäkerheten samt hur
+en acceptabel innemiljö kan uppnås.
+Ge studenten kunskap att projektera byggnader som uppfyller krav
+på fuktsäkerhet med beaktande av lågt energibehov, komfort samt
+god inomhusmiljö.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+Förstå hur byggnaden fungerar som system.
+Kvantitativt kunna bedöma fuktsäkerheten i en byggnad.
+Identifiera och analysera alla delar i en fuktbalans och
+jämföra detta med delarna i en energibalans.
+Förklara hur alla delar i fuktbalansen påverkar
+fuksäkerheten för byggnaden och dess komponenter.
+Kunna använda hygrotermiska beräkningsverktyg i
+projekteringen av byggnadsdelar och klimatskal.
+Kunna mäta grundläggande fuktrelaterade klimatparametrar,
+utvärdera mätresultaten och föreslå lämpliga åtgärder.
+Kunna identifiera kritiska delar/moment i hållbara
+lågenergibyggnader och analysera dessa avseende kvaliteten på
+inomhusklimatet.
+
+ 
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+Kunna utföra och analysera resultat från transienta
+beräkningar av kopplad värme- och fukttransport i byggnadsdelar
+och konstruktioner samt bedöma fuktsäkerheten från
+resultaten.
+Förstå effekten av luftläckagets påverkan på
+fukttillståndet i klimatskalet.
+Kunna samarbeta i grupp.
+Kunna skriftligen och muntligen presentera och diskutera
+resultat och slutsatser i dialog med andra grupper.
+
+ 
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+Ha förmåga att identifiera eventuella riskkonstruktioner med
+avseende på fuktsäkerheten.
+Inse behovet av fördjupad kunskap i syfte att utveckla sin
+kompetens.
+
+ 
+
+Kursinnehåll
+Kursen inleds med en översikt av målen för programmet med ett
+globalt perspektiv på miljöaspekter, energibehov och
+naturresurser, direktiv och mål, policy, incitament och
+fuktsäkerhetsarbete (gemensamt med kursen AEBN05;
+Energianvändning och termisk komfort i byggnader, första
+veckan).
+Byggnadsfysikalisk dimensionering av byggnadsdelar,
+genomföringar och andra detaljer för att säkerställa
+fuktsäkerheten. Information om metodik för
+fuktsäkerhetsprojektering, kritiska fukttillstånd och sunda
+hus.
+Hand- och datorbaserade hygrotermiska beräkningar, inklusive
+fuktkriterier, kritiska fukttillstånd, fuktens inverkan på
+energibehovet, fukttransport, fuktbalans, ytkondensation,
+fuktkonvektion samt fuktdiffusion.
+Projektarbete är en del av kursen där
+fuktsäkethetsprojektering, inklusive hygrotermiska beräkningar
+behandlas.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Slutbetyg baseras till 70% på tentamensresultat och till 30% till utförande relaterat till övningar och föreläsningar.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0112. Benämning: Skriftlig tentamen. 
+Antal högskolepoäng: 4,5. Betygsskala: TH.  Prestationsbedömning: Examination baserad på den skriftliga tentamen.   Delmomentet omfattar: Skriftlig examination av hela kursen.  
+Kod: 0212. Benämning: Övningsuppgift. 
+Antal högskolepoäng: 3. Betygsskala: UG.  Prestationsbedömning: Examination baserad på skriftlig rapport enligt givna specifikationer.  Delmomentet omfattar: Fuktsäkerhetsprojektering. 
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Hagentoft C-E: Introduction to Building Physics. Studentlitteratur , 2005, ISBN: 978-91-440-1896-6.
+Abel E, Elmroth A: Buildings and Energy - a systematic approach, T6:2007. FORMAS, 2007, ISBN: 978-91-540-5997-3.
+Till kursen finns tillgång till ett elektroniskt kursbibliotek via kurshemsidan.
+
+
+Kontaktinfo och övrigt
+Lärare: Akram Abdul-Hamid, akram.abdul_hamid@byggtek.lth.se
+Kursansvarig: Vahid Nik, vahid.nik@byggtek.lth.se
+Hemsida: http://www.ebd.lth.se/master
+
+
+

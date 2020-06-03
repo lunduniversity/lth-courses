@@ -1,0 +1,104 @@
+
+Kursplan 2019/20 EXTF30
+
+
+
+
+
+Kursplan för
+Räntebärande tillgångar
+Fixed Income Securities
+EXTF30, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning I
+Beslutsdatum: 2019-04-01
+Allmänna uppgifter
+Valfri för: I4
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Studenten ska ha djup förståelse för räntemarknadens
+funktion samt förmåga att förklara den grundläggande logiken
+bakom modeller och analytiska verktyg som används av
+räntemarknadens aktörer. Fokus ligger på svenska
+förhållanden
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+behärska:
+· prissättning av enkla typer av obligationer,
+· sambandet mellan räntor på kort och lång sikt,
+· kopplingen mellan terminsmarknaden och spotmarknaden
+(räntemarknaden),
+· grundläggande mätning och hantering av ränterisker,
+· durationsanalys,
+· value-at-risk-analys,
+· valutamarknadens betydelse för räntemarknaden,
+· valutaterminer,
+· förutsägelse av växelkurser,
+· viktiga samband som beskriver kopplingen mellan
+räntemarknader i olika länder och dito
+spot/terminsvalutamarknader,
+· avancerade ”fixed income”- och ”credit”-instrument
+och marknader,
+ 
+
+kreditrisk.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+ha förmåga att självständigt:
+· kunna strukturera och försvara ett komplext teoretiskt
+argument
+· kunna använda teorier och koncept för att prissätta enkla
+ränteinstrument,
+· kunna använda teorier och koncept för att hantera risker
+på räntemarknaden,
+· kunna förklara viktiga skeenden på räntemarknaden,
+· kunna utföra enkla beräkningar samt använda enkla
+datorhjälpmedel.
+.rapportera resultat i skriftlig form.
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+Studenten ska utveckla förmåga till vidare studier inom ämnet
+samt till att söka och utvärdera information med hög grad av
+självständighet.
+
+Kursinnehåll
+Kursen är indelad i tre avsnitt och inleds med en genomgång av
+den svenska penningmarknaden. I detta första avsnitt behandlas
+både de instrument som förekommer på marknaden samt marknadens
+funktionssätt. I nästa avsnitt studeras riskhantering för
+såväl enskilda räntebärande tillgångar som portföljer av
+sådana. Kursens tredje avsnitt behandlar den globala
+penningmarknaden. Här ges också en genomgång av valutamarknaden
+och dess koppling till de nationella penningmarknaderna.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Undervisningen består av föreläsningar, lektioner och datorövning. Examinationen är skriftlig och äger rum vid slutet av kursen. Ytterligare examinationstillfälle anordnas i nära anslutning härtill. Tillfredsställande datorövningsrapport ger poäng som kan tillgodoräknas vid ordinarie tentamen samt vid omtentamen. Kursen innehåller inga obligatoriska delar förutom tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+EXTA40 Introduktion till mikroekonomisk teori
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: NEKB25, NEKG81
+Kurslitteratur
+
+Asgharian, Hossein och Lars Nordén: Räntebärande instrument: värdering och riskhantering. Studentlitteratur, 2007.
+Hässel, Leif och Marie Norman: De finansiella marknaderna i ett internationellt perspektiv. SNS förlag, 2001.
+Kompletterande material.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Professor Hans Byström, hans.bystrom@nek.lu.se
+Hemsida: http://www.nek.lu.se
+Övrig information: Kursen ges av Nationalekonomiska institutionen vid Ekonomihögskolan och samläses med NEKG81. Tentamenstid meddelas av kursläraren.
+
+
+

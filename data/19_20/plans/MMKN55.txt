@@ -1,0 +1,131 @@
+
+Kursplan 2019/20 MMKN55
+
+
+
+
+
+Kursplan för
+Konstruktionsteknik
+Engineering Design Techniques
+MMKN55, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning M
+Beslutsdatum: 2019-03-27
+Allmänna uppgifter
+Obligatorisk för: MD4
+Valfri för: M4-me, M4-pu
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursen skall ge kunskaper om konstruktionsarbetets roll inom
+ramen för den övergripande produktutvecklingsprocessen med målet
+att kunna fastlägga konstruktionsförutsättningarna för en given
+produkt eller del av densamma. För detta syfte ska såväl
+konstruktionsprocessen som dess ingående syntes- och analysdelar
+introduceras. Specifikt kommer i kursen några för konstruktören
+väsentliga teknikområden såsom förbandskonstruktion och
+konstruktiv utformning att behandlas.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+• kunna fastlägga konstruktionsförutsättningarna för en
+given produkt eller del av densamma
+• kunna identifiera och genomföra nödvändiga syntes- som
+analysmoment i konstruktionsarbetet
+• utifrån en given principlösning kunna föreslå lämpligt
+uppbyggnadssätt (produktarkitektur)
+• utifrån valt uppbyggnadssätt kunna identifiera och formulera
+behovet av existerande konstruktionslösningar  (komponenter –
+färdiga och/eller standardiserade konstruktionslösningar)
+• utifrån valt uppbyggnadssätt kunna identifiera och formulera
+behovet av unika konstruktionslösningar
+• för de i principlösningen identifierade unika
+konstruktionslösningarna kunna ta fram lämpliga lösningsförslag
+(syntes) och välja lämpligaste utformning
+• kunna analysera framtagna förslag (kvantitativt såväl som
+kvalitativt)
+• för uppdragsgivaren (vanligen industriföretaget) kunna ta
+fram lämpliga beskrivningar av framtagen konstruktionslösning med
+referens till genomförd process - muntligen och skriftligen,
+självständigt eller i grupp
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+• självständigt eller i grupp, utifrån en given
+principlösning (produktkoncept), kunna ta fram
+konstruktionsförutsättningarna för produkten eller del av
+densamma
+• självständigt eller i grupp, utifrån en given
+principlösning (produktkoncept), kunna ta fram (syntes),
+utvärdera och välja konstruktionslösning
+• självständigt, utifrån en given principlösning
+(produktkoncept), kunna ta fram och analysera olika förslag till
+lösning av ett förband (skruv- och svetsförband)
+• självständigt eller i grupp kunna analysera behovet av en
+unik konstruktionslösning
+• självständigt eller i grupp inför ett industriföretag,
+eller motsvarande, i dialog kunna kommunicera, muntligen och i
+skrift, framtagen konstruktionslösning med referens till
+genomförd process
+• självständigt ta fram ett ritningsunderlag som kan lämnas
+till en tillverkande verkstad.
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+• med ett vetenskapligt förhållningssätt kunna utvärdera
+och reflektera över framtagna konstruktionslösningar och på
+basis därav kunna föreslå behov av ytterligare och/eller
+alternativa konstruktionslösningar
+• kunna identifiera eventuella behov av fördjupade analyser av
+framtagna förslag
+
+Kursinnehåll
+Kursen behandlar:
+• Utifrån produktutvecklingsprocessen introduceras en modell
+över konstruktionsprocessen och hur man utifrån denna tar fram
+konstruktionsförutsättningarna för en given produkt eller
+produktdel.  Baserat på denna processmodell beskrivs
+konstruktionsarbetets syntes- och analysmoment. Tyngdpunkten i
+denna del av kursen ligger på konstruktionsarbetets syntesdel. En
+gruppuppgift med målet att ta fram ett verkningssätt för en
+given produkt/produktdel avslutar momentet.
+• I denna kursdel behandlas konstruktiv utformning, där
+generella regler och riktlinjer för konstruktionens tekniska
+utformning fastläggs. Kurslitteraturen för denna kursdel baseras
+på de senaste forskningsrönen samt egen forskning och erfarenhet
+inom området. Kursdelen avslutats med genomförandet av en
+individuell inlämningsuppgift.
+• Förbandskonstruktion utgör kursens avslutande del och
+behandlar utformning och dimensionering av skruv- och
+svetsförband. Teorin kring skruv- och svetsförband bygger på
+standarden Eurodkod 3.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning:  För erhållande av slutbetyg krävs tre godkända inlämningsuppgifter. Den första inlämningsuppgiften avser en framtagning av verkningssättet för en given produkt eller produktdel (syntes). Uppgiften utförs i grupper om 3 – 5 studenter och bedöms ettdera godkänd eller underkänd. Övriga inlämningsuppgifter utförs individuellt - en i förbandskonstruktion och en i konstruktiv utformning. Vardera av dessa inlämningsuppgifter innehåller en basuppgift (för godkänt resultat – 3), samt två deluppgifter för den som önskar högre betyg (4 eller 5). Vid underkänt resultat på basuppgiften ska denna kompletteras. För övriga deluppgifter gäller att dessa får kompletteras vid underkänt resultat om studenten gjort en seriös lösningsansats på den underkända deluppgiften. Slutbetyg erhålls vid godkänd gruppuppgift som heltalsdelen av medelvärdet av poängresultaten från de två individuella inlämningsuppgifterna. Hemsida: http://www.mkon.lth.se. 
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0114. Benämning: Inlämningsuppgift 1 - Verkningssätt. 
+Antal högskolepoäng: 1. Betygsskala: UG.  Prestationsbedömning: Gruppuppgift med muntlig presentation.  Delmomentet omfattar: Denna inlämningsuppgift avser analys av verkningssättet hos en produkt. 
+Kod: 0214. Benämning: Inlämningsuppgift 2 - Konstruktiv utformning. 
+Antal högskolepoäng: 3. Betygsskala: UG.  Prestationsbedömning: Individuell inlämningsuppgift. Resultatet ska redovisas i en skriftlig rapport, som bedöms utifrån aktuell kriterielista. Kriterielista utdelas i anslutning till introduktionen av uppgiften.  Delmomentet omfattar: Denna inlämningsuppgift avser framtagning och analys av uppbyggnadssätt/utformning av en principlösning. Aktuella lösningsalternativ utgår ifrån gjutet och/eller svetsat utförande. 
+Kod: 0314. Benämning: Inlämningsuppgift 3 - Förbandskonstruktion. 
+Antal högskolepoäng: 3,5. Betygsskala: UG.  Prestationsbedömning: Individuell inlämningsuppgift. Resultatet ska redovisas i en skriftlig rapport, som bedöms utifrån aktuell kriterielista. Kriterielista utdelas i anslutning till introduktionen av uppgiften.  Delmomentet omfattar: Denna inlämningsuppgift avser framtagning och analys av mekaniska förband. Aktuella förbandstyper är skruv- och svetsförband. 
+Antagningsuppgifter
+Förutsatta förkunskaper: MMKF01 Utvecklingsmetodik eller motsvarande.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: MMKN05, MMK095, MMK097
+Kurslitteratur
+
+Sundström, J., Bjärnemo, R. och Andersson, P.E.; Konstruktiv utformning - Del 1: Syntes, Avdelningen för maskinkonstruktion, LTH, 2004.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Per-Erik Andersson, per-erik.andersson@design.lth.se
+Kursadministratör: Cilla Perlhagen, cilla.perlhagen@design.lth.se
+Hemsida: http://www.product.lth.se/education/
+
+
+

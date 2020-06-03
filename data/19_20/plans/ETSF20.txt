@@ -1,0 +1,112 @@
+
+Kursplan 2019/20 ETSF20
+
+
+
+
+
+Kursplan för
+Programvaruutveckling för stora projekt
+Software Development for Large Projects
+ETSF20, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning C/D
+Beslutsdatum: 2019-04-01
+Allmänna uppgifter
+Obligatorisk för: IDA2
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursens syfte är att ge studenten grundläggande kunskaper i
+projektledningsprinciper och utvecklingsprocesser samt de centrala
+begreppen kring projektbaserad storskalig utveckling av system med
+betydande andel programvara. Syftet är också att ge studenten
+erfarenheter kring de problem som uppstår i stora projekt, där
+många involverade aktörer och parallellt arbete skapar
+situationer som måste hanteras.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+ 
+Efter genomgången kurs ska studenten kunna:
+
+Förklara hur en systematisk process påverkar utfallet av ett
+projekt
+Förklara på vilket sätt samarbete och systematik ingår som
+ingredienser i ett projekt och påverkar hanteringen av problem
+inom projektet
+Beskriva lärdomar och möjliga förbättringsåtgärder
+relaterade till sin roll i projektet samt förklara projektets
+syfte.
+Utifrån givna ramar kunna identifiera interkulturella
+barriärer och redogöra för lämplig hantering.
+
+ 
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+Aktivt bidra i ett stort programvaruprojekt som följer en
+strukturerad och väldokumenterad arbetsprocess.
+Utifrån en given projektuppgift inom ramen för en systematisk
+och väldefinierad utvecklingsprocess utveckla för projektet
+relevanta dokument
+Utveckla ett system eller till ett givet existerande system
+lägga till nya fungerande tjänster
+Kunna utarbeta och tillämpa regler och normer för arbetet i
+en projektgrupp
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+Medvetet kunna problematisera över valet av utvecklingsprocess
+och väga de organisatoriska problemen mot de tekniska
+problemen.
+Självständigt reflektera över sina handlingar och
+värderingar i förhållande till arbetet i en projektgrupp
+
+
+Kursinnehåll
+Kursen består till största delen av ett utvecklingsprojekt
+där grupper om ca 17 studenter utvecklar programvara.
+Kursen fokuserar på hur man arbetar i stora projekt på ett
+strukturerat sätt.  Man använder en systematisk och
+väldefinierad utvecklingsprocess där relevanta  dokument skall
+tas fram. I utvecklingsprocessen ingår kvalitetsutvärderingar,
+där projektgruppen presenterar sitt arbete. Olika roller fördelas
+mellan projektmedlemmarna
+Lärarledd undervisning fungerar som en direkt introduktion till
+projektet, medan huvuddelen av kursen består i projektarbete.
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: Examinationen sker både enskilt och i grupp. Deltagande i gruppbildningen vid kursens start är obligatorisk. Den individuella examinationen består av en skriftlig rapport samt aktivt deltagande i obligatoriska moment på kursen och aktivt deltagande i projektarbetet. Den gruppvisa examinationen består av en skriftlig rapport, levererat system samt en muntlig gruppexamination. 
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Projekt. 
+Antal högskolepoäng: 6. Betygsskala: UG.  Prestationsbedömning: Gruppvis examinationen som består av en skriftlig rapport, ett levererat system och en muntlig examination.  Delmomentet omfattar: Projekt i grupp. 
+Kod: 0217. Benämning: Individuell uppgift. 
+Antal högskolepoäng: 1,5. Betygsskala: UG.  Prestationsbedömning: Den individuella examinationen består av en skriftlig rapport och aktivt  deltagande i obligatoriska moment och i projektarbetet. Omexamination utförs i form av en individuellt utformad uppgift. 
+Antagningsuppgifter
+Förkunskapskrav:
+EDAA10 Programmering i Java
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: ETS312, ETSN05, ETS032
+Kurslitteratur
+
+Pankaj Jalote: A Concise Introduction to Software Engineering. Springer, ISBN: 9781848003019.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Universitetslektor Christin Lindholm, christin.lindholm@cs.lth.se
+Hemsida: http://cs.lth.se/etsf20/
+Övrig information: Observera: Kursen går under två läsperioder. P.g.a. projektets karaktär krävs närvaro under alla kursveckorna.
+Kursen ges vid Campus Helsingborg.
+Vissa av de obligatoriska momenten ingår i Ing-dagar.
+
+
+

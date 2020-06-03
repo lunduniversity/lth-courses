@@ -1,0 +1,68 @@
+
+Kursplan 2019/20 EDAA60
+
+
+
+
+
+Kursplan för
+Datorer och datoranvändning
+Computer Introduction
+EDAA60, 3 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning C/D
+Beslutsdatum: 2019-04-01
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: D1
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Datateknik är ett brett område där många tekniker och
+verktyg används. Kursens syfte är att studenterna skall få möta
+en del av dessa, särskilt sådana som är till nytta under den
+fortsatta utbildningen på Datateknikprogrammet.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+känna till olika operativsystem, särskilt Unix
+veta hur datorer fungerar internt, hur de kan programmeras på
+låg nivå
+vara bekant med hur datorer representerar data, speciellt hur
+text representeras
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna hantera Unix-datorer via terminalgränssnitt
+kunna använda LaTeX för ordbehandling och Matlab för
+lösning av matematiska problem
+
+
+Kursinnehåll
+Praktisk användning av datorer; datorhistorik, datorns
+konstruktion och funktion; maskinnära programmering;
+datarepresentation; ordbehandling med LaTeX; introduktion till
+Matlab.
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: För godkänt betyg krävs godkända datorlaborationer.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: EDA070
+Kurslitteratur
+
+Material distribueras av institutionen.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Roger Henriksson, roger.henriksson@cs.lth.se
+Hemsida: http://cs.lth.se/edaa60
+
+
+

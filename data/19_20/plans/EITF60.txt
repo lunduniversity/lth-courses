@@ -1,0 +1,87 @@
+
+Kursplan 2019/20 EITF60
+
+
+
+
+
+Kursplan för
+Datorarkitekturer med operativsystem
+Computer Architectures and Operating Systems
+EITF60, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning C/D
+Beslutsdatum: 2019-04-01
+Allmänna uppgifter
+Obligatorisk för: IDA2
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursens syfte är att illustrera grundläggande
+konstruktionsprinciper hos ett datorsystem samt ge kunskap om
+operativsystems funktion och inre organisation.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna förklara begreppen pipelining, cacheminne, virtuellt
+minne och operativsystem
+kunna beskriva hur dessa begrepp samspelar i en modern
+datorarkitektur
+jämföra prestanda hos olika arkitekturer med avseende på
+instruktionsuppsättning, pipelining och minnesorganisation.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+utvärdera olika konstruktionsalternativ och därmed bedöma
+användningsområden för olika arkitekturer
+skriftligt kunna redovisa en sammanfattning av viktiga
+egenskaper hos en datorarkitektur och ett operativsystem.
+
+
+Kursinnehåll
+I kursen beskrivs de olika enheterna i ett datorsystem och hur
+de samverkar. Ett datorsystems prestanda beror på flera faktorer
+som t ex programmen, instruktionsmodellen och arkitekturen.
+Kursen behandlar bl a minneshantering, olika typer av bussar och
+parallella processorer. Pipelining och cacheminnesteknik är två
+fundamentala principer som studeras. Kursen tar även upp exempel
+på inbyggda system och belyser operativsystemets roll i ett
+effektivt arbetande datorsystem. Operativsystems uppbyggnad. Olika
+typer av operativsystem. Processer. Minneshantering.
+Filhantering.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examination sker genom laborationer, skriftlig och muntlig redovisning av rapport, duggor och skriftlig tentamen. För godkänt i kursen, dvs betyg 3, krävs att laborationer, skriftlig och muntlig redovisning av rapport, samt duggor är godkända. För högre betyg, 4 och 5, krävs skriftlig tentamen. Den skriftliga tentamen är frivillig. För att få skriva tentamen krävs att duggor, skriftlig och muntlig redovisning av rapport, och laborationer är godkända.
+
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0119. Benämning: Tentamen. 
+Antal högskolepoäng: 4. Betygsskala: TH.  Prestationsbedömning: Godkänt på digitala duggor som görs online under kursens gång ger betyg 3. För högre betyg krävs att de digitala duggor är avklarade och en skriftlig tentamen som resulterar i betyg 4 eller 5. 
+Kod: 0219. Benämning: Laboration. 
+Antal högskolepoäng: 2. Betygsskala: UG.  Prestationsbedömning: Muntlig genomgång under laborationens genomförande.  Övrig information: Alla laborationer ska genomföras under tid när kursen är aktiv och alla laborationer ska genomföras samma läsår. 
+Kod: 0319. Benämning: Rapport. 
+Antal högskolepoäng: 1,5. Betygsskala: UG.  Prestationsbedömning: Skriftlig och muntlig redovisning av rapporten.  Övrig information: Alla moment för rapportdelen ska genomföras under tid när kursen är aktiv och alla moment ska genomföras samma läsår.
+Antagningsuppgifter
+Förkunskapskrav:
+EDI610 Digitala system eller EITA15 Digitala system
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: EDA666, EDT620, EDT621
+Kurslitteratur
+
+David Patterson & John Hennessy: Computer Organization and Design, The Hardware/Software Interface. Kaufmann, 2013, ISBN: 9780124077263.
+Samt utdelat material.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Erik Larsson, erik.larsson@eit.lth.se
+Hemsida: http://www.eit.lth.se/kurs/eitf60
+
+
+

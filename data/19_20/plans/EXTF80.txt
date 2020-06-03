@@ -1,0 +1,137 @@
+
+Kursplan 2019/20 EXTF80
+
+
+
+
+
+Kursplan för
+Geografisk informationsteknik
+Geographic Information Technology
+EXTF80, 12 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning L
+Beslutsdatum: 2019-04-04
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: L2
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursens syfte är att ge inledande kunskaper och färdigheter om
+begrepp och metoder inom geografisk informationsteknik,
+inkluderande kartografi samt modellering, lagring, behandling och
+analys av geografiska data. Utifrån denna bas får studenten de
+förmågor som krävs för vidare studier och användning av
+tekniken i för lantmäteriområdet relevanta tillämpningar.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna beskriva olika konceptuella modeller för rumsliga
+fenomen,
+kunna beskriva olika datamodeller för digitala geografiska
+data (raster och vektor), hur dessa kan lagras i datorer,
+kunna förklara hur kartprojektioner används,
+kunna beskriva grundläggande kartografiska metoder och deras
+användning i olika sammanhang,
+kunna redogöra för grundläggande rumsliga
+analysmetoder,
+kunna förklara grundläggande teori om rumslig
+interpolation,
+kunna beskriva kvalitetsmått för rumsliga data och
+felfortplantning vid rumslig analys,
+kunna förklara grundläggande teori om spatiala databaser och
+objektorienterad modellering, och
+kunna beskriva samhällets infrastruktur för geografiska
+data.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna organisera och hantera geografiska data i datorer,
+självständigt och i grupp kunna genomföra enklare analyser
+av geografiska data i framför allt vektorformat med hjälp av
+standardprogramvara för GIS utifrån en given problemställning,
+och
+kartografiskt, grafiskt och i enkel text kunna presentera
+resultat och arbetsgång från insamling till analys av
+geografiska data för specialister och lekmän.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+visa medvetenhet om vikten av, och självförtroende för, att
+använda geografisk information och analys inom
+lantmäteriområdet,
+kritiskt kunna bedöma kvalitet hos geografiska data och ha
+uppnått ett kritiskt förhållningssätt till analysresultat,
+och
+kritiskt kunna bedöma och självständigt kunna välja
+kartografisk metod för presentation av geografisk information i
+olika former, främst med papper som media.
+
+
+Kursinnehåll
+Kursen behandlar den grundläggande teorin rörande kartografi,
+rumsliga fenomen, geografisk data och analys samt modellering och
+lagring av geografiska data. Vidare behandlas grundläggande
+geostatistik samt kvalitetsaspekter i form av felteori och
+felfortplantning.
+Läraktiviteter:
+Föreläsningar tar upp de viktigaste delarna av teori och
+metoder och sätter dessa i ett sammanhang kopplat till hela
+kursens ämnesområde. En inblick ges också i vilka
+geografiska/kartografiska databaser som finns inom stat och kommun,
+samt deras huvudsakliga användningsområden
+Genom ett stort antal praktiska datorlaborationer tränar
+studenten, enskilt eller i par, att strukturera, utföra
+grundläggande analyser av, samt presentera geografisk data och
+information. Hon/han ges därmed möjlighet att utveckla de
+kunskaper och förmågor som kursen berör.
+Inom kursen genomförs ett projektarbete där data från olika
+distributörer samlas in, sammanställs och analyseras utifrån
+för lantmätaren relevanta frågeställningar. Projektet redovisas
+i form av postrar i storformat som presenteras vid en
+poster-session i slutet av kursen. Här förväntas varje
+gruppmedlem muntligt kunna presentera och argumentera för posterns
+innehåll och utförande. Arbetet sker i grupper om 4-5 studenter.
+Varje student bedömer också andra gruppers arbeten.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examination sker i form av skriftlig individuell tentamen, ett mindre individuellt prov som kan ge bonuspoäng till godkänd tentamen, samt godkända laborationer och projekt. Alla laborationer samt postersession är obligatoriska.. Kursbetyg baseras på tentamen inklusive bonuspoäng. För studerande som ej godkänts vid ordinarie tentamen erbjuds ytterligare tentamenstillfälle i januari samt i slutet av augusti årligen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0111. Benämning: GIT-teori. 
+Antal högskolepoäng: 6. Betygsskala: TH.  Prestationsbedömning: Tentamensresultatet utgör slutbetyg på kursen. Vid godkänt tentamensresultat kan litet prov vid kursmitt ge bonuspoäng (10 %).  Delmomentet omfattar: Skriftlig tentamen i vilken kunskaper i de teoretiska grunderna inom GIS, geostatistik, geodesi och kvalitetsaspekter för geografiska data utvärderas, liksom studentens förmåga att koppla samman den teoretiska basen med praktisk problemlösning. 
+Kod: 0211. Benämning: GIT-övningar. 
+Antal högskolepoäng: 6. Betygsskala: UG.  Prestationsbedömning: Godkända obligatoriska laborationer, projekt och inlämningsuppgifter.  Delmomentet omfattar: Praktiska laborationer, projektuppgift samt inlämningsuppgifter inom GIS och litteraturdatabaser. 
+Antagningsuppgifter
+Förkunskapskrav:
+FMSF50 Matematisk statistik, allmän kurs, delprov 0317 Färdighetsprov
+
+
+Förutsatta förkunskaper: FMAA05 Endimensionell analys OCH
+FMA420 Linjär algebra ELLER FMAB20 Linjär algebra OCH
+EXTA50 Samhällsmätning OCH
+EDAA20 Programering och databaser.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: EXTA45, EXTF01, NGEA11, NGEA12
+Kurslitteratur
+
+Harrie L. (red.): Geografisk informationsbehandling - teori, metoder och tillämpningar, 6 upplagan. Studentlitteratur, 2013.
+”How to....in ArcGIS”. 2013. Institutionen för naturgeografi och ekosystemanalys, Lunds universitet.
+Harrie, L.: ”Statistical aspects of spatial interpolation”. Institutionen för naturgeografi och ekosystemanalys, Lunds universitet. 2008. Uppdaterad 2014.
+Övningskompendium för EXTF80, Geografisk informationsteknik, 2019. Institutionen för naturgeografi och ekosystemanalys, Lunds universitet.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Karin Larsson, karin.larsson@nateko.lu.se
+Hemsida: http://www.nateko.lu.se/sv/extf80
+
+
+

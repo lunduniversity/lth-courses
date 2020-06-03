@@ -1,0 +1,85 @@
+
+Kursplan 2019/20 VBMA05
+
+
+
+
+
+Kursplan för
+Arkitekturteknik 2: Byggnadsmaterial
+Building Materials
+VBMA05, 3 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning V
+Beslutsdatum: 2019-04-01
+Allmänna uppgifter
+Huvudområde: Arkitektur. 
+Obligatorisk för: A1
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursens syfte är att ge kunskaper om byggnadsmaterialens
+uppbyggnad och viktigaste egenskaper.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna identifiera de vanligaste byggnadsmaterialen
+känna till de flesta byggnadsmaterialens uppbyggnad,
+tillverkning och funktionssätt
+förstå samband mellan ett materials uppbyggnads och dess
+egenskaper
+känna till några materials miljöpåverkan
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna identifiera viktiga krav som olika miljöer ställer på
+byggnadsmaterialen
+kunna göra laborativa moment och utvärdera resultaten av
+dessa
+
+
+Kursinnehåll
+Kursen behandlar huvudsakligen
+
+densitet och porositet och dessa storheters betydelse för
+materialegenskaperna
+värme- och fukttekniska egenskaper
+beständighet och livslängd hos material i olika miljöer
+tillverkning och uppbyggnad av de vanligaste
+byggnadsmaterialen
+
+Studenterna genomför två laborationer i grupper om max fyra
+studenter.
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: För godkänd kurs krävs godkänd skriftlig tentamen samt godkända laborationer.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0113. Benämning: Skriftlig examination. 
+Antal högskolepoäng: 2. Betygsskala: UG.  Prestationsbedömning: Skriftlig examination 
+Kod: 0213. Benämning: Laboration. 
+Antal högskolepoäng: 1. Betygsskala: UG.  Prestationsbedömning: Laboration 
+Antagningsuppgifter
+Förutsatta förkunskaper: VBKA05 Arkitekturteknik 1: Arkitektur och bärverk
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: VBMA30, VBMA35, VBM011, VBM012, VBM611
+Kurslitteratur
+
+Burström, P.G., Nilvér K.: Byggnadsmaterial, 3:e upplagan. Studentlitteratur , 2018, ISBN: 978-91-44-05755-2.
+Övningsuppgifter som tillhandahålls under kursens gång samt
+
+kompletterande kursmaterial tillgänglig via kurshemsidan.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Maria Fredriksson, maria.fredriksson@byggtek.lth.se
+Kursansvarig: Katja Fridh, katja.fridh@byggtek.lth.se
+Hemsida: http://www.byggnadsmaterial.lth.se/utbildning/vbma05/
+
+
+

@@ -1,0 +1,99 @@
+
+Kursplan 2019/20 VTVF45
+
+
+
+
+
+Kursplan för
+Elteknik - elektrisk spårtrafik och dess anläggningar
+Electric Power Systems for Electrified Railway
+VTVF45, 10 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning V
+Beslutsdatum: 2019-04-01
+Allmänna uppgifter
+Obligatorisk för: IBYI2
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursens syfte är att ge grundläggande kunskaper på det
+elkrafttekniska området inom järnvägen såväl på systemnivå
+som på komponentnivå. Kursen syftar också till att ge insikt i
+problemställningar inom kontaktledningsteknik vid projektering av
+enklare kontaktledningsanläggning.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna beskriva och förstå uppbyggnad och funktioner
+förekommande i elkrafttekniska anläggningar samt vara informerad
+om de förutsättningar som gäller vid drift av dessa
+anläggningar.
+kunna redogöra för olika elkrafttekniska anläggningar som
+förekommer vid drift av elektrisk spårtrafik såväl med avseende
+på funktion som väsentliga samband mellan anläggningsdelar.
+kunna redogöra för ledningsnätets uppbyggnad och
+konstruktion samt samverkan mellan fordon, ledningsnät och övriga
+elkrafttekniska anläggningar vid elektrisk spårtrafik.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+med beaktande av gällande föreskrifter och handböcker kunna
+projektera en enklare kontaktledningsanläggning
+vara förtrogen med anläggningsdokumentation som förekommer i
+kraftförsörjningsanläggningar samt med hjälp av ritningar och
+andra dokument tolka funktion på olika anläggningsdelar
+Redovisa projektarbete i projektering av en enklare
+kontaktledningsanläggning
+
+
+Kursinnehåll
+
+Allmän elkraftteknik
+Omformarstation
+Ställverksutrustning
+Batterianläggning
+Reservkraftanläggning
+Roterande omformare
+Statiska omriktare
+Transformatorstation
+Kopplingscentral
+Sektioneringsstation
+Hjälpkraftledning
+Kontaktledningssystem
+Tågvärme
+Elektriska spårgående fordon
+
+Inlärningen kommer att ske både enskilt och i grupp.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Godkända skriftliga tentamina. Godkänt enskilt enklare projektarbete i kontaktledningsteknik.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0109. Benämning: Elteknik - elektrisk spårtrafik och dess anläggningar del 1. 
+Antal högskolepoäng: 5. Betygsskala: TH.  Prestationsbedömning: Godkänd skriftlig tentamen. 
+Kod: 0209. Benämning: Elteknik - elektrisk spårtrafik och dess anläggningar del 2. 
+Antal högskolepoäng: 5. Betygsskala: TH.  Prestationsbedömning: Godkänd skriftlig tentamen. Godkänt enskilt enklare projektarbete. 
+Antagningsuppgifter
+Förutsatta förkunskaper: FAFA40 Fysik
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: EIE631
+Kurslitteratur
+
+Elektroniskt kompendium i Elteknik. Tillgängligt på kursens hemsida.
+
+
+Kontaktinfo och övrigt
+Examinator: Andreas Persson, andreas.persson@tft.lth.se
+Kursansvarig: Stellan Jönsson, stellan.jonsson@trafikverket.se
+Lärare: Bengt Thulin, bengt.thulin@comhem.se
+Hemsida: http://www.tft.lth.se/utbildning/grundutbildning/
+Övrig information: Kursen ges vid Trafikverksskolan i Ängelholm.
+
+
+

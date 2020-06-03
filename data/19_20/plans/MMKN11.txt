@@ -1,0 +1,132 @@
+
+Kursplan 2019/20 MMKN11
+
+
+
+
+
+Kursplan för
+Konstruktion för X
+Design for X
+MMKN11, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning M
+Beslutsdatum: 2019-03-27
+Allmänna uppgifter
+Valfri för: I4, M4-pu, M4-prr, MD4
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Syftet med kursen är att introducera konceptet "Konstruktion
+för X " (KfX) eller alternativt uttryckt ”Design for X”
+(DfX), som är väl etablerat inom produktutveckling. I varje
+produktutvecklingsprojekt är det viktigt att säkerställa att
+produkten uppfyller de funktioner den konstrueras till. Men det
+finns många andra frågor som orsakas av, eller påverkar
+produktens egenskaper: är produkten pålitlig, hållbar, är den
+lätt att montera, billig att tillverka? Dessa aspekter måste
+också tas upp under produktutvecklingen. Specifika
+konstruktionsriktlinjer har därför utvecklats för att ta itu med
+dessa särskilda frågor, eller "X": monterings- och
+tillverkningsanpassad konstruktion, miljöanpassad konstruktion,
+och andra "konstruktion för X".
+I kursen kommer i första hand följande "konstruktion för X"
+att ingå:
+
+monterings- och tillverkningsanpassad konstruktion (design for
+manufacturing and assembly, DFMA)
+konstruktion för additiv tillverkning (design for additive
+manufacturing, DFAM)
+robust konstruktion (robust design)
+miljöanpassad konstruktion (design for environment, DFE)
+kostnadsanpassad konstruktion (design to cost, DtC)
+
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna analysera och skapa lösningar utifrån följande
+konstruktionsaspekter eller "X": monterings- och
+tillverkningsanpassad konstruktion, konstruktion för additiv
+tillverkning, robust konstruktion, miljöanpassad konstruktion,
+kostnadsanpassad konstruktion
+kunna identifiera behovet av att inom ramen för ett
+utvecklingsarbete kunna analysera vilka konstruktionsapekter,
+"X", som ska eller bör beaktas
+för ett givet produktutvecklingsprojekt ensam eller i grupp
+kunna ta fram underlag för ett identifierat "X" som är känt
+ifrån litteraturen eller som på annat sätt har
+dokumenterats
+i ett givet produktutvecklingsprojekt ensam eller i grupp kunna
+hantera framtagningen av nödvändigt underlag för ett tidigare
+okänt "X"
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+självständigt, utifrån en konstruktionslösning, kunna
+analysera densamma med målet att identifiera vilket eller vilka
+"X" som är aktuella för tillämpningen ifråga
+självständigt eller i grupp kunna analysera en unik
+konstruktionslösning med avseende på följande aspekter:
+monterings- och tillverkningsanpassad konstruktion, konstruktion
+för additiv tillverkning, robust konstruktion, miljöanpassad
+konstruktion, kostnadsanpassad konstruktion.
+självständigt eller i grupp kunna ta fram nödvändigt
+underlag för ett givet "X"
+självständigt eller i grupp inför ett industriföretag,
+eller motsvarande, i dialog kunna kommunicera, muntligen och i
+skrift, resultatet av en komplex KfX-analys i ett
+utvecklings-/konstruktionsprojekt - i form av såväl resultat som
+process
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna reflektera över framtagna konstruktionslösningar och
+på basis därav kunna föreslå behov av ytterligare och/eller
+alternativa konstruktionslösningar
+kunna identifiera eventuella behov av fördjupade analyser av
+framtagna förslag, inkluderande vidareutveckling av tillgängligt
+KfX-underlag
+
+
+Kursinnehåll
+Kursen inleds med en genomgång av konceptet KfX, varefter
+monterings- och tillverkningsanpassad konstruktion, konstruktion
+för additiv tillverkning, robust konstruktion och miljöanpassad
+konstruktion kommer att föreläsas. För var och ett av de ovan
+nämnda "X:en", så kommer en obligatorisk inlämningsuppgift, i
+grupp av 3 till 5 studenter, att lösas för att belysa det
+teoretiska innehållet. 
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: I kursen ingår obligatoriska inlämningsuppgifter som utförs i grupper om 3 till 5 studenter. Godkända inlämningsuppgifter ger betyget godkänd (3) i kursen. För högre betyg (4 eller 5) krävs dessutom en skriftlig tentamen. 
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: MMKF01 Utvecklingsmetodik el. motsvarande.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: MMKN10
+Kurslitteratur
+
+Boothroyd, G., Dewhurst, P., & Knight W.: Product Design for Manufacture and Assembly. M. Dekker, 2002, ISBN: 0-8247-0584-X. DFMA, 
+e-bok tillgänglig via Lunds universitets biblioteks hemsida.
+Ehrlenspiel, K., Kiewert, A., & Lindemann, U.: Cost-Efficient Design. Springer, 2007, ISBN: 978-3-540-34647-0. DtC, e-bok tillgänglig via Lunds universitets biblioteks hemsida.
+Ulrich, K.T., & Eppinger, S.D.: Product Design and Development. McGraw-Hill. Robust konstruktion, kap. 12 (2008, 4. uppl.) eller kap. 13 (2012, 5. uppl., 2014, svensk uppl.).
+Jiju, A.: Design of Experiments for Engineers and Scientists. Elsevier, 2003, ISBN: 978-0-7506-4709-0. Robust konstruktion, chap. 6, e-bok tillgänglig via Lunds universitets biblioteks hemsida.
+Lunau S. et al.: Design for Six Sigma+Lean Toolset. Springer, 2013, ISBN: 978-3-642-41455-8. Robust Konstruktion, e-bok tillgänglig via Lunds universitets biblioteks hemsida.
+Övriga dokument meddelas under kursens gång.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Giorgos Nikoleris, giorgos.nikoleris@design.lth.se
+Kursadministratör: Cilla Perlhagen, cilla.perlhagen@design.lth.se
+Lärare: Damien Motte, damien.motte@design.lth.se
+Hemsida: http://www.product.lth.se/education/
+
+
+

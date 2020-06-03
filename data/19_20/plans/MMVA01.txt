@@ -1,0 +1,89 @@
+
+Kursplan 2019/20 MMVA01
+
+
+
+
+
+Kursplan för
+Termodynamik med strömningslära
+Thermodynamics and Fluid Mechanics, Basic Course
+MMVA01, 5 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning M
+Beslutsdatum: 2019-03-27
+Allmänna uppgifter
+Obligatorisk för: BI2
+Valfri för: I4
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursens syfte är att uppnå grundläggande kunskaper och
+färdigheter i teknisk termodynamik och strömningslära.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+definiera och/eller klargöra kortfattat vissa grundläggande
+termodynamiska och strömningsmässiga begrepp, principer och
+fenomen
+redovisa kortfattat och generellt formulera grundläggande
+tillstånds-, mass-, energi-, entropi- och strömningssamband, med
+viss förståelse för dess begränsningar och tillämpbarhet
+redovisa och utifrån grundläggande samband och principer
+härleda vissa för ämnet tekniskt viktiga samband
+kunna kortfattat beskriva, klargöra och analysera vissa
+tekniskt viktiga termodynamiska processer
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna på ett systematiskt sätt lösa grundläggande energi-
+och strömningsproblem, med en god ingenjörsmässig hantering av
+tillståndstabeller och –diagram
+kunna tillämpa kontrollvolymsanalys avseende mass-, energi-
+och impulsbalans vid stationär strömning och homogena
+förhållanden vid in- och utlopp
+kunna genomföra grundläggande strömningsteknisk analys av
+enkla rörsystem vid stationär inkompressibel strömning
+kunna kommunicera skriftligt på ett välstrukturerat,
+förståelseinriktat och illustrativt sätt, vid problemlösning
+även med beaktande av begränsningar, rimlighet, noggrannhet och
+källangivelser
+
+
+Kursinnehåll
+Kursavsnittet termodynamik behandlar grundläggande begrepp som
+temperatur, arbete, värme, energi och entropi samt termodynamikens
+huvudsatser (främst första och andra) inklusive tillämpningar.
+Gasers och vätskors egenskaper liksom övergångar mellan dessa
+båda faser studeras. Tillståndsstorheter, tillståndsdiagram och
+vissa grundläggande termodynamiska samband innefattas. Inom
+kursavsnittet strömningslära introduceras och tillämpas
+kontinuitetsekvationen, Navier-Stokes ekvationer, Bernoullis
+utvidgade ekvation samt impulssatsen. Vidare behandlas
+dimensionsanalys och likformighetslagar, omströmmade kroppar samt
+laminär och turbulent rörströmning.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examination sker via obligatoriska hemuppgifter, ett teoriprov (60 min; termodynamik, utan hjälpmedel) samt en avslutande skriftlig tentamen (5 tim) som avser både teori (strömningslära, utan hjälpmedel) och problemlösning (med hjälpmedel, t ex tabell- och formelsamlingar samt föreläsningsanteckningar utan lösta exempel). Godkända frivilliga hemuppgifter kan ge extra bonuspoäng som adderas till tentamensresultatet. Betyget bestäms av en total poängsumma som består av resultat vid godkänt teoriprov och godkänd tentamen, enligt särskild formel.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: FMAA05 Endimensionell analys, FAFA30 Fysik - elektricitetslära, gaser och vätskor, VSMA15 Mekanik.
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Çengel, Y. A., Turner, R. H., Cimbala, J. M.: Fundamentals of Thermal-Fluid Sciences, Fifth Edition in SI Units. McGraw-Hill, 2016.
+Norberg, C., Thern, M.: Grundläggande strömningslära. Energivetenskaper, LTH, 2018. Trycks av KFS AB; även tillgänglig via kursens hemsida (lösen).
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Prof. Christoffer Norberg, Christoffer.Norberg@energy.lth.se
+Hemsida: http://www.energy.lth.se
+Övrig information: Gruppvisa räknestugor 20 tim.
+
+
+

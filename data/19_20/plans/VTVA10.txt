@@ -1,0 +1,97 @@
+
+Kursplan 2019/20 VTVA10
+
+
+
+
+
+Kursplan för
+Ingenjörsfärdigheter med CAD
+Engineering Skills with CAD
+VTVA10, 4 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning V
+Beslutsdatum: 2019-04-01
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: V1
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursen skall ge kunskaper och verktyg för beräkningar och
+presentationer av resultat som kan användas för att effektivisera
+lärandet i andra kurser och underlätta arbetet som ingenjör.
+Därutöver ska kursen skapa medvetenhet om studiestrategier och
+gruppdynamik.
+Kursen ska motivera till studier och framtida karriär.
+ 
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+Identifiera och tolka olika delar av de ritningar, som normalt
+används vid ett bygg- eller anläggningsprojekt
+Förstå uppbyggnaden av biblioteksdatabaser och genomföra
+effektiv informationssökning
+Föstå betydelsen av studiestrategier och gruppdynamic.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+Konstruera enkla ritningar med hjälp av CAD.
+Använda Officepaket för att skapa mallar för enkla
+rapporter, beräkningar och presentationer.
+Framställa en disposition för en teknisk rapport samt
+förstå syftet med dess delar (bakgrund, syfte, metod, resultat,
+analys, slutsatser och diskussion).
+Genomföra en muntlig presentation med olika tekniska
+hjälpmedel.
+
+
+Kursinnehåll
+Datoranvändning
+
+Office-paket
+Informationssökning. Databaser
+
+Kommunikations- och presentationsteknik
+
+Skriftlig framställning
+Muntlig framställning
+
+Informationsteknik och ritteknik
+
+Ritningstolkning
+Ritteknik - CAD
+
+Studiestrategier och gruppdynamik
+
+Obligatoriskt seminarium
+
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: Muntlig och skriftlig redovisning av övningsuppgifter. Obligatorisk närvaro vid seminarier.80% närvaro vid gästföreläsningar. Obligatorisk närvaro vid studiebesök.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0116. Benämning: Ingenjörsfärdigheter med CAD. 
+Antal högskolepoäng: 4. Betygsskala: UG. 
+Kod: 0216. Benämning: Rapportskrivning. 
+Antal högskolepoäng: 0. Betygsskala: UG. 
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Programledning V: Anvisningar för rapporter på V-programmet. 2015. Finns tillgänglig på programmets hemsida.
+Övningshäfte.
+
+
+Kontaktinfo och övrigt
+Examinator: Ebrahim Parhamifar, Ebrahim.Parhamifar@tft.lth.se
+Kursansvarig: Maya Sheidaei, Maya.Sheidaei@tft.lth.se
+Hemsida: http://www.tft.lth.se
+
+
+

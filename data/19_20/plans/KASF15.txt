@@ -1,0 +1,100 @@
+
+Kursplan 2019/20 KASF15
+
+
+
+
+
+Kursplan för
+Analys på nanoskalan
+Materials Analysis at the Nanoscale
+KASF15, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning B/K
+Beslutsdatum: 2019-03-29
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Huvudområde: Nanovetenskap. 
+Obligatorisk för: N3
+Valfri för: K4-m
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+
+Att studenten skaffar sig en aktiv kunskapsbas vad det gäller
+tillgängliga metoder för struktur- och elementanalys på
+nanometerskala
+Att studenten förstår de förlopp som ligger bakom de olika
+analysmetoderna
+
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+utnyttja sina kunskaper om elektronstruktur för att kunna
+förutsäga egenskaper som röntgenemission, Augerelektronemission
+och sekundärelektronemission.
+
+förstå elastisk och inelastisk spridning av elektroner i
+fasta material.
+förstå principer bakom avbildning med mikroskopmetoder
+förstå elektron- och ljusindicerade fenomen på ytor och vad
+det leder till i form av emission och reflektion.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna tillämpa sina kunskaper för att välja en lämplig
+analysmetod för ett visst materialproblem.
+kunna analysera bilder och spektra från olika typer av
+material, både kvalitativt och kvantitativt.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna utvärdera noggrannhet och precision hos olika
+analysmetoder.
+kunna förklara eventuella artefakter och felkällor.
+
+
+Kursinnehåll
+
+Elastisk och inelastisk spridning
+Elektromagnetiska linser
+Principer och funktion hos olika typer av elektron- och
+svepprobsmikroskop
+Spektrometrar för elementanalys: Energidispersiv
+röntgenspektrometer XEDS Elektronenergiförlustspektrometer
+(EELS)
+Identifiering och kvantifiering av spektra
+Metoder för ytanalys. Augerspektroskopi.
+Svepprobsmikroskopi.
+
+ 
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen. Skriftlig deltentamen efter ca 4 veckor, som ger ett tillskott vid godkänd huvudtentamen.  Tentamensresultat tillsammans med tillskott från deltentamen ger slutbetyg.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+KOKA30 Allmän, oorganisk och organisk kemi eller KOOA15 Allmän kemi
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: KOO105
+Kurslitteratur
+
+DB Williams and BC Carter: Transmission Electron Microscopy. Springer, 2009, ISBN: 978-0-387-76501-3 (e-book), 9780387765020 (print). The e-book is available for free download from Springer.com within the LU network. The print book is identical and also acceptable as literature for the course.
+G Attard and C Barnes: Surfaces. Oxford University Press, 1998, ISBN: 0-19-855686-1.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Anders Mikkelsen, anders.mikkelsen@sljus.lu.se
+Kursansvarig: Reine Wallenberg, reine.wallenberg@chem.lu.se
+Hemsida: http://www.polymat.lth.se
+
+
+

@@ -1,0 +1,139 @@
+
+Kursplan 2019/20 EITP10
+
+
+
+
+
+Kursplan för
+Högpresterande fibernät
+High Performance Fiber Networks
+EITP10, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning C/D
+Beslutsdatum: 2019-04-01
+Allmänna uppgifter
+Valfri för: C4-ks, D4-ns, E4, F4, MWIR2
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Målet med kursen är att ge fördjupade kunskaper om hur
+fibernäten är uppbyggda och fungerar i olika delar av
+kommunikationskedjan. Studenten ska ges en förståelse för hur
+näten är konstruerade och vilka krav som ställs på
+överföringen beroende på var i nätet det avses. Utifrån det
+ska de kunna avgöra vilken typ av fiberteknik som är lämplig och
+varför. De ska ha en förståelse för hur fiberkommunikation är
+uppbyggd från de fysiska elementen upp till nätverksarkitekturer.
+De skall vidare ha kunskap om drift av näten, samt hur nya nät
+installeras.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+Kunna redogöra för uppbyggnaden av fibernät gällande t.ex.
+arkitektur och topologi.
+Kunna redogöra för olika optiska element och deras
+egenskaper.
+Kunna redogöra för olika typer av begränsningar som
+förekommer i ett fibernät.
+Veta hur dagens fibernät är uppbyggda på olika nivåer i
+nätverket.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+Resonera för hur ett fibernät är uppbyggt i olika
+beståndsdelar, samt väga för- och nackdelar med olika typer av
+arkitekturer i olika situationer.
+Utifrån en given topologi kunna avgöra vilken typ av
+installation som är lämplig, både med avseende på tekniska och
+ekonomiska faktorer.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+Utifrån nätverkstyp kunna avgöra vilka krav som ställs på
+utrustningen, samt vilken typ av arkitektur som är lämplig.
+Kunna utvärdera möjligheter och begränsningar i dagens och
+morgondagens fibernät.
+
+
+Kursinnehåll
+Introduktion
+Nya tjänster såsom 5G-shopping, digital industri och cloud
+robotics medför nya utmaningar för nätverken, exempelvis ökade
+hastigheter för 4K video eller ökade krav på fördröjningar i
+5G-applikationer, krav som i de flesta fall enbart kan lösas med
+fiberkommunikation. Kursen ska ge en insikt i hur moderna näten
+är designade, både för fixnäten och för mobilnäten, för att
+klara kraven. Detta ger krav på de olika delarna av nätverken,
+vilket i de flesta fallen enbart kan lösas med fiberoptisk
+kommunikation.
+Arkitektur och topologi
+Arkitekturen i fibernäten bygger i huvudsak på de olika
+strukturer; ring, punkt-till-punkt (P2P), punkt-till-multi-punkt
+(P2MP). Dessa strukturer har olika egenskaper och passar för olika
+ändamål. För korta förbindelser med höga krav på hastighet
+och fördröjning, såsom datacenter och fronthaul i mobilnäten,
+används till stora delar P2P, medan exempelvis accessnäten med
+sträckningar upp till 10 km byggs med antingen P2P eller P2MP, så
+kallad Passive Optical Network (PON). De stora kärnnäten är ofta
+utbyggt med en ringstruktur i kombination med våglängdsmultiplex
+(WDM) för att seprarera trafiken. Kursen belyser fördelar och
+nackdelar med de olika teknikerna för en given situation.
+Optiska element
+Det finns i huvudsak två kategorier av element, passiva och
+aktiva. De passiva komponenterna bygger på optiska egenskaper.
+Här finns exempelvis fibern själv, splitters (dvs MUX/deMUX) och
+optiska filter. De aktiva komponenterna är exempelvis laser,
+mottagare, förstärkare och switchar. Kursen ger förståelse för
+de olika komponenterna och hur de kan användas. Likaså belyses
+deras egenskaper samt principen för hur de fungerar. Kursen
+behandlar också de tekniker som kan användas för att höja
+hastigheterna ytterligare, exempelvis genom högre
+modulationsgrad.
+Drift och monitorering
+Vid nätverksdrift och nätverksoptimering är det viktigt att
+läsa in relevant data från nätet, så kallad monitorering. För
+det kan antingen passiva eller aktiva metoder användas, vilket
+gäller för alla nät. Kursen tar upp olika monitoreringsmetoder
+för att mäta exempelvis effekt spektrum, våglängd och
+polarisation på ljuset. Även en del aktiva metoder presenteras,
+så som Optical Time Domain Relectometry (OTDR).
+Installation
+Till skillnad från Internet-access över befintlig
+infrastruktur, exempelvis telenät och kabel-TV-nät, måste ny
+fiber dras vid nyanslutning. Redan i slutet av 90-talet talades det
+om att alla hade rätt till en snabb Internet-uppkoppling,
+bredband, från hemmet. Kursen ger en inblick i hur förläggning
+och installation av fiberbaserad access går till praktiskt och
+vilka kostnader som är förknippade med det.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: För godkänd kurs krävs godkända inlämningsuppgifter och projekt.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0118. Benämning: Inlämningsuppgifter. 
+Antal högskolepoäng: 5. Betygsskala: TH.  Prestationsbedömning: Godkända inlämningsuppgifter och aktivt deltagande i diskussioner  Delmomentet omfattar: Web-baserad examination, i form av inlämningsuppgifter och diskussioner 
+Kod: 0218. Benämning: Projekt. 
+Antal högskolepoäng: 2,5. Betygsskala: UG.  Prestationsbedömning: Godkänt deltagande i projekt  Delmomentet omfattar: Mini-projekt 
+Antagningsuppgifter
+Förutsatta förkunskaper: Grundkurs i kommunikationssystem, såsom EITF45 Datorkommunikation, EITA55 Kommunikationssystem, ETSF15 Kommunikationssystem och nätverk eller EITF25 Internet - teknik och applikationer.
+
+Begränsat antal platser: Nej
+Kurslitteratur
+
+R Ramaswami, K N Sivarajan and G H Sasaki: Optical Networks, A Practical Perspective (3rd Ed). Elsevier / Morgan Kaufman, 2010, ISBN: 978-0-12-374092-2.
+Extra material.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Stefan Höst, stefan.host@eit.lth.se
+
+
+

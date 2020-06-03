@@ -1,0 +1,118 @@
+
+Kursplan 2019/20 TNSF05
+
+
+
+
+
+Kursplan för
+Rehabiliteringsteknik
+Rehabilitation Engineering
+TNSF05, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning ID
+Beslutsdatum: 2019-03-21
+Allmänna uppgifter
+Valfri för: BME4-br, C4-da, D4, E4-mt, F4, M4, MD4
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Syftet med kursen är att öppna ögonen för teknikens
+möjligheter för människor som har funktionsnedsättningar för
+att öka självständighet, livskvalitet och möjlighet att delta i
+samhället. Kunskaper om människan och förmågan att sätta sig
+in i olika människors livssituation kommer att vara viktiga
+egenskaper hos en civilingenjör för att kunna delta i samhällets
+strävan mot mångfald.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna identifiera och analysera faktorer som kan utgöra hinder
+för människor med funktionsnedsättningar, med fokus på vad den
+berörda människan vill göra i konkreta situationer
+kunna reflektera kring och beskriva hur tekniska möjligheter
+kan stödja människor med olika funktionsnedsättningar att
+uppfylla sina drömmar, önskningar och behov
+kunna värdera en produkts tillgänglighet för människor med
+rörelsehinder, hörselskador, synskador och kognitiva
+svårigheter
+
+ 
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna göra en kravspecifikation och i den ta hänsyn till
+användbarhets- och tillgänglighetsaspekter för en bred målgrupp
+av användare
+kunna utveckla en prototyp som matchar en specifik
+användargrupp eller har fokus på universal design
+kunna ge en kort muntlig presentation av prototypen och dess
+användning
+kunna beskriva produkten på ett tillgängligt sätt i en
+poster och i ett produktblad
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna ge uttryck för den värdegrund som ligger i FNs
+konvention om rättigheter för personer med
+funktionsnedsättningar, att alla ska fullt ut åtnjuta alla
+mänskliga rättigheter och grundläggande friheter med eller utan
+hjälp av teknisk eller mänsklig assistans
+kunna beskriva den strävan som ligger i design av produkter
+och tjänster så att de är estetiska och användbara för så
+många som möjligt oavsett ålder och förmågor
+kunna ta hänsyn till att människor är olika med en stor
+variation i förutsättningar och förmågor och att de har har
+olika önskemål och behov
+kunna ge uttryck för att det är en positiv utmaning att
+försöka skapa lösningar som ökar en individs självständighet
+och livskvalitet
+
+
+Kursinnehåll
+I denna kurs får du träffa människor som har en
+funktionsnedsättning och som berättar om sin livssituation och
+teknikanvändning. Du får genomföra inlevelseövningar där
+funktionsnedsättningar simuleras. Du får också träna din
+förmåga att lösa ingenjörsmässiga problem i ett människonära
+designprojekt där resultatet antingen är en universellt utformad
+produkt eller ett hjälpmedel som syftar till att lösa ett
+specifikt problem. Konkreta övningar och uppgifter varvas med
+teori och tillfällen för diskussion. Exempel på
+forskningsprojekt inom rehabiliteringsteknik presenteras.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examinationen kommer att ske både enskilt och baserat på arbete i grupp. Om individuella obligatoriska uppgifter, hemtentamen och projektarbete bedöms som godkända, erhålls betyg 3.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+Minst 120 högskolepoäng som har uppnåtts eller tillgodoräknats på programmet
+
+
+Begränsat antal platser: 36
+Urvalskriterier: Antal poäng som har uppnåtts eller tillgodoräknats på programmet enligt Ladok 17 juni.
+Kursen överlappar följande kurser: TNX097
+Kurslitteratur
+
+Jönsson, B m fl: Människonära design. Studentlitteratur, 2005, ISBN: 978-91-44-04494-1. Boken finns att ladda ned från http://www.certec.lth.se/fileadmin/certec/publikationer/Manniskonaera_design_2005-access.pdf.
+Arne Svensk: Design av kognitiv assistans, Licentiatuppsats från Certec, LTH. Nummer 1:2001. 2001, ISBN: 91-631-0782-1. Boken finns att ladda ned från http://www.arkiv.certec.lth.se/dok/designavkognitiv/ .
+Övrig litteratur består framför allt av internetlänkar.
+Utdelat material om de sju principerna för universal design.
+The HaptiMap project, editors: Charlotte Magnusson, Kirsten Rassmus Gröhn, Konrad Tollmar, Eileen Deaner: User Study Guidelines. HaptiMap project, 2009. Ladda ner på: http://www.certec.lth.se/fileadmin/certec/publikationer/HaptiMap_d12.pdf.
+
+
+Kontaktinfo och övrigt
+Lärare: Bitte Rydeman, fil dr, bitte.rydeman@certec.lth.se
+Examinator: Kirsten Rassmus Gröhn, universitetslektor, tekn dr, kirre@certec.lth.se
+Kursansvarig: Håkan Eftring, universitetslektor, tekn dr, hakan.eftring@certec.lth.se
+Lärare: Per-Olof Hedvall, tekn dr, per-olof.hedvall@certec.lth.se
+Hemsida: http://www.certec.lth.se/utbildning
+
+
+

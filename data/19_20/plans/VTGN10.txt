@@ -1,0 +1,110 @@
+
+Kursplan 2019/20 VTGN10
+
+
+
+
+
+Kursplan för
+Grundvattenteknik
+Groundwater Engineering
+VTGN10, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning V
+Beslutsdatum: 2019-04-01
+Allmänna uppgifter
+Huvudområde: Vattenresurshantering. 
+Obligatorisk för: MWLU1
+Valfri för: V4-vr, V4-at, W4-vr
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursen syftar till att lyfta fram och fördjupa kunskaper och
+färdigheter inom det breda fältet hydrogeologi som stöd för att
+hantera bygg- och anläggningstekniska frågor samt
+vattenförsörjnings-, avfallshanterings- och andra
+samhällsbyggnadsfrågor på ett sätt som beaktar människors
+behov och övergripande mål för utveckling av ett hållbart
+samhälle.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+ingående kunna definiera, beskriva och beräkna grundvattens
+och markvattens uppträdande, förekomst, bildning och rörelse
+samt kemiska och fysikaliska egenskaper.
+kunna relatera förorening av mark och grundvatten till
+olika föroreningskällor.
+visa grundläggande kunskap om borrnings- och
+brunnsbyggnadsteknik.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna genomföra ingenjörsmässiga beräkningar och
+utvärderingar kring frågeställningar omfattande hydrogeologi,
+grundvattenhydraulik, grundvattenkemi och föroreningstransport i
+grundvatten.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+visa insikt i behovet av ett multidisciplinärt
+förhållningssätt och samtidig värdering av geologiska,
+hydrologiska, hydrauliska, kemiska, ekologiska, mänskliga och
+andra förutsättningar vid bygg- och anläggningstekniska samt
+vattenförsörjnings- och andra samhällsbyggnadsfrågor.
+
+
+Kursinnehåll
+Hydrogeologi. Grundvattnets uppträdande och rörelse i olika
+akviferstyper. Markvatten och vattnets rörelse i den omättade
+zonen. Geologins styrande inverkan på akvifersegenskaperna.
+Fluktuationer i grundvattennivån i olika tidsperspektiv och
+formationer. Flöden och flödesstyrande egenskaper. Grundvattnets
+ålder och temperatur. Grundvattnets kvalitet. Kvalitetsparametrar.
+Vattenanalyser. Kemisk sammansättning. Kemiska jämvikter i
+grundvattnet. Förorening av grundvatten och föroreningstransport.
+Kvalitetsproblemområden, grundvattenförsurning. Borrnings- och
+brunnsbyggnadsteknik. Hydrauliska egenskaper hos akvifer och brunn.
+Akvifersangreppssättet; magasinerings- och transportförmåga.
+Grundvattenavsänkning. Provpumpningsteknik. Utvärdering av
+provpumpningsdata - teoretiska samband samt analytiska och grafiska
+lösningsmetoder. Hydrauliska gränser. Kapacitetsbestämning av
+brunn.
+Generella beskrivningar av hantering av olika typer av
+föroreningskällor. Beskrivning och beräkning av utlakning av
+föroreningar. En övning med datorberäkningar, fyra kartövningar
+och en fältdemonstration av hydrauliska tester.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Tentamen fem timmar. Prestationerna på tentamen utgör grunden för slutbetyget. Obligatorisk fältdemonstration med tillhörande inlämningsuppgift i grupper om två-tre personer.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+VVRA05 Vatten ELLER VVRA01 Hydrologi och akvatisk ekologi + VVRF10 Strömningslära
+VTGA01 Teknisk geologi eller VTGA05 Teknisk geologi
+
+
+Förutsatta förkunskaper: FMIF50 Miljövetenskap med miljökemisk profil OCH FMAA05 Endimensionell analys.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: VTG021
+Kurslitteratur
+
+Fetter, C W: Applied Hydrogeology, Fourth edition. Prentice Hall , 2001, ISBN: 0130882399 or 0131226878.
+Svensson, C: Groundwater chemistry, Compendium. Teknisk geologi, LTH , 2016. Distributed by Teknisk Geology, LTH.
+Övningsuppgifter.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Jan-Erik Rosberg, Jan-Erik.Rosberg@tg.lth.se
+Kursansvarig: Gerhard Barmen, Gerhard.Barmen@tg.lth.se
+Hemsida: http://www.tg.lth.se/grundutbildning/kurser/
+Övrig information: Kursen ges på engelska.
+
+
+

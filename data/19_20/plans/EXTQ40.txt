@@ -1,0 +1,120 @@
+
+Kursplan 2019/20 EXTQ40
+
+
+
+
+
+Kursplan för
+Introduktion till artificiella neuronnätverk och deep learning
+Introduction to Artificial Neural Networks and Deep Learning
+EXTQ40, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning F/Pi
+Beslutsdatum: 2019-03-26
+Allmänna uppgifter
+Valfri för: BME4-sbh, C4, D4-bg, D4-mai, E4-ss, F4, F4-tf, F4-bg, F4-mai, I4, N4, Pi4-ssr, Pi4-bam
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Kursens övergripande syfte är att ge studenten grundläggande
+kunskaper om artificiella neuronnätverk och deep learning, både
+teoretiska kunskaper och hur man praktiskt använder dem för
+typiska problem inom maskininlärning och datautvinning.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna redogöra för uppbyggnaden av den flerlagriga
+perceptronen
+kunna redogöra för olika val av felfunktioner vid inlärning
+samt tekniker för att numeriskt minimera dessa felfunktioner
+kunna förklara innebörden av överinlärning och vilka
+egenskaper hos neuronnätet som orsakar överinlärning
+kunna redogöra för uppbyggnaden av olika typer av djupa
+neuronnät
+kunna beskriva neuronnät som används för tidsserieanalys
+samt vid självorganisering.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna producera uppdateringsekvationer för en flerlagrig
+perceptron givet en felfunktion och aktiveringsfunktioner
+kunna bevisa grundläggande egenskaper hos den flerlagriga
+perceptronen, såsom ickelinjäritet, tolkning av svaret som en
+sannolikhet och fördelen med en ensemble av neuronnät
+kunna implementera en flerlagrig perceptron för att lösa ett
+typiskt klassificerings- eller regressionsproblem, inkluderande
+systematiskt val av lämpliga modellparametrar för att optimera
+generaliseringsförmågan
+kunna visa hur man med ett faltningsneuronnät kan klassificera
+bilder, inkluderande lämpligt val av antal lager och
+filterstorlekar
+kunna använda återkopplade nätverk, både djupa och grunda,
+för problem av typen tidsserieanalys.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna analysera ett för området typiskt problem och avgöra
+vilken eller vilka metoder som är mest lämpliga för att lösa
+det
+kunna identifiera eventuella luckor i en analys som kan
+påverka dess reproducerbarhet.
+
+
+Kursinnehåll
+Kursen täcker de vanligaste modellerna inom området
+artificiella neuronnät med
+fokus på den flerlagriga perceptronen. Kursen ger också en
+introduktion till deep
+l earning. Speciellt behandlas:
+
+Framåtkopplade nätverk: den enkla och den flerlagriga
+perceptronen; val av lämpliga felfunktioner och tekniker för att
+minimera dessa; överinlärning och hur detta kan upptäckas och
+undvikas; kommittéer av neuronnät och tekniker för att skapa
+kommittéer; Bayesiansk träning av flerlagriga perceptroner
+Återkopplade nätverk: enkla återkopplade neuronnät och dess
+användning inom tidsserieanalys; fullt återkopplade nätverk
+både för tidsserieanalys och associativa minnen (Hopfield
+modellen); minimeringstekniken simulerad avkylning.
+Nätverk för självorganisering: neuronnät för att extrahera
+principalkomponenter; neuronnät för klustring; lärarledd
+vektorkvantisering (LVQ); ”Self-Organizing Feature Maps”
+(SOFM)
+Deep Learning: Översikt över området deep learning;
+faltningsneuronnät för klassificering av bilder; olika tekniker
+för att undvika överinlärning i djupa neuronnät; tekniker för
+att förträna djupa neuronnät.
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examinationen består av rapporter från obligatoriska datorövningar, samt en skriftlig eller muntlig tentamen vid kursens slut.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+FMAA05 Endimensionell analys
+FMAB20 Linjär algebra
+FMAB30 Flerdimensionell analys
+
+
+Begränsat antal platser: 100
+Urvalskriterier: Avklarade högskolepoäng inom programmet. Förtur ges till studenter vars program har kursen listad i läro- och timplanen.
+Kursen överlappar följande kurser: FYTN14
+Kurslitteratur
+
+Enligt av institutionen fastställd litteraturlista, vilken ska finnas tillgänglig senast fem veckor före kursstart.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Mattias Ohlsson, mattias@thep.lu.se
+Hemsida: http://cbbp.thep.lu.se/~mattias/teaching/fytn14/
+
+
+

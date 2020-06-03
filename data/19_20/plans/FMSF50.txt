@@ -1,0 +1,138 @@
+
+Kursplan 2019/20 FMSF50
+
+
+
+
+
+Kursplan för
+Matematisk statistik, allmän kurs
+Mathematical Statistics, Basic Course
+FMSF50, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning I
+Beslutsdatum: 2019-04-01
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: L2, V3
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursen ska ge studenten grunderna i matematisk modellering av
+slumpmässig variation och förståelse för
+principerna bakom statistiska analyser. Den ska också ge
+studenterna en verktygslåda med de vanligaste modellerna och
+metoderna samt förmågan att använda dessa i olika praktiska
+situationer.
+Kursen fyller två syften. Dels är den en allmänbildningskurs
+i matematisk statistik, dels ska den ge en grund för vidare
+studier.
+Allmänbildningen behövs för den som i sitt yrkesliv inte
+nödvändigtvis kommer att syssla med statistiska
+analyser dagligen men som kan förväntas behöva genomföra
+enklare statistiska tester ibland och presentera resultatet för
+sina kollegor. Man förväntas då också kunna läsa och
+värdera andras analyser.
+Kursen ska också ge en grund för vidare studier, främst
+inom försöksplanering.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna relatera frågeställningar om slumpmässig variation och
+observerade data, så som de uppträder i V- och L-tillämpningar,
+till begreppen slumpvariabler, fördelningar och samband mellan
+variabler,
+kunna förklara begreppen oberoende, sannolikhet, fördelning,
+väntevärde och varians,
+kunna beräkna sannolikheten för en händelse samt
+väntevärde och varians utifrån en given fördelning,
+kunna beskriva grundläggande tekniker för statistisk
+slutledning och kunna använda dem på enklare statistiska
+modeller.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna konstruera en enkel statistisk modell utifrån ett
+problem hämtat ut verkligheten eller från ett insamlat
+datamaterial,
+kunna använda ett beräkningsprogram för simulering och
+tolkning av statistiska modeller samt för analys av data,
+kunna välja, utföra och tolka en statistik procedur som
+besvarar en given statistisk frågeställning,
+kunna använda statistiska termer inom området i skrift,
+kunna redovisa en statistisk analys i en teknisk rapport och
+dess tolkning i en tudelad rapport där en del är av teknisk natur
+medan en kort del vänder sig till en lekman utan tekniska
+kunskaper.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna granska en statistisk modell och dess förmåga att
+beskriva verkligheten.
+
+
+Kursinnehåll
+Kursen innehåller grundläggande begrepp inom
+sannolikhetsteori, statistikteori och sambandsanalys.
+I momentet sannolikhetsteori introduceras begreppen
+slumpvariabler och fördelningar för att beskriva variation och
+slumpmässiga fenomen vilka ofta är relaterade till V- och
+L-tillämpningar. Olika fördelningar, såsom binomial-, poisson-,
+normal-, exponential- och lognormalfördelningen, studeras och
+begreppen väntevärde och varians för en fördelning
+introduceras. Speciell vikt läggs vid normalfördelningen och dess
+egenskap som gränsfördelning. Simuleringar från fördelningarna
+och studier av modellerna görs med hjälp av Matlab. Olika typer
+av mätfel och felfortplantningsformler studeras.
+I statistikteorin utgår vi från observerade data och skattar
+parametrar i enkla sannolikhetsmodeller samt beskriver
+skattningarnas osäkerhet. Stor vikt läggs vid kopplingen mellan
+modell och verklighetsrelaterad frågeställning samt vilka
+slutsatser som kan dras från observerade data. I denna analys
+används grundläggande tekniker som konfidensintervall och
+hypotesprövning.
+I sambandsanalys (regression) studerar vi hur samband mellan
+två eller flera variabler kan beskrivas, oftast är sambandet
+linjärt. Modeller med indikatorvariabler kan förekomma. Vi
+studerar olika tekniker för att kunna jämföra och välja bland
+olika modeller för samband. Detta moment vilar tungt på
+användningen av Matlab.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen, obligatorisk närvaro på laborationerna, godkänd projektrapport och godkänt färdighetsprov.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Tentamen. 
+Antal högskolepoäng: 5,5. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen. 
+Kod: 0217. Benämning: Laborationer. 
+Antal högskolepoäng: 1,5. Betygsskala: UG.  Prestationsbedömning: Datorlaborationer och skriftlig projektrapport. 
+Kod: 0317. Benämning: Färdighetsprov. 
+Antal högskolepoäng: 0,5. Betygsskala: UG.  Prestationsbedömning: Datorbaserat test 
+Antagningsuppgifter
+Förkunskapskrav:
+Minst 6 högskolepoäng inom kurserna FMAA01/FMAA05 Endimensionell analys, FMAB30/FMAB35 Flerdimensionell analys
+
+
+Förutsatta förkunskaper: Endimensionell analys, Linjär algebra och Flerdimensionell analys.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FMSF20, MASB02, MASB03, FMS012, FMS030, FMS033, FMS035, FMS086, FMS140, FMSF01, FMSF25
+Kurslitteratur
+
+Vännman K: Matematisk statistik, andra upplagan. Studentlitteratur, 2002.
+Lena Zetterqvist och Johan Lindström: Räkna med variation - Ett arbetsmaterial i sannolikhetslära och statistisk inferens. Studentlitteratur, 2017.
+
+
+Kontaktinfo och övrigt
+Studierektor: Johan Lindström, studierektor@matstat.lu.se
+Hemsida: http://www.maths.lth.se/matstat/kurser/fms032/
+Övrig information: Bytt kurskod från FMS032. Kursen får inte ingå i examen tillsammans med FMSF25 Matematisk statistik - kompletterande projekt.
+
+
+

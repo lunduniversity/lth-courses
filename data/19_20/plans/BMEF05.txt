@@ -1,0 +1,91 @@
+
+Kursplan 2019/20 BMEF05
+
+
+
+
+
+Kursplan för
+Mätteknik
+Electrical Measurements
+BMEF05, 4,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning BME
+Beslutsdatum: 2019-03-28
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: F2
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Mätteknik kommer in inom i princip alla verksamhetsområden
+för en civilingenjör. Det kan t.ex. röra sig om detaljerade
+studier av signaler från nervceller i hjärnan, detektering av
+ljus i optiska fiber eller övervakning av tillverkningen i en
+processindustri. Framtagning av nya mätmetoder och givare sker i
+en allt snabbare takt där utvecklingen inom inte minst
+mikrosystemteknik-området spelar en stor roll. Syftet med kursen
+är att ger en djupare förståelse för de mätmetoder som
+används idag.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+ha kunskap om olika mätmetoder och deras uppbyggnad för
+mätning av spänning, ström, impedans, tid, frekvens och
+frekvensspektra.
+ha förståelse för begränsningar hos mätmetoder och
+inverkan av störningar för att undvika mätfel.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna välja lämplig mätmetod och instrument i en given
+mätuppgift samt utföra mätningar.
+ha fått erfarenhet av experimentellt arbete.
+kunna kommunicera resultat från laborativa experiment
+skriftligen.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+tillägna sig och sovra i information ur ett större material,
+t ex lärobok eller labmaterial, med begränsad läsanvisning.
+ha förmåga att bedöma mätresultat för att minimera risken
+för mätfel och feltolkning.
+
+
+Kursinnehåll
+Grundläggande mättekniska begrepp som belastning på
+mätobjekt, inverkan av störningar, osäkerhet i mätningar och
+kalibrering.
+Analoga och digitala oscilloskop, multimetern, impedansmätning
+med brygg- och spänning/ström-metoder, tid- och frekvensmätning
+med universalräknare, mätning av frekvensspektra med spektrum-
+och FFT-analysator (FFT-Fast Fourier Transform).
+Uppbyggnad av mätsystem.
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: Kursen tillämpar kontinuerlig examination i samband med laborationerna. För godkänd kurs krävs att man är godkänd på följande moment: Laborationer med tillhörande kontrollfrågor, Praktiskt prov, Laborationsrapporter, Granskning av laborationsrapport.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: FAFF30 Våglära och optik.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: ESS070, ESSF10, EEM007, BMEF15, EEMF15
+Kurslitteratur
+
+Carlsson P, Johansson S: Elektronisk mätteknik. Säljs på institutionen.
+Labkompendium.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Johan Nilsson, johan.nilsson@bme.lth.se
+Kursansvarig: Lars Wallman, lars.wallman@bme.lth.se
+Hemsida: http://www.bme.lth.se/
+
+
+

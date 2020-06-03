@@ -1,0 +1,63 @@
+
+Kursplan 2019/20 MMEF05
+
+
+
+
+
+Kursplan för
+Transmissioner
+Transmissions
+MMEF05, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning M
+Beslutsdatum: 2019-03-27
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: M3, MD3
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursen ger insikt i hur mekaniska transmissionselement
+analyseras med hjälp av samband för, och mellan, de ingående
+delarna.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna känna igen i konstruktioner ingående
+transmissionselement och tillämpa inlärda analysmetoder på
+dessa.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna analysera i kursen exemplifierade
+transmissionselement.
+
+
+Kursinnehåll
+Band-, skiv- och trumbromsar. Skruvförband. Kopplingar. Analys
+av kuggväxlar, skruvväxlar, remväxlar och planetväxlar.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Två obligatoriska konstruktions-/beräkningsuppgifter. För deltagande i tentamen fordras att de obligatoriska konstruktionsuppgifterna är godkända. Dessa kan godkännas endast under den övningstid som schemalagts för dessa specifika uppgifter. Skriftlig tentamen. För betyg 3, 4 och 5 krävs 40, 60 resp. 80% rätt på tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: FMEA30 Mekanik alternativt FMEA01 Mekanik-Statik och partikeldynamik plus FMEA25 Mekanik-Dynamik, och FHL013/FHLF15 Hållfasthetslära.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: MME035
+Kurslitteratur
+
+Lars Vedmar: Transmissioner. KFS i Lund AB, 2017.
+
+
+Kontaktinfo och övrigt
+Studierektor: Hans Walter, hans.walter@iprod.lth.se
+Hemsida: http://www.mel.lth.se/utbildning/transmissioner/
+
+
+

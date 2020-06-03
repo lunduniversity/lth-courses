@@ -1,0 +1,87 @@
+
+Kursplan 2019/20 MVKN60
+
+
+
+
+
+Kursplan för
+Turbomaskinernas teori
+Theory of Turbo Machinery
+MVKN60, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning M
+Beslutsdatum: 2019-03-27
+Allmänna uppgifter
+Valfri för: M4-en, W4
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Turbomaskiner har en central roll i kraftverksteknik. Kursen
+syftar till att ge en förståelse av olika turbomaskiner avseende
+deras funktion, uppbyggnad och reglering. Vidare skall kursen ge
+förståelse för de termodynamiska och strömningstekniska
+förloppen som sker i interaktionen mellan arbetsmediet och
+maskinerna. Kursen skall ge förståelse av enklare designmetoder
+och kännedom om mer avancerade.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+Ha förståelse för turbomaskiners funktion och
+användningsområden inom kraftverkstekniken
+Vara förtrogen med turbomaskiners prestanda och reglering
+Behärska de enklare och vara bekant med de mer avancerade
+metoderna för design av turbomaskiner
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+Kunna ingenjörsmässig dimensionering av turbomaskiner i olika
+typer av system och ha insikt i hur olika driftsfall påverkar en
+anläggning
+Kunna uppskatta prestanda utifrån hastighetstrianglar och
+energibalanser
+Kunna beskriva en turbomaskins prestanda och verkningsgrad på
+ett för systemanalyser lämpligt sätt
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+Kunna värdera olika val av maskin i en anläggning
+
+
+Kursinnehåll
+Grundläggande turboteori för såväl kompressibla som
+inkompressibla arbetsmedier.
+Förluster och verkningsgrader.
+Metoder för design av maskiner.
+Industriella applikationer, speciellt gasturbiner.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examinationen sker både individuellt och i grupp. För att erhålla rätten att deltaga i skriftlig tentamen måste alla obligatoriska moment, d v s inlämningsuppgifter och laboration, vara godkända.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+MMVF01 Termodynamik och strömningslära
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: MVK026
+Kurslitteratur
+
+Dixon, S.L. Fluid Mechanics and Thermodynamics of Turbomachinery 6th Edition. Butterworth-Heinemann 2005. ISBN-13: 978-0750678704, utdelat material.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Jens Klingmann, Jens.Klingmann@energy.lth.se
+Kursansvarig: Marcus Thern, marcus.thern@energy.lth.se
+Hemsida: http://www.energy.lth.se
+Övrig information: Kursen innehåller föreläsningar och övningar.
+
+
+

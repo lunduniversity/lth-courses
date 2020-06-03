@@ -1,0 +1,109 @@
+
+Kursplan 2019/20 VSMF10
+
+
+
+
+
+Kursplan för
+Byggnadskonstruktion
+Structural Design
+VSMF10, 9 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning V
+Beslutsdatum: 2019-04-01
+Allmänna uppgifter
+Obligatorisk för: IBYA2
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursen syftar till att ge kunskaper för dimensionering av enkla
+konstruktionselement i trä, stål och betong, samt grundläggande
+kunskaper om stomstabilisering och detaljutformning.
+Kursens afu-del består av studiebesök och
+/eller projektföreläsningar, och syftar till att klargöra olika
+delar och roller i byggprocessen.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+Kunna förklara och använda partialkoefficientmetoden.
+Kunna förklara hur de olika konstruktionsmaterialens unika
+egenskaper kommer till uttryck i dimensioneringsregler.
+Kunna analysera hur laster förs ner till grunden via olika
+konstruktionselement i en byggnad.
+Kunna redogöra för olika principer för
+stomstabilisering.
+Kunna redogöra för funktionen hos enklare förband.
+Kunna redogöra för brandskydd av konstruktioner på
+grundläggande nivå.
+
+ 
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+Kunna bestämma dimensionerande last inklusive
+lastkombinationer.
+Kunna dimensionera enkla element av trä/limträ, stål och
+armerad betong påverkade av drag, tryck, böjmoment och
+tvärkraft, enskilt och i kombination.
+Kunna dimensionera för begränsning av deformationer.
+Kunna utforma och dimensionera ett stomstabiliserande system
+för en enklare byggnad.
+Kunna redovisa en konstruktionsutformning och dimensionering av
+byggnadskonstruktioner i rapportform för trä/limträ, stål och
+armerad betong.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+Visa förmåga att göra lämpliga antaganden och värdera
+inverkan av dessa.
+Kunna bedöma rimligheten i beräkningsresultat.
+Visa ett förhållningssätt som beaktar att stommens utfomning
+påverkas av fler aspekter än hållfasthet.
+
+
+Kursinnehåll
+Kursen omfattar:
+
+Grundläggande principer för dimensionering enligt
+partialkoefficientmetoden och bestämning av farligaste
+lastkombination.
+Dimensionering och verifiering baserad på normers krav för
+element av trä/limträ, stål och betong. 
+Principer för utformning av enkla stomsystem och
+stabilisering.
+Principer för utformning av enkla förband.
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Godkända konstruktionsuppgifter, godkänd skriftlig tentamen och godkänd afu.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0111. Benämning: Byggnadskonstruktion. 
+Antal högskolepoäng: 6. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen. 
+Kod: 0211. Benämning: Arbetslivsförankrad utbildning. 
+Antal högskolepoäng: 0. Betygsskala: UG.  Prestationsbedömning: Obligatorisk närvaro. Dessa timmar är inte medräknade i timplanen. 
+Kod: 0311. Benämning: Konstruktionsuppgifter. 
+Antal högskolepoäng: 3. Betygsskala: UG.  Prestationsbedömning: Godkända konstruktionsuppgifter. Poängen bidrar till slutbetyget. 
+Antagningsuppgifter
+Förutsatta förkunskaper: FME602 Strukturmekanik eller VSMA20 Strukturmekanik.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: VBK013, VSM611, VBKF15
+Kurslitteratur
+
+Isaksson, T., Mårtensson, A., Thelandersson, S.: Byggkonstruktion. Studentlitteratur, 2017, ISBN: 9789144118369. Upplaga 3.
+Isaksson, T, Mårtensson, A.: Byggkonstruktion, Regel- och formelsamling. Studentlitteratur, 2016, ISBN: 9789144118628. Upplaga 3.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Universitetslektor Susanne Heyden, susanne.heyden@construction.lth.se
+Hemsida: http://www.byggmek.lth.se/utbildning/kurser/
+
+
+

@@ -1,0 +1,73 @@
+
+Kursplan 2019/20 IDEN45
+
+
+
+
+
+Kursplan för
+CAD evolution
+CAD Evolution
+IDEN45, 5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning ID
+Beslutsdatum: 2019-03-21
+Allmänna uppgifter
+Huvudområde: Industridesign. 
+Obligatorisk för: MID1
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+3D-modellering och -rendering är en nödvändig del av många
+industriella designprocesser i våra dagar. Efter slutförd kurs
+ska studenterna ha gått igenom och uppdaterat sina 3D-färdigheter
+och självständigt och med självförtroende kunna använda
+mjukvara till att överföra sina designidéer till 3D-former för
+utvecklings- och presentationsändamål.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+Genomgång av grunderna för 3D-ytmodellering och -rendering
+genom inlärning och övning av typiska arbetsflöden för sådant
+arbete.
+- Behärskning av användargränssnitt i mjukvara, dvs menyer,
+fönster och snabbkommandon mm.
+- 3D worldspace; NURBS-geometrins historia och principer, dvs
+punkter, kurvor och ytor
+- Fånga designidén genom konstruktion och manipulering av
+3D-punkter, -linjer och -kurvor genom punkter i 3D worldspace som
+grundmaterial för ytor av enkel kvalitet
+- Konstruktion och modifiering av ytor för att noggrant beskriva
+objekt genom ommodellering av ett enkelt och ett komplext
+objekt
+- Fotorealistisk rendering av färdiga objekt genom texturering
+och ljussättning; dvs  mapping av bilder och HDR-bilder (bilder
+med stort dynamiskt omfång)
+- Uttag av grundläggande data för användning i annan mjukvara
+och i utrustning för snabb prototypframställning
+ 
+
+Kursinnehåll
+-Kursen består av gruppföreläsningar kompletterade med
+individuell handledning.
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: 80 % närvaro krävs. Bedömningen grundar sig på dokumentation av individuella inlämningsuppgifter. 
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: IDEN20
+Kurslitteratur
+
+Aktuella mjukvarumanualer, hjälpfunktioner på nätet och i annan form, webbsidor från tredje part samt användarfora och diskussionsgrupper på nätet.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Andreas Hopf, andreas.hopf@design.lth.se
+Hemsida: http://www.ide.lth.se
+Övrig information: Kursen innehåller diskussioner och genomgångar i grupp. Individuellt arbete utförs under handledning.
+
+
+

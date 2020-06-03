@@ -1,0 +1,112 @@
+
+Kursplan 2019/20 MVKN90
+
+
+
+
+
+Kursplan för
+Turbulens - teori och modellering
+Turbulence - Theory and Modelling
+MVKN90, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning M
+Beslutsdatum: 2019-03-27
+Allmänna uppgifter
+Valfri för: F5, F5-bem, M4-bem, Pi4-bem
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursens syfte är att ge en grundläggande teoretisk kunskap om
+turbulens samt turbulensmodellers uppbyggnad och applicerbarhet.
+Dessutom avser kursen ge färdighet i att analysera turbulenta
+strömningar. Dessa kunskaper skall vara tillräcklig för att
+förstå bakgrunden till turbulensmodeller och att för ett givet
+strömningsfall kunna välja lämplig modell.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+ 
+
+kunna beskriva de fyskikaliska mekanismerna vid övergången
+från laminär till turbulent strömning för ett enkelt
+strömningsfall
+kunna förklara Kolmogorovs teori, de bakomliggande antagandena
+och teorins giltighet
+kunna redogöra för de olika grundtyperna av turbulensmodeller
+med avseende på fysikalisk bakgrund, antaganden samt
+applicerbarhet på olika strömningsfall
+kunna från ett fenomenologiskt perspektiv bedöma om en
+strömning är turbulent
+kunna förklara några för ämnet viktiga och grundläggande
+begrepp
+kunna beskriva turbulensens karaktär i olika typer av
+strömning med avseende på turbulensens egenskaper och utveckling,
+samt förklara hur skillnaden mellan dessa strömningstyper
+återspeglas i modelleringen
+
+ 
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna analysera ett strömningsfall och föreslå en metod för
+numerisk simulering med avseende på ingående ekvationer, möjliga
+förenklingar och val av lämplig turbulensmodell samt jämföra
+med en alternativ metod
+kunna kritiskt granska och utifrån givna kriterier bedöma
+rimligheten hos resultat från simulering av turbulenta
+strömningar
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna aktivt deltaga i diskussioner kring inom ämnet relevanta
+problem
+kunna i tal och skrift presentera i en teknisk rapport
+innehållande analyser och val av turbulensmodell
+
+
+Kursinnehåll
+Kursen omfattar grundläggande teori för turbulent strömning,
+övergången mellan laminär och turbulent strömning samt det
+fysikaliska grunderna för olika typer av turbulensmodeller.
+Turbulensteoridelen innefattar statistisk och fenomenologisk
+beskrivning av turbulens, Kolmogorovs hypoteser samt väggbunden
+och väggfri skjuvströmning. Vidare behandlas homogen och isotrop
+turbulens, samt anisotropi och turbulens i olika typer av
+strömning. I modelleringsdelen tas de vanligaste typerna av
+turbulensmodeller upp, dvs. turbulensmodeller baserade på de
+Reynolds-medelvärderade ekvationerna och Large Eddy Simulering.
+Den fysikaliska bakgrunden och effekten av olika antaganden
+diskuteras. Även den matematiska beskrivningen behandlas,
+medelvärdesbildningar av de grundläggande ekvationerna, samt
+härledning av de extra ekvationer som förekommer.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examinationen sker både enskilt och baserat på arbete i grupp. De obligatoriska inlämningsuppgifterna och laborationerna redovisas skriftligt enskilt. Projektuppgiften redovisas i grupp både skriftligt i form av en rapport och muntligt vid ett seminarium, där alla gruppmedlemmar skall deltaga aktivt. För godkänt (betyg 3) krävs att alla obligatoriska moment dvs. inlämningsuppgifter, laborationer och projektuppgift är godkända. Högre betyg än 3 sätts baserat på frivillig muntlig tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+FMEN21 Kontinuumsmekanik eller MMVF01 Termodynamik och strömningslära eller MMVF10 Strömningslära
+FMA430 Flerdimensionell analys eller FMA435 Flerdimensionell analys med vektoranalys eller FMAB30 Flerdimensionell analys eller FMAB35 Flerdimensionell analys med vektoranalys
+FMA420 Linjär algebra eller FMAB20 Linjär algebra
+
+
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Pope, S. B.: Turbulent Flows. Cambridge University Press , 2003, ISBN: 0-521-59886-9.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Johan Revstedt, Johan.Revstedt@energy.lth.se
+Kursansvarig: Robert Szasz, Robert-Zoltan.Szasz@energy.lth.se
+Hemsida: http://www.energy.lth.se
+Övrig information: Kursen är baserad på föreläsningar, övningar, laborationer, inlämningsuppgifter samt arbete i grupp i form av ett mindre projekt.
+
+
+

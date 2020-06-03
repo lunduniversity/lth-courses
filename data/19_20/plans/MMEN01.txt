@@ -1,0 +1,62 @@
+
+Kursplan 2019/20 MMEN01
+
+
+
+
+
+Kursplan för
+Transmissioner, dimensionering
+Transmissions, Dimensioning
+MMEN01, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning M
+Beslutsdatum: 2019-03-27
+Allmänna uppgifter
+Valfri för: M4-tt
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursen ger detaljerad insikt i hur kuggväxlar, variatorer,
+linor och kammekanismer dimensioneras.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna beräkna spänningar och deformationer i olika
+maskinelement.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna storleksbestämma olika maskinelement med hjälp av i
+kursen genomgångna analyser.
+
+
+Kursinnehåll
+Variatorer. Rak- och snedkuggväxlar. Excenterväxlar.
+Differentialer. Stållinor. Kammekanismer. Kontakt mellan torra
+ytor.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Obligatorisk konstruktions-/beräkningsuppgift. För deltagande i tentamen fordras att den obligatoriska uppgiften är godkänd. Denna kan godkännas endast under den övningstid som schemalagts för denna specifika uppgift. Skriftlig tentamen. För betyg 3, 4 och 5 krävs 40, 60 resp 80% rätt på tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: MMEF05 Transmissioner och MMEF01 Tribologi.
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Lars Vedmar: Transmissioner. KFS i Lund AB, 2016.
+Lars Vedmar, Bo Jacobson: Tribologi. KFS i Lund AB, 2016.
+
+
+Kontaktinfo och övrigt
+Studierektor: Hans Walter, hans.walter@iprod.lth.se
+Hemsida: http://www.mel.lth.se/utbildning/dimensionering/
+Övrig information: Vid färre än 12 deltagare kan kursen komma att ges med reducerad undervisning och större inslag av självstudier.
+
+
+

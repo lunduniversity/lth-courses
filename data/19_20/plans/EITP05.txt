@@ -1,0 +1,104 @@
+
+Kursplan 2019/20 EITP05
+
+
+
+
+
+Kursplan för
+Nanoelektronik
+Nanoelectronics
+EITP05, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning E
+Beslutsdatum: 2019-03-25
+Allmänna uppgifter
+Huvudområde: Nanovetenskap. 
+Obligatorisk för: N4-hn
+Valfri för: E4-fh, F4, F4-hn, F4-nf, MSOC1
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Kursen avser att ge kunskaper om tillämpningar av
+nanoelektroniken inom en rad områden och visa hur komponenter kan
+tillverkas och modelleras för att användas både som en
+fortsättning på CMOS och för att tillföra  nya  funktioner
+utöver CMOS. Nanoteknologi erbjuder t.ex. möjligheter för
+heterogen materialintegration av transistorer vilket används för
+att minimera energiförbrukningen i kretsar och för att skapa
+programerbara minnen. Kursen bygger såväl på kunskap från
+Modern Elektronik och Höghastighetselektronik. Användningen av
+nanotrådar och nanotuber inom elektronik kommer att diskuteras
+ingående samt olika komponentteknologier som har potential för
+att minimera effektförbrukningen. Applikationer inom
+kommunikationsteknik, radar  och  inom THz området kommer att
+presenteras. Kursen avser att ge en grund i hur avancerad
+materialvetenskap  genererar nya elektroniktillämpningar.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna problematisera över begränsningar för traditionella
+tekniker
+kunna beskriva funktionen hos en rad nanokomponenter
+kunna förklara var nanokomponeter kan användas
+kunna hur nanokomponeter kan användas i kommunikationsteknik 
+och radar
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna bygga sin egen modell för komponenten
+kunna konstruera en enkel kretslösning
+kunna utvärdera användningen av olika nanokomponenter
+kunna utveckla nanokomponenter för kommunikationsteknik och
+radar
+kunna skriva  en vetenskaplig rapport i form av en artikel 
+i  IEEE format
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+förstå var nanoelektroniken kan bidra till den fortsatta
+utvecklingen av elektronik
+ha erfarenhet av att jobba i forskningsnära projekt
+inse behovet av kompromiss mellan teknik och applikation
+
+
+Kursinnehåll
+Möjligheter och begränsningar för Si CMOS-teknologi nedskalad
+till under 20 nm noden;  FinFETar  och NWFETar. Heterogen
+materialintegration, High-k dielektrika och och ferroelektriska
+material. Tunnelkomponenter och  steep-slope transistorer.
+Transistormodeller. Elektronik baserade på III-V nanotrådar för
+högfrekvensapplikationer (tex 5G och THz) och neuromorsfiska
+tillämpningar.
+Vid laborationerna kommer studenterna att få använda modeller
+för nanoelektroniska komponenter samt  i projektform simulera hur
+dessa kan användas i enkla kretslösningar. Stor tonvikt kommer
+att läggas på att använda konventionella verktyg som ingenjören
+sedan möter på sin arbetsplats. Designprojekt kommer att
+redovisas i artikel i IEEE  format.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen, laborationer, projekt med muntlig presentation samt skriftlig redovisning i  form av  artikel.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: ETIN70 Modern elektronik
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FFF160
+Kurslitteratur
+
+Föreläsningsanteckningar samt distribuerade artiklar.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Prof. Lars-Erik Wernersson, lars-erik.wernersson@eit.lth.se
+Hemsida: http://www.eit.lth.se/kurs/eitp05
+
+
+

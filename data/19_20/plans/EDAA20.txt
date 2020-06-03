@@ -1,0 +1,97 @@
+
+Kursplan 2019/20 EDAA20
+
+
+
+
+
+Kursplan för
+Programmering och databaser
+Programming and Databases
+EDAA20, 7,5 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning C/D
+Beslutsdatum: 2019-04-01
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: L2
+Valfri för: B4, K4
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Studenterna skall lära sig att skriva små och medelstora
+datorprogram och få grundläggande insikter i objektorienterad
+programmering och programspråket Java. Studenterna skall också
+få grundläggande och praktiska kunskaper om lagring av data i
+relationsdatabaser.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna förklara grundläggande begrepp inom objektorienterad
+och imperativ programmering
+kunna förklara och ge exempel på användning av
+grundläggande algoritmer, till exempel för sökning
+kunna beskriva och ge exempel på användning av grundläggande
+datastrukturer som vektorer och matriser
+kunna beskriva mindre informationssystem med ER-modeller och
+UML-notation
+kunna använda frågespråket SQL för att hämta information
+ur databaser
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna konstruera och implementera algoritmer för att lösa
+enkla uppgifter
+kunna implementera Javaklasser utgående från givna
+specifikationer
+kunna använda enkla verktyg för att skriva in, testa och
+felsöka program
+kunna läsa programkod och dokumentation
+kunna använda en databashanterare för att implementera en
+enkel databas
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+på egen hand kunna gå vidare inom området objektorienterad
+programmering
+
+
+Kursinnehåll
+Om program som modeller av verkliga system. Objekt och
+operationer, klasser och metoder. Grundläggande
+programkonstruktioner, grundläggande algoritmer. Datastrukturer:
+vektorer, klassen ArrayList. Arv, polymorfism. Strängklasser.
+Introduktion till databassystem. Grunderna i relationsmodellen,
+frågespråket SQL. ER- och UML-diagram.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen i programmering. Slutbetyg på kursen baseras på resultatet av denna tentamen. Obligatoriska moment: laborationer i programmering och laborationer i databaser. Detaljerade föreskrifter angående fullgörande av obligatoriska moment kommer att finnas i kursprogrammet.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0110. Benämning: Programmering, obligatoriska moment. 
+Antal högskolepoäng: 3. Betygsskala: UG.  Prestationsbedömning: För godkänt betyg krävs fullgjorda laborationer i programmering.  Delmomentet omfattar: Laborationer i programmering. 
+Kod: 0210. Benämning: Programmering, tentamen. 
+Antal högskolepoäng: 3. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen. Slutbetyg på kursen baseras på resultatet av denna tentamen. 
+Kod: 0310. Benämning: Databaser, obligatoriska moment. 
+Antal högskolepoäng: 1,5. Betygsskala: UG.  Prestationsbedömning: För godkänt betyg krävs att studenten fullgjort laborationerna i databasteknik.  Delmomentet omfattar: Laborationer i databashantering. 
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: EDAA65, EDAA45, EDAA50, EDAA55, EDA011, EDA016, EDA017, EDA501, EDA616, EDAA10
+Kurslitteratur
+
+Downey, A. & Mayfield, C.: Think Java, How to Think Like a Computer Scientist. O'Reilly, 2017, ISBN: 978-1491929568. Think Java är tillgänglig under Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Författarna underhåller en online-version på http://greenteapress.com/wp/think-java/.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Univ.adj Anna Axelsson, Anna.Axelsson@cs.lth.se
+Hemsida: http://cs.lth.se/edaa20
+
+
+

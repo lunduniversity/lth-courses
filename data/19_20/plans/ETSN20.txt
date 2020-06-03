@@ -1,0 +1,144 @@
+
+Kursplan 2019/20 ETSN20
+
+
+
+
+
+Kursplan för
+Programvarutestning
+Software Testing
+ETSN20, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning C/D
+Beslutsdatum: 2019-04-01
+Allmänna uppgifter
+Valfri för: C4-da, D4-se, E4-pv, F4, F4-pv, I4-pvs
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursens syfte är att ge studenten grundläggande och
+fördjupade kunskaper i inom programvarutestning i storskalig
+utveckling av system med betydande andel programvara. Kursen syftar
+till teoretisk kunskapsinhämtning och praktisk tillämpning.
+Kursen syftar också till att lära studenten att söka och
+värdera kunskap vid forskningsfronten inom testområdet.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+definiera grundläggande begrepp och principer inom
+programvarutestning.
+redogöra för de vanligast förekommande teknikerna för
+programvarutestning.
+redogöra för testningens plats i programvaruutvecklingens
+processer och organisationer som helhet.
+beskriva verifieringens relation till kraven på ett
+programvarusystems funktionalitet och kvalitet.
+redogöra för ett eget valt fördjupningsområde och visa på
+teoretiskt djup eller praktisk tillämpning inom det, baserat på
+ett antal aktuella forskningsartiklar som belyser forskningsfronten
+inom ämnet
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna motivera val av teststrategi och -organisation för ett
+programvarusystem.
+kunna genomföra analys och skapa testfall för
+white-box-testning och black-box-testning.
+kunna genomföra en granskning
+kunna tillämpa ett systematiskt felsökningsarbete.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+förstå komplexiteten i uppgiften att testa ett
+programvarusystem och vara medveten om kostnader och effekter av
+olika testningsinsatser under en produkts utvecklingscykel.
+kunna värdera och syntetisera information i publicerade
+vetenskapliga artiklar om testning.
+
+
+Kursinnehåll
+Verifieringsaktiviteter i hela utvecklingscykeln
+
+planering, design, exekvering/rapportering och analys
+
+Typer av verifiering och avvägningar mellan dem
+
+Statisk – dynamisk verifiering (test – granskning)
+Gränssnittsbaserad – strukturbaserad verifiering (black
+box – white box)
+Exploratory – Scripted
+Manuell – automatiserad
+Funktionstest – kvalitetstest
+Enhetstest – Integrationstest/regressionstest/systemtest
+Utvecklartest – Acceptanstest
+
+Verifieringstekniker
+
+Ekvivalenspartitionering
+Gränsvärdesanalys
+Täckningsbaserad verifiering
+Kombinatorisk testning
+
+Test management
+
+Mätningar under granskning och test: tillförlitlighet,
+täckningsgrad
+Feldatahantering
+Testorganisationer
+
+Undervisningsformer
+Föreläsningar ger en översikt över litteraturen som en hjälp
+för självstudier.
+Laborationer ger övning på att tillämpa olika testtekniker.
+Fördjupningsarbete innebär gruppvis litteratursökning, analys
+och presentation.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examinationen sker både enskilt och i grupp. Fördjupningsarbetet i grupp betygssätts i betygsskalan G/VG. Både rapport och muntlig presentation krävs för godkänt resultat. Genomförda och rapporterade laborationer examineras parvis, skriftlig tentamen individuellt. Slutbetyget (U/3/4/5) ges av en sammanvägning mellan fördjupningsarbetets betyg och poängtalet på tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0119. Benämning: Programvarutestning. 
+Antal högskolepoäng: 4,5. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen.  Delmomentet omfattar: Skriftlig tentamen 
+Kod: 0219. Benämning: Projekt. 
+Antal högskolepoäng: 3. Betygsskala: UG.  Prestationsbedömning: Fördjupningsarbetet i grupp betygssätts i betygsskalan G/VG. Både rapport och muntlig presentation krävs för godkänt resultat.  Delmomentet omfattar: Projekt i grupp 
+Kod: 0319. Benämning: Laborationer. 
+Antal högskolepoäng: 0. Betygsskala: UG. 
+Antagningsuppgifter
+Förkunskapskrav:
+ETSA01 Ingenjörsprocessen för programvaruutveckling - metodik
+ELLER
+ETSA05 Ingenjörsprocessen för programvaruutveckling - samhällsaspekter
+ELLER
+EDAN80 Coachning av programvaruteam
+ELLER
+ETSA02 Programvaruutveckling - metodik
+ELLER
+ETSF25 Affärsdriven programvaruutveckling
+ELLER
+ETSN05 Programvaruutveckling för stora system, genomförda kursmoment
+EDA016 Programmeringsteknik eller EDA017 Programmeringsteknik eller EDAA10 Programmering i Java eller EDAA20 Programmering och databaser eller EDAA45 Programmering, grundkurs eller EDAA50 Programmeringsteknik eller EDAA55 Programmeringsteknik eller EDAA65 Programmering
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: ETS200
+Kurslitteratur
+
+K Naik and P Tripathy: Software Testing and Quality Assurance: Theory and Practice. Wiley, 2008, ISBN: 978-0-471-78911-6.
+Artiklar som anvisas av institutionen.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Prof. Per Runeson, Per.Runeson@cs.lth.se
+Hemsida: http://cs.lth.se/etsn20
+Övrig information: Obligatoriska moment: projekt, laborationer, presentationer, rapporter.
+
+
+

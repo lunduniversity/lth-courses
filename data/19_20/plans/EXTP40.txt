@@ -1,0 +1,111 @@
+
+Kursplan 2019/20 EXTP40
+
+
+
+
+
+Kursplan för
+GIT-projekt med Pythonprogrammering
+GIT Project with Python Programming
+EXTP40, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning L
+Beslutsdatum: 2019-04-04
+Allmänna uppgifter
+Valfri för: L5-gi
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Syftet med kursen är att befästa och utveckla studentens
+kunskaper i form en kombination av ett, för studenten nytt men
+inom GIT vanligt programmeringsspråk, och ett praktiskt projekt.
+Projektet innehåller ett flertal av de typiska momenten i ett
+GIT-projekt: modellering, identifiering, analys, syntes och
+datorimplementering.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+ha inhämtat nya kunskaper i Pythonprogrammering och dess
+tillämpning inom GIT
+redogöra för i vilka situationer, utifrån ett
+GIT-perspektiv, Python är ett lämpligt språk att använda
+förstå och redogöra för hur Python kan kopplas till ett
+geografiska informationssystem, avseende såväl vektor- som
+rasteroperationer
+ha fördjupat sina kunskaper i programmering och
+projektimplementering inom det valda GIT-projektets inriktning
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna kommunicera skriftligt och muntligt samt på ett väl
+avvägt sätt kunna utnyttja det vetenskapliga fackspråket inom
+området
+kunna tillämpa Python-programmering innefattande
+exekveringsflöde och objektsorienterad programmering
+kunna tillämpa Python-programmering i en GIS-miljö avseende
+standardoperationer och script inom såväl vektor- som
+rasterGIS
+kunna genomföra, medelst Python-programmering, ett flertal av
+momenten i ett typiskt GIT-projekt: modellering, identifiering,
+analys, syntes och datorimplementation
+presentera sina projektresultat i både skriftlig och muntlig
+form
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna tillgodogöra sig, kritiskt bedöma och diskutera
+vetenskapliga primärpublikationer inom Python-programmering, samt
+kunna sammanfatta materialet
+
+
+Kursinnehåll
+Användning av och kunskap om programmeringsspråk vilka
+används inom utveckling av, och kommunikation med, dagens
+GIS-program och applikationsmiljöer inom GIT är av stor betydelse
+för studenter vilka vill specialisera sig mot dessa
+inriktningar.
+I projekt ingår regelmässigt att söka och inhämta speciell
+kunskap för dess genomförande. I denna projektkurs görs detta
+genom deltagande i och genomförande av programmeringslaborationer
+i en distanskurs för Python-programmering i GIS. Denna innehåller
+såväl föreläsningar som andra distansresurser för inlärning.
+Parallellt löper projektet som utgörs av någon GIT-relaterad
+applikation. Här sker undervisning i form av ett antal
+projektmöten med diskussion och handledning.
+
+Projektredovisningen sker både muntligt och skriftligt under
+varierande former.
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: Godkänt projektarbete.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+minst två av fördjupningskurserna i GIT: EXTQ05, EXTN10, EXTN70 eller EXTN75
+EXTF80 Geografisk informationsteknik
+EDAA20 Programmering och databaser
+FMA430 Flerdimensionell analys eller FMAB30 Flerdimensionell analys
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: GISN24
+Kurslitteratur
+
+Mark Lutz: Learning Python, 4th ed. O'Reilly Media, 2009, ISBN: 978-0-596-15806-4.
+Hans Petter Langtangen: Python Scripting for Computational Science, 3 ed. Springer Verlag, 2008, ISBN: 978-3-540-73915-6. Referenslitteratur.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Karin Larsson, karin.larsson@nateko.lu.se
+Hemsida: http://www.nateko.lu.se/sv/extp40
+
+
+

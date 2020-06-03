@@ -1,0 +1,96 @@
+
+Kursplan 2019/20 EDAF15
+
+
+
+
+
+Kursplan för
+Algoritmimplementering
+Algorithm Implementation
+EDAF15, 5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning C/D
+Beslutsdatum: 2019-04-01
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: Pi3
+Valfri för: C4-pv, D4-is, D4-pv, F4, F4-bs
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursens huvudsyfte är att studenterna ska lära sig en metodik
+för att hitta en fördelaktig version av en algoritm och att
+maximera prestanda vid implementering av denna. För att nå detta
+huvudsyfte är två andra syften med kursen att studenterna ska ha
+kunskaper dels (1) om programspråket ISO C11 med fokus på vilka
+språkkonstruktioner som ofta blir effektiva och/eller påverkar
+portabilitet, och dels (2) om modern datorarkitektur, ur
+programmerarens synvinkel, med fokus på mikroprocessorer och
+cacheminnen.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+förstå hur moderna mikroprocessorer implementeras med hjälp
+av pipelining och vilka konsekvenser för prestanda detta får för
+programmeraren,
+förstå hur cacheminnen fungerar och vilka konsekvenser för
+prestanda detta får för programmeraren, samt
+förstå hur olika språkkonstruktioner, t.ex. användning av
+pekare, kan översättas till maskinkod och detta kan påverka
+prestanda.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna skriva program i språket ISO C, dvs C11,
+med hjälp av moderna verktyg kunna analysera prestandan i C
+program, samt
+kunna maximera prestandan genom att skriva om programmet
+utifrån den information prestandaanalysverktygen ger.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+hitta en fördelaktig version av en algoritm med hänsyn taget
+till tillämpningens krav.
+
+
+Kursinnehåll
+ISO C11, GNU debuggern GDB, Valgrind, profileringsverktygen
+GPROF, OPROFILE och GCOV, pipelinade mikroprocessorer,
+cacheminnen, användning av simuleringsverktyg för
+prestandaanalys, implementering av matematiska funktioner för
+processorer med eller utan hårdvarustöd för flyttal.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen. För godkänt betyg krävs godkänd tentamen, godkända datorlaborationer samt godkänd inlämningsuppgift. För att få delta i tentamen krävs att laborationerna är fullgjorda. Slutbetyg i kursen grundar sig på resultatet av den skriftliga tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0114. Benämning: Obligatoriska moment. 
+Antal högskolepoäng: 2. Betygsskala: UG.  Prestationsbedömning: För godkänt betyg krävs att laborationerna och inlämningsuppgiften fullgjorts.  Delmomentet omfattar: Laborationer och inlämningsuppgift. 
+Kod: 0214. Benämning: Tentamen. 
+Antal högskolepoäng: 3. Betygsskala: TH.  Prestationsbedömning: Slutbetyg på kursen baseras på resultatet av den skriftliga tentamen.  Delmomentet omfattar: Skriftlig tentamen. För att få delta i tentamen krävs att laborationerna är fullgjorda. 
+Antagningsuppgifter
+Förkunskapskrav:
+EDAA01 Programmeringsteknik - fördjupningskurs eller EDAA30 Programmering i Java - fortsättningskurs
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: EDA115
+Kurslitteratur
+
+Jonas Skeppstedt and Christian Söderberg: Writing Efficient C Code: A Thorough Introduction, 3rd edition. Skeppberg, 2019, ISBN: 9781723831157.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Jonas Skeppstedt, jonas.skeppstedt@cs.lth.se
+Hemsida: http://cs.lth.se/edaf15
+
+
+

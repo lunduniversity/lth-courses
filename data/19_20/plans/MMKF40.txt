@@ -1,0 +1,86 @@
+
+Kursplan 2019/20 MMKF40
+
+
+
+
+
+Kursplan för
+Friformsframställning i produktutvecklingsprocessen
+Rapid Prototyping in the Product Development Process
+MMKF40, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning M
+Beslutsdatum: 2019-03-27
+Allmänna uppgifter
+Obligatorisk för: MD4
+Valfri för: M4
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursens syfte är att ge kunskaper i metoder för att
+framställa prototyper från datorbaserade modeller. Kursen syftar
+till att öka förståelsen i hela processen för
+direkttillverkning från skapandet av datorbaserade modeller till
+deras fysiska realisering.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna principerna för de olika metoderna inom rapid
+prototyping
+kunna metodernas användningsområden, möjligheter och
+begränsningar samt miljöpåverkan
+känna till egenskaperna för de olika material som används
+inom rapid prototyping
+kunna principerna för metoder för efterbehandling
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna skapa virtuella modeller som kan realiseras med en
+direkttillverkande metod
+kunna välja lämplig metod för direkttillverkning
+kunna använda rapid prototyping inom design och
+konstruktion
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna använda rapid prototyping för att kommunicera koncept
+inom design och konstruktion
+
+
+Kursinnehåll
+Undervisningen består av föreläsningar, deltagarundervisning,
+övningar och studiebesök. Den teoretiska delen förmedlar
+kunskaperna kring friformsframställning och dess
+användningspotential. Den praktiska delen syftar till att träna
+färdigheten i att använda ett friformsframställningssystem och
+består av handledda övningsuppgifter med successivt ökande
+komplexitet.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Varje student redovisar sina resultat från tre projektarbeten i kursen i form av rapport och modeller i anslutning till respektive projekt. Dessa utförs som regel enskilt eller i grupper om två studenter i varje grupp. Resultatet från varje projekt betygssätts och slutbetyget beräknas som ett viktat medelvärde av dessa. Prestationsbedömning sker baserat på resultat från projektuppgifter och dessa kan efter överenskommelse kompletteras i efterhand för bedömning och examination om kursen inte blivit godkänd inom ordinarie tid.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: MMK010/MMKA15 Ritteknik/datorstödd ritning.
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Chua et al, Rapid Prototyping: Principles and Applications (2nd Edition), ISBN: 9812381201.
+Nikoleris, Giorgos: Modellering och friformsframställning, Avdelningen för maskinkonstruktion, LTH, 2007.
+
+
+Kontaktinfo och övrigt
+Kursadministratör: Cilla Perlhagen, cilla.perlhagen@design.lth.se
+Kursansvarig: Per Kristav, per.kristav@design.lth.se
+Hemsida: http://www.product.lth.se/education/
+Övrig information: Vid färre än 5 deltagare kan kursen komma att ges med reducerad undervisning och större inslag av självstudier.
+
+
+

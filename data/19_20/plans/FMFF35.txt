@@ -1,0 +1,103 @@
+
+Kursplan 2019/20 FMFF35
+
+
+
+
+
+Kursplan för
+Komplex ekonomi
+Complex Economy
+FMFF35, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning F/Pi
+Beslutsdatum: 2019-03-26
+Allmänna uppgifter
+Valfri för: F4, F4-tf, I4, Pi4
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Varför anställer banker och konsultfirmor ett allt större
+antal fysiker? - Därför att metoder från statistisk fysik har
+blivit mer och mer viktiga inom ekonomin. Denna kurs är en
+introduktion till detta snabbt växande område där metoder och
+modeller hämtade från fysiken presenteras. Stor vikt kommer att
+läggas på förståelse av begreppens och ideernas
+universalitet.
+Kursen strävar efter att ge inblick i den generella nyttan som
+den statistiska fysikens (och kaosteorins) metoder har inom
+ekonomin, att ge förmåga för att kritiskt bedöma potential och
+limitering av vetenskaplig transfer och att ge intuition för den
+starka rollen som metoder kan spela i ett växande
+tvärvetenskaplig fält.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+känna till vissa grundläggande mekanismer inom ekonomin och
+viktiga statistiska modeller som används inom
+kapitalmarknader.
+känna till Black och Scholes teori for optioner, finansiella
+korrelationer och begrepp som portfölj och riskhantering.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna utföra enklare statistiska analyser, beräkna
+optionspriser och mäta finansiella korrelationer.
+kunna använda riskhanteringsprinciper.
+ha utvecklat sin förmåga att analysera ekonomiska
+problemställningar med matematiska metoder.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna beskriva och diskutera några av de viktigaste begreppen
+i det tvärvetenskapliga fältet ekonofysik/komplex ekonomi.
+kunna förklara grundläggande teoretiska och matematiska
+begrepp som krävs i ekonomisk riskhantering.
+förstå enklare vetenskapliga artiklar om riskhantering samt
+fysikaliska och statistiska metoder inom ekonomin.
+använda information från andra källor för att lösa nya
+problemställningar.
+
+
+Kursinnehåll
+Några inledande kommentarer om statistisk fysik.
+Grundläggande begrepp och mekanismer inom ekonomi och
+kapitalmarknader: arbritage, aktier, finansderivat, optioner,
+portfölj och riskhantering.
+Stokastiska modeller för aktiemarknaden: Grupper av Brownsk
+rörelse, stokastiska processer, fördelningar, gränsvärdessatser
+och fysikalisk tolkning.
+Black och Scholes teori för optioner: Diffusionsekvationer,
+Itos lemma, riskhantering.
+Korrelationer mellan aktier: riskhantering, brus, slumpmatriser
+och formell likhet med kvantkaos.
+Kontroversiella teorier: Är det möjligt att förutsäga
+börskrascher? Finns det likheter mellan börskrascher och
+jordbävningar?
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examinationen består av en skriftlig tentamen där studenten individuellt besvarar frågor av beräkningskaraktär och också lite av redogörande karaktär. Betyg bestäms av tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: Grundläggande analys, linjär algebra och fouriertransformer.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FMF170
+Kurslitteratur
+
+Guhr, T: Econophysics (kompendium), Lund 2005.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Professor Sven Åberg, sven.aberg@matfys.lth.se
+Hemsida: http://www.matfys.lth.se/education/FMF170
+Övrig information: Närvaro vid första föreläsningen är obligatoriskt för att få tillträde till kursen.
+
+
+

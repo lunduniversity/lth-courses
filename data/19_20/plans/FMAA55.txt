@@ -1,0 +1,79 @@
+
+Kursplan 2019/20 FMAA55
+
+
+
+
+
+Kursplan för
+Matematik, linjär algebra
+Mathematics, Linear Algebra
+FMAA55, 4,5 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning F/Pi
+Beslutsdatum: 2019-03-26
+Allmänna uppgifter
+Obligatorisk för: IBYA1, IBYI1, IBYV1, IDA1, IEA1
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursens syfte är att ge en grundläggande introduktion till den
+linjära algebran. Särskild fokus läggs på den roll denna spelar
+i tillämpningar inom teknikämnen av olika slag, med avsikt att ge
+den blivande ingenjören en god grund för vidare studier.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+med säkerhet kunna lösa linjära ekvationssystem samt visa
+förmåga att geometriskt tolka lösningar till sådana system
+kunna representera, hantera och räkna med grundläggande
+geometriska objekt i tre dimensioner som punkter, vektorer, linjer
+och plan
+kunna ge prov på en allmän förståelse för matrisbegreppet
+samt kunna utföra elementära matrisoperationer och lösa
+matrisekvationer.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna demonstrera en god algebraisk räkneförmåga
+i samband med problemlösning kunna visa förmåga att
+självständigt välja och använda matematiska begrepp och metoder
+inom linjär algebra
+i samband med problemlösning visa förmåga att integrera
+kunskaper från de olika delarna i kursen
+kunna visa en elementär förmåga att redogöra för ett
+matematiskt resonemang på ett strukturerat och logiskt
+sammanhängande sätt.
+
+
+Kursinnehåll
+Linjära ekvationssystem. Vektorer, baser och koordinatsystem.
+Ekvationer för linjer och plan i rymden. Skalärprodukt med
+tillämpningar. Vektorprodukt med tillämpningar. Matriser.
+Linjära avbildningar. Determinanter.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FMA656, FMA425, FMA420, FMA421, FMAA20, FMAB20
+Kurslitteratur
+
+Sparr, G: Linjär algebra. Studentlitteratur, 1997, ISBN: 978-91-44-19752-4. Andra upplagan.
+Övningar i Linjär algebra. Studentlitteratur, 2016, ISBN: 978-91-44-11607-5. Nionde upplagan.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Studierektor Anders Holst, Studierektor@math.lth.se
+Kursadministratör: Studerandeexpeditionen, expedition@math.lth.se
+Lärare: Tanja Kimmerud, tanja.kimmerud@math.lth.se
+Hemsida: http://www.maths.lth.se/course/hbglinalg/
+
+
+

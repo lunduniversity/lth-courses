@@ -1,0 +1,103 @@
+
+Kursplan 2019/20 EXTQ01
+
+
+
+
+
+Kursplan för
+Teoretisk biofysik
+Theoretical Biophysics
+EXTQ01, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning F/Pi
+Beslutsdatum: 2019-03-26
+Allmänna uppgifter
+Valfri för: BME5-bf, F4, F4-tf, F4-bm, N4, Pi4
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+Cellens uppbyggnad och innehåll: Studenten kan redogöra
+för cellens uppbyggnad och dess innehåll av molekyler och
+molekylbaserade mekanismer.
+Statistiska grundbegrepp och statistisk molekylkinematik:
+Studenten kan redogöra för och hantera statistiska fördelningar,
+speciellt normalfördelningen, medelvärde och standardavvikelse.
+Studenten kan redogöra för och hantera Boltzmann-fördelningen i
+ett antal tillämpningar.
+Brownsk rörelse, slumpvandring och diffusion: Studenten
+kan redogöra för slumpvandringar och kan härleda deras
+karakteristiska uppförande. Studenten kan visa hur slumpvandring
+leder till diffusionsekvationen, och hur diffusion hör samman med
+viskositet. Studenten kan redogöra för ett antal tillämpningar
+av diffusion.
+Viskösa medier: Studenten kan redogöra för
+Reynolds-talet och dess innebörd, för Stokes´ lag och för ett
+antal biologiska tillämpningar av strömning i viskösa
+medier.
+Entropi, fri energi och tvånivåsystem: Studenten kan
+redogöra för begreppen statistisk vikt och entropi och sambandet
+mellan dem. Studenten kan redogöra för begreppet fri energi och
+hantera tvånivåsystem.
+Entropiska krafter: Studenten kan redogöra för
+begreppen osmotiskt tryck, vätebindningar, hydrofili och
+hydrofobi.
+Kemiska krafter: Studenten kan redogöra för begreppet
+kemisk potential och beskriva kemisk jämvikt. Studenten kan
+redogöra för bildandet av miceller och känner till ett antal
+tillämpningar.
+Makromolekyler: Studenten kan redogöra för
+grundläggande strukturbildning hos makromolekyler som proteiner
+och DNA.
+Molekylära mekanismer och maskiner: Studenten kan
+redogöra för nervsignaler eller en valfri molekylär maskin,
+exempelvis motorproteiner eller transmembrana jonpumpar.
+Exempel på problem som studenten skall kunna lösa efter
+genomgången kurs:
+
+Tillämpningar av diffusion (Ficks lag och
+diffusionsekvationen).
+Viskösa flöden i vaskulära nätverk (Hagen-Poiseuilles
+lag).
+Töjning som funktion av kraft för kedjor med given längd och
+persistenslängd (maskartade kedjor).
+
+
+Kursinnehåll
+Cellens uppbyggnad och innehåll; statistiska grundbegrepp och
+statistisk molekylkinematik; brownsk rörelse, slumpvandring och
+diffusion; viskösa medier; entropi, fri energi och
+tvånivåsystem; entropiska krafter; kemiska krafter;
+makromolekyler; molekylära mekanismer och maskiner.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examination sker med skriftliga inlämningsuppgifter, muntlig seminarieuppgift samt muntlig tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Seminarieuppgift. 
+Antal högskolepoäng: 1,5. Betygsskala: UG.  Prestationsbedömning: Godkänd seminarieuppgift. 
+Kod: 0217. Benämning: Inlämningsuppgifter. 
+Antal högskolepoäng: 2,5. Betygsskala: TH.  Prestationsbedömning: Godkända inlämningsuppgifter. 
+Kod: 0317. Benämning: Muntlig tentamen. 
+Antal högskolepoäng: 3,5. Betygsskala: TH.  Prestationsbedömning: Muntlig tentamen. 
+Antagningsuppgifter
+Förutsatta förkunskaper: Obligatoriska kurser inom civilingenjörsprogrammet teknisk nanovetenskap eller motsvarande.
+Begränsat antal platser: Nej
+Kursen kan ställas in: Om färre än 5 anmälda.
+Kursen överlappar följande kurser: TEK267
+Kurslitteratur
+
+Rob Phillips, Jane Kondev, Julie Therot, Hernan G. Garcia: Physical Biology of the Cell, second edition. Garland Science , 2013.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Carl Troein, carl.troein@thep.lu.se
+Hemsida: http://www.atp.lu.se/english/education/courses/theoretical_biophysics/
+
+
+

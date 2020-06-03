@@ -1,0 +1,124 @@
+
+Kursplan 2019/20 FMSN55
+
+
+
+
+
+Kursplan för
+Statistisk modellering av extremvärden
+Statistical Modelling of Extreme Values
+FMSN55, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning I
+Beslutsdatum: 2019-04-01
+Allmänna uppgifter
+Valfri för: D4, F4, F4-fm, I4-fir, Pi4-fm, Pi4-biek
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursen syftar till att ge teoretisk kunskap i matematisk
+modellering av extrema händelser och diskuterar i detalj hur
+teorin kan tillämpas i praktiken. Olika tillvägagångssätt för
+modellering av extremvärden diskuteras och vägledning ges om hur
+modellerna kan anpassas till olika situationer i praktiken.
+Studenterna skall även lära sig om mer avancerade modeller för
+extremvärdesanalys, såsom extremvärden för icke-stationära
+processer.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+Känna till de grundläggande resultaten i den univariata
+extremvärdesteorin.
+Redogöra för de grundläggande statistiska metoderna för
+extremvärdesanalys.
+Förstå den matematiska teorin bakom metoderna och innebörden
+av de antaganden som man gör för att utveckla teorin och
+deras betydelse för tillämpning av teorin.
+Redogöra för skillnaderna mellan resultaten i det
+endimensionella och flerdimensionella fallet.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+identifiera situationer där extremvärdesteorin är
+användbar,
+känna till vilka datorprogram som finns tillgängliga för
+tillämpning av teorin och kunna använda några av dem som
+diskuteras i kursen,
+kunna skatta och prediktera extrema händelser i univariata
+fallet,
+kunna förklara de matematiska modellerna och statistiska
+metoderna för extremvärdesanalys,
+kunna förklara vilken typ av data som behövs för att kunna
+tillämpa teorin,
+bedöma om teorin kan användas i ett visst problem,
+kunna ge några exempel på tillämpningar av teorin,
+förklara steg för steg hur man tillämpar teorin,
+veta var man kan hitta mer information om de
+extremvärdesmodeller som har diskuterats ingående i kursen.
+
+
+Kursinnehåll
+Extremvärdesteori handlar om extrema händelser orsakade av
+slumpen. Man gör matematiska modeller för extremvärden och
+utvecklar statistiska metoder för dem. Extrema värden är av
+intresse för bl.a. ekonomi, säkerhets-
+och tillförlitlighetsteknik, försäkringsmatematik, hydrologi,
+meteorologi, miljövetenskap och oceanografi och grenar av
+statistiken som sekvensanalys och robust statistik. Teorin
+används t.ex. för dimensionering av vallar mot havet,
+konstruktion av oljeplattformar och beräkning av premier för
+återförsäkring av stormskador. Ofta kan extrema värden leda
+till mycket stora konsekvenser, både ekonomiskt och i förlust av
+liv och egendom. Samtidigt är erfarenheten av verkligt extrema
+händelser alltid mycket liten. Extremvärdesstatistiken tvingas
+därför till svåra och osäkra extrapolationer, men är ändå
+nödvändig för att utnyttja tillgänglig erfarenhet för att
+lösa viktiga problem.
+Kursen kommer att
+ 
+
+presentera de grundläggande statistiska metoderna för
+extremvärdesanalys,
+diskutera exempel på användningar, bl.a. gällande
+översvämningsrisker, stormskador, mänsklig livslängd
+och korrosionshastighet,
+ge övning i praktisk användning av metoderna samt
+peka ut öppna problem och tänkbara
+utvecklingsriktningar.
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen och obligatoriska laborationer.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Tentamen. 
+Antal högskolepoäng: 6. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen 
+Kod: 0217. Benämning: Laborationer. 
+Antal högskolepoäng: 1,5. Betygsskala: UG.  Prestationsbedömning: Datorlaborationer 
+Antagningsuppgifter
+Förkunskapskrav:
+FMSF20 Matematisk statistik, allmän kurs eller FMSF25 Matematisk statistik - kompletterande projekt eller FMSF45 Matematisk statistik, allmän kurs eller FMSF50 Matematisk statistik, allmän kurs eller FMSF55 Matematisk statistik, allmän kurs eller FMSF70 Matematisk statistik eller FMSF75 Matematisk statistik, allmän kurs
+
+
+Förutsatta förkunskaper: Sannolikhetsteori motsvarande FMSF05 hjälper.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: MASM15, FMS155
+Kurslitteratur
+
+Stuart Cole: An Introduction to Statistical Modeling of Extreme Values. Springer, 2001, ISBN: 978-1-85233-459-8.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Docent Nader Tajvidi, nader@maths.lth.se
+Studierektor: Johan Lindström, studierektor@matstat.lu.se
+Hemsida: http://www.maths.lth.se/matstat/kurser/fms155/
+Övrig information: Bytt kurskod från FMS155. Kursen ingår även på naturvetenskaplig fakultet med koden MASM15.
+
+
+

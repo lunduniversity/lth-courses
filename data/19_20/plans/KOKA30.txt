@@ -1,0 +1,182 @@
+
+Kursplan 2019/20 KOKA30
+
+
+
+
+
+Kursplan för
+Allmän, oorganisk och organisk kemi
+General, Inorganic and Organic Chemistry
+KOKA30, 12 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning B/K
+Beslutsdatum: 2019-03-29
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: N1
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Allmän och oorganisk kemi
+Att ge grundläggande förståelse för och kunskap om kemiska
+processer och förlopp. Grundläggande förståelse för oorganiska
+föreningars struktur och reaktivitet samt kunskap om det kemiska
+formelspråket och viktiga kemiska begrepp på såväl svenska som
+engelska.
+Organisk kemi
+Kursen syftar till att ge grundläggande kunskaper i organisk
+kemi. Kursens tonvikt ligger på delar av den grundläggande
+organiska kemin som har särskild relevans för utbildning i
+teknisk nanovetenskap.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+Allmän och oorganisk kemi
+
+visa  förmåga att teckna och praktiskt använda
+reaktionsformler för att beskriva kemiska förlopp
+visa förmåga att beskriva enkla oorganiska strukturer i det
+fasta tillståndet
+visa förmåga att kvalitativt beskriva inter- och
+intramolekylära krafter hos kemiska substanser
+visa förmåga att formulera och att lösa problem inom
+jämviktslära, elektrokemi och termodynamik
+
+Organisk kemi
+
+visa förmåga att identifiera och namnge de vanligaste
+organiska ämnesklasserna
+visa förmåga att redogöra för enkla kolvätens dynamik
+(konformationsanalys)
+visa förmåga att redogöra för kemisk bindining  och
+intermolekylära krafter i organiska system
+visa förmåga att redogöra för molekylär kiralitet och
+stereokemiska förhållanden
+visa kännedom om kolatomens hybridisering och enkla
+molekylorbitalsystem
+visa förmåga att beskriva konjugation och aromaticitet i
+organiska molekyler
+visa förmåga att beskriva grundläggande reaktioner i
+organisk kemi med pilformalism och frontorbitalanalys
+ha förmåga att redogöra för övergripande struktur och
+egenskaper hos viktiga biomolekyler
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+Allmän och oorganisk kemi
+
+ha förmåga att teckna och praktiskt använda reaktionsformler
+för att beskriva kemiska förlopp
+ha förmåga att beskriva enkla oorganiska strukturer i det
+fasta tillståndetha förmåga att kvalitativt beskriva inter- och
+intramolekylära krafter hos kemiska substanser
+ha förmåga att formulera och att lösa problem inom
+jämviktslära, elektrokemi och termodynamik
+
+Organisk kemi
+
+visa förmåga att ge systematiska namn på enkla organiska
+föreningar
+applicera konformationanalys för att förutse reaktiviteten
+hos enkla organiska föreningar
+visa förmåga att förutse och förklara selektivitet i
+grundläggande organiska reaktioner utifrån analys av reaktiva
+intermediat
+visa förmåga att tillämpa förståelse av
+elektronegativitet och kemisk binding för att förklara enkla
+organiska föreningars syra-basegenskaper
+
+ 
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+Allmän och oorganisk kemi
+
+Redovisa kemiska beräkningar med korrekta enheter och
+siffernoggrannhet på ett logiskt och relevant sätt.
+Ta upp, korrekt redovisa och utvärdera resultat från
+laborationsförsök.
+
+Organisk kemi
+
+På en grundläggande nivå värdera risker och möjligheter
+med användning av organisk föreningar i samhället
+På en grundläggande nivå kunna värdera risker vid kemiskt
+laboratoriearbete
+
+
+Kursinnehåll
+Allmän och oorganisk kemi
+Med anknytning till verklighetsnära tillämpningar inom bl a
+nanoteknik belyses och förklaras fundamentala kemiska
+processer.
+Kursen behandlar följande moment:
+
+Grundläggande kemiska begrepp
+Atomers uppbyggnad och det periodiska systemet
+Kemiska formler, reaktioner och stökiometri
+Aggregationstillstånd; gaser, vätskor och fasta faser,
+fasomvandlingar
+Lösningar
+Kemisk bindning
+Molekylgeometrier
+Intermolekylära krafter: dispersionskrafter, vätebindningar,
+dipol-dipol och jon-dipol
+Termodynamik: begreppen entalpi, entropi, inre energi och fri
+energi, enkla samband mellan dessa begrepp. Termodynamikens
+huvudsatser - standard bildnings och reaktionsentalpier
+Kemisk jämviktslära med enklare beräkningar
+Elektrokemi: redoxprocesser och elektrokemiska celler
+Kemisk kinetik: hastighetskonstanten och dess
+temperaturberoende, initialhastighetsmetoden,
+aktiveringsenergi
+
+Praktisk problemlösning inom ovanstående områden spelar en
+stor roll för att uppnå lärandemålen. Kurslitteraturen ger de
+studerande färdighet i naturvetenskaplig och kemisk vokabulär och
+fackterminologi på engelska.
+Organisk kemi
+Kursen omfattar organiska molekylers struktur, reaktivitet,
+egenskaper och användning på en grundläggande nivå. Begrepp som
+nomenklatur, kiralitet och molekylär isomeri behandlas. Tonvikt i
+kursen ligger på en grundläggande förståelse av kemisk
+reaktivitet och bindning. Reaktionstyper som behandlas inkluderar
+additions-, substitutions-, och eliminationsreaktioner, elektrofil
+aromatisk addition, enolatkemi, samt addition till, och
+substitution på, karbonylkol. Struktur och egenskaper hos viktiga
+biomolekyler som socker, proteiner och DNA/RNA behandlas
+översiktligt liksom enkla experimentella metoder och
+säkerhetsbedömningar vid laborativt arbete.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftliga tentamina, laborationer och rapporter ör obligatoriska moment. Slutbetyget baseras på en sammanvägning av resultatet på skriftliga tentamina.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0116. Benämning: Allmän och oorganisk kemi. 
+Antal högskolepoäng: 6. Betygsskala: TH.  Prestationsbedömning: Skriftligt prov. 
+Kod: 0216. Benämning: Laboration. 
+Antal högskolepoäng: 0. Betygsskala: UG.  Prestationsbedömning: Obligatorisk närvaro, godkänd skriftlig rapport. 
+Kod: 0316. Benämning: Organisk kemi. 
+Antal högskolepoäng: 6. Betygsskala: TH.  Prestationsbedömning: Skriftligt prov. 
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: TEK285, KOKA01, KOKA05
+Kurslitteratur
+
+Ellervik U., Sterner, O. och Kann, N.: Organisk kemi – tredje upplagan. Studentlitteratur, 2014, ISBN: 9789144099910.
+Atkins P., Jones, L and  Laverman, L.: Chemical Principles, The Quest for Insight, 7:th ed. Freeman, 2016, ISBN: 9781319154196.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Daniel Strand, daniel.strand@chem.lu.se
+Kursansvarig: Martin Ek Rosén, martin.ek_rosen@chem.lu.se
+Hemsida: http://www.kilu.lu.se/utbildning/kurser/koka30
+Övrig information: Kursansvarig i allmän och oorganisk kemi (KOKA30a): Martin Ek Rosén;
+Kursansvarig i organisk kemi (KOKA30b): Daniel Strand
+
+
+

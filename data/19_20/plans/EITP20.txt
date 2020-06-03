@@ -1,0 +1,145 @@
+
+Kursplan 2019/20 EITP20
+
+
+
+
+
+Kursplan för
+Konstruktion av säkra system
+Secure Systems Engineering
+EITP20, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning C/D
+Beslutsdatum: 2019-04-01
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Valfri för: C4-sec, D4-se, D4-ns, E4
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursen syftar till att ge studenten insikt i hur man konstruerar
+nya mjuk- och hårdvarusystem med hänsyn till säkerhetsbehov och
+risker gällande hackerattacker. Kursen ämnar ge förståelse för
+hela processen från krav till designval och analys av ett
+säkerhetskritiskt datorsystem.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+analysera datoranvändarfall utifrån säkerhetsperspektiv
+redogöra för olika metoder för hotanalys
+förstå hur säkerhetskrav på ett hård- och mjukvarusystem
+kan definieras och brytas ner
+förstå hur datorsäkerhetsarkitekturer kan beskrivas
+kunna redogöra för olika principer för konstruktion och
+beskrivning av säkerhetsprotokoll
+behärska ett antal olika metoder för analys av
+säkerhetsprotokoll
+förstå hur mjuk- och hårdvarukonstruktionsval påverkar
+möjligheten att hantera säkerhetsincidenter samt möjligheten att
+omkonstruera och uppgradera systemet vid sådana händelser
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+analysera säkerhetshot för ett givet datoranvändarfall
+utifrån ett användarfall och en hotanalys identifiera
+övergripande säkerhetskrav för en mjuk- och/eller
+hårdvarusystemdesign
+sätta samman en datorsäkerhetsarkitektur utifrån ett
+användarfall och säkerhetskrav
+designa ett protokoll efter en given säkerhetsarkitektur samt
+implementation av protokollet
+analysera ett säkerhetsprotokoll, både utifrån teoretiskt
+analys och med hjälp av analysverktyg
+utföra prestandamätning av en säkerhetsfunktion
+utföra penetrationstest av en säkerhetsfunktion
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+tillämpa sina kunskaper i ett projekt där vederbörande
+individuellt och i grupp ska kunna visa på att man inhämtat
+ytterligare kunskap och insikter för att slutföra projektet.
+Kvalitén i motiveringen för lösningar och reflektion över
+alternativ kommer att bedömas både i projektuppgift, hemuppgifter
+och vid sluttentamen.
+
+Kursinnehåll
+Inledning: Datorsystem blir allt mer komplexa och
+inbegriper allt fler funktioner för vardagen, samhället och våra
+infrastrukturer. Samtidigt innebär detta en ökad sårbarhet i
+fråga om känslighet för attacker. En viktig del i att minska
+denna sårbarhet är kunskap om och färdighet i ingenjörsmässiga
+metoder för att göra system mindre sårbara och robusta mot
+hackerattacker och cyberhot. Kursen fokuserar på olika
+nyckelmetoder för att konstruera säkra system och att kunna
+tillämpa metoderna på konkreta användarfall.
+
+Kursen är indelad i tre huvudblock:
+
+Säkerhetskonstruktionsmetoder och verktyg
+Säkerhets- och prestandautvärdering av system
+Projekt
+
+Säkerhetskonstruktionsmetoder och verktyg
+
+Behovsanalys utifrån datorsäkerhetsperspektiv
+Metoder för hotanalys
+Specificering av säkerhetskrav och kravnedbrytning för
+datorsystem
+Datorsäkerhetsarkitekturer och tillitsmodeller
+Design och specifikation av säkerhetsfunktioner
+Konstruktion av säkerhetsprotokoll
+
+Säkerhets- och prestandautvärdering av system
+
+Analys av säkerhetsarkitektur och tillitsmodeller
+Säkerhetsutvärdering av systemkomponenter
+Metoder och verktyg för protokollanalys
+Prestandautvärdering
+Penetrationstestning
+
+Projekt
+
+Vid kursstart överlämnas en projektförslagslista. Varje projekt
+syftar till att ta fram en säkerhetskonstruktion för ett givet
+önskat datorsystem. Varje projektgrupp bestående av 2-4 personer
+väljer ett av de listade projekten och genomför en fullständig
+säkerhetskonstruktion för det valda systemet inklusive en
+protokollimplementation. Varje projektgrupp genomför även en
+säkerhetsanalys av ett annat projekts systemkonstruktion.
+ 
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: För slutbetyg krävs godkänd projektuppgift (2hp). För godkänd kurs krävs även godkända hemuppgifter samt godkänd skriftlig tentamen. Slutbetyget avgörs genom en sammanvägning av resultatet på tentamen (3,5hp) och hemuppgifterna (2hp).  
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0119. Benämning: Projekt. 
+Antal högskolepoäng: 2. Betygsskala: UG.  Prestationsbedömning: Projektrapport plus presentation. 
+Kod: 0219. Benämning: Tentamen. 
+Antal högskolepoäng: 3,5. Betygsskala: TH.  Prestationsbedömning: Tentamen som ger betyget U, 3,4 eller 5. 
+Kod: 0319. Benämning: Hemtentamen. 
+Antal högskolepoäng: 2. Betygsskala: TH.  Prestationsbedömning: Två hemuppgifter som ges betyget U, 3, 4, eller 5  
+Antagningsuppgifter
+Förkunskapskrav:
+EITA25 Datasäkerhet
+
+
+Förutsatta förkunskaper: EITF05 Webbsäkerhet
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Powerpointbilder samt anteckningar kring huvudområden och artiklar.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Christian Gehrmann, christian.gehrmann@eit.lth.se
+Övrig information: Denna kurs syftar till att ge studenten färdigheter för att kunna konstruera och analysera dator- och kommunikationssystem ur ett säkerhetsperspektiv
+
+
+

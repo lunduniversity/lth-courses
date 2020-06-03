@@ -1,0 +1,119 @@
+
+Kursplan 2019/20 AEBF20
+
+
+
+
+
+Kursplan för
+Byggnadsintegrerade solenergisystem
+Building Integrated Solar Energy Systems
+AEBF20, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning V
+Beslutsdatum: 2019-04-01
+Allmänna uppgifter
+Huvudområde: Energi- och miljöeffektiva byggnader. 
+Obligatorisk för: MEMB2
+Valfri för: A4
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Syftet med kursen är att visa hur aktiva solenergisystem kan
+integreras i och samverka med det övriga energisystemet i
+byggnader. Kursen ger en översikt över både solel (solceller)
+och solvärmesystem. Kursen kommer att ge förståelse för hur
+såväl solfångare som solceller kan integreras i byggnader för
+produktion av värme och el. En viktig del av kursen är att lära
+ut hur man använder simuleringsprogram för att undersöka
+prestanda och optimering av solenergisystem. Verktyg kommer läras
+ut för att studenterna ska kunna utföra en förstudie för
+installation av en solvärmeanläggning i en byggnad.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+Visa förståelse för grundläggande begrepp såsom direkt och
+diffus solinstrålning, solfångare och absorbator, monokristallina
+solceller, växelriktare osv;
+Förstå grundläggande konstruktion för solvärme och
+elektriska system installerade i byggnader samt grundläggande
+egenskaperna hos de viktigaste delarna för ett solenergisystem.
+Detta kan t.ex. vara solfångare, solceller, lagringstankar
+etc;
+Visa djup förståelse för potentiella besparingar för en
+solvärme/solelanläggning;
+Förstå viktiga arkitektoniska aspekter för system i
+byggnader;
+Förstå hur en solfångare kan testas för att ge viktiga
+parametrar för solfångaren.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+Visa förmåga att verbalt och grafiskt kommunicera ett
+arkitektoniskt solenergikoncept med korrekt vokabulär. Detta kan
+vara design av solenergisystem, de viktigaste komponenterna samt
+anslutning till det befintliga energisystemet i byggnaden;
+Visa förmåga att utföra grundläggande handberäkningar och
+använda enkla simuleringsverktyg för både solvärme och
+solcellssystem samt att uppskatta potentiell solenergi på
+byggnadsfasader och tak för solenergisystem;
+Visa förmåga att utföra en enkel förstudie av ett
+solenergisystem en byggnad;
+Kunna göra en principiell design för en solvärmeanläggning
+och ett solcellssystem.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+Visa förmåga att diskutera de potentiella energibesparingarna
+för ett solenergisystem i en byggnad samt diskutera viktiga
+arkitektoniska aspekter för systemet som kan påverka
+designbeslut;
+Kunna diskutera skillnaden, för- och nackdelar med olika
+tekniker som t.ex. plana kontra vakuumrörssolfångare;
+
+
+Kursinnehåll
+Kursen kommer att fokusera på grundläggande kunskaper om
+solenergi. Här ingår såväl solvärmeteknik som solcellsteknik.
+Enkla handberäkningar för att kunna uppskatta
+solinstrålningsmängder på fasader och tak kommer att läras ut.
+Beräkningsverktyg tillhandahålls för att med simuleringar som
+bas kunna utforma och optimera solvärme- och solcellssystem.
+Viktiga arkitektoniska aspekter som kan påverka designbeslut
+kommer att diskuteras.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Slutbetyg baseras till 70% på resultat från den muntliga examinationen och till 30% på utförande relaterat till övningar och föreläsningar.
+
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0118. Benämning: Skriftlig rapport. 
+Antal högskolepoäng: 3. Betygsskala: UG.  Prestationsbedömning: Examination baserad på skriftlig rapport enligt givna specifikationer.  Delmomentet omfattar: Övningsuppgift i 3 delar:
+1) Prestandamätning av solfångare och solceller.
+2) Systemsimulering av en solvärmeinstallation.
+3) Systemsimulering av en solcellsinstallation.  
+Kod: 0218. Benämning: Muntlig tentamen. 
+Antal högskolepoäng: 4,5. Betygsskala: TH.  Prestationsbedömning: Examination baserad på den muntliga tentamen.  Delmomentet omfattar: Muntlig examination av hela kursen. 
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Till kursen finns tillgång till ett elektroniskt kursbibliotek via kurshemsidan.
+Klaudia Farkas, Francesco Frontini, Laura Maturi, Maria Cristina Munari Probst, Christian Roecker, Alessandra Scognamiglio, Isa Zanetti: Solar Energy Systems in Architecture, Integration Criteria and guidelines. IEA SHC Task 41, 2012. Rapporten kan laddas ner på http://task41.iea-shc.org/publications.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Henrik Davidsson, henrik.davidsson@ebd.lth.se
+Lärare: Ricardo Bernardo, ricardo.bernardo@ebd.lth.se
+Lärare: Jouri Kanters, jouri.kanters@ebd.lth.se
+Hemsida: http://www.ebd.lth.se/master
+
+
+

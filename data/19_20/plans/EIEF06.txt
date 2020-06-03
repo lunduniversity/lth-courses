@@ -1,0 +1,101 @@
+
+Kursplan 2019/20 EIEF06
+
+
+
+
+
+Kursplan för
+Automationsteknik
+Automation
+EIEF06, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning E
+Beslutsdatum: 2019-03-25
+Allmänna uppgifter
+Obligatorisk för: IEA2
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursens syfte är att ge högskoleingenjören grundläggande
+kunskaper inom automation.
+Kursen ger en översikt över olika typer av givare, ställdon,
+kommunikationssystem och
+operatörsgränssnitt som förekommer inom industrin. I kursen
+ingår också design av
+styrskåp samt säkerhet, direktiv och standarder inom
+elektroteknik och automation.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna redogöra för de vanligaste typerna av givare och
+ställdon som förekommer
+i industrin samt förklara deras funktionssätt
+kunna redogöra för de vanligaste typerna av
+kommunikationssystem
+som används inom industrin
+kunna förklara strukturen och funktionen hos ett enkelt
+automationssystem
+och hur de olika delarna av systemet samverkar
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna bygga upp ett enklare styrsystem med givare och
+ställdon
+kunna konfigurera och utnyttja olika moduler i styrsystem
+kunna upprätta och konfigurera kommunikation mellan olika
+komponenter i ett styrsystem
+kunna utföra dimensioneringar och anpassningar av
+kraftförsörjningen
+och säkerheten vid konstruktion av elskåp (styrskåp)
+
+
+Kursinnehåll
+
+Givare för mätning av temperatur, nivå, tryck, flöde,
+position
+Exempel på olika typer av ställdon: DC-servon, pneumatiska
+cylindrar, ventiler,
+frekvensomriktare, stegmotorer
+Kommunikationssystem inom automation: AS-i, CANbus, Modbus,
+PROFIbus, PROFInet,
+Ethernet
+Användning av PLC, DCS, HMI och SCADA
+Säkerhet och direktiv, nödstopp, LVD, EMC
+Design av styrskåp
+Standarder inom industrin
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Godkända laborationer och inlämningsuppgifter.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0118. Benämning: Skriftlig tentamen. 
+Antal högskolepoäng: 4. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen. 
+Kod: 0218. Benämning: Laborationer. 
+Antal högskolepoäng: 3,5. Betygsskala: UG.  Prestationsbedömning: För godkänt betyg krävs fullgjorda laborationer. 
+Antagningsuppgifter
+Förkunskapskrav:
+Del 0117 Algebra i kursen FMAA50 Matematisk analys
+
+
+Förutsatta förkunskaper: FMAA50 Matematisk analys och EITA40 Krets- och mätteknik
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: EIEF05
+Kurslitteratur
+
+Jacob Fraden: Handbook of Modern Sensors , Physics, Designs and Applications. Springer, 2016, ISBN: 9783319193038.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Mats Lilja, Mats.Lilja@hbg.lth.se
+Hemsida: http://rauni.iea.lth.se:8074/eief06/automation.htm
+Övrig information: Vissa av de obligatoriska momenten ingår i Ing-dagar.
+
+
+

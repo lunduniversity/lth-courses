@@ -1,0 +1,90 @@
+
+Kursplan 2019/20 EDAP01
+
+
+
+
+
+Kursplan för
+Artificiell intelligens
+Artificial Intelligence
+EDAP01, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning C/D
+Beslutsdatum: 2019-04-01
+Allmänna uppgifter
+Valfri för: BME4, C4-pv, D4-pv, D4-mai, E4-bg, F4, F4-mai, Pi4-bam
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Att ge en introduktion till flera delområden inom artificiell
+intelligens och att orientera om grundläggande metoder inom dessa
+områden. Att förmedla bredd och djup inom ämnet. At orientera om
+etiska konsekvenserna av AI-baserad teknologi.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+visa grundläggande kunskaper om teori och metoder relaterade
+till följande delområden: intelligenta agenter, heuristisk
+sökning, spelprogrammering, kunskapsrepresentation,
+kunskapsbaserade system, probabilistisk resonemang,
+maskininlärning, behandling av naturligt språk.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+utföra ett antal inlämningsuppgifter av
+problemlösningskaraktär relaterade till några av följande
+delområden: heuristisk sökning, kunskapsbaserade system,
+probabilistisk resonemang, maskininlärning, behandling av
+naturligt språk.
+visa förmåga att med helhetssyn kritiskt, självständigt och
+kreativt identifiera, formulera och hantera problem krävande
+algoritmer tillhörande AI.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+visa förmåga att identifiera sitt behov av ytterligare
+kunskap och att fortlöpande utveckla sin kompetens.
+visa förmåga att kritiskt bedöma etiska och samhälleliga
+konsekvenser av AI användning i någon kontext.
+
+
+Kursinnehåll
+Intelligenta agenter. Heuristisk sökning. Spelprogrammering.
+Kunskapsbaserade system. Maskininlärning. Behandling av naturligt
+språk. Semantisk webb. Autonoma robotar. Planering. Etik av
+AI.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: För godkänt betyg på kursen krävs att de obligatoriska inlämningsuppgifterna har godkänts. För högre betyg krävs dessutom en skriftlig tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+EDAA01 Programmeringsteknik - fördjupningskurs eller EDAA30 Programmering i Java - fortsättningskurs
+
+
+Förutsatta förkunskaper: FMAA01, FMA420 och FMA430.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: EDA132, EDAF70
+Kurslitteratur
+
+Stuart Russell, Peter Norvig: Artificial Intelligence , A Modern Approach. Pearson, 2010, ISBN: 9781292153964. 3e utgava.
+David L. Poole, Alan K. Mackworth: Artificial Intelligence, Foundations of Computational Agents. Cambridge University Press, 2017, ISBN: 9781107195394. 2a utgava, rekommenderat alternativ textbok.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Professor Jacek Malec, Jacek.Malec@cs.lth.se
+Lärare: Professor Pierre Nugues, Pierre.Nugues@cs.lth.se
+Lärare: Elin Anna Topp, Elin_Anna.Topp@cs.lth.se
+Hemsida: http://cs.lth.se/
+Övrig information: Detaljerade föreskrifter för fullgörande av inlämningsuppgifterna kommer att finnas på kurswebben.
+
+
+

@@ -1,0 +1,109 @@
+
+Kursplan 2019/20 EITA40
+
+
+
+
+
+Kursplan för
+Krets- och mätteknik
+Circuits and Measurements
+EITA40, 7,5 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning E
+Beslutsdatum: 2019-03-25
+Allmänna uppgifter
+Obligatorisk för: IDA1, IEA1
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursens syfte är att ge kunskap om grundläggande elektriska
+komponenter och samband i elektrisk kretsteori. Kunskaperna knyts
+till lösning av teoretiska problem och laborativa inslag med stark
+anknytning till verkligheten.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna förklara och använda de grundläggande elektriska
+begreppen ström, spänning, resistans, reaktans, impedans och
+effekt
+kunna relatera växelströmmar och växelspänningar via
+visardiagram till det komplexa talplanet
+kunna redovisa en planerad och utförd mätning i en elektrisk
+krets i form av en laborationsrapport.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna beräkna strömmar, spänningar, resistanser, reaktanser,
+impedanser och effekter i en given elektrisk krets genom att
+använda de teoretiska modeller som ingår i kursen
+kunna planera och genomföra mätningar av elektriska storheter
+i en elektrisk krets
+kunna analysera och förklara funktion och egenskaper hos en
+given elektrisk krets
+kunna förklara resistorns, kondensatorns, induktorns, den
+ideala operationsförstärkarens och den ideala transformatorns
+funktion i en elektrisk likströms- och växelströmskrets.
+
+
+Kursinnehåll
+Begrepp
+
+Ström, spänning, resistans, admittans och effekt
+Impedans, reaktans, aktiv- reaktiv och skenbar effekt
+Lik- och växelkällor
+Sinusformade strömmar och spänningar, visardiagram
+Överföringsfunktion, Bode-diagram
+
+Kretsanalys
+
+Beräkningar med Ohms lag och Kirchhoffs lagar
+Ström- och spännings-tvåpoler, tvåpolssatsen
+Nodanlys och superposition
+Komplexa metoden
+Upp- och urladdning av kondensatorn och spolen
+
+Komponenter
+
+Resistorn, kondensatorn, spolen, ideala
+operationsförstärkaren, ideala transformatorn
+
+Mätteknik
+
+Volt- och amperemetern, oscilloskopet, funktionsgeneratorn
+Instruments påverkan vid mätning
+
+Tillämpningar
+
+Förstärkarkopplingar med operationsförstärkare
+Passiva filter
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen ger betyg 3, 4 eller 5. Bonuspoäng till nästföljande ordinarie tentamen kan erhållas genom godkänd dugga. Godkända laborationer  och laborationsrapporter är ett krav för godkänt i kursen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Tentamen. 
+Antal högskolepoäng: 5,5. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen.  Övrig information: Skriftlig tentamen. Resultatet på denna tentamen avgör slutbetyg på kursen. 
+Kod: 0217. Benämning: Laborationer. 
+Antal högskolepoäng: 2. Betygsskala: UG.  Prestationsbedömning: Godkända laborationsuppgifter samt godkända laborationsredovisningar. 
+Antagningsuppgifter
+Förutsatta förkunskaper: FMA645/FMAA50 Matematisk analys: Del Algebra och Analys 1
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: ETE602, ETE603, ETE604
+Kurslitteratur
+
+Karlström, B.: Kretsanalys. Studentlitteratur, ISBN: 9789144125725.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Andreas Johansson, andreas.johansson@eit.lth.se
+Hemsida: http://www.eit.lth.se/kurs/eita40
+
+
+

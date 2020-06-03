@@ -1,0 +1,111 @@
+
+Kursplan 2019/20 KFKN10
+
+
+
+
+
+Kursplan för
+Biofysikalisk kemi
+Biophysical Chemistry
+KFKN10, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning B/K
+Beslutsdatum: 2019-03-29
+Allmänna uppgifter
+Huvudområde: Bioteknik. 
+Valfri för: B4-l, B4-mb, K4-l, N4
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Kursen syftar till att ge studenten:
+
+en molekylär förståelse av proteiners struktur, stabilitet,
+växelverkan och dynamik
+kunskaper om de viktigaste fysikaliska metoderna som används
+inom modern proteinvetenskap
+praktisk erfarenhet av några av dessa metoder
+den kunskapsbas som behövs för att ta del av och kritiskt
+bedöma forskningslitteraturen inom proteinvetenskap
+
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+beskriva proteiners viktigaste fysikalisk-kemiska egenskaper,
+såsom struktur, stabilitet, växelverkan och dynamik
+förklara dessa egenskaper med hjälp av teoretiska modeller
+på molekylär nivå
+tolka experimentella resultat från fysikalisk-kemiska
+undersökningar av proteiner
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+använda fysikalisk-kemiska begrepp och modeller för lösa
+problem som rör proteiner
+tillämpa sina teoretiska kunskaper på biotekniska och
+biomedicinska problemställningar
+utnyttja elektroniska proteindatabaser
+utföra spektroskopiska mätningar på proteiner
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+ta del av och kritiskt bedöma den vetenskapliga litteraturen
+inom proteinvetenskap
+kommunicera effektivt med forskare inom proteinvetenskap
+
+
+Kursinnehåll
+Kursen behandlar följande huvudmoment:
+Proteiners kemiska uppbyggnad och tredimensionella strukturer:
+Strukturbestämning med röntgenkristallografi; Struktur- och
+sekvensdatabaser; Bioinformatik.
+Karaktärisering av proteiner med optisk spektroskopi:
+Fysikaliska principer för och tillämpningar av fluorescens och
+cirkulärdikroism spektroskopi.
+Polypeptiders konformation: Modeller för polymerkonformation
+och konformationsomvandlingar; Konformationsentropi;
+Veckningskooperativitet.
+Proteiners energetik och stabilitet: Packning; Hydratisering;
+Elektrostatik; Termisk och lösningsmedelsinducered denaturering;
+Differentiell scanning kalorimetri.
+Proteindynamik: Kinetiska modeller; Protonutbyte;
+Diffusionskontroll; Proteinveckning; Datorsimulering av
+proteiner.
+Kärnmagnetisk resonans: Principer för NMR spektroskopi och
+relaxation; Bestämning av struktur, växelverkan och dynamik för
+proteiner i lösning.
+Associationsprocesser: Ligandbindning; Allosteri;
+Proteinaggregering; Isoterm titrerkalorimetri;
+Ytplasmonresonans.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Slutbetyget baseras på inlämningsuppgifter (50%) och halvtidsskrivning (50%). Godkända laborationer och muntlig presentation krävs för godkänt betyg. Omexamination (avseende halvtidsskrivningen) sker vid behov genom skriftlig eller muntlig tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+FAFA05 Fysik - Våglära, termodynamik och atomfysik eller KFKA05 Molekylära drivkrafter 1: Termodynamik
+KOKA30 Allmän, oorganisk och organisk kemi eller KOOA15 Allmän kemi
+
+
+Förutsatta förkunskaper: KFKF01 Molekylära drivkrafter 2: Växelverkan och dynamik
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: KFK032
+Kurslitteratur
+
+Kurslitteraturen utgörs av kompendiet "Biophysical Chemistry", författat och årligen uppdaterat av lärarna på kursen, samt av laborationshandledningar. För den som vill gå djupare finns i kompendiet ett urval referenser och länkar till litteraturen.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Kristofer Modig, kristofer.modig@bpc.lu.se
+Hemsida: http://www.cmps.lu.se/bpc/education/
+Övrig information: Kursen lägger stor vikt vid aktivt bearbetande av kunskapsmaterialet genom självständig problemlösning (inlämningsuppgifter) och laborationsövningar. Fem lektioner ägnas åt forskning inom proteinvetenskap, där studenterna presenterar och kritiskt diskuterar aktuella forskningsresultat.
+
+
+

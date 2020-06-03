@@ -1,0 +1,82 @@
+
+Kursplan 2019/20 FKMN10
+
+
+
+
+
+Kursplan för
+Högtemperaturmaterial
+High Temperature Materials
+FKMN10, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning M
+Beslutsdatum: 2019-03-27
+Allmänna uppgifter
+Valfri för: M4, N4, MPRR1
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Fördjupning av kunskaperna om högtemperaturmaterial och deras
+beteende under olika förhållanden.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+känna till viktiga högtemperaturfenomen, deras mekanismer och
+associerade problem och svårigheter i materialanvändning.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+visa förmåga att kunna planera och utföra experiment för
+att studera materialens mekaniska beteenden och
+reaktionsbenägenhet vid förhöjda temperaturer
+visa förmåga att kunna utveckla
+konstruktionsmaterial med önskvärda egenskaper vid höga
+temperaturer
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+visa förmåga att kunna analysera materialbeteendet vid höga
+temperaturer.
+visa förmåga att kunna ta fram nödvändiga data för
+användning av material vid höga temperaturer.
+visa förmåga att kunna utföra projektarbete i en grupp.
+
+
+Kursinnehåll
+Kursen tar upp material för högtemperaturtillämpningar och de
+fenomen och problem som uppkommer vid användning av materialen.
+Materialbeteende vid hög temperatur: Plasticitet, utmattning,
+kryp, oxidation och korrosion. Metaller och intermetaller, rostfria
+stål-, nickel- och koboltbaserade superlegeringar, keramer och
+kermet för högtemperaturtillämpningar. Legeringsteori,
+värmebehandling och härdningsmekanismer. Termiska barriärskikt
+och ytbeläggningar.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen, obligatoriska laborationer, inlämningsuppgift, projektrapport.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: Konstruktionsmaterial, allmän kurs och/eller avancerad materialteknologi och linjär algebra, endimensionell analys, termodynamik och strömningslära samt kurs i fysik.
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Meetham, G. W. & M. H. Van de Voorde: Materials for High Temperature Engineering Applications. Springer-Verlag(2000). ISBN 3-540-66861-6.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Professor Dmytro Orlov, dmytro.orlov@material.lth.se
+Kursansvarig: Professor Srinivasan Iyengar, Srinivasan.Iyengar@material.lth.se
+Kursadministratör: Rose-Marie Hermansson, rose-marie.hermansson@mel.lth.se
+Hemsida: http://www.material.lth.se
+Övrig information: Kursen ges vartannat läsår (2020, 2022 ...) under vårterminen (läsperiod 4).
+
+
+

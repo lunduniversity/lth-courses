@@ -1,0 +1,120 @@
+
+Kursplan 2019/20 KETF40
+
+
+
+
+
+Kursplan för
+Masstransport i naturliga och tekniska system
+Mass Transfer Processes in Environmental Engineering
+KETF40, 15 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning B/K
+Beslutsdatum: 2019-03-29
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: W3
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursen syftar till att studenten skall få en djup och
+internaliserad förståelse av hur materialflöden kan
+karaktäriseras, systematiseras och kvantifieras, samt färdigheter
+i att utföra massbalansberäkningar i en mängd situationer och
+system. Kursen syftar även till att sammanfoga kunskaper och
+färdigheter från tidigare kurser i utbildningen till en
+fördjupning av studentens tekniska problemlösningsförmåga.
+Gruppuppgifter och seminarier syftar till att utveckla studentens
+kommunikativa förmåga och samarbetsförmåga på ett
+professionellt plan. Studiebesöken skall illustrera hur kursens
+teoretiska innehåll används av civilingenjörer i yrkeslivet och
+därigenom inspirera studenten och ge underlag inför kommande val
+av specialisering.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+självständigt kunna räkna, såväl för hand som med hjälp
+av matematisk programvara, på hur ett ämnes grundläggande
+fysikaliska egenskaper påverkar transport av massa och energi i
+makroskala i system med enkel geometri,
+kunna analysera, modellera för samt utföra
+processberäkningar för system bestående av flera enheter
+utifrån en vald lösningsstrategi,
+kunna analysera, modellera, jämföra samt utföra
+reaktorberäkningar med ideala och icke-ideala reaktormodeller och
+olika reaktionskinetiska modeller, med handberäkningar och med
+numeriska simuleringsverktyg,
+kunna lösa materialbalansproblem för enklare
+tvåkomponentsystem med fasjämvikt, och
+kunna definiera och lösa energibalansproblem för enklare
+system utan reaktion.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+muntligt, skriftligt och visuellt på engelska demonstrera
+förmåga att klart redogöra för och diskutera sina slutsatser
+avseende materialbalans-, masstransport- och värmetransportproblem
+i naturliga och tekniska system,
+visa förmåga att kritiskt utvärdera tillämpbarhet för och
+begränsningar i modellbeskrivningar inom kursens ram, och
+visa förmåga till lagarbete inom studentgruppen.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+visa förmåga att reflektera över sitt lärande inom
+utbildningen och identifiera behov av ytterligare kunskaper och
+förmågor.
+
+
+Kursinnehåll
+Metoder för att använda processberäkningar och
+reaktorberäkningar för analys och kvantifiering av
+materialflöden i tekniska och naturliga system. Samspelet mellan
+makroskopisk transport och kemisk reaktion, blandningsmodeller och
+karakterisering av icke-ideala system. Tillämpningar på transport
+i biofilmer och grundvattensystem.
+Grunderna för molekylär och konvektiv masstransport. Modeller
+för fasjämvikter samt principer för val av och design för ett
+antal separationsprocesser. Design av nödvändig utrustning för
+värmeöverföring samt exempel på hur separationsprocesser
+appliceras i olika miljötekniska sammanhang.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen, frivillig dugga, inlämningsuppgifter, laborationer, studiebesök samt aktivt deltagande i obligatoriska seminarier. Slutbetyg baseras på skriftlig tentamen, och tilläggspoäng kan erhållas på obligatoriska inlämningsuppgifter. Bestämda miniminivåer på tilläggspoäng fordras för betygen 4 och 5. De exakta poängnivåerna meddelas inför varje kursomgång. All examination, med undantag från vissa seminarier och studiebesök, sker på engelska. Redovisningsformerna för inlämningsuppgifter kan variera mellan läsåren meddelas inför varje uppgift.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Tentamen. 
+Antal högskolepoäng: 7. Betygsskala: UG.  Prestationsbedömning: Skriftlig tentamen och en frivillig dugga.  Delmomentet omfattar: Processberäkningar, reaktorberäkningar, grundläggande masstransport och separationsprocesser. 
+Kod: 0217. Benämning: Inlämningsuppgift (Lp 2). 
+Antal högskolepoäng: 2. Betygsskala: UG.  Prestationsbedömning: Aktivt deltagande i laborationer, laborationsredovisningar, inlämningsuppgifter samt seminarier.  Delmomentet omfattar: Processberäkningar, reaktorberäkningar, grundläggande masstransport och separationsprocesser. 
+Kod: 0317. Benämning: Inlämningsuppgifter (Lp3). 
+Antal högskolepoäng: 5. Betygsskala: UG.  Prestationsbedömning: Inlämningsuppgifter samt seminarier.  Delmomentet omfattar: Tillämpningar av grundläggande teori på industriella anläggningar och på transport och omsättning av ämnen i miljön. 
+Kod: 0417. Benämning: Studiebesök. 
+Antal högskolepoäng: 1. Betygsskala: UG.  Prestationsbedömning: Studiebesök. 
+Antagningsuppgifter
+Förutsatta förkunskaper: FMAA05, FMAA20, FMAB30, VVRF10, KFKA01.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: KTE170
+Kurslitteratur
+
+Warfvinge, P: Process Calculations and Reactor Calculations for Environmental Engineering. 2018. Uppdateras årligen.
+Alveteg, M: Introduction to separation processes and transport phenomena, Selected chapters from Introduction to separation processes and transport phenomena. MediaTryck, 2019. Uppdateras årligen, versionshistoria finns.
+M Alveteg (editor): Handbook, Physical Properties, Correlations and Equations in Chemical Engineering. MediaTryck, 2018. Uppdateras årligen av Institutionen för kemiteknik, versionshistoria finns.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Prof. Per Warfvinge, per.warfvinge@chemeng.lth.se
+Kursansvarig: Universitetslektor Mattias Alveteg, mattias.alveteg@chemeng.lth.se
+Hemsida: https://www.lth.se/chemeng/ketf40
+Övrig information: Under läsperiod 3 ingår obligatoriska kursmoment, exempelvis studiebesök och seminarier, under samtliga veckor.
+
+
+

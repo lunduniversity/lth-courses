@@ -1,0 +1,117 @@
+
+Kursplan 2019/20 EITA35
+
+
+
+
+
+Kursplan för
+Elektronik
+Electronics
+EITA35, 15 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning E
+Beslutsdatum: 2019-03-25
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: E1
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursen skall ge baskunskaper för fortsatta studier i
+elektroteknikämnet. Teknologen skall få en helhetssyn av och
+kunna visa prov på kunskaper om elektriska system, dvs.
+funktionsblockens uppbyggnad av scheman, komponenter, källor och
+belastningar. Teknologen skall också ha tillägnat sig kunskaper
+och färdigheter i kretsteori samt grunderna om hur signaler
+behandlas i tid- och frekvensplanet.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna redogöra för grundbegrepp inom kretsteorin och deras
+inbördes förhållanden samt kunna grunderna om hur signaler
+behandlas i tid- och frekvensplan och tydligt kunna demonstrera
+detta genom mätning på och analys av en enkel koppling.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna beräkna spänningar, strömmar och effekter i ett givet
+nät med källor, resistorer och reaktiva komponenter.
+för en given uppsättning in- och utsignaler kunna välja och
+dimensionera en förstärkarkoppling med
+operationsförstärkare
+uppvisa praktisk laborativ vana och förmåga till metodisk
+felsökning
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+ha förmåga att skriva en teknisk rapport av god kvalitet
+ 
+
+
+med lätthet kunna tillgodogöra sig innehållet i fackpress
+inom elektronikområdet.
+
+
+
+Kursinnehåll
+
+Moment som behandlas i kursen är: Analoga och samplade
+signaler. Signalers tids- och frekvensegenskaper. Insignal -
+utsignalsamband. Överföringsfunktion.
+Analys av elektriska kretsar: Ström, spänning, strömkällor,
+spänningskällor, resistorer Kirchhoffs lagar. Nodekvationer,
+nodanalys. Tvåpolsekvivalenter, kondensatorer, induktorer,
+olinjära komponenter, impedans, admittans. växelströmslära.
+Kretsars tid- och frekvensegenskaper. Återkoppling.
+Mätteknik: Funktionsgeneratorn, oscilloskopet och
+multimetern.
+Tillämpningar: Signal- och effektanpassning. Förstärkare,
+analog-digitalomvandling, enkel strömförsörjning. Enkla analoga
+filter och Bodediagram.
+Det ingår populärvetenskapliga föreläsningar med inbjudna
+föreläsare som visar elektronikens användning i samhället.
+Några laborationer redovisas i en rapport där förståelse
+och övergripande analys är framträdande moment. En av
+laborationerna presenteras muntligt. Projektrapporten granskas
+språkligt och tekniskt.
+Studenten skall också skriva en kortfattad reflektion över
+sin utbildning.
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examinationen består av godkända laborationer, labrapporter, projektarbete samt två tentamina, del 1 och del 2. Två omtentamina per år finns för de ovan beskrivna del 1 och del 2. Föreläsningsserien och laborationerna ges endast en gång per år. Betyget viktas som det trunkerade medelvärdet av resultatet på del 1 och del 2.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0118. Benämning: Deltentamen 1. 
+Antal högskolepoäng: 3. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen.  Delmomentet omfattar: Kretsteori, grunder och växelströmslära. 
+Kod: 0218. Benämning: Deltentamen 2. 
+Antal högskolepoäng: 4,5. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen.  Delmomentet omfattar: Hela kursen, men framför allt system uppbyggda kring operationsförstärkaren samt digitala komponenter. 
+Kod: 0318. Benämning: Projekt. 
+Antal högskolepoäng: 3. Betygsskala: UG.  Prestationsbedömning: Skriftlig rapport.  Delmomentet omfattar: Övergripande kunskaper och helhetssyn på elektriska system samt projektarbete med rapportskrivning.  Övrig information: Projektet ges endast en gång per år.
+Kod: 0418. Benämning: Laborationer. 
+Antal högskolepoäng: 4,5. Betygsskala: UG.  Prestationsbedömning: Godkända laborationer och laborationsrapporter.  Delmomentet omfattar: Laborationer. 
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: ETE022, ETE115, ETI195, ETI196, ETIA01, ESS010
+Kurslitteratur
+
+Hambley, A: Electrical Engineering, Principles and Applications. Pearson , 2018, ISBN: 9781292223124. 7:e upplagan.
+Elektro och informationsteknik: Kretsteori, Exempelsamling. 2019.
+Karlsson och Larsson: Elektronik Laborationer. 2019.
+Labkit, Elektro och informationsteori, Elektrisk mätteknik.(gratis för kursdeltagare).
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Docent Erik Lind, erik.lind@eit.lth.se
+Hemsida: http://www.eit.lth.se/kurs/eita35
+
+
+

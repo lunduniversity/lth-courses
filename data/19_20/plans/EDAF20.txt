@@ -1,0 +1,89 @@
+
+Kursplan 2019/20 EDAF20
+
+
+
+
+
+Kursplan för
+Databasteknik
+Database Technology
+EDAF20, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning C/D
+Beslutsdatum: 2019-04-01
+Allmänna uppgifter
+Obligatorisk för: IDA2, IEA2
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursen ger grundläggande teoretiska och praktiska kunskaper om
+databassystem och deras organisation. Tonvikten läggs på
+relationsdatabaser.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna beskriva informationssystem med ER-modeller och
+UML-notation och översätta sådana modeller till
+relationsform
+kunna normalisera databasscheman
+kunna använda frågespråket SQL för att skapa och uppdatera
+en databas och för att hämta information ur databasen
+vara orienterad om alternativa sätt att organisera data i
+databaser och om databashanterarnas interna organisation.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna använda verktyg för att implementera en databas
+kunna utveckla programmeringsgränssnitt till en databas.
+
+
+Kursinnehåll
+
+Introduktion till databassystem. Grunderna i relationsmodellen,
+frågespråket SQL. Metoder för datamodellering och databasdesign,
+ER- och UML-diagram. Teori för relationsmodellen: funktionella
+beroenden, normalisering, relationsalgebra. Lagrade procedurer,
+triggrar. Programmeringsgränssnitt till databaser
+Orientering om andra datamodeller, exempelvis NoSQL-databaser
+och semistrukturerade data (JSON, XML)
+Säkerhet och integritet i databaser, samtidighet,
+transaktioner. Något om implementation av databashanterare och
+implementation av frågespråk.
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: För slutbetyg på kursen krävs godkänd tentamen samt godkända datorlaborationer och projekt. Slutbetyg på kursen baseras på resultatet av den skriftliga tentamen, som äger rum efter kursens första läsperiod.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0112. Benämning: Datorlaborationer och projekt. 
+Antal högskolepoäng: 3. Betygsskala: UG.  Prestationsbedömning: För godkänt betyg krävs godkända laborationer och godkänt projekt.  Delmomentet omfattar: Obligatoriska laborationer och ett obligatoriskt projekt. 
+Kod: 0212. Benämning: Tentamen. 
+Antal högskolepoäng: 4,5. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen. Resultatet på denna tentamen avgör slutbetyg på kursen.  Övrig information: Ordinarie tentamen äger rum efter kursens första läsperiod.
+Antagningsuppgifter
+Förkunskapskrav:
+EDAA10 Programmering i Java
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: EDA215, EDA216, EDA636, EDAF75
+Kurslitteratur
+
+Databasteknik: Databasteknik, Thomas Padron-McCarthy, Tore Risch. Studentlitteratur, 2018, ISBN: 9789144069197. Även första upplagan av boken kan användas.
+Eller.
+Garcia-Molina, H & Ullman, J D & Widom, J: Database systems, The Complete Book, Second Edition (International Edition). Prentice Hall, 2009, ISBN: 0-13-135428-0. Även första upplagan av boken kan användas.
+
+
+Kontaktinfo och övrigt
+Studierektor: Studierektor, studierektor@cs.lth.se
+Kursansvarig: Niklas Fors, niklas.fors@cs.lth.se
+Hemsida: http://cs.lth.se/edaf20
+Övrig information: Vissa moment i kursen kan komma att ges på engelska. Kursen ges i Helsingborg.
+
+
+

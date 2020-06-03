@@ -1,0 +1,106 @@
+
+Kursplan 2019/20 EXTQ25
+
+
+
+
+
+Kursplan för
+Finansiell ekonomi, avancerad kurs
+Financial Economics, Advanced Course
+EXTQ25, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning I
+Beslutsdatum: 2019-04-01
+Allmänna uppgifter
+Valfri för: F5, I4-fir, Pi5-fm
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursens syfte är att ge studenterna förståelse för
+välkända idéer och teorier inom finansiell ekonomi.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+Studenten skall ha utvecklat en kunskap och förståelse för
+välkända idéer och teorier i finansiell ekonomi. Mer specifikt,
+skall studenten förstå:
+•härledningen av förväntad nytta,
+•skillnaden mellan kompletta och inkompletta marknader,
+•skillnaden mellan diversifierbar och icke-diversifierbar risk i
+portföljvalssammanhang,
+•härledningen av CAPM,
+•användandet av argument som bygger på icke-arbitrage i
+prissättningen av derivatprodukter,
+•användandet av optioner för att beräkna investeringars
+nettonuvärden,
+•betydelsen av information i prissättningssammanhang.
+ 
+ 
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+Studenten skall ha förmågan att självständigt tillämpa sina
+kunskaper på problem som uppkommer i verkligheten. Speciellt skall
+man kunna:
+•beräkna riskpremier, säkerhetsekvivalenter, absolut och
+relativ riskaversion, prudence och temperance,
+•beräkna tillståndspriser,
+•tillämpa CAPM för jämviktsprissättning,
+•prissätta derivatprodukter,
+•prissätta reala optioner,
+•analysera verkliga finansproblem och därvid använda relevanta
+metoder och teorier,
+•skriva en klar och pedagogisk rapport som sammanställer egna
+och andras empiriska analyser.
+ 
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+Studenten skall ha utvecklat en förmåga att:
+•tillgodogöra sig fortsatta studier inom finansiell ekonomi och
+nationalekonomi,
+•självständigt söka och utvärdera finansrelaterad
+information,
+
+Kursinnehåll
+Kursen innehåller följande moment:
+•investeringsbeslut under säkerhet, riskfria räntan och
+Fisher-separabilitet,
+•riskaversion och förväntad nytta,
+•Arrow-Debreu-tillgångar,
+•portföljvalsteori,
+•marknadsjämvikt: CAPM och multifaktormodeller,
+•optionsteori,
+•räntekurvor,
+•reala optioner,
+•informationsasymmetri och agentteori.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examinationen är skriftlig och äger rum vid slutet av kursen. Ytterligare examinationstillfälle anordnas i nära anslutning härtill. "Quick quizes" under kursens gång är poänggivande. Poängen får tillgodoräknas vid examinationstillfällen enbart under innevarande termin.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+EXTF45 Finansiell ekonomi
+FMS012 Matematisk statistik, allmän kurs eller FMSF45 Matematisk statistik, allmän kurs
+EXTA40 Introduktion till mikroekonomisk teori
+
+
+Begränsat antal platser: 60
+Urvalskriterier: Avklarade högskolepoäng inom programmet. Förtur ges till studenter vars program har kursen listad i läro- och timplanen.
+Kursen överlappar följande kurser: TEK103, NEKM25, NEKN81
+Kurslitteratur
+
+Danthine, Jean-Pierre and John B. Donaldson: Intermediate Financial Theory, third edition. Elsevier, 2014.
+Kompletterande material.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Frederik Lundtofte, frederik.lundtofte@nek.lu.se
+Hemsida: http://www.nek.lu.se
+Övrig information: Kursen ges av Nationalekonomiska institutionen vid Ekonomihögskolan och samläses med NEKN81. Tentamenstid meddelas av kursläraren.
+
+
+

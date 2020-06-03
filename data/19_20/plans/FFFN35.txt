@@ -1,0 +1,101 @@
+
+Kursplan 2019/20 FFFN35
+
+
+
+
+
+Kursplan för
+Fysiken för låg-dimensionella strukturer och kvantkomponenter
+The Physics of Low-dimensional Structures and Quantum Devices
+FFFN35, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning F/Pi
+Beslutsdatum: 2019-03-26
+Allmänna uppgifter
+Huvudområde: Nanovetenskap. 
+Obligatorisk för: N4-nf
+Valfri för: E4, F4, F4-nf, N4-hn
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursen behandlar artificiella material med strukturer på
+nanometerskalan där elektronernas rörelse är begränsad till
+två, en eller noll dimensioner. Tyngdpunkten ligger på
+heterostrukturer av halvledare men även andra lågdimensionella
+system diskuteras. Koncept och grundläggande teori introduceras
+med utgångspunkt från kvantmekaniken och fördjupas genom
+applicering på heterostrukturer. Efter det att kursens
+föreläsningsdel är klar utför studenten ett projektarbete på
+forskningsavdelningen under ca 1,5 vecka. Forskningsprojektet
+redovisas skriftligt och muntligt.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna beskriva och förklara fysikaliska fenomen i
+lågdimensionella heterostrukturer av halvledare.
+kunna beräkna och förklara grundläggande elektronstruktur
+för realistiska heterostrukturer med hjälp av kvantmekaniska
+modeller.
+kunna beräkna optiska och transportfysikaliska storheter för
+0-, 1- och 2-dimensionella system.
+kunna beskriva tillämpningar av lågdimensionella strukturer
+inom bl a fotonik och elektronik.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna analysera avancerade experiment och jämföra resultaten
+med realistiska beräkningar.
+kunna planera, genomföra och utvärdera ett avancerat
+forskningsprojekt.
+kunna skriva välstrukturerade rapporter som sammanfattar,
+förklarar och analyserar experimentellt och/eller teoretiskt
+arbete.
+kunna presentera egna resultat i ett muntligt föredrag.
+kunna självständigt söka information utöver
+kurslitteraturen.
+kunna välja approximationer och modeller utifrån erfarenhet
+och kunskap i fysik i vid mening.
+
+
+Kursinnehåll
+Koncept om heterostrukturer och resulterande låg-dimensionella
+system, såsom kvantbrunnar, nanotrådar och kvantprickar.
+Kvantfysik applicerat på sådana system. Optiska egenskaper hos
+lågdimensionella system (övergångsregler, polarisation mm).
+Transportfysikaliska egenskaper hos 2D och 1D system. Kvantiserad
+konduktans med Landauer-formalism. Spridningsfenomen i 1D.
+Komponenter baserade på kvantfenomen och Coulomb-blockad.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftligt prov och inlämningsuppgifter. Betygsatt laborations- och projektarbete. Betyget baseras på en sammanvägning av laborationskurs (25%), projektarbete (25%) och sluttentamen (50%).
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Projekt. 
+Antal högskolepoäng: 2. Betygsskala: UG.  Prestationsbedömning: Genomförande samt skriftlig och muntlig presentation 
+Kod: 0217. Benämning: Laborationer. 
+Antal högskolepoäng: 1,5. Betygsskala: UG.  Prestationsbedömning: Skriftliga rapporter 
+Kod: 0317. Benämning: Skriftlig tentamen. 
+Antal högskolepoäng: 4. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen 
+Antagningsuppgifter
+Förutsatta förkunskaper: (FMFF15 Kvantmekanik och matematiska metoder eller FAFF10 Atom- och kärnfysik med tillämpningar) samt (FFFF01 Elektroniska material eller FFFF05 Fasta tillståndets fysik).
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FFF042
+Kurslitteratur
+
+Davies, J H: The Physics of Low-dimensional Semiconductors: An Introduction. Cambridge University Press 1997. ISBN: 052148491X.
+Utdelat material.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Mats-Erik Pistol, mats-erik.pistol@ftf.lth.se
+Kursansvarig: Ville Maisi, ville.maisi@ftf.lth.se
+Hemsida: http://www.ftf.lth.se/courses/fff042
+
+
+

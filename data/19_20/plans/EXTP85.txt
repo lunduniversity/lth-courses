@@ -1,0 +1,85 @@
+
+Kursplan 2019/20 EXTP85
+
+
+
+
+
+Kursplan för
+Kvantitativ humanfysiologi
+Quantitative Human Physiology
+EXTP85, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning BME
+Beslutsdatum: 2019-03-28
+Allmänna uppgifter
+Valfri för: E5, F4
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+
+att ge grundläggande kunskaper inom vissa områden av den
+humana fysiologin samt att ge en inblick i avbildningstekniker som
+kan användas för att kvantifiera vitala funktioner.
+kursen ska också ge inspiration till att utveckla
+matematisk/fysiologiska modeller.
+inblick hur kroppens reglersystem fungerar med
+återkopplingsloopar och dedundans.
+
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+känna till de grundläggande begreppen inom neurofysiologi,
+hjärt- lung- och cirkulationsfysiologi.
+ha viss kännedom om hur sjukdom kan påverka de fysiologiska
+mekanismerna.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna redogöra för hur de olika fysiologiska systemen inom
+kroppen fungerar och samverkar.
+kunna ansätta enkla beräkningsmodeller för fysiologiska
+system.
+
+
+Kursinnehåll
+
+neurofysiologi: Basal neurofysiologi, sensoriska systemet,
+reglersystem.
+hjärtfysiologi: Hjärtats anatomi, fysiologi och mekanik,
+hjärtats reglersystem, EKG, MR, myokardscintigrafi.
+grundläggande bildbehandling och översikt över medicinska
+avbildningstekniker och hur de kan användas för att kvantifiera
+fysiologi.
+cirkulationsfysiologi: Perifer cirkulation och
+cirkulationsreglering.
+respirationsfysiologi: Lungans anatomi och funktion,
+lungmekanik, spirometri, arteriella blodgaser, arbetsprov med
+syrgasmätning.
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftligt och/eller muntligt prov omfattande teori och problem. Godkända inlämningsuppgifter.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: EXTG15 Biologisk översiktskurs.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: TEK171
+Kurslitteratur
+
+Eric P. Widmaier, Hershel Raff and Kevin T. Strang. McGraw Hill: Vander´s Human physiology, The mechanisms of body function. 11:e upplagan, 2008.
+Klinisk fysiologi med nuklearmedicin och klinisk neurofysiologi, Björn Jonson & Per Wollmer (red). Liber, 2005. Andra upplagan. Rekommenderad läsning, men kommer ej aktivt användas i kursen.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Håkan Arheden, hakan.arheden@med.lu.se
+Kursansvarig: Einar Heiberg, einar@heiberg.se
+Hemsida: http://www.med.lu.se/klinvetlund/klinisk_fysiologi/grundutbildning/kvantitativ_humanfysiologi
+
+
+

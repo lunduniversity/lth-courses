@@ -1,0 +1,108 @@
+
+Kursplan 2019/20 MMTN30
+
+
+
+
+
+Kursplan för
+Tillverkningssystem
+Flexible Manufacturing Systems
+MMTN30, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning M
+Beslutsdatum: 2019-03-27
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Huvudområde: Produktrealisering. 
+Obligatorisk för: MPRR1
+Valfri för: I4-pr, M4-prr
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursen skall skapa förståelse för den viktiga länk som finns
+mellan teknik och ekonomi, definiera ekonomiska villkor som ett
+styrmedel för produktionsutveckling samt ge en bild över hur
+olika förädlingssteg bildar tillverkningssystem. Vidare skall
+kursen tydliggöra det ömsesidiga beroendet mellan bl.a.
+produktutveckling och kretsloppsanpassade tillverkningssystem.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+behärska den grundläggande nomenklaturen inom delområdet
+tillverkningssystem samt kunna redogöra för
+tillverkningssystemens utveckling och förutsättningar från
+massproduktion fram till dagens produktionsfilosofier.
+kunna redogöra för egenskaper och karaktärsdrag hos olika
+produktionstyper och layouter.
+behärska beräkningsprinciper för tillverkningskostnaden i
+ett produktionsavsnitt där alla väsentliga faktorer beaktas samt
+ha kännedom om olika nyckeltal som beskriver ett
+produktionssystems prestanda.
+ha insikt om grunderna i tillverkningsekonomisk simulering och
+kunna upprätta en produktionsutvecklingsplan baserad på
+målfunktioner under givna förutsättningar.
+kunna redogöra för verktyg och principer för en fortlöpande
+produktionsutveckling bl.a. baserat på konceptet Lean
+Production.
+ha insikt om de krav som måste ställas på ett
+tillverkningssystem med avseende på miljö- och
+kretsloppsaspekter.
+ha insikt om och kunna exemplifiera viktiga samband mellan
+produktutveckling och produktion samt ha en förståelse om
+förutsättningarna och grundkompetenserna inom området
+industriellt inköp.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna analysera och beräkna produktionskapaciteten i en maskin
+eller i ett produktionsavsnitt.
+kunna dimensionera och konfigurera ett tillverkningssystem för
+kända data och statistiskt behandla olika uppträdanden t.ex.
+störningar i ett tillverkningssystem.
+kunna planera, sätta upp och genomföra en systematisk
+produktionsanalys inklusive analys av erhållet resultat.
+
+
+Kursinnehåll
+Kursen utgör den viktiga länken mellan ekonomi och teknik.
+Resultatet av utvecklingsinsatser beskrivs i
+tillverkningsekonomiska termer. Följande behandlas:
+Tillverkningssystems utveckling och historik, produktionstyper,
+produktionslayouter och organisationsformer, gruppteknologi,
+flödesgrupper, flexibilitetsbegrepp, tillverkningsekonomi
+innefattande bl.a. genomloppstider och cykeltider vid
+batchtillverkning och flödestillverkning samt
+tillverkningsekonomisk simulering, kassationer, stillestånd,
+taktförluster, reducerad beläggning, kostnadsneutrala samband,
+konfiguration av tillverkningssystem, statistisk störningsanalys,
+systematisk produktionsanalys i teori och praktik,
+produktionssäkerhet och PSM, deterministisk produktionsutveckling,
+gränsinvesteringar vid produktionsutveckling, kontinuerliga
+utvecklings- och förbättringsarbeten baserat på bl.a. lean
+manufacturing, integrerad produktframtagning med miljöinslag och
+kretsloppsteknik samt outsourcing.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen samt löpande examination under kursens gång i form av inlämningsuppgifter.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: MMT012/MMTF20 Tillverkningsmetoder eller MMTA05 Industriella produktionssystem.
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Ståhl, Jan-Eric: Industriella Tillverkningssystem del II, Länken mellan teknik och ekonomi. KFS i Lund AB, 2019.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Fredrik Schultheiss, fredrik.schultheiss@iprod.lth.se
+Kursansvarig: Jan-Eric Ståhl, jan-eric.stahl@iprod.lth.se
+Hemsida: http://www.iprod.lth.se
+
+
+

@@ -1,0 +1,75 @@
+
+Kursplan 2019/20 IDEA05
+
+
+
+
+
+Kursplan för
+2D-tekniker
+2D Techniques
+IDEA05, 5 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning ID
+Beslutsdatum: 2019-03-21
+Allmänna uppgifter
+Huvudområde: Industridesign. 
+Obligatorisk för: KID1
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+2D-ritningar och -illustrationer är en nödvändig del av
+många industridesignprocesser. Efter slutförd kurs ska
+studenterna på ett självsäkert sätt med hjälp av mjukvara
+kunna omvandla sina designidéer till 2D-ritningar och
+-illustrationer.
+ 
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+Utveckla grundläggande förståelse av elementär 2D-ritningar
+och -illustrationer genom inlärning och övning av vedertagna
+arbetsflöden för sådant arbete.
+- Behärskning av användargränssnitt i mjukvara, dvs menyer,
+fönster och snabbkommandon mm.
+- Principer för ritning och illustration med Cartesian- och
+Bézier-geometri genom punkter, linjer, kurvor och slutna former
+(postscript-baserad illustration) samt bild-justering, retuschering
+och illustration med hjälp av pixlar (rastergrafikbaserad
+illustration)
+- Illustration med visuell plasticitet genom glansdagrar, skuggor,
+skuggning och realistiska texturer
+- Arbete med enklare typografiska verktyg
+- Interaktion mellan postscript- och rastergrafikbaserade
+illustrationer
+- Storlek och format på input och output av bilder för
+användning i annan mjukvara vid presentation och utskrift från
+skärm eller on-line
+- Skapande och manipulering av PDF-filer
+- Organisering av komplexa projekt i skikt
+- Grundläggande laser- och vattenskärning av 2D-data
+
+Kursinnehåll
+Kursen består av gruppföreläsningar kompletterade med
+individuell handledning och hemuppgifter.
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: 80 % närvaro krävs. Bedömningen grundar sig på dokumentation av individuella inlämningsuppgifter.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: TNS100
+Kurslitteratur
+
+Mjukvarumanualer, hjälpfunktioner på nätet och offline, webbsidor från tredje part samt användarfora och diskussionsgrupper på nätet.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Andreas Hopf, andreas.hopf@design.lth.se
+Hemsida: http://www.ide.lth.se
+Övrig information: Undervisningsform: Kursen består av föreläsningar och individuell datorhandledning.
+
+
+

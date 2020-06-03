@@ -1,0 +1,105 @@
+
+Kursplan 2019/20 EITN10
+
+
+
+
+
+Kursplan för
+Multipelantennsystem
+Multiple Antenna Systems
+EITN10, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning E
+Beslutsdatum: 2019-03-25
+Allmänna uppgifter
+Huvudområde: Kommunikationssystem. 
+Obligatorisk för: MWIR2
+Valfri för: C5-ks, D5, E4
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Syftet med kursen är att ge en god inblick i området
+radiokommunikation med multipla antenner. Kursen startar med de
+teoretiska delarna av multipelantennsystem, närmare bestämt s.k.
+multiple-input multiple-output (MIMO) system, vilka kan ge stora
+kapacitetsvinster jämfört med konventionella kommunikationssystem
+med bara enstaka antenner. De teoretiska resultaten leder vidare
+till praktiska implementationsaspekter, för att skapa en
+förståelse även för dessa och hur systemen fungerar i
+praktiken.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+Kunna redogöra för de grundläggande fördelarna med
+multipelantennsystem.
+Kunna skilja på olika typer av multipelantennsystem.
+Kunna förklara inverkan av transmissionskanalen, inklusive dess
+samverkan med antennerna, på kapaciteten för
+multipelantennsystem.
+Kunna redogöra för skillnader i systemprestanda som uppkommer
+genom varierande tillgänglighet av kunskap om radiokanalen.
+Kunna identifiera relevanta implementationsaspekter vad det
+gäller multipelantennsystem, såsom kodningsstrategier,
+prestandabegränsningar och kompromisser.
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+Kunna demonstrera hur multipelantennsystem fungerar, både vad
+det gäller spatiell multiplexing och spatiell diversitet.
+Kunna beräkna kanalkapaciteten för ett multipelantennsystem
+för en given konfiguration.
+Kunna kvalitativt visa fördelarna med spatiell diversitet.
+Kunna, genom simuleringar, implementera olika mottagarstrukturer
+och utvärdera deras respektive prestanda.
+Kunna använda verktyg såsom Matlab för att lösa enkla
+designproblem med givna prestandakrav.
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+Ha fått en övergripande syn på hur multipelantennsystem
+påverkar överföringskapaciteten och hur de kan användas i
+trådlösa länkar.
+Känna sig väl rustad att utvärdera användandet av
+multipelantennsystem för en given applikation.
+
+Kursinnehåll
+Kursinnehållet presenteras från ett tvärvetenskapligt
+perspektiv och belyser ämnets olika aspekter för ett
+kommunikationssystem, såsom kodning/modulation, antenninverkan och
+radiokanalens utbredningsegenskaper. Detta då prestanda hos ett
+multipelantennsystem beror på samverkan mellan dessa olika
+delsystem. Speciellt kommer följande ämnen att presenteras:
+Bakgrund till multipelantennsystem och grundläggande
+koncept
+Radiokanalen för multipelantennsystem
+Kapacitet hos multipelantennsystem
+Rum-tid kodning (Space-time coding)
+Mottagarstrukturer
+Användning av kanalinformation hos mottagaren
+Fleranvändarsystem
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen och inlämningsuppgifter.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0110. Benämning: Multipelantennsystem. 
+Antal högskolepoäng: 3,5. Betygsskala: TH.  Prestationsbedömning: Godkänd skriftlig tentamen.  Delmomentet omfattar: Skriftlig tentamen 
+Kod: 0210. Benämning: Inlämningsuppgifter. 
+Antal högskolepoäng: 4. Betygsskala: UG.  Prestationsbedömning: Godkända inlämningsuppgifter. 
+Antagningsuppgifter
+Förutsatta förkunskaper: ETIN15 Radiosystem och ETIN10 Kanalmodellering för trådlös kommunikation.
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Paulraj A, Nabar R, Gore D: Introduction to Space-Time Wireless Communications. Cambridge University Press, 2006, ISBN: 0-521-82615-2.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Fredrik Rusek, fredrik.rusek@eit.lth.se
+Hemsida: http://www.eit.lth.se/kurs/eitn10
+
+
+

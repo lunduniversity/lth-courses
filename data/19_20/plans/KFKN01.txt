@@ -1,0 +1,143 @@
+
+Kursplan 2019/20 KFKN01
+
+
+
+
+
+Kursplan för
+Magnetisk resonans - spektroskopi och avbildning
+Magnetic Resonance - Spectroscopy and Imaging
+KFKN01, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning B/K
+Beslutsdatum: 2019-03-29
+Allmänna uppgifter
+Valfri för: B4-l, B4-mb, K4-m, K4-l, N5-m
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursens syfte är att ge grundläggande kunskaper i
+kärnmagnetisk resonans (NMR) och hur tekniken kan användas för
+att studera molekylers struktur och dynamik, samt avbildning av
+material och biologisk vävnad. Kursen berör metoder inriktade mot
+lågmolekylära, makromolekylära och kolloidala system, såväl
+som fasta material.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+förstå och förklara grundprinciperna för kärnmagnetisk
+resonansspektroskopi.
+förstå och förklara grundprinciperna för magnetisk
+resonanstomografi.
+ha kunskap om och kunna beskriva de experimentella
+uppställningarna vid magnetisk resonansexperiment för både
+spektroskopi, avbildning och självdiffusion.
+ha kunskap om hur kärnmagnetisk resonans kan användas för
+att studera molekylers dynamik.
+ha kunskap om hur flerdimensionella NMR-experiment bedrivs och
+principerna för strukturbestämning av molekyler.
+ha kunskap om hur NMR kan användas för studier av fasta
+faser.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna tolka information från de vanligaste en- och
+flerdimensionella NMR-experimenten.
+kunna beskriva en molekyls dynamiska och strukturella
+egenskaper utifrån NMR-data.
+kunna tolka resultat av självdiffusionsexperiment från
+kolloidala system med hänsyn tagen till de tid- och längdskalor
+som definieras av experimentet.
+med begränsad handledning själv kunna utföra
+NMR-experiment.
+kunna muntligt och skriftligt på ett klart sätt redovisa
+resultat och tolkning av NMR-experiment.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna värdera utfallet av ett NMR-experiment i termer av
+noggrannhet, rimlighet och tillämpbarhet.
+kunna kritiskt bedöma forskningslitteratur som beskriver
+tillämpningar av kärnmagnetisk resonans.
+ha formågan att kunna välja den NMR-teknik som bäst lämpar
+sig för studiet av ett givet problem.
+ha en bred insyn i applikationer även utanför sitt eget
+specialområde.
+kunna aktivt delta i kvalificerade meningsutbyten kring
+tillämpning och tolkning av NMR-experiment.
+
+
+Kursinnehåll
+Föreläsningar: Kursen startar med grundläggande
+teori för kärnmagnetisk resonans, inklusive en introduktion i
+kvantmekanik. Sedan följer föreläsningar om kemiskt skift,
+interaktion mellan kärnspinn, spindynamik, kemiskt utbyte,
+relaxation och flerdimensionella tillämpningar (inklusive
+strukturbestämning av makromolekyler) och metoder för avbildning
+och självdiffusion. Avslutningsvis ges varje student möjlighet
+att fördjupa sig inom ett område som intresserar studenten och
+som är relevant för studentens egen specialisering. Ett
+studiebesök vid MR-avdelningen på Lunds universitetssjukhus kan
+komma att erbjudas.
+Laborationer. Som introduktion till laborationskursen
+ges en övning i databehandling inom kärnmagnetisk resonans med
+tonvikt på Fouriertransformationer och de artefakter som felaktig
+databehandling kan ge upphov till. Experimentellt studeras kemiskt
+utbyte, relaxation, avbildning och självdiffusion i senare
+laborationer. Ett extra laborationstillfälle kan komma att
+erbjudas inom ramen för den egna fördjupningen. Denna laboration
+kan t.ex. röra strukturbestämning av proteiner eller små till
+medelstora molekyler, NMR i fast fas eller fördjupade studier av
+molekyldynamik.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Fördjupningsuppgift, inlämningsuppgifter, laborationer, mitt-terminstentamen. Slutbetyget baseras på ett viktat medelvärde av de erhållna poängen för de olika delmomenten. 
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0114. Benämning: Mitt-terminstentamen. 
+Antal högskolepoäng: 3. Betygsskala: UG.  Prestationsbedömning: Skriftlig tentamen, vars omfång motsvarar 40% (3 poäng) av totala poängantalet för kursen.
+Tentamensresultatet bidrar med 40% av slutbetyget.
+  Delmomentet omfattar: Tentamen (mitt-terminstentamen) omfattande de avsnitt i läroboken och utdelat material som inkluderas i kursen.  Övrig information: Tentamen hålls under en schemalagd lektionstimme.
+Kod: 0214. Benämning: Fördjupningsuppgift: muntlig+skriftlig redovisning. 
+Antal högskolepoäng: 2,5. Betygsskala: UG.  Prestationsbedömning: Provet bedöms baserat på samtliga delmoment beskrivna nedan.
+Provresultatet ger 30% av slutbetyget.  
+Provets omfång motsvarar 30% (2.25 poäng) av totala poängantalet för kursen.  Delmomentet omfattar: Skriftlig redovisning av fördjupningsuppgift.
+Muntlig presentation av fördjupningsuppgift. 
+Utvärdering av kurskamraters skriftliga rapporter.
+Opposition på kurskamraters muntliga redovisningar. 
+Kod: 0314. Benämning: Inlämningsuppgifter. 
+Antal högskolepoäng: 1. Betygsskala: UG.  Prestationsbedömning: Omfattningen av inlämningsuppgifterna motsvarar 15% (1.125 poäng) av totala poängantalet för kursen.
+Resultaten på inlämningsuppgifterna ger 15% av slutbetyget.    Delmomentet omfattar: Skriftlig redovisning av inlämningsuppgifter. 
+Kursen erbjuder 4 inlämningsuppgifter. 
+Kod: 0414. Benämning: Laborationer. 
+Antal högskolepoäng: 1. Betygsskala: UG.  Prestationsbedömning: En skriftlig laborationsrapport ska lämnas in för varje laboration. Denna bedöms och poängsätts av lärarna. Det sammanlagda poängtalet bidrar till 15% av slutbetyget. 
+Omfattningen av laborationerna och rapporteringen motsvarar 15% (1.125 poäng) av totala poängantalet för kursen.
+  Delmomentet omfattar: Laborationer med användande av dator och/eller NMR-spektrometer:
+3 laborationer på NMR-spektrometer + 1 datorbaserad laboration. 
+Antagningsuppgifter
+Förutsatta förkunskaper: FMAB30 Flerdimensionell analys, FMAA20 Linjär algebra med introduktion till datorhjälpmedel, KFKA05 Molekylära drivkrafter 1: Termodynamik, KFKF01 Molekylära drivkrafter 2: Växelverkan och dynamik samt KOKA25 Organisk kemi, allmän kurs.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: KFK095
+Kurslitteratur
+
+Keeler, J: Understanding NMR Spectroscopy, second edition. Wiley, 2010, ISBN: 0-470-74608-0. Boken finns även att köpa som e-bok.
+Laborationshandledningar.
+Övrig litteratur (främst vetenskapliga artiklar) delas ut under kursens gång.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Mikael Akke, mikael.akke@bpc.lu.se
+Kursansvarig: Kristofer Modig, kristofer.modig@bpc.lu.se
+Hemsida: http://www.bpc.lu.se
+Övrig information: Kursen ges sammanslagen med KEMM17 (naturvetenskapliga fakulteten) och undervisas gemensamt av avdelningarna för Biofysikalisk kemi och Fysikalisk kemi, som tillsammans har en mångårig erfarenhet av NMR och vitt skilda tillämpningar av denna teknik.
+
+
+

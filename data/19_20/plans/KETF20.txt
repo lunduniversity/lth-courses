@@ -1,0 +1,97 @@
+
+Kursplan 2019/20 KETF20
+
+
+
+
+
+Kursplan för
+Kemitekniska processer
+Chemical Engineering Processes
+KETF20, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning B/K
+Beslutsdatum: 2019-03-29
+Allmänna uppgifter
+Valfri för: K5-m, K4-p, W4-p
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Inom kemisk industri pågår ett förändringsarbete från
+gårdagens råvarusituation, som i stor utsträckning baserades på
+ändliga resurser, till en mer långsiktigt hållbar produktion.
+Katalys spelar ofta en central roll i denna förändring.
+
+Kursen syfte är att ge en överblick och insikt i den moderna
+kemitekniken, dess utveckling och framtid. Genom de exempel på
+befintliga processer som tas upp förbereds studenten på att göra
+processval utifrån såväl tekniska som ekonomiska och
+miljömässiga förutsättningar.
+Kursen ger även en introduktion och bakgrund till ämnet katalys
+med syfte att studenten ska kunna diskutera val av katalysator till
+en process, befintlig eller ny, med katalysatorföretag samt
+förstå utvecklingsgången för en ny katalysator.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna beskriva huvuddragen i den kemitekniska utvecklingen på
+nationell och internationell nivå
+kunna redogöra för kopplingar mellan råvara, process och
+slutprodukt för i kursen beskrivna befintliga processer
+kunna definiera de centrala begreppen inom katalys och deras
+industriella relevans
+kunna redogöra för en arbetsgång från råvara till
+befintlig process.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna analysera en befintlig process och avgöra hur framtida
+förändringar i råvarusituationen kan påverka processen
+kunna avgöra en process teknikmognad och övergripligen
+föreslå en utvecklingsväg till färdig process samt redovisa
+resultatet i en teknisk rapport.
+
+
+Kursinnehåll
+Kursen tar sin utgångspunkt i dåtidens råvaror och beskriver
+utvecklingen genom den petrokemiska revolutionen fram till dagens
+kemiindustri. I kursen diskuteras gårdagens råvarusituation, som
+karakteriserades av ändliga resurser, vilka förändringar som
+redan genomförts samt vilka ytterligare förändringar som behövs
+för att ställa om till mer långsiktigt hållbar produktion.
+
+Kursen innehåller följande avsnitt: historisk utveckling av
+processindustrin, katalys, vanliga förekommande råvaror för
+kemiproduktion, raffinaderiprocesser, produktion av organiska och
+oorganiska kemikalier, finkemikalier, biotekniska processer samt
+massa- och papperstillverkning.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen och projektuppgifter. Slutbetyget baseras på den skriftliga tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0113. Benämning: Kemitekniska processer. 
+Antal högskolepoäng: 5,5. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen 
+Kod: 0213. Benämning: Projektuppgift. 
+Antal högskolepoäng: 2. Betygsskala: UG.  Prestationsbedömning: Projektuppgifter 
+Antagningsuppgifter
+Förutsatta förkunskaper: KETF25 Reaktionsteknik eller KETF40/KTE170 Masstransport i tekniska och naturliga system
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: KET040, KTE055
+Kurslitteratur
+
+Moulijn, J.A.; Makkee, M.; van Diepen A.: Chemical Process Technology, 2nd Edition. John Wiley & Sons, Ltd., 2013, ISBN: 978-1-4443-2025-1.
+Hulteberg, C.: Chemical Engineering Processes, Course compendium. 2015.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Universitetslektor Christian Hulteberg, Christian.Hulteberg@chemeng.lth.se
+Hemsida: https://www.lth.se/chemeng/ketf20/
+
+
+

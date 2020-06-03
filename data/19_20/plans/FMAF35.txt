@@ -1,0 +1,94 @@
+
+Kursplan 2019/20 FMAF35
+
+
+
+
+
+Kursplan för
+Linjär och kombinatorisk optimering
+Linear and Combinatorial Optimization
+FMAF35, 6 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning F/Pi
+Beslutsdatum: 2019-03-26
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Valfri för: BME4, C4, D4-pv, E4, F4, F4-pv, F4-bs, Pi4-bs, Pi4-pv
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Inom teknik, naturvetenskap och ekonomi uppträder allt oftare
+linjära och kombinatoriska optimeringsproblem. Det mest kända
+exemplet är linjär programmering, där den s.k.
+simplexmetoden varit av ovärderlig betydelse inom
+industrin sedan dess upptäckt i mitten av 1900-talet. Andra
+viktiga problem, exempelvis för effektiv databearbetning,
+innehåller variabler som är diskreta, till exempel heltal. I
+samband med dessa har kombinatoriska metoder fått en kraftigt
+ökad betydelse. Kursens syfte är att studenterna skall få
+kännedom om problem i linjär och kombinatorisk optimering som är
+viktiga inom tillämpningarna, och kunskap om matematiska metoder
+för deras lösning. Syftet är vidare att få studenten att
+utveckla sin förmåga till problemlösning, både med och utan
+dator.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+förstå och tydligt kunna förklara teorin bakom
+simplexmetoden.
+kunna beskriva och översiktligt förklara den matematiska
+teorin bakom centrala algoritmer inom kombinatorisk optimering
+(inkl. lokal sökning, förgrena och begränsa, simulerad stelning,
+genetisk optimering, neurala nätverk).
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna visa god förmåga att (i) identifiera problem inom
+området, (ii) göra en matematisk formulering av problemet, (iii)
+välja lämplig metod för att lösa det, samt (iv) genomföra
+lösningen, eventuellt med användning av dator.
+kunna skriva dataprogram för att lösa linjära och
+kombinatoriska optimeringsproblem.
+med adekvat terminologi, väl strukturerat och logiskt
+sammanhängande, kunna redogöra för lösningen av problem
+inom linjär och kombinatorisk optimering.
+
+
+Kursinnehåll
+Linjär programmering. Heltalsprogrammering. Transportproblem.
+Tilldelningsproblem. Maximalt flöde. Lokal sökning. Simulerad
+stelning. Genetisk optimering. Neurala nätverk. Dynamisk
+programmering. Algoritmkomplexitet.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen. Datorlaborationer. Några miniprojekt skall vara fullgjorda före tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Tentamen. 
+Antal högskolepoäng: 6. Betygsskala: TH. 
+Kod: 0217. Benämning: Datorlaborationer. 
+Antal högskolepoäng: 0. Betygsskala: UG. 
+Antagningsuppgifter
+Förutsatta förkunskaper: FMAB20 Linjär algebra.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FMA240
+Kurslitteratur
+
+Holmberg, K.: Optimering, Metoder, modeller och teori för linjära, olinjära och kombinatoriska problem. Liber, 2010, ISBN: 978-91-47-09935-1.
+Kolman, B. &  Beck, R.E.: Elementary Linear Programming with Applications. Academic Press, 1995, ISBN: 0-12-417910. Engelskspråkigt alternativ.
+Kompletterande material.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Studierektor Anders Holst, Studierektor@math.lth.se
+Lärare: Sara Maad Sasane, sara@maths.lth.se
+Hemsida: http://www.maths.lth.se/course/linkomboptnykod/
+
+
+

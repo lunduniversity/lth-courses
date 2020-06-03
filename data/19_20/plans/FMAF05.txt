@@ -1,0 +1,120 @@
+
+Kursplan 2019/20 FMAF05
+
+
+
+
+
+Kursplan för
+Matematik - System och transformer
+Mathematics - Systems and Transforms
+FMAF05, 7 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning F/Pi
+Beslutsdatum: 2019-03-26
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: E2, F2, I2, Pi2
+Alternativobligatorisk för: D2
+Valfri för: BME4, C4, M4, N3
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Att ge matematiska begrepp och metoder från linjär algebra
+och analys som är viktiga för systemteori (kontinuerlig och
+diskret), och för vidare studier inom till exempel matematik,
+ekonomi, fysik, matematisk statistik, mekanik,
+reglerteknik, signalteori samt för framtida yrkesverksamhet.
+Syftet är vidare att utveckla studenternas förmåga att lösa
+problem, att tillgodogöra sig matematisk text och att kommunicera
+matematik.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+ha kunskap om egenvärdens betydelse i stabilitets- och
+resonanssammanhang, för såväl tidskontinuerliga som tidsdiskreta
+linjära system.
+kunna beskriva och använda begreppen linjaritet, tids- och
+rumsinvarians, stabilitet, kausalitet, impulssvar och
+överföringsfunktion, såväl i kontinuerlig som diskret tid.
+kunna beskriva strukturen hos en exponentialmatris och kunna
+beräkna exponentialmatriser i enkla fall.
+kunna karakterisera olika typer av kvadratiska former dels med
+hjälp av egenvärdesteknik, dels med hjälp av
+kvadratkomplettering.
+kunna definiera begreppet faltning, diskret och
+kontinuerlig, och kunna använda det både för att beskriva
+linjära tidsinvarianta  insignal-utsignalsystem, och för
+beskrivning av vissa typer av integralekvationer.
+ha viss erfarenhet och förståelse av matematiska och
+numeriska datorprogram.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+ 
+
+kunna visa förmåga att självständigt välja lämpliga
+metoder för att lösa system av linjära differentialekvationer
+och system av linjära differensekvationer, och för att
+genomföra lösningen i huvudsak korrekt.
+kunna visa förmåga att använda egenvärdesteknik, elementär
+distributionsteori, funktionsteori, Fourier- och
+Laplacetransformationer och faltningar vid problemlösning inom
+teorin för linjära system.
+i samband med problemlösning, kunna visa förmåga att
+integrera kunskaper från de olika delarna i kursen.
+med adekvat terminologi, väl strukturerat och logiskt
+sammanhängande kunna redogöra för lösningen till matematiska
+problem inom kursens ram.
+
+
+Kursinnehåll
+Linjär algebra: spektralteori, kvadratiska former.
+System av linjära differentialekvationer:
+tillståndsekvationer, lösning genom diagonalisering, stabilitet,
+stationära lösningar och transienter. Lösning med
+exponentialmatris.
+In-utsignalrelationer: linjaritet, tids- och
+rumsinvarians, stabilitet, kausalitet. Faltningar. Elementär
+distributionsteori. Överförings- och frekvensfunktioner. Diskreta
+system.
+Fourieranalys: Laplace- och Fouriertransformationerna.
+Inversionsformler, faltningssatsen och Parsevals formel.
+Transformteori och analytiska funktioner. Tillämpningar på
+differentialekvationer och system av sådana.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftligt prov omfattande teori och problem. Obligatoriska inlämningsuppgifter, vilka kräver arbete både med och utan dator, som måste vara utförda FÖRE tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0116. Benämning: System och transformer. 
+Antal högskolepoäng: 7. Betygsskala: TH. 
+Kod: 0216. Benämning: Inlämningsuppgifter. 
+Antal högskolepoäng: 0. Betygsskala: UG. 
+Antagningsuppgifter
+Förkunskapskrav:
+FMAB20. Minst 13 hp sammanlagt inom FMAA05 Endimensionell analys och FMAB30 Flerdimensionell analys. 
+FMAB20 Linjär algebra
+
+
+Förutsatta förkunskaper: FMAF01 Funktionsteori.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FMA030, FMA036, FMA062, FMA450, FMAF10
+Kurslitteratur
+
+Spanne, S: Lineära system. KF-Sigma, 1997.
+Spanne, S: Övningar i Lineära system. KF-Sigma, 2009.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Studierektor Anders Holst, Studierektor@math.lth.se
+Kursadministratör: Studerandeexpeditionen, expedition@math.lth.se
+Hemsida: http://www.maths.lth.se/course/sot/
+Övrig information: Tentamen på kursen räknas även som tentamen på de tidigare kurserna FMA450 System och transformer och FMA036 Linjär analys. För att en skrivning skall rättas krävs att tentanden blivit godkänd på inlämningsuppgifterna före skrivningstillfället. 
+
+
+

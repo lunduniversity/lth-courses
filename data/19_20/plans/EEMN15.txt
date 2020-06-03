@@ -1,0 +1,90 @@
+
+Kursplan 2019/20 EEMN15
+
+
+
+
+
+Kursplan för
+Ultraljudsfysik och teknik
+Ultrasound Physics and Technology
+EEMN15, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning BME
+Beslutsdatum: 2019-03-28
+Allmänna uppgifter
+Valfri för: BME4-bf, D5, E4-ss, E4-mt, F4, F4-mt, F4-ss, N4
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Syftet med kursen är att ge principiell förståelse för och
+en självständig experimentell erfarenhet av ultraljud. Studenten
+får insyn i ett expanderande forskningsområde. Kursen syftar
+också som förberedelse inför examensarbete och doktorandstudier
+inom elektrisk mätteknik och medicinsk teknik.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+ha en god överblick av tillämpningsområden inom
+ultraljudstekniska området
+vara väl förtrogen med ultraljudsfysikaliska
+grundbegrepp
+ha insikt om ultraljudstekniska grundprinciper och dess
+implementering i avancerade avbildningssystem
+känna till den aktuella forskningsfronten
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna karakterisera en ultraljudsgivare
+kunna genomföra experimentella försök som demonstrerar
+grundläggande fysikaliska effekter eller tekniska
+applikationer
+kunna läsa en vetenskaplig ultraljudsartikel med
+behållning,
+muntligt och skriftligt kunna förklara problemställningar
+inom ämnet ultraljud.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna redogöra för etiska eller riskrelaterade
+frågeställningar från fosterdiagnostik till militära
+applikationer
+
+
+Kursinnehåll
+Ultraljudsfysik, givarteknik, diagnostikapparatteknik, doppler,
+bioakustik, fältkarakterisering, ultraljud i luft, diagnostisk
+tillämpning, industriella tillämpningar, sonar samt på
+institutionen pågående forskningsprojekt.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Godkända obligatoriska moment, skriftlig deltentamen samt frivillig muntlig tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: Grundläggande kurs i fysik.
+Begränsat antal platser: 32
+Urvalskriterier: Antal poäng inom programmet.
+Förtur ges till studenter vars program har kursen listad i sin läro- och timplan.
+Kursen kan ställas in: Om färre än 6 anmälda.
+Kursen överlappar följande kurser: EEM080
+Kurslitteratur
+
+Hoskins P R, Thrust A, Martin K, Whittingham T A:.
+Diagnostic Ultrasound: Physics and Equipment.
+CUP 2010. ISBN 9780521757102.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Universitetslektor Monica Almqvist, monica.almqvist@bme.lth.se
+Kursansvarig: Maria Evertsson, maria.evertsson@bme.lth.se
+Hemsida: http://www.bme.lth.se/
+
+
+

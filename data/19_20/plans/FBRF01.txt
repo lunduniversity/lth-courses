@@ -1,0 +1,94 @@
+
+Kursplan 2019/20 FBRF01
+
+
+
+
+
+Kursplan för
+Grundläggande förbränning
+Fundamental Combustion
+FBRF01, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning F/Pi
+Beslutsdatum: 2019-03-26
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Alternativobligatorisk för: I3
+Valfri för: F4, F4-es, K4, M4, W4-es
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursen syftar till att ge studenten en grundläggande
+förståelse för de fysikaliska processer som sker under
+förbränningsprocesser. Viktiga områden är termodynamik, kemisk
+kinetik, strålning, och transportprocesser. Utifrån denna
+grundläggande förståelse kan grundläggande och praktiska
+förbränningssystem analyseras såsom självantändning i gaser,
+flamutbredning, flamutsläckning, och föroreningsbildning. En
+ökad grundläggande kunskap om förbränningsprocesser är viktig
+för att göra dem effektivare och med lägre koncentrationer av
+föroreningar, vilket är viktigt med tanke på att
+förbränningsprocesser står för ca 90% av världens
+energiförsörjning.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna förklara hur begreppen termodynamik, kemisk kinetik,
+strålning, och transportprocesser leder till olika egenskaper för
+förbränningsprocesser.
+kunna beskriva de fysikaliska processer som sker i
+grundläggande och praktiska förbränningssystem
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna analysera en förbränningsprocess och förutse
+effektivitet och föroreningar från den.
+kunna beräkna parametrar som t.ex. temperatur, och
+ämneskoncentration utifrån termodynamiska data om ett
+förbränningssystem.
+kunna skriva laborationsrapporter med analys av mätdata och
+diskussion av felkällor.
+kunna skriftligt sammanfatta ett projekt inom
+förbränningsområdet och dessutom presentera det muntligt.
+kunna tillgodogöra sig den väsentliga informationen i en
+avancerad engelsk lärobok.
+kunna lösa uppgifter som kräver utnyttjande av information
+från andra källor än kursmaterialet, t.ex. via söksystem på
+Internet och annan tillgänglig omvärldsinformation.
+
+
+Kursinnehåll
+Introduktion, termokemi, kemisk jämvikt, adiabatisk
+flamtemperatur, kemisk kinetik, antändningsprocesser och
+självantändning, förbränningsfysik, förblandade och
+diffusionsflammor, turbulent förbränning, emissionsbildning,
+förbränningsdiagnostik och verkliga förbränningssystem.
+Obligatoriska moment: Inlämningsuppgift, Laboration
+i Förbränning, och Projekt. Projektet motsvarande 2 poäng ska
+utföras i samråd med föreläsaren. Projektet ska presenteras
+muntligt och skriftligt.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: För att bli godkänd på kursen måste godkänt resultat erhållits på skriftlig tentamen, laborationer, inlämningsuppgifter, och projekt. Betyget erhålls från tentamen, men väl genomförd inlämningsuppgift och projekt ger extra poäng på tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: Grundläggande kunskaper i termodynamik.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FBR012
+Kurslitteratur
+
+Eget material och kopior från några olika läroböcker.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Alexander Konnov, alexander.konnov@forbrf.lth.se
+Hemsida: http://www.forbrf.lth.se
+
+
+

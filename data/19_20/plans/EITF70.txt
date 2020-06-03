@@ -1,0 +1,96 @@
+
+Kursplan 2019/20 EITF70
+
+
+
+
+
+Kursplan för
+Datorteknik
+Computer Organization
+EITF70, 6 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning C/D
+Beslutsdatum: 2019-04-01
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: C3, D2, E2
+Valfri för: F2, I4, Pi4
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursens syfte är att ge en introduktion till hur ett
+datorsystem fungerar på maskinspråksnivå och hårdvarunivå.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+ 
+
+Förstå ett datorsystems funktion och dess ingående
+delar
+Förstå samspelet mellan hårdvara, maskinspråk och
+högnivåspråk
+Förstå grunder för operativsystem och kommunikation med
+omvärlden
+
+ 
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+ 
+Ha viss färdighet och erfarenhet i programmering på
+maskinspråksnivå
+
+Kunna göra och analysera enkla designer av system där
+datorsystem används som systemkomponenter
+Kunna analysera och utvärdera olika lösningar för
+programmering på maskinspråksnivå
+
+ 
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+ 
+
+Visa prov på insikt om möjligheter och begränsningar med
+datorteknik
+
+ 
+
+Kursinnehåll
+Kursen ger en introduktion till grunderna för hur ett
+datorsystem fungerar på maskinspråksnivå. Bland det som gås
+igenom är datarepresentation, grundläggande datoraritmetik, ett
+datorsystems beståndsdelar och funktionssätt samt grundläggande
+programmeringstekniker på maskinspråksnivå och vilket
+hårdvarustöd dessa behöver (olika adresseringsmetoder, stack,
+subrutiner och avbrott). På laborationerna används ett enkelt
+datorsystem där man kan undersöka programexekvering, felsökning
+samt olika former för kommunikation med omvärlden.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examination sker genom laborationer, duggor och skriftlig tentamen. För godkänt i kursen, dvs betyg 3, krävs att laborationer och duggor är godkända. För högre betyg, 4 och 5, krävs skriftlig tentamen. Den skriftliga tentamen är frivillig.  För att få skriva tentamen krävs att duggor och laborationer är godkända. 
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Tentamen. 
+Antal högskolepoäng: 3. Betygsskala: TH.  Prestationsbedömning: Godkänt på digitala duggor som görs online under kursens gång ger betyg 3. För högre betyg krävs att de digitala duggor är avklarade och en skriftlig tentamen som resulterar i betyg 4 eller 5. 
+Kod: 0217. Benämning: Laborationer. 
+Antal högskolepoäng: 3. Betygsskala: UG.  Prestationsbedömning: Muntlig genomgång under laborationens genomförande.  Övrig information: Alla laborationer ska genomföras under tid när kursen är aktiv och alla laborationer ska genomföras samma läsår. 
+Antagningsuppgifter
+Förutsatta förkunskaper: EDA011/EDAA50, EDA016, EDA017/EDAA55 Programmeringsteknik eller EDAA45 Programmering, grundkurs.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: EIT070
+Kurslitteratur
+
+L. Hennessy, Computer Organization and Design – The Hardware/Software Interface, Morgan Kaufmann.
+Laborationshandledning samt kopior på OH-bilder använda på föreläsningarna.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Erik Larsson, erik.larsson@eit.lth.se
+Hemsida: http://www.eit.lth.se/kurs/eitf70
+
+
+

@@ -1,0 +1,115 @@
+
+Kursplan 2019/20 KBTN05
+
+
+
+
+
+Kursplan för
+Separationsprocesser i bioteknik
+Downstream Processing in Biotechnology
+KBTN05, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning B/K
+Beslutsdatum: 2019-03-29
+Allmänna uppgifter
+Huvudområde: Bioteknik. 
+Huvudområde: Livsmedelsteknik och nutrition. 
+Alternativobligatorisk för: MBIO1
+Valfri för: B4-pt, K5-p, MLIV2, W5-p
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Man brukar säga att reaktioner avgör om en process är möjlig
+medan separationsprocesser avgör om processen är lönsam. Val och
+design av enhetsoperationerna i en process påverkar inte bara
+produktionskostnaderna utan har även stor inverkan på utbyte och
+produktrenhet. Separationsprocesser är därför viktiga enheter,
+ofta nyckel-komponenter i såväl läkemedels-, bioteknik-,
+livsmedel- som kemisk industri.
+Syftet med kursen är att
+
+ge kunskap om olika enhetsoperationer för separation av små
+och stora molekyler och partiklar i biotekniska processer
+ge grundläggande kunskap om de fysikalisk-kemiska grunderna
+för bioseparationsprocesser
+visa hur separationsprocesser kan användas för koncentrering
+och rening i olika biotekniska tillämpningar
+
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna redogöra för olika enhetsoperationer som används vid
+separation och rening av produkter från biotekniska processer
+utifrån egenskaperna hos målprodukterna kunna välja lämplig
+enhetsoperation
+kunna analysera produkters utbyte och renhet
+kunna förklara hur genteknik kan användas för att
+underlätta rening av proteiner som produceras av rekombinant
+DNA-teknik
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna värdera hur olika fysikalisk-kemiska egenskaper och
+driftsparametrar påverkar separationsprocessers prestanda
+kunna föreslå och diskutera ett uppreningsschema för en
+produkt från en viss bio-baserad råvara
+kunna designa en nedströmsprocess med utgångspunkt i
+begreppen resurseffektivitet, energieffektivitet och ekonomi
+kunna redogöra för en nedströmsprocess i en skriftlig
+rapport och vid en muntlig presentation
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna inhämta relevant information från olika källor samt
+värdera denna på ett självständigt sätt
+kunna kritiskt värdera en annan projektuppgift
+kunna välja enhetsoperationer baserad på tillgänglig
+information
+kunna göra riskbedömningar kring bioseparationsprocesser
+
+
+Kursinnehåll
+Bioprodukter och råvaror, separationsprocesser använda i
+nedströmsprocesser, analys av produkters utbyte och renhet,
+kostnadsuppskattningar och design av nedströmsprocesser, genteknik
+för att underlätta produktrening, integrering av produktutvinning
+med produktionsprocess, god tillverkningssed i samband med
+nedströmsprocesser
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examination sker genom skriftlig tentamen, skriftlig och muntlig redovisning av projektuppgifter samt genom obligatoriskt deltagande i laborationer
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Skriftlig tentamen. 
+Antal högskolepoäng: 3,5. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen 
+Kod: 0217. Benämning: Projektuppgifter. 
+Antal högskolepoäng: 2,5. Betygsskala: UG.  Prestationsbedömning: Skriftlig och muntlig redovisning av projektuppgifter 
+Kod: 0317. Benämning: Laborationer. 
+Antal högskolepoäng: 1,5. Betygsskala: UG.  Prestationsbedömning: Laborationer 
+Antagningsuppgifter
+Förkunskapskrav:
+KBKA05 Teknisk biologi eller KBKA10 Biokemi eller KMBF01 Molekylär cellbiologi
+
+
+Förutsatta förkunskaper: KETF10 Separationsprocesser eller KETF40/KTE170 Masstransport i naturliga och tekniska system
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: KBT060
+Kurslitteratur
+
+Roger G. Harrison, Paul W. Todd, Scott R. Rudge and Demetri P. Petrides: Bioseparations Science and Engineering Second Edition. Oxford University Press, 2015, ISBN: 978-0-19-539181-7.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Rajni Hatti Kaul, Rajni.Hatti-Kaul@biotek.lu.se
+Kursansvarig: Frank Lipnizki, frank.lipnizki@chemeng.lth.se
+
+
+

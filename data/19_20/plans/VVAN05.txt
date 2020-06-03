@@ -1,0 +1,102 @@
+
+Kursplan 2019/20 VVAN05
+
+
+
+
+
+Kursplan för
+Urbana vatten
+Urban Waters
+VVAN05, 15 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning B/K
+Beslutsdatum: 2019-03-29
+Allmänna uppgifter
+Huvudområde: Vattenresurshantering. 
+Obligatorisk för: MWLU1
+Valfri för: V4-vr, W4-vr
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Det urbana vattensystemet är en viktig del av infrastrukturen.
+Förutom att ge rent dricksvatten till medborgarna är
+vattensystemet viktigt för miljöarbetet. Hanteringen av vattnet
+måste göras på ett hållbart sätt. Vi lånar vattnet från
+naturen och måste behandla det på ett sådant sätt att vi kan ge
+tillbaka det utan en negativ miljöpåverkan.
+Syftet med kursen är att ge kunskap om vatten och
+avloppsvattentekniker för att kunna utforma och driva
+anläggningar för att hantera dricksvatten, avloppsvatten och
+dagvatten i den urbana miljön.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+självständigt kunna analysera och värdera parametrar som
+påverkar vatten- och avloppsvattensystem
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna välja och dimensionera processer för
+avloppsvattenrening (inklusive slambehandling), dricksvattenrening
+och dagvattenhantering i urbana miljöer utifrån givna
+förutsättningar.
+kunna använda datormodeller för optimering av
+reningsprocesser och/eller transport av dagvatten.
+kunna genomföra grupparbeten och presentera dem muntligen och
+skriftligen.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+självständigt kunna samla och sammanställa relevant
+information för val och dimensionering av system för hantering
+av avloppsvatten, dricksvatten och dagvatten i tätort.
+
+
+Kursinnehåll
+Kursen behandlar kunskapsområdena:
+Översikt av vattentillgångar, vattenförbrukning och
+vattenkvalitet
+Processer för beredning av konsumtionsvatten
+Urbanhydrologi
+Hantering och behandling av dagvatten
+Dagvattenmodeller
+Kommunala och industriella avloppsvattensystem
+Fysikaliska, biologiska och kemiska reningsmetoder
+Datormodeller över avloppsvattenrening
+Slambehandling
+Småskalig avloppsvattenhantering
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig examination. Projektuppgifter, datorövningar och laborationsuppgifter. Muntlig och skriftlig redovisning. Betyg baseras på den skriftliga sluttentamen (Examination 2).
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Urbana vatten (tentamen 1). 
+Antal högskolepoäng: 3. Betygsskala: UG.  Prestationsbedömning: Skriftlig examination 1  Delmomentet omfattar: Grundläggande begrepp inom urban vattenhantering samt grunderna i avloppsvattenrening examineras. 
+Kod: 0217. Benämning: Obligatoriska aktiviteter. 
+Antal högskolepoäng: 5. Betygsskala: UG.  Prestationsbedömning: Muntlig och skriftlig redovisning.   Delmomentet omfattar: Projektuppgifter, datormodellövningar och laborationsuppgifter. 
+Kod: 0317. Benämning: Urbana vatten (tentamen 2). 
+Antal högskolepoäng: 7. Betygsskala: TH.  Prestationsbedömning: Skiftlig examination 2  Delmomentet omfattar: Sluttentamen som examinerar dagvattenhantering, dricksvattenberedning, avloppsvattenhantering och slambehandling i ett urbant perspektiv. 
+Antagningsuppgifter
+Förutsatta förkunskaper: VVAF01 VA-teknik och VVRA05/VVR145 Vatten eller VVRA01/VVR111 Hydrologi och akvatisk ekologi och VVRF10/VVR120 Strömningslära.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: VVA030
+Kurslitteratur
+
+Mackenzie L. Davis: Water and Wastewater Engineering, Design Principles and Practice. McGraw-Hill Education, 2010, ISBN: 978-0-07-171384-9.
+Föreläsningsanteckningar och annat material.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Universitetslektor Åsa Davidsson, asa.davidsson@chemeng.lth.se
+Hemsida: https://www.lth.se/chemeng/vvan05/
+
+
+

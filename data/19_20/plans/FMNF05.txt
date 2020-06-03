@@ -1,0 +1,84 @@
+
+Kursplan 2019/20 FMNF05
+
+
+
+
+
+Kursplan för
+Numerisk analys
+Numerical Analysis
+FMNF05, 6 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning F/Pi
+Beslutsdatum: 2019-03-26
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: D3
+Valfri för: C4
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Kursens syfte är att lära ut grundläggande beräkningsteknik
+för att lösa enkla och vanligt förekommande matematiska problem
+med hjälp av dator och numerisk programvara. Detta omfattar
+konstruktion, tillämpning och analys av grundläggande
+beräkningsalgoritmer. Problemlösning på dator utgör ett
+centralt inslag i kursen.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna konstruera beräkningsbara approximationer av matematiska
+modeller som är vanliga inom naturvetenskap och teknik.
+kunna beskriva numeriska algoritmer för att behandla
+approximationerna ovan.
+självständigt kunna implementera och tillämpa sådana
+algoritmer med användning av matematiska programpaket, t
+ex Octave eller Matlab.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+självständigt kunna välja och använda beräkningsalgoritmer
+och implementera dem  på dator.
+självständigt kunna bedöma resultatens relevans och
+noggrannhet.
+redovisa problemlösningar och numeriska resultat i skriftlig
+form.
+med adekvat terminologi och logiskt välstrukturerat redogöra
+för konstruktion av grundläggande matematiska modeller och
+algoritmer.
+med adekvat terminologi och välstrukturerat redogöra för
+numerisk lösning till ett matematiskt formulerat problem.
+
+
+Kursinnehåll
+Felanalys, numeriska metoder för (icke)linjära
+ekvationssystem, minsta kvadratmetoden, polynominterpolation,
+splines, Bezierkurvor, numerisk
+integration, egenvärdesberäkning. Diskret Fouriertransform,
+diskret cosinustransform.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Slutbetyget baseras på hemuppgifter och skriftlig tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: FMAB20 Linjär algebra, FMAA01/05 Endimensionell analys, FMAB30 Flerdimensionell analys samt kunskaper i MATLAB.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FMN041, FMN050, FMN081, FMNF01, FMN011, FMNF10
+Kurslitteratur
+
+Sauer, T: Numerical Analysis, 2nd edition. Pearson Education, 2013, ISBN: 9781292023588. Andra utgåvor av andra upplagan, med annat ISBN-nummer, går också bra.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Anders Holst, Studierektor@math.lth.se
+Kursadministratör: Patricia Felix Poma de Kos, patricia.felix_poma_de_kos@math.lth.se
+Hemsida: http://www.maths.lu.se/utbildning/numerisk-analys/courses-in-numerical-analysis/
+
+
+

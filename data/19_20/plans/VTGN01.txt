@@ -1,0 +1,175 @@
+
+Kursplan 2019/20 VTGN01
+
+
+
+
+
+Kursplan för
+Fältundersökningsmetodik
+Field Investigation Methodology
+VTGN01, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning V
+Beslutsdatum: 2019-04-01
+Allmänna uppgifter
+Valfri för: V5-at, W5-ms
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Bakgrund
+Fältundersökningar utgör ett av de viktigaste och kanske mest
+handfasta momenten i förundersökningsprocessen, eftersom de ofta
+utförs i projektens tidigaste skede, och gör så att de mest
+grundläggande misstagen kan undvikas. Undersökningarna syftar
+bland annat till att ta reda på var en anläggning lämpligast
+placeras, samt vilka förutsättningar som påverkar utförande,
+design och funktion samt anläggningens driftsekonomi. Det finns
+också en omedelbar koppling mellan innehållet i för- och
+fältundersökningarna och uppställda miljökrav.
+Förundersökningar i fält är idag i huvudsak en rationell och
+högteknologisk process av mycket stor betydelse för hela
+byggprocessen. Kännedom om för- och fältundersökningar är
+därför av vikt inte bara för den som skall utföra dem, utan
+för alla som arbetar med anläggningsprojekt.
+Kursen syfte
+I kursen Fältundersökningsmetodik är avsikten att ge fördjupad
+kunskap om förundersökningens betydelse och innehåll med
+speciell vikt lagd på fältundersökningar. Härvid läggs stor
+vikt vid den iterativa arbetsmetodiken med stegvis förfining och
+förbättring, liksom betydelsen av ett multidisciplinärt och
+hållbarhetsinriktat förhållningssätt i syntesarbetet.
+Speciellt betonas den geologiska modellens betydelse för
+förundersökningsprocessen som sådan och dess betydelse i bygg-,
+anläggnings- och miljöundersökningar, samt geofysiska och
+geotekniska fältmetoders tillämpning inom ingenjörsgeologi,
+geoteknik, hydrogeologi, grundvattenskydd och förorenad mark.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna förstå hur man på ett modernt sätt insamlar, tolkar
+och redovisar geofysiska och geotekniska data.
+kunna definiera och beskriva principerna för de metoder som
+ingår i kursen.
+kunna redogöra för metodernas möjligheter och begränsningar
+i ingenjörs- och miljötillämpningar.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna skapa och tillämpa konceptuella underlag för planering
+och utförande av fältundersökningar, med utgångspunkt i de
+geologiska förutsättningarna.
+kunna utforma ett förundersökningsprogram med utgångspunkt i
+geologiska, hydrogeologiska och jord- och bergmekaniska
+förutsättningar sammanvägt med de bygg-
+och anläggningstekniska samt miljömässiga krav som varje
+projekt innehåller.
+kunna använda och förstå grundprinciperna för simulerings-
+och utvärderingsprogram för geofysiska metoder.
+för utvalda geofysiska och geotekniska metoder kunna samla in
+data i fält, samt bearbeta och tolka dessa.
+kunna föreslå relevanta metoder för att verifiera
+mätresultat från indirekta mätmetoder t.ex. geofysiska metoder.
+Här avses grundläggande undersökningsborrning, provtagning,
+in-situ mätteknik och geofysisk borrhålsmätning.
+kunna muntligt och skriftligt presentera resultat från en
+fältundersökning för tänkta målgrupper bestående av tekniker,
+beslutsfattare och allmänhet samt ge konstruktiv kritik på andras
+arbeten.
+visa förmåga att på ett självständigt sätt söka och
+värdera information med relevans för förundersökningar
+relaterade till anläggningsteknik, hydrogeologi, miljöskydd och
+liknande.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+ha insikt om förundersökningsprocessen som sådan och dess
+betydelse i bygg-, anläggnings- och miljöundersökningar.
+visa prov på att ha antagit ett förhållningssätt som
+betonar samverkan mellan representanter för olika yrkesgrupper vid
+planering och genomförande av projekt som berör geofysiska
+metoders tillämpning inom ingenjörsgeologi, geoteknik,
+hydrogeologi, grundvattenskydd och förorenad mark.
+visa förmåga att inse behovet av ett multidisciplinärt och
+hållbarhetsinriktat förhållningssätt och vikten av samtidig
+värdering av geotekniska, geologiska, hydrologiska, hydrauliska,
+kemiska, ekologiska, sociala och andra förutsättningar vid
+behandling av problemställningar kring mark, grundvatten och
+miljö.
+visa förmåga att reflektera över erhållna resultat och
+kunna identifiera behov av ytterligare underlag, kunskaper och
+förmågor.
+
+
+Kursinnehåll
+Geologisk konceptuell modellering och fältmetodik. Tillämpad
+geofysik inklusive teori, praktiskt utförande, modellerings- och
+tolkningsteknik, samt möjligheter och begränsningar. Tonvikten
+ligger på utvalda geofysiska metoder av särskilt intresse för
+ingenjörsmässiga grundvatten-, miljö- och
+infrastrukturtillämpningar, t.ex. geoelektriska, elektromagnetiska
+och seismiska metoder. Numerisk modellering och invers numerisk
+modellering. Borrnings- och provtagningsteknik med avseende på
+tillämpbarhet samt principer för klassificering och tolkning av
+jord- och bergprover. Integrerad användning och tolkning av
+information från olika delsteg och metoder i
+förundersökningsprocessen.
+Kursmålet uppnås genom en kombination av teoretisk
+fördjupning, praktisk projektplanering, fältundersökningar,
+rapportskrivning och muntlig presentation vid seminarium. Genom att
+väsentliga delar av kursen är upplagd som en verklig
+förundersökning ges träning i utvärderingsmetodik och
+redovisningsteknik. Härigenom tränas förmågan att kunna såväl
+granska som utarbeta beslutsunderlag för olika behov och
+utredningsnivåer i grundvatten-, miljö- och
+infrastrukturprojekt.
+Fältundersökningsprojektet består av etablering av
+förväntningsmodell, design av undersökningsstrategi,
+fältundersökning, databearbetning, tolkning och analys samt
+skriftlig och muntlig redovisning av resultaten. Vid fältarbetena
+utgör användningen av ingenjörsgeofysiska metoder en central
+del. Vidare ingår borrnings- och provtagningsteknik med geoteknisk
+bandvagn.
+Projektarbetet genomförs i grupper om 3-4 studenter. Under
+arbetet med tolkning och redovisning av fältundersökningarna
+finns täta möjligheter till lärarkonsultation. Skriftlig
+redovisning och muntlig redovisning samt diskussion sker vid ett
+obligatoriskt slutseminarium.
+ 
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Tentamen. Bedömning av en större obligatorisk projektuppgift med skriftlig och muntlig redovisning. Prestationerna på tentamen och projektuppgifterna vägs lika vid sättande av slutbetyg.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0111. Benämning: Tentamen. 
+Antal högskolepoäng: 4. Betygsskala: TH.  Prestationsbedömning: För godkänd tentamen krävs totalt minst 50% rätt. Det finns en teoridel som löses utan hjälpmedel och en problemdel där kurslitteraturen är tillåtet hjälpmedel. Det finns inga delkrav på prestation på de olika delarna.  Delmomentet omfattar: Grundläggande teori och tillämpning av kunskaper i fältundersökningsmetodik, tillämpad geofysik och geoteknisk verifieringsteknik. 
+Kod: 0211. Benämning: Projektuppgift. 
+Antal högskolepoäng: 3,5. Betygsskala: TH.  Prestationsbedömning: För godkänd projektuppgift krävs att den uppfyller ställda minimikrav vad avser såväl utformning och presentation, ämnesinnehåll samt bearbetning, hantering och värdering av insamlad information och andra data från de i kursen utförda fältundersökningarna såväl som från andra källor.  Delmomentet omfattar: Tillämpning av fältundersökningsmetodik och fältundersökningsmetoder, samt analys och syntes av geologiska, geofysiska och andra data från fältundersökningar i ingenjörs- och miljösammanhang. 
+Antagningsuppgifter
+Förkunskapskrav:
+VTGA01 Teknisk geologi eller VTGA05 Teknisk geologi
+FKFN35 Miljömätteknik eller FMIF05 Miljö och management eller FMIN40 Miljösystemanalys: Miljökonsekvensbeskrivning eller VTGF01 Bergmekanik och bergbyggnad eller VTGN10 Grundvattenteknik
+
+
+Förutsatta förkunskaper: FMAB30 Flerdimensionell analys.
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Styles, P.: Environmental Geophysics, EAGE publication # 7. EAGE publication, 2012, ISBN: 978-90-73834-33-0. Distribueras av institutionen.
+Övningsuppgifter. Kompendier och särtryck.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Universitetsadjunkt Peter Jonsson, Peter.Jonsson@tg.lth.se
+Hemsida: http://www.tg.lth.se/grundutbildning/kurser
+Övrig information: Kursen ingår i V-specialiseringen Anläggningsteknik liksom W-specialiseringen Miljösystem och är också mycket lämplig inom V- och W-specialiseringarna Vattenresurshantering samt för studenter som är intresserade av fältundersökningar av det som finns under markytan, till exempel i samband med bedömning av miljökonsekvenser vid infrastrukturprojekt. Kursen är lämplig för utbytesstudenter med lämpliga förkunskaper.
+
+
+

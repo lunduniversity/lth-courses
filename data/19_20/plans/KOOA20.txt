@@ -1,0 +1,111 @@
+
+Kursplan 2019/20 KOOA20
+
+
+
+
+
+Kursplan för
+Inledande kemi
+Introductory Chemistry
+KOOA20, 7,5 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning B/K
+Beslutsdatum: 2019-03-29
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: B1, K1
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Att ge en grundläggande förståelse för atomer och molekylers
+uppbyggnad och interaktion med varandra, samt ge en grund för
+vidare kemistudier. Att ge nödvändig kunskap för det kemiska
+fackspråket på såväl engelska som svenska.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+Systematiskt kunna ge namn respektive ange kemiska formler för
+oorganiska och organiska substanser samt använda grundläggande
+kemiska begrepp och termer
+Känna till enklare modeller för atomens uppbyggnad,
+elektronkonfigurationer och kopplingen av dessa till periodiska
+systemet samt orbitalteori
+Ha grundläggande kunskap om metoder för kemisk analys
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+Utföra enklare laboratoriearbete och göra riskanalys i
+samband med dessa
+Avgöra enklare molekylers geometri och ur detta dra slutsatser
+om intermolekylära krafter och deras betydelse för fysikaliska
+egenskaper hos fasta och flytande ämnen
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+Utvärdera risker förknippade med kemikalier, både i
+laboratorie och i yttre miljö
+Ta upp, korrekt redovisa och utvärdera resultat från
+laborationsförsök.
+
+
+Kursinnehåll
+Med anknytning till verklighetsnära tillämpningar kommer
+fundamentala kemiska fenomen att belysas och förklaras.
+Följande moment behandlas:
+
+Grundläggande kemiska begrepp och nomenklatur
+Enklare laboratoriearbete
+Atomers uppbyggnad och periodiska systemet
+Kemiska formler, reaktioner och stökiometri
+Gaser, vätskor och fasta faser
+Fasomvandlingar
+Lösningar
+Kemisk bindning
+Molekylgeometrier
+Intermolekylära krafter: dispersionskrafter, vätebindningar,
+dipol-dipol, jon-dipol
+Risker med kemiskt laboratoriearbete
+Kemi och miljöfrågor
+
+Arbete med problemlösning spelar en stor roll vid inlärning av
+kursen.
+Kurslitteraturen är på engelska och ska ses som en
+introduktion till det engelska språket med naturvetenskaplig och
+fackmässig inriktning.
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: Kontinuerlig examination. Godkänd inlämningsuppgift, duggor, laborationer och brandskyddsutbildning ger betyg G. Ej avklarad kontinuerlig examination kräver skriftlig tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Laborationer. 
+Antal högskolepoäng: 1,5. Betygsskala: UG.  Prestationsbedömning: Aktivt deltagande i laborationer samt godkänd redovisning av laborationerna.  Delmomentet omfattar: Obligatoriska laborationer som illustrerar kursinnehållet. 
+Kod: 0217. Benämning: Obligatoriska moment. 
+Antal högskolepoäng: 6. Betygsskala: UG.  Prestationsbedömning: Kontinuerlig examination: Godkänd inlämningsuppgift krävs. Godkänd inlämningsuppgift och duggor ger betyg G. Ej avklarad kontinuerlig examination kräver skriftlig tentamen.  Delmomentet omfattar: Obligatoriska tester och inlämningsuppgift. 
+Kod: 0317. Benämning: Brandskyddsutbildning. 
+Antal högskolepoäng: 0. Betygsskala: UG. 
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: KOOA01, KOOA05, KOO101, KOK012, KOOA10
+Kurslitteratur
+
+Atkins, P, Jones, L, Laverman, L: Chemical Principles: The Quest for Insight, 7:e upplagan. Freeman , 2016, ISBN: 9781319154196.
+Aylward, G & Findlay, T: SI Chemical Data, 7:e upplagan. Wiley , 2014, ISBN: 9780730302469.
+Laborationshandledning.
+Ellervik, U, Kann, N och Sterner, O: Organisk kemi, 3:e upplagan. Studentlitteratur, 2014, ISBN: 978-91-44-09991-0.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Ulf Ellervik, ulf.ellervik@chem.lu.se
+Kursansvarig: Jan-Olle Malm, jan-olle.malm@chem.lu.se
+Hemsida: http://www.kilu.lu.se/cas/education/undergraduate_education/
+
+
+

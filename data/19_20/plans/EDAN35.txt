@@ -1,0 +1,89 @@
+
+Kursplan 2019/20 EDAN35
+
+
+
+
+
+Kursplan för
+Högpresterande datorgrafik
+High Performance Computer Graphics
+EDAN35, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning C/D
+Beslutsdatum: 2019-04-01
+Allmänna uppgifter
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Syftet med kursen är att studenterna skall få grundläggande
+förståelse för tredimensionell grafik som använder
+hårdvaruacceleratorer. Dessutom skall studenterna förstå hur
+grafikalgoritmer och hårdvara fungerar och kunna tillämpa detta i
+praktiken.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna analysera grafikarkitekturer och kunna göra en hypotes
+om hur en ny algoritm kan åstadkomma förbättringar
+kunna beskriva grafikarkitekturer
+ha kunskaper om aktuella APIer för grafiska
+hårdvaruacceleratorer
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna implementera tredimensionella tillämpningar på
+hårdvaruacceleratorer genom att använda existerande APIer
+kunna designa, utveckla och som mjukvara implementera
+algoritmer som är ämnade för grafikhårdvara
+kunna bedöma och värdera grafikarkitekturer
+kunna muntligt förklara lösningar på uppgifter
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna leta upp information om algoritmer och kritiskt bedöma
+dem, och därefter kunna implementera dem och testa om de ger goda
+resultat
+
+
+Kursinnehåll
+Grafikarkitekturer, shaderprogrammering, APIer för grafik,
+kantfunktioner, perspektivkorrekt interpolering, texturering,
+cachning, filtrering, fixpunktmatematik, texturkompression,
+prestandaanalys, antiviknings- och gallringsalgoritmer.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen och obligatoriska uppgifter. För att få deltaga i tentamen måste de obligatoriska uppgifterna vara fullgjorda. Slutbetyg på kursen baseras på resultatet av den skriftliga tentamen (50%), laborationer(20%) och projekt(30%).
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0114. Benämning: Tentamen. 
+Antal högskolepoäng: 4. Betygsskala: TH.  Prestationsbedömning: För att få delta i tentamen krävs att de obligatoriska momenten är godkända. Slutbetyg på kursen baseras på resultatet av den skriftliga tentamen, laborationer och projekt.  Delmomentet omfattar: Tentamen. 
+Kod: 0214. Benämning: Projekt. 
+Antal högskolepoäng: 2. Betygsskala: TH.  Prestationsbedömning: För godkänt betyg krävs fullgjorda projekt. 
+Kod: 0314. Benämning: Laborationer. 
+Antal högskolepoäng: 1,5. Betygsskala: UG.  Prestationsbedömning: För godkänt betyg krävs fullgjorda laborationer.  Delmomentet omfattar: Laborationer 
+Antagningsuppgifter
+Förkunskapskrav:
+EDA221/EDAF80 Datorgrafik
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: EDA075
+Kurslitteratur
+
+Publicerade papper av ledande forskare inom området.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Michael Doggett, Michael.Doggett@cs.lth.se
+Hemsida: http://cs.lth.se/edan35
+
+
+

@@ -1,0 +1,100 @@
+
+Kursplan 2019/20 EXTA65
+
+
+
+
+
+Kursplan för
+Kognition
+Cognition
+EXTA65, 4,5 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning C/D
+Beslutsdatum: 2019-04-01
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: C1, D1
+Valfri för: BME4, E4, F4, F4-mai, Pi4
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursen syftar till att ge grundläggande kunskaper om människan
+som kunskaps- och informationsvarelse samt till att ge en inblick i
+kognitionsvetenskap som disciplin.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+ha kännedom om grundläggande kognitionsvetenskapliga begrepp
+och om de olika beskrivningsnivåer som är relevanta vid studier
+av kunskapsprocesser i människan: den neurologiska, den
+psykologiska, den sociala och den kommunikativa.
+hantera delar av den kognitionsvetenskapliga
+begreppsapparaten
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+utveckla sin förmåga att identifiera och diskutera frågor
+som rör människan som informationsvarelse, i synnerhet i
+människa-teknik-sammanhang
+utveckla sin förmåga att reflektera över tekniken och dess
+utformning och kunna resonera om konsekvenser av ett
+teknikcentrerat respektive ett människocentrerat perspektiv på
+utformning av teknik
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+ha insikt i relevansen av perspektiv på tekniken som
+kompletterar det tekniska/rationalistiska och uppnå ökad
+förståelse för betydelsen av kunskap om mänsklig kognition vid
+design av olika tekniska produkter. Hon/han skall uppnå ökad
+insikt om komplexiteten i den mänskliga kognitionen.
+
+
+Kursinnehåll
+Kursen introducerar grundläggande kognitionsvetenskapliga
+begrepp som perception, inlärning och minne, begreppsbildning,
+kommunikation, osv. Den visar på de olika beskrivningsnivåer som
+används vid studier av informationsprocesser i människan: den
+neurokognitiva (med bland annat neurala nätverksmodeller), den
+psykologiska, den socialkognitiva och den kommunikationsteoretiska
+beskrivningsnivån. Den sistnämnda innefattar såväl vanlig
+mänsklig dialog som teknikens roll för mänsklig kommunikation
+samt människa-dator-kommunikation.
+Den avslutande delen av kursen går ut på att tillämpa, och
+samtidigt fördjupa, kunskaperna om kognition. Här studeras
+frågor om utformning av ting i människans omgivning, i synnerhet
+tekniska system och produkter. En kort introduktion till området
+människa-maskininteraktion i förhållande till
+kognitionsvetenskapen ges, samt en introduktion till ett kognitivt
+perspektiv på design. Ett viktigt tema är förhållandet mellan
+automatiska respektive medvetna kognitiva processer och vilken roll
+dessa processer spelar i människa-teknik-sammanhang. Ett antal
+designprinciper, och den kognitiva grunden för dessa,
+behandlas.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftliga inlämningsuppgifter samt obligatoriska moment i form av laborationer och övningar.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: TEK210
+Kurslitteratur
+
+Norman, D A: The Design of Everyday Things, Revised and Expanded Edition. Doubleday/Currency, New York, 2013.
+Artikelkompendium.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Annika Wallin, annika.wallin@lucs.lu.se
+Hemsida: http://www.fil.lu.se/kurs/EXTA65/HT2019/
+
+
+

@@ -1,0 +1,101 @@
+
+Kursplan 2019/20 EXTG65
+
+
+
+
+
+Kursplan för
+Ekonometri
+Econometrics
+EXTG65, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning I
+Beslutsdatum: 2019-04-01
+Allmänna uppgifter
+Valfri för: I4
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Syftet med kursen är att introducera grundläggande
+ekonometrisk teori och att ge studenterna färdigheter i att
+hantera grundläggande ekonometriska metoder.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+kunna:
+
+samla in och analysera data,
+förklara hur samband mellan ekonomiska variabler kan
+analyseras med hjälp av statistisk regressionsanalys,
+beskriva regressionsanalysens olika delar,
+härleda och formulera testbara ekonomiska hypoteser,
+ge regressionsanalysens resultat både en statistisk och
+ekonomisk tolkning,
+orientera sig i några mer avancerade ekonometriska
+metoder,
+generalisera sina kunskaper till ekonomiska problemställningar
+som inte behandlats under kursen,
+förstå relevant empirisk och ekonometrisk forskning.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+ha förmåga att självständigt:
+ 
+
+tillämpa regressionsanalysens verktyg på olika ekonomiska
+problem,
+testa ekonomiska hypoteser,
+utvärdera rimligheten i regressionsmodellens antaganden,
+implementera regressionsanalysen genom ett ekonometriskt
+mjukvaruprogram.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+utveckla förmåga till vidare studier inom ämnet samt söka
+och utvärdera information med hög grad av självständighet.
+Studenten ska även utveckla förmåga att på egen hand skriva en
+empiriskt inriktad uppsats.
+
+Kursinnehåll
+Kursen inleds med att ge en introduktion till deskriptiv
+statistik, sannolikhetslära och inferens. I övrigt behandlar
+kursen problem med att etablera och kvantifiera samband mellan
+olika ekonomiska variabler liksom grundläggande ekonometrisk
+metod. Huvudfokus ligger på den statistiska regressionsanalysen,
+men även mer avancerade metoder inom exempelvis tidserieanalys
+berörs. En annan viktig del av kursen är de praktiska
+datorövningarna, vilka är tillämpningar på såväl mikro- och
+makroekonomi som finansiell ekonomi. Datorövningarna utförs på
+persondator med hjälp av ett ekonometriskt mjukvaruprogram.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examinationen är skriftlig och äger rum vid slutet av kursen. Ytterligare examinationstillfälle anordnas i nära anslutning härtill. Datorövningarna är poänggivande. Poängen får tillgodoräknas vid examinationstillfället under innevarande termin. Andra examinationsmoment kan förekomma.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+FMS012 Matematisk statistik, allmän kurs eller FMSF45 Matematisk statistik, allmän kurs
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: NEKB23, NEKB26, NEKG31, TEK190
+Kurslitteratur
+
+Dougherty, Chrsitopher: Introduction to Econometrics, femte upplagan. Oxford University Press, 2016.
+Kompletterande material.
+Ett av dessa tre program: 
+EViews 8/ EViews 9.5 Student version , Stata
+eller Gretl.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Peter Jochumzen, peter.jochumzen@nek.lu.se
+Hemsida: http://www.nek.lu.se
+Övrig information: Kursens ges av Nationalekonomiska institutionen och samläses med NEKG31. Tentamenstid meddelas av kursens föreläsare.
+
+
+

@@ -1,0 +1,122 @@
+
+Kursplan 2019/20 KBKN01
+
+
+
+
+
+Kursplan för
+Enzymteknologi
+Enzyme Technology
+KBKN01, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning B/K
+Beslutsdatum: 2019-03-29
+Allmänna uppgifter
+Huvudområde: Bioteknik. 
+Alternativobligatorisk för: MBIO1, MLIV1
+Valfri för: B4-mb, B4-pt
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Kursen syfte är att ge avancerade kunskaper i teknisk
+användning av enzymer och att visa hur enzymers katalysförmåga
+kan förändras och förbättras för att anpassas till tekniska
+tillämpningar.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+beskriva och värdera metoder för modifiering av enzymer
+avsedda för teknisk använding
+beskriva och värdera metoder för enzymimmobilisering och för
+karakterisering av
+immobiliserade enzymers egenskaper
+beskriva och värdera metoder för enzymers användning i
+icke-konventionella medier
+beskriva teknisk användning av enzymer
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+praktiskt genomföra enzymimmobilisering, karakterisering av
+immobiliserade enzymers egenskaper samt enzymanvändning i
+organiska lösningsmedel
+designa, genomföra och evaluera enzymatiska
+transformationer
+skriftligt rapportera genomförd laboration, varvid försök
+och resultat beskrivs och
+kommenteras och där avikelser från förväntat resultat
+analyseras och diskuteras.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+i grupp muntligt diskutera från litteraturen hämtade
+vetenskapliga rapporter.
+analysera, tolka och kritiskt värdera vetenskapliga rapporter
+relaterade till enzymteknologi
+
+
+Kursinnehåll
+Kursens teoridel beskriver hur biovärldens katalysatorer,
+enzymer, kan utnyttjas tekniskt i de mest skilda sammanhang.
+Exempel på användningsområden är bioanalys,
+livsmedelsförädling, tvättmedel, textilbehandling och
+kemikalieomvandlingar.
+Från tidigare kurser är enzymers allmänna egenskaper kända.
+Här beskrivs nu hur enzymmolekyler kan modifieras och få
+förbättrade egenskaper för teknisk användning. Exempel på
+sådana modifieringar är genetisk förändring, kemisk modifiering
+och immobilisering. Immobilisering, dvs hur enzymmolekyler fästs
+vid bärarmaterial, behandlas ingående. Likaså poängteras
+immobiliserade enzymers kinetiska egenskaper och olika sätt att
+kvantifiera dessa egenskaper.
+Enzymer verkar naturligt i en vattenmiljö i cellen. Under vissa
+förutsättningar kan man få enzymer att verka effektivt även i
+en vattenfri miljö eller i en miljö med låg vattenaktivitet.
+Därmed öppnar sig unika möjligheter till en effektiv,
+enzymbaserad syntes av ett stort antal föreningar, inklusive
+kirala substanser. Sådan användning av enzymer i
+icke-konventionella lösningsmedel behandlas ingående i
+kursen.
+Laborationsverksamheten har två delar. En del där
+grundläggande tekniker om immobilisering övas och en del med
+nära forskningsanknytning där oprövade experiment med enzymer
+designas och genomförs.
+I kursen ingår även en lärarledd litteraturdiskussion i
+vilken varje student har förberett sig genom att läsa relevant
+litteratur och sedan aktivt deltar.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen samt laborationsrapporter och litteraturdiskussion.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Enzymteknologi, teori. 
+Antal högskolepoäng: 4,5. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen och godkänd litteraturdiskussion.  Delmomentet omfattar: Kursen beskriver hur biovärldens katalysatorer, enzymer, kan utnyttjas tekniskt i de mest skilda sammanhang. Exempel på användningsområden är bioanalys, livsmedelsförädling tvättmedel, textilbehandling och kemikalieomvandlingar. Från tidigare kurser är enzymers allmänna egenskaper kända. Här beskrivs nu hur enzymmolekyler kan modifieras och få förbättrade egenskaper för teknisk användning. Exempel på sådana modifieringar är genetisk förändring, kemisk modifiering och immobilisering. Immobilisering, dvs hur enzymmolekyler fästs vid bärarmaterial, behandlas ingående. Likaså poängteras immobiliserade enzymers kinetiska egenskaper och olika sätt att kvantifiera dessa egenskaper. Enzymer verkar naturligt i en vattenmiljö i cellen. Under vissa förutsättningar kan man få enzymer att verka effektivt även i en vattenfri miljö eller i en miljö med låg vattenaktivitet. Därmed öppnar sig unika möjligheter till en effektiv, enzymbaserad syntes av ett stort antal föreningar, inklusive chirala substanser. Sådan användning av enzymer i icke-konventionella lösningsmedel behandlas ingående i kursen. 
+Kod: 0217. Benämning: Enzymteknologi, laborationer. 
+Antal högskolepoäng: 3. Betygsskala: UG.  Prestationsbedömning: Laborationsrapporter.  Delmomentet omfattar: Laborationsverksamheten har två delar. En del där grundläggande tekniker om immobilisering övas och en del med nära forskningsanknytning där oprövade experiment med enzymer i organiska lösningsmedel designas och genomförs. 
+Antagningsuppgifter
+Förkunskapskrav:
+KBK011 Biokemi eller KBKA10 Biokemi
+
+
+Begränsat antal platser: 32
+Urvalskriterier: Avklarade högskolepoäng inom programmet. Förtur ges till studenter vars program har kursen listad i läro- och timplanen.
+Kursen överlappar följande kurser: KBK031
+Kurslitteratur
+
+Adlercreutz, P., Danielsson, B., Larsson, P.-O., Månsson, M.-O., Ramanathan, K.: : Kompendium: Enzyme Technology.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Professor Patrick Adlercreutz, Patrick.Adlercreutz@biotek.lu.se
+Kursansvarig: Dr Cedric Dicko, cedric.dicko@tbiokem.lth.se
+Hemsida: http://www.tbiokem.lth.se/utbildning/enzymteknologi-75-hp/
+
+
+

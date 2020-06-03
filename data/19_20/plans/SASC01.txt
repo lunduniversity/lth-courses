@@ -1,0 +1,91 @@
+
+Kursplan 2019/20 SASC01
+
+
+
+
+
+Kursplan för
+En Introduktion till Informationssäkerhet
+An Introduction to Information Security
+SASC01, 7,5 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning C/D
+Beslutsdatum: 2019-04-01
+Allmänna uppgifter
+Fördjupning: Grundnivå, har endast gymnasiala förkunskapskrav.
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursen syftar till att ge introduktion till begrepp och den
+teknik som används inom data-, internet- och webbsäkerhet.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+ 
+
+förstå designbeslut som är relaterade till
+informationssäkerhet
+förstå grundläggande säkerhetsprinciper på internet
+förstå hur säkerheten kan knäckas och förbigås
+förstå vanliga metoder för att skydda datorer och system mot
+attacker
+
+ 
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+ 
+
+kunna diskutera säkerhetsaspekter på ett informerat
+sätt
+kunna skilja på olika säkerhetsåtgärder och förklara var
+och varför de används
+kunna analysera inverkan och konsekvenser av att använda
+specifika säkerhetslösningar
+
+ 
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+ 
+
+kunna föreslå och använda de mest lämpade metoder och
+lösningar vid design och användande av säkerhetsrelevanta
+lösningar
+förstå möjligheter och begränsningar med
+informationssäkerhet och i vilken utsträckning säkerhet kan
+uppnås på internet
+
+ 
+
+Kursinnehåll
+Kursen ger en översikt av ett flertal ämnen och även detaljer
+inom några av dessa. Ämnen som ingår i kursen är
+säkerhetsterminologi, kryptografi, digitala certifikat,
+emailsäkerhet, DNS-arkitektur och säkerhet, sessionssäkerhet,
+säkerhet i webbapplikationer, fjärrinloggning och lokal
+inloggning, internetanonymitet, säkerhet i operativsystem och
+TLS.
+
+Kursens examination
+Betygsskala: UV - (U,G,VG) - (Underkänd, Godkänd, Väl godkänd)
+Prestationsbedömning: Godkända hemuppgifter ger betyget godkänt (G). För Väl Godkänd (VG) så krävs även en godkänd skriftlig inlämningsuppgift.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+Grundläggande behörighet (dispens kan ges för svenska för utbytesstudenter)
+
+
+Begränsat antal platser: Nej
+Kurslitteratur
+
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Martin Hell, martin.hell@eit.lth.se
+Hemsida: http://www.eit.lth.se/kurs/sasc01
+
+
+

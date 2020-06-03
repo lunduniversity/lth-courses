@@ -1,0 +1,108 @@
+
+Kursplan 2019/20 MMTF05
+
+
+
+
+
+Kursplan för
+Produktion och Material
+Production and Materials
+MMTF05, 5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning M
+Beslutsdatum: 2019-03-27
+Allmänna uppgifter
+Obligatorisk för: MID1
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Syftet med kursen består i huvudsak av två olika delar.
+Första delen behandlar olika materialytors funktionella egenskaper
+med tyngdpunkt på metoder och tekniker för att kunna generera en
+viss textur eller mönster på ytor. Den andra delen av kursen
+syftar till att förmedla en användbar metodik vid material- och
+metodval så att de uppställda produktkraven kan realiseras.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna utföra ett systematiskt material- och metodval genom att
+använda en metodik innehållande begreppen översättning
+(translation), urval (screening) och rangordning (ranking).
+på ett systematiskt sätt kunna använda begreppen funktion,
+randvillkor, mål och fria variabler vid översättning av
+produktspecifika designkrav till materialrelaterade
+parametrar.
+optimera urvalsprocessen genom härledning och formulering av
+materialindex.
+förstå och kunna skapa materialegenskapsdiagram samt använda
+dessa tillsammans med urvalskriterier för inbördes
+rangordning.
+formulera sökvillkor innehållande multipla randvillkor och
+mål.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna utföra avancerade material- och metodval med hjälp av
+den kommersiella programvaran CES EduPack.
+kunna utföra kritiska bedömningar samt formulera och
+analysera förslag på fungerande metod- och materialtekniska
+lösningar.
+kunna värdera och utveckla materialtekniska lösningar i
+samband med design och konstruktion samt tillämpa kunskaper från
+tidigare kurser.
+
+
+Kursinnehåll
+Material- och metodval är i sitt sammanhang multidisciplinär,
+vilket innebär att kunskaper från hållfasthetslära,
+materialteknik och tillverkningsmetoder krävs för att kunna
+utföra ett optimalt val. Kursen syftar till att förmedla
+tillämpad kunskap avseende metodik och grunder för avancerade val
+av material och tillverkningsmetod, dels genom teorier men också
+praktiskt genom användning av programvaran CES EduPack.
+Programvaran innehåller omfattande databaser med parametrar och
+egenskaper som är viktiga vid ett optimerat material- och
+metodval. Parametrar och egenskaper som kan styra en produkts
+avgörande materialval kan exempelvis vara mekaniska laster, kemisk
+miljö, temperatur, etc. Materialvalet samt produktens design styr
+i sin tur vilka möjliga tillverkningsmetoder som kan användas.
+Kursinnehållet är i korthet:
+ 
+
+Definitioner och terminologi
+Design och dess process
+Konstruktionsmaterial och dess egenskaper
+Materialegenskapsdiagram (Ashby maps)
+Arbetsmetodik vid material- och metodval
+
+Kursens genomförande bygger på ett antal
+föreläsningstillfällen, där grunderna för material- och
+metodval behandlas, samt självständigt arbete med
+inlämningsuppgifter och projektarbeten. För ökad förståelse
+kompletteras föreläsningarna med seminarieövningar där några
+typexempel behandlas.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Löpande examination under kursens gång med obligatoriska inlämningsuppgifter, CES-färdighetsprov och projektarbeten. En skriftlig tentamen avslutar kursen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: MMTF01 Produktion eller likvärdig kurs.
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Ashby, M. F.: Materials Selection in Mechanical Design, Fourth edition. Elsevier Butterworth-Heinemann, 2011, ISBN: 978-1-85617-663-7.
+Av institutionen sammanställt övnings- och projektunderlag.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Professor Jinming Zhou, jinming.zhou@iprod.lth.se
+Hemsida: http://www.iprod.lth.se
+
+
+

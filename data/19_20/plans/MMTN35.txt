@@ -1,0 +1,91 @@
+
+Kursplan 2019/20 MMTN35
+
+
+
+
+
+Kursplan för
+Tillämpad FEM - projektkurs
+Applied FEM - Project
+MMTN35, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning M
+Beslutsdatum: 2019-03-27
+Allmänna uppgifter
+Valfri för: M4, MD4
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+FEM (Finita Element Metoden) är ett allmänt
+ingenjörshjälpmedel som bl.a. används vid utveckling av
+produkter och tillverkningsprocesser. Kursen syftar till att ge
+studenterna kunskap och förmåga att arbeta med kommersiell
+FEM-programvara på tillämpade problem, vilket innefattar
+formulering av indata och tolkning av beräkningsresultat.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+utifrån ett problem, kunna skapa en geometrimodell för
+FE-analys.
+kunna formulera erforderliga materialegenskaper för en
+FEM-modell.
+kunna ansätta laster och randvillkor på en geometrimodell
+för FE-analys.
+i grupp kunna analysera en verklig problemställning för att
+ta fram erforderligt underlag för FEM-modellering och
+FE-analys.
+i grupp kunna göra en rimlighetsbedömning av de erhållna
+beräkningsresultaten från en FE-analys.
+i grupp kunna dokumentera och beskriva en genomförd FE-analys
+i en teknisk rapport.
+i grupp kunna ge en muntlig presentation av en genomförd
+FE-analys inför en tekniskt kunnig publik.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+självständigt kunna arbeta med kommersiell programvara för
+att utföra FE-analyser.
+
+
+Kursinnehåll
+Kursen är fokuserad på praktisk användning av finita element metoden (FEM) och behandlar
+endast elementär FEM-teori, där dock centrala begrepp och
+funktioner behandlas och förklaras. FE-analyserna genomförs med
+kommersiell programvara. Olika problemtyper såsom statiska
+linjära och olinjära mekaniska, termiska, dynamiska
+(frekvens/egensvängning) samt magnetiska flödesproblem behandlas
+i den praktiska delen av kursen. De olika problemtyperna
+struktureras avseende geometri, material, laster och randvillkor
+för att kunna representeras i en FEM-modell. Tillvägagångssätt
+vid samt kvalitetsaspekter på FEM-beräkningar diskuteras och
+resultatsverifikation görs vid vissa analyser. Ett större projekt
+som behandlar något av avdelningens forskningsområden genomförs
+och redovisas under andra halvan av kursen. Detta större projekt
+ger dessutom möjlighet till övning i discipliner som att tränga
+in i ett nytt kunskapsområde samt skriftlig och muntlig
+framställan.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Löpande examination under kursens gång av obligatoriska moment bestående av inlämningsuppgifter, redovisningsuppgifter, gästföreläsningar och ett modellerings- och analysprov som utförs självständigt. Om modellerings- och analysprovet ej godkänns kommer ytterligare provtillfällen att ges under kursens gång. I kursen ingår ett obligatoriskt projektarbete som poängbedöms avseende utfört analysarbete och redovisning i både skriftlig och muntlig form. För ytterligare högre betyg ges även möjlighet att skriva en frivillig hemtentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: FMAA05/FMAA01 Endimensionell analys, FMA420/FMAB20 Linjär algebra, FMA430/FMAB30 Flerdimensionell analys och FHL013/FHLF15 Hållfasthetslära, allmän kurs.
+Begränsat antal platser: Nej
+Kursen kan ställas in: Om färre än 8 anmälda.
+Kurslitteratur
+
+Av institutionen sammanställt kursmaterial i form av inlämningsuppgifter och projektunderlag.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Hans Walter, hans.walter@iprod.lth.se
+Hemsida: http://www.iprod.lth.se
+
+
+

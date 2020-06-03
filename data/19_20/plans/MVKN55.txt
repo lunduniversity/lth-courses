@@ -1,0 +1,97 @@
+
+Kursplan 2019/20 MVKN55
+
+
+
+
+
+Kursplan för
+Avancerade förbränningsmotorkoncept
+Advanced Combustion Engine Concepts
+MVKN55, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning M
+Beslutsdatum: 2019-03-27
+Allmänna uppgifter
+Valfri för: M4-tt
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Målet med kursen är att, utgående från utmaningar för
+förbränningsmotorn, presentera sätt att förbättra
+förbränningsmotorn, avancerade koncept och alternativ; och
+tillhandahålla verktyg för att undersöka dem.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna förklara hur avancerade otto- och dieselmotorer är
+utformade och hur man bedömer deras styrkor och svagheter
+kunna förklara resonemangen bakom alternativa motorkoncept och
+bränslen samt vilka utmaningar som måste övervinnas för att de
+ska bli konkurrenskraftiga.
+
+ 
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna använda kommersiell datorprogramvara för
+gasväxlingssimulering i förbränningsmotorer
+kunna utföra värmefrigörelseberäkning baserat på
+cylindertryckdata
+i grupp, med handledning, kunna utföra mätningar av
+cylindertryck som funktion av vevvinkel på en
+laboratoriemotor.
+
+ 
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna utvärdera en alternativ motordesign, -reglering eller
+-bränsle gällande dess styrkor och svagheter.
+
+ 
+
+Kursinnehåll
+Kursen utgår från de utmaningar som dagens
+förbränningsmotorer står inför. Förbränningsmotorns
+historiska utveckling presenteras för att förbättra
+förståelsen för dagens motortyper. Därefter presenteras
+experimentella och numeriska verktyg för att studera
+förbränningsmotorns processer och hur dessa kan användas för
+att studera och förbättra motorer. Avancerade motorkoncept och
+-bränslen diskuteras med deras respektive fördelar och
+utmaningar. Detta inkluderar avancerad motorstyrning. Slutligen
+presenteras en utblick mot vad fortsatt forskning och utveckling av
+motorer och bränslen kan leda till och hur förbränningsmotorn
+kan vara en del av en hållbar framtid.
+Förbränningsmotorn analyseras i laborationer.
+Simuleringsövningar kommer också att göras med syfte att ge
+studenterna förståelse för hur motorn svarar på ändringar av
+komponenter och driftsparametrar och även för att kunna köra
+motorer virtuellt. Normalt ges en gästföreläsning av en
+industrirepresentant.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen med skalan underkänt, 3, 4, 5 normalt motsvarande 40, 60 och 80 % av maximal poäng. För att äga rätt att delta i tentamina skall samtliga obligatoriska laborationer ha redovisats och godkänts skriftligt.
+
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: MVKN50 Introduktion till Förbränningsmotorer
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: MVK106
+Kurslitteratur
+
+Andersson, Johansson, Tunér, Tunestål: Combustion Engines. Ny bok som ges i form av kompendier första året.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Sebastian Verhelst, sebastian.verhelst@energy.lth.se
+Hemsida: http://www.energy.lth.se
+
+
+

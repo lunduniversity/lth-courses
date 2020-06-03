@@ -1,0 +1,94 @@
+
+Kursplan 2019/20 EIEF30
+
+
+
+
+
+Kursplan för
+Styr- och reglerteknik
+Automatic Control
+EIEF30, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning E
+Beslutsdatum: 2019-03-25
+Allmänna uppgifter
+Obligatorisk för: IDA2, IEA2
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursens syfte är att ge högskoleingenjören grundläggande
+kunskaper i Styr- och reglerteknik. Kursen ger också ingående
+förståelse för systemprinciper och implementering av
+PLC-baserade styrsystem samt analoga regulatorer.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna redogöra för grundläggande begrepp såsom dynamiska
+system, stegsvar, frekvenssvar, återkoppling och stabilitet
+kunna förklara funktionssättet hos enkla regulatorer som
+t.ex. PID-regulatorer
+kunna härleda matematiska beskrivningar av enklare fysikaliska
+system.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna konstruera PLC-program för enkla styrproblem
+kunna beräkna regulatorer för enkla reglersystem.
+
+
+Kursinnehåll
+
+Inledning: Exempel på styr- och reglersystem. Definitioner och
+grundbegrepp
+Jämförelse logiksystem/sekvenssystem: Strukturering av enkla
+styrproblem. Tillståndsmodellen
+Programmering av PLC-system: Kodning med reläsymboler. Kodning
+med logik (boolesk algebra). Kodning med funktionsdiagram
+(GRAFCET). Tidsfördröjningar. Räknare
+Dynamiska system: Beskrivning av dynamiska system med
+differentialekvationer. Laplacetransformation.
+Överföringsfunktion. Blockschema. Härledning av dynamiska
+modeller
+Analys av tidskontinuerliga system: Transientanalys.
+Frekvensanalys
+Analys av återkopplade system: Känslighet för
+parametervariationer. Statisk noggrannhet. Inverkan av störningar.
+Stabilitetsbegreppet. Metoder för stabilitetsundersökningar
+Dimensionering av reglersystem: PI- och PID-reglering
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Godkända laborationer och skriftlig tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Reglerteknik. 
+Antal högskolepoäng: 4,5. Betygsskala: TH.  Prestationsbedömning: Godkända laborationer och skriftlig tentamen. 
+Kod: 0217. Benämning: Styrteknik. 
+Antal högskolepoäng: 3. Betygsskala: UG.  Prestationsbedömning: Godkända laborationer. 
+Antagningsuppgifter
+Förkunskapskrav:
+Del 0117 Algebra i kursen FMAA50 Matematisk analys eller
+Del 0107 Algebra i kursen FMA645 Matematisk analys
+
+
+Förutsatta förkunskaper: FMAA50/FMA645 Matematisk analys och EITA40/ETE604 Krets- och mätteknik.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FRT602
+Kurslitteratur
+
+Bertil Thomas: Modern reglerteknik. Liber, 2008, ISBN: 9789147093236.
+Utdelat material.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Mats Lilja, Mats.Lilja@hbg.lth.se
+Hemsida: http://rauni.iea.lth.se:8074/eief30/styreg.htm
+
+
+

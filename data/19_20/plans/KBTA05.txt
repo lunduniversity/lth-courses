@@ -1,0 +1,96 @@
+
+Kursplan 2019/20 KBTA05
+
+
+
+
+
+Kursplan för
+Inledande bioteknik
+Introduction to Biotechnology
+KBTA05, 7,5 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning B/K
+Beslutsdatum: 2019-03-29
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: B1
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+att ge en introduktion till ämnet bioteknik
+att ge grundläggande kunskaper om proteiner, enzymer och
+gener
+att beskriva den moderna genteknikens möjligheter
+att visa på en del kommande moment inom bioteknikprogrammet
+att ge viss branschkännedom om bioteknisk industri samt exempel
+på aktuell forskning inom LTH
+att introducera labbarbete och projektarbete.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+känna till biotekniska produktionsmetoder
+kunna beskriva enzymers och mikroorganismers funktion i en
+bioteknisk process
+kunna beskriva proteiners struktur och dess betydelse för
+funktionen
+kunna beskriva human immunsystemet
+kunna beskriva hur livsmedel används inom bioteknik
+kunna förklara och beskriva enzymers sätt att fungera
+kunna förklara och beskriva genernas struktur och deras
+uttryck.
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+kunna skissa enkla flödesscheman för bioteknisk
+produktion.
+ha färdigheter i presentationsteknik samt arbete i grupp
+kunna utföra basala laborativa moment (inom bioteknik).
+ 
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+kunna formulera och diskutera frågor om en hållbar utveckling
+för produktion av biotekniska produkter som livsmedel, läkemedel
+och andra bioprodukter
+kunna diskutera etiska-, miljömässiga- och samhälleliga
+aspekter av bioteknik.
+ 
+
+Kursinnehåll
+Proteiners struktur och funktion. Enzymers egenskaper och
+kinetik. Genernas struktur och uppbyggnad och hur proteinerna
+bildas med generna som mall. Genteknik. Immunologi. Livsmedel och
+livsmedelteknik. Kommande moment inom bioteknikprogrammet tas upp
+som inspirationsföreläsningar. Översiktlig processkunskap:
+råvara, reaktor, reaktion, produkt, energi, miljö och hållbar
+bioteknisk produktion. Labsäkerhet och labbarbete.
+Gruppuppgift.
+ 
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen. Muntlig presentation. Aktivt deltagande. 
+
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 1701. Benämning: Projekt. 
+Antal högskolepoäng: 3,5. Betygsskala: UG.  Prestationsbedömning: Muntlig presentation, aktivt deltagande 
+Kod: 1702. Benämning: Teori. 
+Antal högskolepoäng: 4. Betygsskala: TH.  Prestationsbedömning: Skriftlig examen 
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: KKKA01, KKKA05, KBTA01, KBKA01
+Kurslitteratur
+
+Berg, J.M, Tymoczko, J.L., Gatto, G.J. and Stryer, L: Biochemistry. W.H. Freeman & Co, 2015, ISBN: 978-1-4641-2610-9.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Lieselotte Cloetens , lieselotte.cloetens@tbiokem.lth.se
+Kursansvarig: Carl Grey, carl.grey@biotek.lu.se
+Övrig information: Vissa delar kan vara på engelska.
+
+
+

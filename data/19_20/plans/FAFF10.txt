@@ -1,0 +1,120 @@
+
+Kursplan 2019/20 FAFF10
+
+
+
+
+
+Kursplan för
+Atom- och kärnfysik med tillämpningar
+Atomic and Nuclear Physics with Applications
+FAFF10, 15 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning N
+Beslutsdatum: 2019-03-28
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: F3
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursen är en viktig del i ett större kurspaket i fysik där
+man utgående från kvantmekanik behandlar såväl grundläggande
+atom- och kärnfysik som tekniska tillämpningar, t. ex.
+laserteknik och miljömätteknik. Kursen skall ge en bred
+orientering om mikrokosmos och kvantfysik, men samtidigt göra
+”djupdykningar” inom några valda delområden. Dels för att
+träna kvantmekanisk problemlösning och dels för att väcka
+intresse för fortsatta studier inom områdena. Genom att lyfta
+fram viktiga tekniska tillämpningar skall kursen visa på det
+ömsesidiga beroendet mellan teknik och vetenskap.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna beskriva atomens och atomkärnans uppbyggnad och
+struktur
+kunna genomföra vissa kvantmekaniska beräkningar på system
+med sfärisk symmetri
+kunna förklara och, i enklare fall, kvantitativt beräkna
+energistrukturen i en atom med kvantmekaniska metoder
+kunna beskriva strålning och dess växelverkan med
+materia
+ha erhållit insikt i hur olika fenomen inom atom- och
+kärnfysik kan ha samma kvantmekaniska bakgrund men av olika
+storleksordningar, t.ex. energinivåstrukturer samt emission och
+absorption av strålning
+ha erhållit en fördjupad insikt om det nära och ömsesidiga
+samspelet mellan teknik och naturvetenskap samt känna till och
+kunna redogöra för typiska tekniska tillämpningar av atom- och
+kärnfysik.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna applicera kvantmekanikens metoder för analys och
+beräkning av fysikaliska problemställningar inom området
+ha utvecklat sin förmåga att planera, genomföra och
+utvärdera experiment samt att presentera vetenskapliga resultat i
+skriftlig form.
+på egen hand söka vetenskaplig information som är relevant
+för en rapport inom kursens ämnesområde.
+förbättrat sin förmåga i skriftlig och muntlig
+presentation.
+
+
+Kursinnehåll
+Kvantmekanikens formalism, fördjupad från tidigare kurser.
+Harmonisk oscillator. Sfärisk symmetri och rörelsemängdsmoment.
+Väteliknande atomer. Approximativa metoder. Beräkningar på
+problemställningar inom atom- och kärnfysik.
+Atomers storlek och massa. Atommodeller. Elektronspinn och
+riktningskvantisering. Atomer i yttre magnetiska fält. Koppling av
+rörelsemängdsmoment, konfiguration, term, nivå och subnivå.
+Centralfältsapproximationen och flerelektronsystem. Uppbyggnaden
+av det periodiska systemet. Spontan emission och urvalsregler.
+Stimulerad emission och laserverkan. Spektroskopiska tekniker.
+Atomkärnors storlek, uppbyggnad och massa. Kärnmodeller. Stark
+och svag växelverkan. Radioaktivt sönderfall, alfa- beta- och
+gamma- emission. Kärnkollisioner. Neutronfysik och
+spallationskällor. Fission och fusion. Strålnings växelverkan
+med materia. Biologisk verkan och strålskydd. Kärnfysikalisk
+mätutrustning. Reaktorfysik, medicinska tillämpningar,
+radioaktivitet i omgivningen.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen, godkända laborationer och godkänt projekt. Betyget på kursen ges som det viktade medelvärdet av betygen på delmomenten Kvantformalism, Kärnfysik och Atomfysik.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0116. Benämning: Laborationer. 
+Antal högskolepoäng: 3,5. Betygsskala: UG.  Prestationsbedömning: Laborationerna kräver en skriftlig rapport som skrives parvis (man laborerar parvis).  Delmomentet omfattar: Experimentellt arbete i form av laborationer i små grupper, med obligatoriskt planerings- och redovisningsarbete. 
+Kod: 0216. Benämning: Projekt. 
+Antal högskolepoäng: 1,5. Betygsskala: UG.  Prestationsbedömning: Muntlig presentation av fördjupningsprojektet. Redovisas parvis.  Delmomentet omfattar: Fördjupade studier inom valfritt tillämpningsområde med direkt koppling till kursens innehåll i övrigt. Detta arbete kan antingen vara experimentellt eller teoretiskt. 
+Kod: 0316. Benämning: Kvantformalism. 
+Antal högskolepoäng: 3. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen. 
+Kod: 0416. Benämning: Kärnfysik. 
+Antal högskolepoäng: 2,5. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen. 
+Kod: 0516. Benämning: Atomfysik. 
+Antal högskolepoäng: 4,5. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen. 
+Antagningsuppgifter
+Förutsatta förkunskaper: FMAN55 Kontinuerliga system, FAFA55 Kvantfysikaliska koncept.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FAF270, FMFF15
+Kurslitteratur
+
+Ohlén, G: Kvantvärldens fenomen - teori och begrepp, Studentlitteratur 2005.
+Foot, C.J.: Atomic Physics. Oxford University Press 2005.
+Lilley, J. S. Nuclear physics: principles and applications (Chichester: Wiley, cop. 2001), ISBN 978-0471979364.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Per Johnsson, Per.Johnsson@fysik.lth.se
+Hemsida: http://www.atomic.physics.lu.se/education/compulsory-courses/faff10
+Övrig information: Kursen ges av ett lärarlag, under ledning av Per Johnsson. Föreläsningar och övningar inom kvantmekanik, kärnfysik och atomfysik varvas under kursens gång.
+Närvaro vid första föreläsningen är obligatoriskt för att få tillträde till kursen.
+
+
+

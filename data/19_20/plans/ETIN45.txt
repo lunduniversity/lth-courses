@@ -1,0 +1,131 @@
+
+Kursplan 2019/20 ETIN45
+
+
+
+
+
+Kursplan för
+DSP-design
+DSP-design
+ETIN45, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning E
+Beslutsdatum: 2019-03-25
+Allmänna uppgifter
+Valfri för: D4-dpd, E4-is, MSOC1
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Digital signalbehandling är ett område som blir allt viktigare
+i många produkter och system idag. När algoritmer inom detta
+område skall implementeras finns det ett stort antal möjliga
+alternativ beroende på krav angående till exempel realtid och
+effektförbrukning. Kursen skall ge studenterna en förståelse
+för hur olika implementeringsalternativ påverkar prestanda,
+flexibilitet och inte minst tid och kostnad för
+konstruktionsarbetet.
+Kursens övergripande mål är att lära ut systematiskt
+konstruktionsarbete av digitala signalprocessorer. Huvuddelen av
+kursen är inriktad mot att ge studenterna förståelse för
+konstruktion av tillämpningsspecifika arkitekturer utifrån en
+algoritmspecifikation och ett givet antal konstruktionsparametrar
+såsom beräkningskapacitet, effektförbrukning, kiselyta, etc.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+ha förståelse för samband mellan parametrar såsom
+beräkningskapacitet, effektförbrukning och kiselyta.
+vara förtrogen med transformationer som hjälper
+konstruktören att utveckla olika lösningar för en given
+signalbehandlingsalgoritm.
+vara förtrogen med effekter vid val av olika former av
+talrepresentation.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+utifrån givna kriterier kunna föreslå en lämplig
+processorarkitektur.
+kunna analysera en processorarkitektur och föreslå
+alternativa lösningar.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+ha fått övergripande syn på implementeringsaspekter av
+digitala signalbehandlingsalgoritmer.
+känna sig väl rustad att konstruera en specialanpassad
+signalprocessor utifrån givna krav med hjälp av de metoder som
+ges i kursen
+
+
+Kursinnehåll
+Digital signalbehandling är ett område som är starkt
+expansivt och som kommer in i de flesta moderna system. Exempel på
+sådana system är mobil kommunikation, MP3/CD/DVD-spelare och
+medicinsktekniska system såsom pacemakers och hörapparater och
+exempel på vanliga algoritmer är olika former av kodning,
+filtrering och bildigenkänning. Ofta har man ett behov av att
+signalbehandlingen skall utföras i realtid och möjligheterna
+försvinner då i många fall att utföra detta i en vanlig dator.
+Standardprocessorer är utvecklade för att passa ett vitt
+applikationsområde och ger därmed ett stort användningsområde
+och stor flexibilitet. För många applikationer kan dock krav på
+snabbhet eller låg effektförbrukning kräva specialanpassade
+processorarkitekturer med hög prestanda.
+Denna kurs kommer att ge inblick i hur man från en algoritm
+kommer fram till en lösning som passar givna krav. Tyngdpunkten
+kommer att ligga på design av specialanpassade arkitekturer som
+kan implementeras på antingen rekonfigurerbar hårdvara, t.ex.
+FPGA, eller specialutvecklade kretsar, så kallade ASICs.
+Standardprocessorer och deras relation till andra lösningar kommer
+också att diskuteras. Olika delar är:
+ 
+
+Karakterisering och representation av
+signalbehandlingsalgoritmer: signalflödes-, dataflödes- och
+beroende grafer och begreppet ”iteration bound”.
+Arkitekturtransformationer – Begreppen retiming, pipelining
+och parallellisering för hög beräkningskapacitet och/eller låg
+effektförbrukning. Olika typer av arkitekturer såsom
+tidsmultiplexade och hårdvaru-mappade samt hur man transformerar
+mellan dessa med hjälp av till exempel begreppen unfolding och
+folding.
+Algoritmtransformationer – Hur man kan reducera komplexiteten
+hos algoritmer och därmed åstadkomma en effektivare
+implementering genom begreppet ”strength reduction”.
+Olika system för talrepresentation, hur de används och hur de
+påverkar implementering och prestanda.
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Kursen har 3 delar som garanterar betyget 3: hemuppgifter som redovisas av studenterna i seminarieform, laborationer samt en dimensioneringsuppgift som skall ge en samlad bild av kursens olika moment. För högre betyg krävs en tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0118. Benämning: Dimensioneringsuppgift. 
+Antal högskolepoäng: 5. Betygsskala: TH.  Prestationsbedömning: Godkänd dimensioneringsuppgift 
+Kod: 0218. Benämning: Hemuppgifter. 
+Antal högskolepoäng: 1,5. Betygsskala: UG.  Prestationsbedömning: Godkända hemuppgifter. 
+Kod: 0318. Benämning: Laborationer. 
+Antal högskolepoäng: 1. Betygsskala: UG.  Prestationsbedömning: Godkända laborationer 
+Antagningsuppgifter
+Förutsatta förkunskaper: ESS040/EITF75 Digital signalbehandling eller ETI265/EITA50 Signalbehandling i multimedia eller EITF15 Signalbehandling - teori och tillämpningar
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: ETI180
+Kurslitteratur
+
+Parhi K K: VLSI Digital Signal Processing Systems, Design and Implementation. John Wiley & Sons, 1999, ISBN: 0-471-24186-5.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Johan Wernehag, johan.wernehag@eit.lth.se
+Hemsida: http://www.eit.lth.se/kurs/etin45
+
+
+

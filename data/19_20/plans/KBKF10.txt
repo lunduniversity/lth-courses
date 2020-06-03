@@ -1,0 +1,117 @@
+
+Kursplan 2019/20 KBKF10
+
+
+
+
+
+Kursplan för
+Kurs i syntetisk biologi
+Course in Synthetic Biology
+KBKF10, 15 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning B/K
+Beslutsdatum: 2019-03-29
+Allmänna uppgifter
+Huvudområde: Bioteknik. 
+Valfri för: B3, K3, MBIO1
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Kursen syftar till att ge djupgående kunskaper och färdigheter
+inom syntetisk biologi genom att designa och konstruera ett
+genetiskt modifierat biologiskt system, som har till mål att lösa
+utmaningar från verkliga livet. Projektet inkluderar även
+kommunikation med experter, intressenter, och allmänhet, samt att
+söka stöd av dessa. Det är viktigt att arbetet utförs i ett
+team av studenter med kompetenser från olika discipliner, så som
+naturvetenskap, teknik, medicin och socialvetenskap. Kunskap inom
+ekonomi, marknadsföring och projektledning är också viktigt i 
+projektet.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+kunna definiera och utvärdera lösningar på reella problem med
+hjälp av syntetisk biologi
+kunna tillämpa koncept inom syntetisk biologi fram till
+utvecklingen av ett biologiskt system
+kunna välja metoder och verktyg för konstruktion och
+utvärdering av ett biologiskt system
+kunna beskriva det biologiska systemets aktivitet genom
+dataanalys och/eller modellering
+ 
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+kunna kritiskt söka, läsa, inhämta, och dra slutsatser från
+vetenskaplig litteratur
+kunna planera och arbeta självständigt under utvecklingen av
+ett biologiskt system
+kunna presentera ett biologiskt system och dess syfte, både
+för vetenskaplig och lekmannamässig publik
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+kunna arbeta och samarbeta med alla relevanta kompetenser
+representerade i projektteamet
+kunna arbeta i ett tvärvetenskapligt team, genom att anta
+uppgifter och ansvarsområden, och bidra till det slutliga utfallet
+av projektet
+ha förståelse för och omdöme att respektera alla de olika
+kompetenser som krävs för att konstruktivt utforma ett
+projekt.
+förstå innebörden av ansvarsfull innovation, med hänsyn till
+etik, biosäkerhet och kommunikation med allmänheten
+
+Kursinnehåll
+Syntetisk biologi är en disciplin som kombinerar teknik,
+molekylärbiologi, kemi, datavetenskap och matematik. I den här
+kursen föreslår kursdeltagarna en projektidé som de sedan
+arbetar med, med syfte att lösa utmaningar från verkliga livet
+med hjälp av syntetisk biologi. Projektet har två delar. Del I
+inkluderar omfattande informationssökning, brainstorming, design,
+modellering och utvärdering av idén (5 hp). Under Del II (10 hp)
+görs val av material, verktyg och metoder, och innefattar
+konstruktion, test och utvärdering av det biologiska systemet.
+Aktiviteter som berör kommunikation och stöd från allmänhet och
+andra parter är också inkluderat. Projektet kan också komma att
+innefatta in siliko-modellering, hårdvaru- och/eller
+mjukvaruutveckling. Alla aktiviteter är handledda självständiga
+aktiviteter och studenterna tar rollen som projektledare.
+Kursaktiviteterna planeras av studenterna och kan komma att
+schemaläggas utanför normala kontorstider. Kursen avslutas med en
+skriftlig och muntlig presentation av det biologiska systemet.
+Studenter som genomför båda delar av kursen, och vill samt har
+möjlighet till, kan frivilligt delta i IGEM Lunds lag i en
+internationell tävling i syntetisk biologi mot lag från andra
+universitet.
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: För godkänd kurs ska studenten ha bidragit väsentligt till slutförandet av ett project inom syntetisk biologi. Bedömning Del I: Presentation av projektplan i grupper. Bedömning Del II: Studenterna ska ge en individuell muntlig redovisning av material som tidigare skickats till kursläraren (projekt-rapport, projekt-presentation). Redovisningen ska inkludera en utvald del av projektet, motivering av dess relevans, utmaningar, begränsningar, möjligheter, och dess inverkan på resten av projektet.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0119. Benämning: Del I. 
+Antal högskolepoäng: 5. Betygsskala: UG.  Prestationsbedömning: Presentation av projektplan i grupper.  Delmomentet omfattar: Part I inkluderar omfattande informationssökning, brainstorming, design, modellering och utvärdering av idén. 
+Kod: 0219. Benämning: Del II. 
+Antal högskolepoäng: 10. Betygsskala: UG.  Prestationsbedömning: Studenten ska ge en individuell muntlig redovisning av material som tidigare skickats till kursläraren (projekt-rapport, projekt-presentation). Redovisningen ska inkludera en utvald del av projektet, motivering av dess relevans, utmaningar, begränsningar, möjligheter, och dess inverkan på resten av projektet.  Delmomentet omfattar: Under Del II görs val av material, verktyg och metoder, och innefattar konstruktion, test och utvärdering av det biologiska systemet. Aktiviteter som berör kommunikation och stöd från allmänhet och andra parter är också inkluderat. 
+Antagningsuppgifter
+Förkunskapskrav:
+Minst 90 avklarade högskolepoäng inom resp civilingenjörsprogram
+
+
+Begränsat antal platser: 25
+Urvalskriterier: Avklarade högskolepoäng inom programmet.
+Följande uttagningsgrupper tillämpas:
+- LTH, Civilingenjörsprogram i bioteknik: 48% 
+- LTH, Masterprogram i bioteknik: 20% 
+- Andra program (LTH): 32% 
+ 
+Kursen kan ställas in: Om färre än 3 anmälda.
+Kontaktinfo och övrigt
+Kursansvarig: Nelida Leiva Eriksson, nelida_leiva.eriksson@tbiokem.lth.se
+Kursansvarig: Johan Svensson Bonde, johan.svensson_bonde@tbiokem.lth.se
+
+
+

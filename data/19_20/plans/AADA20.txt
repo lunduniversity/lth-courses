@@ -1,0 +1,76 @@
+
+Kursplan 2019/20 AADA20
+
+
+
+
+
+Kursplan för
+Digitala verktyg 5
+Digital Tools 5
+AADA20, 2 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning A
+Beslutsdatum: 2018-12-07
+Allmänna uppgifter
+Huvudområde: Arkitektur. 
+Obligatorisk för: A3
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursens syfte är att fördjupa kunskapen om och färdigheten i
+att hantera CAD, samt att introducera objektbaserad CAD och
+3D-modellering med hjälp av CAD-verktyg. Vidare ska kursen
+introducera ICT (byggandets informations- och
+kommunikationsteknologi) inklusive BIM (Building information
+modeling).
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna redogöra för grundläggande drag i digitala verktyg
+för objektbaserad CAD.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+förstå och hantera grundläggande metoder för 3D-modellering
+med hjälp av CAD-verktyg.
+
+
+ställa samman en enkel, men kommunikativ, ritning med hjälp
+av objektbaserad CAD.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+visa ett kritiskt förhållningssätt till olika presentations-
+och projekteringsmetoder och tekniska lösningar inom design och
+projektering.
+
+
+Kursinnehåll
+Kursen fördjupar kunskaperna i CAD och introducerar
+objektbaserad CAD och 3D-modellering i CAD genom föreläsningar
+och handledda övningar. Övningsexempel väljs för att vara
+relevanta för arkitekturpresentationer och för att stödja
+medvetenheten om projekteringens krav på arkitektarbetet.
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: För betyget godkänt krävs godkända övningar, samt 80% närvaro på övningar och föreläsningar.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+AADA15 Digitala verktyg 4
+
+
+Begränsat antal platser: Nej
+Kontaktinfo och övrigt
+Kursansvarig: John Ross, john.ross@arkitektur.lth.se
+
+
+

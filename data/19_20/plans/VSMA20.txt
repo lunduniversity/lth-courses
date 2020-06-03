@@ -1,0 +1,101 @@
+
+Kursplan 2019/20 VSMA20
+
+
+
+
+
+Kursplan för
+Strukturmekanik
+Structural Mechanics
+VSMA20, 6 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning V
+Beslutsdatum: 2019-04-01
+Allmänna uppgifter
+Obligatorisk för: IBYA2
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursen syftar till att ge en introduktion till strukturmekanik
+tillämpad på konstruktionstyper som är vanliga i byggnader och
+anläggningar.
+Kursen är avsedd som en grundläggande allmänbildning för en
+högskoleingenjör samt att ge nödvändiga förkunskaper för att
+kunna gå vidare med studier i konstruktionsteknik och
+geoteknik.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+Kunna förklara grundläggande begrepp och samband inom
+området.
+Kunna beskriva det principiella utseendet av
+spänningsfördelningen orsakad av axiell belastning, böjning
+eller vridning i en balk.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+Kunna beräkna snittkrafter, spänningar och deformationer för
+stänger, fackverk, balkar, enkla ramar, axlar och enkla
+sammansatta strukturer.
+Kunna analysera pelare med hänsyn till knäckning och andra
+ordningens teori.
+Skriftligt kunna redovisa lösningen av ett problem
+(förutsättningar, antaganden, beräkningar, resultat, slutsatser)
+på ett tydligt sätt.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+Kunna bedöma rimligheten i ett beräkningsresultat.
+
+
+Kursinnehåll
+Kursen inleds med en genomgång av begreppen kraft, moment,
+friläggning och jämvikt, med tillämpning på fackverk, samt
+introduktion av begreppen spänning och töjning:
+
+Kraft och moment. Friläggning och jämvikt. Fackverk.
+Spänning, töjning, spännings-töjningssamband.
+
+Därefter följer en grundlig genomgång av Bernoulli-Euler's
+balkteori:
+
+Snittkrafter vid balkböjning. Normalspänning och
+skjuvspänning vid elastisk böjning av balk. Plastisk böjning av
+balk. Deformation vid balkböjning. Statiskt obestämda
+balkar.
+
+Kursen innehåller även en introduktion till några ytterligare
+områden inom byggnadsmekaniken:
+
+Pelare; knäckning och andra ordningens teori. Vridning vid
+cirkulärt tvärsnitt.
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: En obligatorisk inlämningsuppgift, en obligatorisk laboration samt skriftlig tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: FMA645 Matematisk analys ELLER FMAA50 Matematisk analys OCH¨
+FMA656 Matematik, linjär algebra ELLER FMAA55 Matematik, linjär algebra
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: VSMA05, VSMA10
+Kurslitteratur
+
+Heyden, S., Dahlblom, O., Olsson, A., Sandberg, G.: Introduktion till strukturmekaniken. Studentlitteratur, 2017, ISBN: 9789144084060.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Henrik Danielsson, henrik.danielsson@construction.lth.se
+Hemsida: http://www.byggmek.lth.se/utbildning/kurser
+Övrig information: Ett undervisningstillfälle kan komma att förläggas till Lund.
+
+
+

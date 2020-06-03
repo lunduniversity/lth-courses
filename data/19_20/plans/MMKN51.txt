@@ -1,0 +1,116 @@
+
+Kursplan 2019/20 MMKN51
+
+
+
+
+
+Kursplan för
+Datorbaserad konstruktionsanalys 2
+Computer Based Engineering, Design Analysis 2
+MMKN51, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning M
+Beslutsdatum: 2019-03-27
+Allmänna uppgifter
+Valfri för: M4-pu, MD4
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Denna kurs syftar till att ge deltagarna insikt i hur avancerade
+datorhjälpmedel genom en långt driven integration kan utnyttjas
+för att minska ledtiderna och samtidigt öka effektiviteten och
+kvaliteten i utvecklings- och konstruktionsprojekt. I denna kurs
+introduceras sådana hjälpmedel för aktiviteterna: modellering,
+analys och optimering av olinjära statiska och dynamiska system
+med hjälp av konkreta konstruktionsuppgifter och exempel från
+industrin och forskningsvärlden. Inom kursen behandlas även
+optimeringsmetoder som medger simultan optimering av komplexa,
+sammansatta, fenomen och metamodellering.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+• kunna analysera, samt motivera val av analystyp, metamodell
+och optimeringsmetod för ett komplext konstruktionsproblem utsatt
+för olinjära statiska eller dynamiska strukturlaster, strömning
+och/eller termiska belastningar
+• kunna skapa en analysmodell utifrån vald analystyp
+• kunna införa nödvändiga randvillkor i analysmodellen
+• genomföra exekvering i aktuellt analysprogram
+• kunna utvärdera framtagna analys- och optimeringsresultat och
+föreslå eventuella förändringar i befintlig
+konstruktionslösning
+• kunna kommunicera såväl process som resultat av genomförd
+analys(er) - muntligen och i skrift
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+• utifrån förelagd uppgiftbeskrivning genomföra en
+komplett analys och optimering av en konstruktionslösning belastad
+olinjärt statiskt eller dynamiskt - strukturellt, termiskt
+och/eller av strömning
+• ha sådana insikter om metoder, tekniker och terminologi
+avseende datorbaserade analyser av aktuellt slag och optimering att
+kursdeltagaren inför ett industriföretag i dialog kan kommunicera
+sina resultat från analysen i såväl tal som skrift
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+• reflektera över framkomna resultat och kunna föreslå
+eventuellt ytterligare analyser och/eller konstruktiva
+förändringar av ursprunglig konstruktionslösning
+
+Kursinnehåll
+Kursens tyngdpunkt ligger inom aktiviteten olinjär
+konstruktionsanalys. Med konstruktionsanalys avses här primärt
+utnyttjande av datorbaserade beräkningsmetoder/-tekniker och
+optimeringsalgoritmer för kvantitativ problemlösning i
+konstruktionsprocessen. Primärt behandlas finita elementmetoden,
+FEM, och metoder och tekniker för analys av olinjära statiska och
+dynamiska mekaniska system. Kursen behandlar även hur
+beräkningsintensiva konstruktionsanalyser kan kompletteras med
+hjälp av metamodellering för att möjliggöra tidseffektiv
+optimering och hur optimering av flera målfunktioner kan utföras
+på ett effektivt sätt..
+Aktuella programvaror är ANSYS WorkBench, Autodesk CFD,
+modeFRONTIER och PTC. Ett viktigt moment i analysverksamheten
+utgörs av modellering, varvid målet är en överföring av den
+framtagna tekniska lösningen i en för följande verksamheter
+användbar form. Strukturanalys, termiska analyser och CFD-analyser
+av olinjära och/eller dynamiska fenomen blir allt vanligare i
+produktutveckling, För att man på bästa möjliga sätt vill
+simulera produktens verkliga omgivning och egenskaper. Då dessa
+analystyper kan vara mycket tidskrävande att exekvera är det vid
+optimering viktigt att kunna använda metoder som
+försöksplanering och metamodellering för att minimera antalet
+analyskörningar.
+Föreläsningarna i kursen behandlar teori för
+modelleringsstrategier, metamodellering, flermålsoptimering och
+analystyper såväl som exempel på industriella tillämpningar.
+Gästföreläsare med stor insikt i specifika tekniker kommer att
+bjudas in. Varje kursdeltagare skall lösa en inlämningsuppgift
+riktad mot modellering och analys.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: För erhållande av slutbetyg krävs godkänd, individuell, inlämningsuppgift. Inlämningsuppgiften får kompletteras om den är underkänd, varvid endast slutbetyget godkänt erhålls.
+
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: MMKN46 Datorbaserad konstruktionsanalys 1.
+Begränsat antal platser: 60
+Urvalskriterier: Avklarade högskolepoäng inom programmet. Förtur ges till studenter vars program har kursen listad i läro- och timplanen.
+Kursen överlappar följande kurser: MMKN50
+Kurslitteratur
+
+Burman, Å. (ed), Föreläsningsmaterial, avdelningen för Maskinkonstruktion, LTH, 2007.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Axel Nordin, axel.nordin@design.lth.se
+Kursadministratör: Cilla Perlhagen, cilla.perlhagen@design.lth.se
+Hemsida: http://www.product.lth.se/education/
+
+
+

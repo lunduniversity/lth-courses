@@ -1,0 +1,117 @@
+
+Kursplan 2019/20 INNA01
+
+
+
+
+
+Kursplan för
+Entreprenörskap - att bygga en skalbar start-up
+Entrepreneurship - how to Build a Scalable Start-up
+INNA01, 7,5 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning I
+Beslutsdatum: 2019-04-01
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Valfri för: C5, D5, F5, I5, N5, Pi4
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursen syftar till att ge studenterna praktisk erfarenhet av
+tidiga faser i att starta en teknikbaserad start-up. Kursen bygger
+på principer från lean-startup och affärsmodellskanvasen. Genom
+praktisk erfarenhet, studentdrivna seminarier,
+inspirationsföreläsningar och studier av litteratur uppnås
+förståelse för affärsmodellskomponenterna i start-up-processen,
+samt förmåga att analysera och validera en idé eller uppfinning
+främst genom kundbaserad utveckling och experimenterande med
+minsta möjliga produktprototyper. Denna förståelse används för
+att utveckla en effektiv och skalbar affärsmodell.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+• Beskriv och förklara lean startup-processen
+• Beskriva och förklara affärsplan respektive
+affärsmodellskanvasen
+• Kunna jämföra och förklara skillnaderna i start-up
+processen mellan användning av en traditionell affärsplan och en
+lean start-up process
+• Förstå skillnaden mellan en skalbar och icke-skalbar
+affärsmodell
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+• Utveckla hypoteser utifrån affärsmodellskanvasen för att
+testa bärkraften i en idé eller uppfinning
+• Validera olika delar av idén med hjälp av användar-, kund-
+och partner-feedback.
+• Utveckla en minsta möjlig produktprototyp för effektiv
+kundfeedback
+• Utveckla och förbättra affärsmodellen med hjälp av
+iterativ utvecklingsmetod
+• Utveckla förmågan att intervjua potentiella användare,
+kunder och partners
+• Utveckla förmågan att effektivt presentera sin idé eller
+uppfinning
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+• Kritiskt granska affärsmodeller ur ett
+hållbarhetsperspektiv
+• Kritiskt granska affärsmodeller ur ett etiskt perspektiv
+
+Kursinnehåll
+Historiskt har många antagit att nystartade företag, så
+kallade start-ups, bara var mindre versioner av stora företag.
+Strategin för att bygga start-ups var därför att följa
+”best-practices” för att driva stora företag. Vad Steve
+Blank, Eric Ries och andra som har utvecklat lean-startup metodiken
+har insett är att start-ups inte är som stora företag och
+därför behöver vi andra processer för att bygga och utveckla
+dem. Här definierar vi en start-up som en tillfällig organisation
+designad för att söka efter en effektiv och skalbar
+affärsmodell. Tyngdpunkten ligger på sökandet efter en
+affärsmodell och inte på genomförandet av en på förhand
+formulerad affärsplan. Kursen kommer att utnyttja Lean Startup
+metodiken, med bokstavlig betoning på att komma ut ur lärosalen,
+prata med potentiella användare, kunder och partners samt att
+snabbt iterera och förändra affärsmodellen baserat på uppnådda
+insikter. Kursplanen för den här kursen är baserad på
+lean-start-up metodik med några ändringar för att anpassa den
+till våra specifika omständigheter. Kursen fokuserar på
+processen att tydligt formulera affären i din vision av en
+start-up. Du kommer att lära dig att använda
+affärsmodellskanvasen (Business Model Canvas) som ett verktyg för
+att representera nyckelkomponenter i din start-up, t ex vem är
+dina kunder, vilket värde kommer det att få från din start-up,
+hur kommer dina intäkter att genereras, etc. (det finns nio
+element i affärsmodellskanvasen). Du kommer också att lära dig
+kundbaserad utveckling, den process vi använder för att designa,
+testa och utvärdera din start-up.
+ 
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examinationen består av två delar: 1) Projektarbete som genomförs i grupp och rapporteras skriftligen och muntligen vid seminarier. Närvaro vid seminarier är obligatorisk. Vid utebliven närvaro kan en skriftlig komplettering komma att kräva.  2) Individuell skriftlig rapport som diskuterar insikter och slutsatser från projektet samt kritiskt granskar det ur hållbarhets- och/eller etiskt perspektiv. 
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: MIO012/MIOA12/MIOA01/MIOA15 Industriell ekonomi AK. 
+Minst tre års godkänd sammanhållen heltidsutbildning på högskolenivå (eller kandidatexamen).
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: GEMA40
+Kurslitteratur
+
+Artiklar.
+Alexander Osterwalder and Yves Pigneur: Business Model Generation. John Wiley and Sons, 2010.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Lars Bengtsson, lars.bengtsson@design.lth.se
+Kursadministratör: Cilla Perlhagen, cilla.perlhagen@design.lth.se
+Hemsida: http://www.innovationengineering.lth.se/education/undergraduate-courses/
+
+
+

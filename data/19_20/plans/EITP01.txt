@@ -1,0 +1,104 @@
+
+Kursplan 2019/20 EITP01
+
+
+
+
+
+Kursplan för
+Höghastighetselektronik
+High Speed Devices
+EITP01, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning E
+Beslutsdatum: 2019-03-25
+Allmänna uppgifter
+Huvudområde: Nanovetenskap. 
+Valfri för: E4-fh, F4, F4-hn, F4-nf, MSOC1, N4-hn
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Målet med denna kurs är att ge kunskaper om fysiken bakom
+moderna transistorer optimerade för mycket höga frekvenser, samt
+att introducera högfrekvent mätteknik. Enklare förstärkardesign
+för mikrovågsfrekvenser introduceras.
+Kursen ger en modern beskrivning av transistorer relevant för
+kvantbrunns och FinFETs, främst baserad på ballistisk
+transport.
+ 
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+förklara den grundläggande fysiken bakom ballistiska
+fälteffektransistorer.
+förklara bakgrunden till hybrid-pi modellen och
+transkapacitanser.
+beskriva relevanta högfrekvensparametrar för enklare
+förstärkare.
+förstå Smith-chart representation av transmissionsledare
+relatera högfrekvensegenskaper från en komponents geometri
+och materialegenskaper
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+utföra relevanta RF och DC beräkningar för transistorer
+tillämpa två-port beskrivning för transistormodelering
+beräkna maximala frekvensprestanda för en transistor
+utföra enklare parameterextraheringar
+utföra enklare design av en mikrovågsförstärkare
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+inse behovet av skalning för ökad prestanda
+förstå bakgrunden till en transistors maximala
+högfrekvensprestanda
+
+
+Kursinnehåll
+Grundläggande halvledarfysik: tillståndstäthet, bandstruktur
+och Fermi-Dirac-statistik för tvådimensionella
+kvantstrukturer..
+Ballistisk och diffusiv transport i halvedare
+Småsignalmodellering och två-port beskrivning. Ström och
+effektförstärkning. Stabilitet.
+(Heterostruktur)-fälteffekttransistorn – Geometri. Diffusiva
+och ballistiska DC och AC-modeller med transkapacitanser.
+Parasitresistanser och kapacitanser. Brusegenskaper.
+Transmissionsledare och smithcharts. Enklare design av
+lågbrusförstärkare.
+ 
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen, presentation av litteraturstudie samt godkänd inlämningsuppgift och laboration.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0119. Benämning: Skriftlig tentamen. 
+Antal högskolepoäng: 6. Betygsskala: TH.  Prestationsbedömning: Godkänd tentamen 
+Kod: 0219. Benämning: Inlämningsuppgift och laboration. 
+Antal högskolepoäng: 0,5. Betygsskala: UG.  Prestationsbedömning: Godkänd inlämningsuppgift och laboration. 
+Kod: 0319. Benämning: Litteraturstudie. 
+Antal högskolepoäng: 1. Betygsskala: UG.  Prestationsbedömning: Presenterat forskningsartikel 
+Antagningsuppgifter
+Förutsatta förkunskaper: ESS030/ESSF20 Komponentfysik eller FFF021/FFN30 Halvledarfysik eller ETIN70 Modern elektronik
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FFF115
+Kurslitteratur
+
+Lecture Notes and Hand Outs.
+Mark Lundstrom, Jing Guo: Nanoscale Transistors, Device Physics, Modeling and Simulation. Springer, 2006, ISBN: 978-1-4419-3915-9. Finns online.
+
+
+Kontaktinfo och övrigt
+Lärare: Dr. Erik Lind, erik.lind@eit.lth.se
+Kursansvarig: Dr. Mattias Borg, Mattias.Borg@eit.lth.se
+Hemsida: http://www.eit.lth.se/kurs/eitp01
+
+
+

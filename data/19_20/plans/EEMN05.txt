@@ -1,0 +1,92 @@
+
+Kursplan 2019/20 EEMN05
+
+
+
+
+
+Kursplan för
+EMC, störningar och störningsbegränsning
+EMC, Noise and Noise Reduction
+EEMN05, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning BME
+Beslutsdatum: 2019-03-28
+Allmänna uppgifter
+Valfri för: BME5, D5, E4-ss, E4-mt, E4-is, F4, F4-mt, F4-ss
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Begreppet EMC – elektromagnetisk kompatibilitet – innebär
+att elektriska utrustningar ska kunna fungera tillsammans utan att
+störa eller bli störda av sin omgivning. Minimikraven på
+utrustningar regleras i lagstiftning. Kunskap inom detta område
+är idag nödvändig för alla som kommer att arbeta
+med konstruktion och uppbyggnad av elektronik och elektriska
+system . Kursen avser att att ge studenterna en grundläggande
+förståelse för uppkomsten av elektromagnetiska störningar, hur
+dessa påverkar elektroniska system samt hur de kan reduceras för
+att förhindra funktionsstörningar. Kursen ger också en översikt
+över de standarder och direktiv som elektronisk utrustning måste
+följa.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+Kunna identifiera olika källor och kopplingsvägar för
+elektromagnetiska störningar
+Kunna analysera dessa samt föreslå lämpliga åtgärder för
+undvikande av störningar
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna utföra en mindre elektronikkonstruktion där EMC-kraven
+tillgodoses
+kunna utföra basala EMC-mätningar på en
+elektronikkonstruktion och bedöma dessa
+sovra i och tillägna sig information ur ett större material,
+t ex lärobok eller annan litteratur, utan läsanvisning.
+kunna kommunicera och diskutera resultat från projektarbete
+både muntligt och skriftligt
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+ha insett vikten av att hänsyn tas till EMC-egenskaper genom
+hela designprocessen för elektronik och elektriska
+konstruktioner.
+
+
+Kursinnehåll
+Decibelbegreppet. Elektromagnetiska fält. Signalspektra.
+Störkällor. Kopplingsvägar. Kablage. Jordning. Balansering och
+filtrering. Skärmning. Frekvensegenskaper hos passiva komponenter.
+Störningar i digitala konstruktioner. Elektrostatisk urladdning.
+Standarder och direktiv. CE-märkning. Mjukvara för designstöd.
+EMC mätteknik.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: För betyg 3 krävs att man är godkänd på följande moment: Laborationer med tillhörande
+labrapporter, genomfört och redovisat projekt muntligt och med rapport samt kortare skriftlig tentamen. För betyg 4 eller 5 krävs en mer omfattande tentamen som kan vara skriftlig eller muntlig.
+
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: ESS010, EITA35 Elektronik, ESSF10, BMEF05 eller EEM007 Mätteknik, ESS050 eller EITF80 Elektromagnetisk fältteori, el motsv.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: EEM060
+Kurslitteratur
+
+Williams T: EMC for product designers. Newnes, 2006.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Universitetslektor Johan Nilsson, johan.nilsson@bme.lth.se
+Hemsida: http://www.elmat.lth.se/
+
+
+

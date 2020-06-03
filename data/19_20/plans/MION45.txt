@@ -1,0 +1,183 @@
+
+Kursplan 2019/20 MION45
+
+
+
+
+
+Kursplan för
+Produktionsstrategi
+Operations Strategy
+MION45, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning I
+Beslutsdatum: 2019-04-01
+Allmänna uppgifter
+Alternativobligatorisk för: MLOG1
+Valfri för: E4-pla, I4-lf, M4-lp
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Syftet med den avslutande kursen Produktionsledning är att
+komplettera och integrera de tidigare kurserna Industriell ekonomi,
+Företagsorganisation samt Material- och produktionsstyrning, som
+tillsammans avsåg att ge en bred kunskapsbas om problem, tekniker
+och metoder med tillämpningar.
+Produktionsledningskursen är inriktad mot studiet av
+producerande system ur produktionsekonomisk synvinkel med särskild
+tyngdpunkt på produktionssystemets och infrastrukturens
+strategiska roll. Ett företags framgång bestäms i hög grad av
+hur produktionssystemets förmåga samverkar med den valda
+marknadsstrategin. Kursens syfte är således att fördjupa
+elevernas förståelse för produktionens roll i företag och
+stärka deras förmåga till relevanta analyser.
+Integration mellan vara och tjänst blir alltmer utpräglat.
+Framtagningen av den fysiska varan utgör den ena ändpunkten och
+ren service den andra ändpunkten i produktintegration.
+Däremellan finns en kontinuerlig variation av vara/tjänst.
+Mellansteg i skalan utgör olika grad av kundorientering. Detta
+kontinuum måste vara starkt relaterat till
+företagets/organisationens strategi, struktur och resurser samt
+produktionsupplägg.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna beskriva, problematisera och tolka företagets
+tillverkningssystem relaterat till marknadssituationen genom att
+tillämpa de modeller som kursen innehåller.
+
+För Produktionsstrategiavsnittet innebär detta:
+ 
+
+att beskriva och förklara hur en vald marknadsstrategi
+påverkar ett företags/organisations produktionssystem.
+att beskriva och förstå olika karakteristika för
+ordervinnande och kvalificerande kriteria.
+att beskriva och förstå olika generiska
+produktionsprocesstyper (projekt, enstyck, batch, linje, process)
+utifrån deras karakteristika ur ett produktionsstrategiskt
+perspektiv.
+att beskriva och förstå olika infrastrukturella system i
+företaget och dess påverkan utifrån ett produktionsstrategiskt
+perspektiv.
+att beskriva och förstå olika analysmetoder som kan
+användas.
+att ha insikt i likheter och skillnader mellan varuproducerande
+och serviceproducerande verksamheter samt att applicera generiska
+modeller på tjänsteproduktion.
+att beskriva och förstå de principer och koncept som ligger
+till grund för Lean Production och Agile Supply Chain konceptet
+samt de möjligheter och begränsningar de medför.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+självständigt kunna analysera och bedöma en marknadsstrategi
+utifrån ett produktionsstrategiskt perspektiv.
+självständigt kunna analysera och bedöma ett
+produktionssystem utifrån ett produktionsstrategiskt
+perspektiv.
+självständigt kunna tillämpa de genomgångna modellerna på
+ett korrekt sätt i ovanstående kontext.
+
+Teknologen förväntas också arbeta i grupp samt muntligen och
+skriftligen kunna analysera och utvärdera olika
+produktionsstrategiska frågeställningar och argumentera för sina
+lösningsförslag. Den tänkta målgruppen är företagets ledning.
+En av inlämningsuppgifterna skall redovisas på engelska.
+
+Kursinnehåll
+Inom kursen studeras produktionsstrategiska modeller som
+förklarar hur företagets produktionssystem samverkar med
+marknadsstrategin för att uppnå företagets mål. Dessutom
+studeras produktionskoncept som Lean-production och Agile Supply
+Chain inom kursen.
+Inledningsvis ger kursen en översikt över Terry Hills
+produktionsstrategiska modell, som tjänar som konceptuell bas i
+kursen. I samband med detta fokuseras på begreppen
+ordervinnande och kvalificerande kriteria som ett
+sätt att beskriva marknadens krav på företag.
+Kursen fördjupar sig därefter i val av
+produktionsprocesser för varuproducerande
+verksamhet. Inom ramen för detta studeras
+olika generiska produktionsprocessers egenskaper och karakteristika
+för att ge en förståelse för vilka begränsningar och
+möjligheter som olika produktionsprocesser ger ett företag i
+fråga om marknadsrelaterade kriterier.
+Företagets infrastruktur i form av t.ex.
+belöningssystem, MPS-system, affärssystem diskuteras, därefter
+djupare utifrån ett produktionsstrategiskt perspektiv och hur
+dessa kan förstärka/förhindra ett företags väg mot att uppnå
+målen.
+I den senare delen av kursen följer vi den kontinuerliga
+variationen av produktintegration mellan vara och tjänst. Vi
+speglar produktion av modulariserade produkter, plattformsprodukter
+fram till kundanpassat. Vi avslutar detta avsnitt med att ge en
+kortfattad beskrivning av tjänsteproduktion med/utan stödjande
+(fysiska) system. Vi tar även upp globaliseringstendenser i
+kundens behov att köpa funktion i.st.f. produkt med definierad
+prestanda.
+Metoder för produktprofilering och andra analysverktyg
+studeras också med syfte att stärka elevernas analytiska
+förmåga inom området. Undervisningen i ovanstående avsnitt är
+baserad på föreläsningar. Kopplat till de olika avsnitten
+genomförs också fem olika lektionspraktikfall där kursens olika
+teoridelar illustreras med fall från verkliga företag. Eleverna
+skall här på egen hand tillämpa modellkunskaperna i kursen.
+För att ytterligare förstärka elevernas förmåga till
+självständig analys utifrån den givna teoriramen ingår tre
+större praktikfall som löses i grupp och redovisas dels genom en
+skriftlig rapport och dels muntligt. Dessa praktikfall är
+betygssatta.
+Förutom ovanstående teori belyses också de
+produktionsstrategiska koncepten Lean Production och
+Agile Supply Chain utifrån den i kursen
+ingående teoribasen. Syftet är att eleverna skall förstå
+tillämpbarhet och principer för dessa koncept.
+Aktuell forskning inom området produktionsstrategi
+belyses också på ett sådant sätt att eleverna vid behov
+ytterligare kan fördjupa sina kunskaper inom ämnesområdet.
+Inom kursen ingår också två gästföreläsningar med
+föreläsare från industrin som redovisar praktiska tillämpningar
+inom kursens avsnitt utifrån sina företag.
+Undervisningen är till sin form av integrativ
+karaktär där mycket av de tidigare kursernas modellkunskap
+tillämpas i konkreta fall i ett produktionsstrategiskt
+kontext.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Tre inlämningsuppgifter som löses i grupp om 3-4 teknologer ingår i kursen. Dessa redovisas enligt separat schema och ger max fyra bonuspoäng som adderas till tentamensresultatet för överbetyg. I kursen ingår också fem lektionspraktikfall med obligatorisk närvaro vid minst fyra tillfällen. I kursen ingår också obligatoriska gästföreläsningar. Ev frånvaro ger avdrag på bonuspoängen (-0,5 p/tim) Ordinarie tentamen är skriftlig och omfattar 80 poäng. Poängsumman för godkänd tentamen är 40 poäng. För överbetyg adderas sedan bonuspoäng från praktikfallsövningar (gäller endast vid första ordinarie tentamen) varefter följande poänggränser gäller för överbetyg: betyg 4 - 54 poäng och betyg 5 - 65 poäng. För att äga rätt att tentera skall inlämningsuppgifter och praktikfall vara godkända.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0116. Benämning: Produktionsledning. 
+Antal högskolepoäng: 6. Betygsskala: TH.  Prestationsbedömning: Tre inlämningsuppgifter som löses i grupp om 4 teknologer ingår i kursen. Dessa redovisas enligt separat schema och ger max 6 bonuspoäng som adderas till tentamensresultatet för överbetyg. 
+Kod: 0216. Benämning: Praktikfall. 
+Antal högskolepoäng: 1,5. Betygsskala: UG.  Prestationsbedömning: För överbetyg adderas sedan bonuspoäng från praktikfallsövningar (gäller endast vid första ordinarie tentamen) varefter följande poänggränser gäller för överbetyg: betyg 4 - 65 poäng och betyg 5 - 80 poäng. För att äga rätt att tentera skall inlämningsuppgifter och praktikfall vara godkända. 
+Antagningsuppgifter
+Förkunskapskrav:
+Två av följande kurser ska vara godkända: MIOA01/MIO012/MIOA12/MIOA15 Industriell ekonomi AK, MIO022/MIOF20 Företagsorganisation, MIOF10 Material- och produktionsstyrning
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: MION10, MIO051
+Kurslitteratur
+
+Alex, Hill & Terry Hill: Operations Strategy, latest edition.
+”Kompendium i Produktionsledning”, avd för Produktionsekonomi, 2011.
+Referenslitteratur:.
+Axsäter, Sven: Inventory Control. Springer Verlag, New York, latest edition. Finns tillgänglig på ELIN@lu.
+Alex, Hill & Terry, Hill: 
+Utvalda artiklar från vetenskapliga tidskrifter och fack tidskrifter.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Peter Berling, peter.berling@iml.lth.se
+Hemsida: http://www.pm.lth.se
+Övrig information: Kursen får inte ingå i examen samtidigt som kursen MION10.
+
+
+

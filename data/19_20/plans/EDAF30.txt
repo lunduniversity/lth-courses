@@ -1,0 +1,92 @@
+
+Kursplan 2019/20 EDAF30
+
+
+
+
+
+Kursplan för
+Programmering i C++
+Programming in C++
+EDAF30, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning C/D
+Beslutsdatum: 2019-04-01
+Allmänna uppgifter
+Valfri för: IDA3, IEA3
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursens syfte är att ge grundläggande kunskaper om och
+färdighet i programmering i C++.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+känna till och kunna beskriva skillnaderna mellan C++ och
+Java
+vara förtrogen med språket C++ och dess
+standardbibliotek
+kunna förklara grundläggande begrepp inom objektorienterad
+C++-programmering
+förstå och kunna förklara de olika typerna av
+funktionsanrop
+känna till och kunna resonera om hur objekt allokeras och
+representeras i minnet
+kunna tolka, analysera och förklara befintlig C++-kod.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna utveckla ett fungerande C++-program från en given
+specifikation
+kunna felsöka metodiskt i C++-kod.
+
+
+Kursinnehåll
+
+Historik. Introduktion till C och C++
+Typer och variabler
+Funktioner
+Operatorer och uttryck
+Arrayer, strängar och pekare
+Minneshantering
+Styrstrukturer
+In- och utmatning, streams
+Klasser, inkapsling och medlemsfunktioner
+Arv
+Överlagring
+Polymorfism
+Organisation av källkoden
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen. För godkänt betyg krävs godkänd tentamen, godkända datorlaborationer och godkända inlämningsuppgifter. Slutbetyget baseras på den skriftliga tentamen. Obligatoriska moment: datorlaborationer och inlämningsuppgift.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0114. Benämning: Tentamen. 
+Antal högskolepoäng: 4. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen. Slutbetyget på kursen baseras på resultatet av den skriftliga tentamen. 
+Kod: 0214. Benämning: Obligatoriska moment. 
+Antal högskolepoäng: 3,5. Betygsskala: UG.  Prestationsbedömning: För godkänt betyg krävs fullgjorda laborationer/inlämningsuppgifter. 
+Antagningsuppgifter
+Förkunskapskrav:
+EDAA10 Programmering i Java
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: EDA031, EDA350, EDA623, EDAF50
+Kurslitteratur
+
+Meddelas senare, se kurshemsidan.
+
+
+Kontaktinfo och övrigt
+Studierektor: Studierektor, dl_studierektor@cs.lth.se
+Hemsida: http://cs.lth.se/utbildning
+Övrig information: Denna kurs ges vid Campus Helsingborg.
+
+
+

@@ -1,0 +1,109 @@
+
+Kursplan 2019/20 KETF01
+
+
+
+
+
+Kursplan för
+Transportprocesser
+Transport Phenomena, Basic Course
+KETF01, 9 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning B/K
+Beslutsdatum: 2019-03-29
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: B2, K2
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Syftet med kursen är att utifrån en naturvetenskaplig bas
+överföra molekylära processer till makroskopiska processer, som
+på ett ingenjörsmässigt sätt, tillämpas på storskaliga
+fenomen hämtade från kemitekniska, biotekniska och ekologiska
+system.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+Förklara kraft och tryck inom hydrostatiken utifrån fysikens
+grundbegrepp.
+Kunna definiera begreppen impuls-, värme- och
+masstransport.
+Kunna förklara på vilka sätt impuls, värme och massa kan
+transporteras.
+Kunna identifiera hastighetsbestämmande steg och vad som är
+den drivande kraften för respektive process.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+Tillämpa impulstransport på strömningsproblem genom
+teoretisk och praktisk problemlösning.
+Tillämpa värmetransport på värmeväxlingsproblem genom
+teoretisk och pratisk problemlösning.
+Tillämpa masstransport på diffusion i vätskor och gaser
+genom teoretisk och pratisk problemlösning.
+Tillämpa samtidig värme- och masstransport på systemet
+luft/vatten genom teoretisk och pratisk problemlösning.
+Använda beräkningsprogram för att lösa problem inom impuls-
+värme- och masstransport.
+
+
+Kursinnehåll
+Kursen behandlar impuls-, värme- och masstransport med
+tillämpningar hämtade både från kemitekniska och biotekniska
+system.
+Följande områden behandlas:
+
+Impulstransport: grundläggande strömningslära, reologi,
+rör- och pumpsystem, gränsskiktsströmning, omströmmade kroppar,
+sedimentering
+Värmetransport: grundläggande värmeöverföring,
+värmeväxlare, strålning, instationär värmetransport.
+Masstransport: grundläggande masstransport, diffusion av gaser
+och vätskor, instationär masstransport, analogier,
+omrörning, massväxlare, skrubber
+Samtidig mass- och värmetransport: Mollierdiagram,
+våttemperatur, luftkonditionering, kyltorn.
+
+För att möjliggöra studier av större system som innehåller
+flera olika delprocesser ingår projektuppgifter i kursen. 
+Genom praktisk problemlösning vid laborationer tränas den
+ingenjörsmässiga problemlösningsförmågan samtidigt som den
+grundläggande teorin konkretiseras.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examinationen sker genom skriftlig tentamen, projektuppgifter och laborationer. Slutbetyget ges av betyget på den skriftliga tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0116. Benämning: Transportprocesser. 
+Antal högskolepoäng: 5,5. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen.  Delmomentet omfattar: Impulstransport: grundläggande strömningslära, reologi, gränsskiktsströmning, omströmmade kroppar, sedimentering.
+Värmetransport: grundläggande värmeöverföring, värmeväxlare, strålning, instationär värmetransport. 
+Masstransport: grundläggande masstransport, diffusion av gaser och vätskor, instationär masstransport, analogier, omrörning, massväxling. 
+System luft/vatten 
+Kod: 0216. Benämning: Laborationer i transportprocesser. 
+Antal högskolepoäng: 2. Betygsskala: UG.  Prestationsbedömning: Aktivt deltagande i laborationer.  Delmomentet omfattar: Praktisk problemlösning vid laborationer tillämpat på impuls- värme- och masstransport. 
+Kod: 0316. Benämning: Projektuppgifter i transportprocesser. 
+Antal högskolepoäng: 1,5. Betygsskala: UG.  Prestationsbedömning: Aktivt deltagande i projektuppgifter.  Delmomentet omfattar: I kursen ingår projektuppgifter hämtade från strömningslära, värmetransport respektive masstransport. 
+Antagningsuppgifter
+Förutsatta förkunskaper: KETA10 Processberäkningar eller KLGA01 Livsvetenskapliga processer med beräkningar samt KFKA05 Molekylära drivkrafter 1: Termodynamik.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: KAT090
+Kurslitteratur
+
+Transportprocesser , Föreläsningar. Kemiteknik, LTH, 2017.
+Transportprocesser, Exempelsamling. Kemiteknik, LTH, 2017.
+Department of Chemical Engineering: Handbook. 2017.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Professor Bernt Nilsson, Bernt.Nilsson@chemeng.lth.se
+Hemsida: https://www.lth.se/chemeng/ketf01/
+
+
+

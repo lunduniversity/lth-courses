@@ -1,0 +1,94 @@
+
+Kursplan 2019/20 FAFA60
+
+
+
+
+
+Kursplan för
+Fotonik
+Photonics
+FAFA60, 5 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning N
+Beslutsdatum: 2019-03-28
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: C1, D1
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Syftet med kursen är att ge grundläggande kunskaper i fotonik
+inkluderande optik och signalöverföring med ljus och
+radiovågor. Förståelse inom dessa områden är central för
+begreppsbildningen inom aktuella teknikområden,
+t.ex. datakommunikation. Kursen ska också ge träning i
+problemlösning, modelltänkande, experimentellt arbete samt
+skriftlig kommunikation.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+ha grundläggande kunskaper inom våglära och optik,
+förstå hur fotoniken tillämpas inom områdena
+signalöverföring och kommunikation,
+samt kunna analysera problemställningar och utföra och tolka
+beräkningar inom fotonik.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna tolka och utnyttja de fysikaliska modeller som används
+inom grundläggande fotonik,
+ha färdighet att hantera enkla optiska system, detektorer och
+ljuskällor,
+samt kunna skriva strukturerad laborationsrapporter i vilken
+experimentella data presenteras, och analyseras.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna värdera de experimentella metoder som används i
+kursen,
+på egen hand kunna söka och använda relevant information om
+fysikaliska vardagsfenomen med relevans inom optiken,
+samt ha en förbättrad förmåga att bedöma fysikaliska
+modellers tillämpbarhet och begränsningar inom kursens
+ämnesområde.
+
+
+Kursinnehåll
+Optik och elektromagnetiska vågor, brytning och reflektion.
+Stråloptik. Interferens och diffraktion. Längd- och
+vinkelupplösning. Optiska fibrer, ljuskällor och detektorer.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Godkänd skriftlig tentamen och godkända laborationer.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0116. Benämning: Fotonik. 
+Antal högskolepoäng: 4. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen. 
+Kod: 0216. Benämning: Laborationer. 
+Antal högskolepoäng: 1. Betygsskala: UG.  Prestationsbedömning: Obligatoriskt, aktivt deltagande vid laborationer samt godkända laborationsrapporter och redovisningar.  Delmomentet omfattar: Laborationer: Tillämpad optik; Ljusets böjning och interferens. 
+Antagningsuppgifter
+Förutsatta förkunskaper: Grundläggande matematikkurser.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FAFF40, FAFF25, FAF260, FAFA01, FAFA05, FAFA50, FAFA65, FAFF30
+Kurslitteratur
+
+Jönsson G.: Våglära och optik. 2015, ISBN: 9789163781445.
+G. Jönsson och E. Nilsson: Tillämpad Atomfysik. 2011, ISBN: 9789163798276. Endast utvalda kapitel.
+J. Crisp och B. Elliott: Introduction to Fiber Optics,. 2005.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Adam Kinos, adam.kinos@fysik.lth.se
+Hemsida: https://liveatlund.lu.se/departments/Physics/FAFA60
+Övrig information: Närvaro vid första föreläsningen är obligatoriskt för att få tillträde till kursen
+
+
+

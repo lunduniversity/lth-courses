@@ -1,0 +1,112 @@
+
+Kursplan 2019/20 VBMF05
+
+
+
+
+
+Kursplan för
+Byggmaterialvetenskap
+Building Material Science
+VBMF05, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning V
+Beslutsdatum: 2019-04-01
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Alternativobligatorisk för: V3
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursen skall ge studenten fördjupad förståelse för materials
+uppbyggnad och egenskaper, samt de fysikaliska, kemiska och
+biologiska processer som sker i material.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+förstå hur materialens egenskaper beror på deras
+sammansättning och struktur.
+förstå hur processer i material förändrar materialens
+egenskaper.
+förstå att en djup förståelse av material bygger på en
+grundläggande förståelse av fysik, kemi och biologi.
+ha fördjupade kunskaper om hur materialegenskaper kan
+uppskattas med utgångspunkt från materialens uppbyggnad och inre
+struktur.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna använda materialvetenskapliga modeller för uppskattning
+av materialegenskaper och materialbeteende
+kunna använda kunskaperna i avancerade tillämpningar och samt
+kunna generalisera dem till helt nya tillämpningar, inklusive
+tillämpningar utanför byggområdet.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+ha fått en bild av vilken kunskap som behövs för att kunna
+bedöma egenskaper och beteende hos nya material eller hos
+befintliga material i nya tillämpningar.
+inse vikten av att ta hänsyn till de processer som kan ske i
+material i bruksskedet.
+inse att materialläran bygger på fysik,kemi och biologi.
+inse vikten av materials beteende i det långsiktiga perspektiv
+som produktion och förvaltning av byggnader och anläggningar
+innebär.
+
+
+Kursinnehåll
+I vår grundkurs Byggnadsmaterial ges en bred genomgång av
+materialegenskaper och materialtyper. I fördjupningskursen BMV
+väljer vi ut ett par intressanta delområden och fördjupar oss i
+dem. Dessa områden är sådana som har relevans för ingenjörer i
+byggsektorn samtidigt som de ger en ökad konceptuell förståelse
+för materialvetenskapen och att den bygger på fysik, kemi och
+biologi.
+Exempel på områden som kan komma att tas upp är
+materialstruktur, kompositmodellering, fukt i material och
+materialmekanik. De ämnen som tas upp kan skifta något år till
+år.
+Fem obligatoriska laborationer är en viktig del av kursen och
+kopplar starkt till föreläsningarna.Laborationerna genomförs i
+små grupper (normalt om 3-4 personer). Samtliga laborationer
+bygger på att deltagarna går igenom försöket som de skall
+göra, genomför försöket, utvärderar resultatet, och sedan
+diskuterar ett antal komplexa frågeställningar utifrån
+erfarenheten av experimenet. Vid vissa av laborationerna gör olika
+grupper olika laborationer och redovisar sedan dessa muntligt
+inför de andra grupperna. Vid de andra laborationerna genomförs
+samma laboration av alla och resultaten diskuteras gemensamt vid en
+slutdiskussion. Alla måste deltaga akltivt på laborationerna.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Godkända laborationer. Skriftlig tentamen. Tentamensresultat utgör grunden för slutbetyget.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0113. Benämning: Skriftlig examination. 
+Antal högskolepoäng: 5. Betygsskala: TH.  Prestationsbedömning: Skriftlig examination 
+Kod: 0213. Benämning: Laboration. 
+Antal högskolepoäng: 2,5. Betygsskala: UG.  Prestationsbedömning: Laboration 
+Antagningsuppgifter
+Förutsatta förkunskaper: VBM012 Byggnadsmaterial ELLER VBMA30 Byggnadsmaterial OCH
+VBFA01 Husbyggnads- och installationsteknik.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: VBM070
+Kurslitteratur
+
+Wadsö, L. m. fl.: Building Material Science, KFS i Lund AB.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Professor Lars Wadsö, Lars.wadso@byggtek.lth.se
+Hemsida: http://www.byggnadsmaterial.lth.se/utbildning
+
+
+

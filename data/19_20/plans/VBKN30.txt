@@ -1,0 +1,121 @@
+
+Kursplan 2019/20 VBKN30
+
+
+
+
+
+Kursplan för
+Träbyggnadsteknik
+Design of Timber Structures
+VBKN30, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning V
+Beslutsdatum: 2019-04-01
+Allmänna uppgifter
+Valfri för: V5-hb, V5-ko
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Kursen ska ge förståelse och insikt om hur
+specialiserade och mer komplexa träkonstruktioner fungerar och
+ge verktyg för dimensionering och utformning samt ge förmåga
+att analysera för- och nackdelar med olika byggnadssystem.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+förstå och beskriva funktionssättet hos trä som
+konstruktionsmaterial samt funktionssättet hos förband i 
+träkonstruktioner
+identifiera vilka träbaserade material som är lämpliga för
+olika typer av konstruktioner samt utförligt kunna förklara för-
+och nackdelar
+koppla relevanta teorier från mekaniken med praktiska
+tillämpningar för trä samt förstå vilka möjligheter och
+begränsningar som denna kombination medför.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna dimensionera och utforma konstruktionselement och system
+av trä samt förband i  träkonstruktioner
+kunna bestämma konstruktionslösningar för en byggnad
+utifrån givna förutsättningar vad avser användningskrav
+uppvisa förmåga att skriftligt redogöra för
+förutsättningarna som använts vid dimensioneringen av en byggnad
+samt skriftligt och genom ritningar redovisa resultaten av
+dimensioneringen
+kunna använda tillgängliga beräkningsmodeller med ett
+granskande förhållningssätt samt vid behov utveckla nya
+modeller.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna kritiskt utvärdera olika systemlösningar vad
+avser träkonstruktioner. Bedöma för- och nackdelar med olika
+modeller och lösningar vad avser den bärande stommen samt för
+helhetslösningen för byggnaden
+kritiskt kunna granska befintliga konstruktioner genom att
+använda uppnådda kunskaper och tillgänglig information.
+
+
+Kursinnehåll
+Kursen innehåller följande delmoment som skall behärskas i
+samband med projektering av träkonstruktioner:
+
+träkonstruktioner: flervåningsbyggnader och konstruktioner
+med stor spännvidd
+instabilitetsproblem (vippning)
+raka och krökta konstruktionselement
+hål och urtag i balkar
+korslimmat trä
+stomstabilisering
+detaljutformning
+förband för träkonstruktioner: förband med mekaniska
+fästdon och limförband
+analys av havererade konstruktioner
+ramar, bågar och linkonstruktioner.
+
+Vidare ingår inlämningsuppgifter som avser dimensionering och
+utformning av bärande konstruktionssystem (exempelvis bro,
+flervåningsbyggnad, byggnader med stora spännvidder) och som ger
+studenten träning i att självständigt angripa, lösa och
+redovisa uppgifter.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen samt godkända inlämningsuppgifter.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0118. Benämning: Träbyggnadsteknik. 
+Antal högskolepoäng: 6. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen  Delmomentet omfattar: hela kursinnehållet 
+Kod: 0218. Benämning: Inlämningsuppgifter. 
+Antal högskolepoäng: 1,5. Betygsskala: UG.  Prestationsbedömning: Inlämningsuppgifter. Kraven på rapporten är sådana att inte bara beräkningarna bedöms utan även kvaliteten på presentationen bedöms, dvs rapporten ska vara av beskrivande karaktär och inte bara innehålla beräkningsgång och resultat. 
+Antagningsuppgifter
+Förkunskapskrav:
+VBK013 Konstruktionsteknik eller VBKF15 Konstruktionsteknik
+
+
+Förutsatta förkunskaper: VBKF01 Konstruktionsteknik - byggsystem, VSMF05 Teknisk modellering: bärverksanalys.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: VBKN01
+Kurslitteratur
+
+Swedish Wood: Design of Timber Structures , volume 1, 2, 3. 2015. Dessa tre böcker delas ut gratis till studenterna vid kursstarten. Studenterna behöver inte köpa denna litteratur själva.
+Eurocode 5 - timber structures. Kan laddas ner via e-nav.
+Isaksson, T, Mårtensson A: Byggkonstruktion. Regel- och formelsamling. Studentlitteratur, 2010, ISBN: 978-91-44-07032-2. Utgåva 2 eller 3.
+Mer litteratur i digital format (t.ex. limträhandboken, massivträhandboken) på svenska/engelska kommer att vara tillgänglig via kursens hemsida.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Eva Frühwald Hansson, eva.fruhwald@kstr.lth.se
+Hemsida: http://www.kstr.lth.se
+Övrig information: Kurshemsidan finns på Live@Lund.se. Registrerade studenter får inloggning till kurshemsidan. Kort info finns på www.kstr.lth.se/utbildning.
+
+
+

@@ -1,0 +1,100 @@
+
+Kursplan 2019/20 ETSF10
+
+
+
+
+
+Kursplan för
+Internetprotokoll
+Internet Protocols
+ETSF10, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning C/D
+Beslutsdatum: 2019-04-01
+Allmänna uppgifter
+Valfri för: C4, D4-ns, MWIR2
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Kursen syftar till att förse studenterna med fördjupade
+kunskaper, teoretiska såväl som tillämpade, om funktionen samt
+uppbyggnaden hos de mest centrala protokollen som bygger upp
+Internet. Man skall speciellt erhålla en djupare teknisk
+förståelse om:
+ 
+
+transportprotokoll,
+routing/vägvalsprinciper,
+exempel på applikationer
+
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+Kunna redogöra för uppbyggnaden av och funktionen hos några
+av de mest centrala Internetprotokollen.
+Utföra analys av samt vid behov felsöka nätverkstrafik genom
+att tolka och identifiera observerat protokollbeteende utifrån
+nätverksdata.
+Formulera plan för genomförande av lämplig konfiguration av
+nätverksutrustning (switchar och routrar).
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+Använda nätverksanalysator för detaljerad analys av
+protokollbeteende.
+Konfigurera nätverksutrustning för styrning av
+nätverkstrafik.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+Kunna lokalisera, sovra och extrahera väsentlig information
+ur exempelvis standarddokument för typiska Internetprotokoll och
+manualer för handhavande av nätverksutrustning
+
+
+Kursinnehåll
+Kursen innebär fördjupade studier av IP-nätverksteknologi.
+Inlärningsmomenten är av teoretisk såväl som praktisk karaktär
+(i första rummet föreläsningar och laborationer). Kursen
+förutsätter grundläggande kunskaper om datorkommunikation i
+allmänhet och TCP/IP-sviten i synnerhet, och går speciellt
+djupare in på olika typer av transportprotokoll
+och routing/vägvalsprinciper.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: För godkänd kurs (betyg 3 alt 4), krävs godkända projekt, online-quizzar och online-diskussioner. Om betyg 4 uppnås, kan betyg 5 erhållas genom en godkänd hemuppgift. 
+
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0119. Benämning: Onlinequizzar. 
+Antal högskolepoäng: 4. Betygsskala: TH.  Prestationsbedömning: Godkända online-quizzar. För betyg 5 krävs godkänd hemuppgift.  Delmomentet omfattar: Online-quizzar 
+Kod: 0219. Benämning: Onlinediskussioner. 
+Antal högskolepoäng: 1,5. Betygsskala: UG.  Prestationsbedömning: Aktivt deltagande i onlinediskussioner  Delmomentet omfattar: Onlinediskussioner 
+Kod: 0319. Benämning: Projekt. 
+Antal högskolepoäng: 2. Betygsskala: UG.  Prestationsbedömning: Godkända projektrapporter.  Delmomentet omfattar: Två projekt som genomförs online. 
+Antagningsuppgifter
+Förutsatta förkunskaper: ETS052/EITF45 Datorkommunikation eller ETS150 Datakommunikation.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: ETS110, ETSF05
+Kurslitteratur
+
+Kurds and Ross: Computer Networking, A Top Down Approach 7th ed. Pearson , 2017, ISBN: 978-1-292-15359-9.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Professor Björn Landfeldt	, bjorn.landfeldt@eit.lth.se
+Hemsida: http://www.eit.lth.se/kurs/etsf10
+Övrig information: Undervisningsformer: Föreläsningar, övningar, projektlaborationer.
+
+Lämplig för utbytestudenter med grundkunskaper i datorkommunikation och nätverk.
+
+
+

@@ -1,0 +1,109 @@
+
+Kursplan 2019/20 MVKN50
+
+
+
+
+
+Kursplan för
+Introduktion till förbränningsmotorer
+Introduction to Combustion Engines
+MVKN50, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning M
+Beslutsdatum: 2019-03-27
+Allmänna uppgifter
+Valfri för: M4-en, M4-tt, W4
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Målet med kursen är att tillhandahålla en grundläggande
+förståelse för de processer som äger rum i en
+förbränningsmotor och varför motorn är utformad som den
+är.
+
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna ge en översikt över funktion och interaktioner för de
+huvudsakliga komponenterna i en modern förbränningsmotor
+på en konceptuell nivå kunna förklara
+förbränningsprocesserna i ottomotorer och dieselmotorer samt hur
+de påverkas av olika drifts- och designparameterar
+kunna förklara utmaningarna för förbränningsmotorer och
+bränslen i ett samhälle som behöver minska utsläppen av
+växthusgaser och förbättra luftkvalitén.
+
+ 
+ 
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna använda jämförelsefaktorer för att analysera
+motorprestanda
+kunna välja motortyp och utforma motorn (i fråga om
+slagvolym, antal cylindrar, cylinderborrning och varvtal) för en
+given enkel tillämpning
+kunna räkna ut luft/bränsleförhållande för en given
+avgassammansättning såväl som luftbehovet för fullständig
+förbränning av ett godtyckligt bränsle
+i grupp, med handledning, kunna ta isär och sätta ihop en
+modern förbränningsmotor såväl som utföra prestanda- och
+utsläppsmätningar på den.
+
+ 
+
+Kursinnehåll
+Kursen handlar om förbränningsmotorer med inre förbränning.
+Först ges en allmän beskrivning av de vanligaste motortyperna.
+Gnistantändningens och kompressionsantändningens principer
+förklaras och skillnaden mellan två- och fyrtaktsmotorer
+diskuteras. De viktigaste parametrarna för motorkonstruktion och
+motoranalys förklaras. Kopplingen mellan effektbehovet för ett
+normalt vägfordon och effekten som levereras av en
+förbränningsmotor förklaras. Allmän förbränning där
+bränslet omvandlas till CO2, H2O och värme diskuteras och
+begreppet stökiometri förklaras. Även avgasanalys diskuteras
+liksom mekanismer för emissionsbildning. Ideala termodynamiska
+cykler presenteras och används för att förklara effekter av
+kompressionsförhållande och gasegenskaper på verkningsgrad.
+Förbränningsprocessen i ottomotorn presenteras. Cykel till
+cykelvariationer i förbränningsprocessen förklaras och onormala
+förbränningsförlopp diskuteras. Sätt att reducera skadliga
+utsläpp förklaras. Dieselmotorns förbränningsprocess
+presenteras både med den klassiska modellen och den nyare
+Dec-modellen. Dieselmotorns utsläpp och hur de kan reduceras
+diskuteras också. Motorns mekaniska system och
+gasväxlingsprocesser, t.ex. överladdning, presenteras. Slutligen
+diskuteras förbränningsmotorns utmaningar med en utblick mot
+lösningar och alternativ och det visas hur motorn fortfarande kan
+spela en roll i framtida transportsystem.
+Kursen innehåller föreläsningar, seminarier, övningar och
+två laborationer. I den första laborationen plockas en motor
+isär och sätts därefter ihop och i den andra körs en motor och
+utsläppen mäts och analyseras. Vanligtvis ges en
+gästföreläsning av en industrirepresentant.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen med skalan underkänt, 3, 4, 5 normalt motsvarande 40, 60 och 80 % av maximal poäng. För att äga rätt att delta i tentamina skall samtliga obligatoriska laborationer ha redovisats och godkänts skriftligt.
+
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: MMVF01 Termodynamik och strömningslära eller motsvarande.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: MVK093
+Kurslitteratur
+
+Andersson, Johansson, Tunér och Tunestål: Combustion Engines. Ny bok som första året ges i form av kompendier.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Marcus Lundgren, marcus.lundgren@energy.lth.se
+Hemsida: http://www.energy.lth.se
+
+
+

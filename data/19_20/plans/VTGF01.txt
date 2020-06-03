@@ -1,0 +1,144 @@
+
+Kursplan 2019/20 VTGF01
+
+
+
+
+
+Kursplan för
+Bergmekanik och bergbyggnad
+Rock Mechanics and Construction
+VTGF01, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning V
+Beslutsdatum: 2019-04-01
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Alternativobligatorisk för: V3
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursen skall ge kunskaper om och färdigheter för att tekniskt
+kunna medverka i projekt som omfattar berg- och undermarksbyggande.
+Förutom tekniska frågor skall studenten kunna beakta samhällets
+övergripande mål för utveckling av ett hållbart samhälle.
+Kursen är viktig för alla V-ingenjörer och särskilt lämplig
+för de avslutande specialiseringarna mot anläggningsteknik och
+vattenresurshantering inom väg- och vattenbyggnadsprogrammet.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna förstå och tillämpa grundläggande begrepp för att i
+ett bergbyggnadstekniskt sammanhang kunna beskriva bergets
+uppbyggnad och strukturella egenskaper samt hur bergmassans
+egenskaper påverkar placering, orientering och design av
+exempelvis tunnlar och bergrum.
+kunna förstå och tillämpa grunderna inom bergmekanik,
+bergbyggnadsteknik, drivningsteknik och ingenjörsmässig
+bergklassificering.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna tolka en geologisk karta och upprätta en geologisk
+sektion med lagerföljder samt dessutom kunna använda en
+ingenjörsgeologisk förväntningsmodell i tre dimensioner med
+hänsyn till bygg- och anläggningstekniska faktorer.
+visa förmåga på att översiktligt kunna använda
+ingenjörsgeologiskt inriktad förundersökningsmetodik, särskilt
+avseende borrning, provtagning och geofysiska mätmetoder.
+kunna utforma ett översiktligt bergbyggnadstekniskt
+förstärknings- och drivningsförslag med utgångspunkt i
+bergmassans hållfasthetsegenskaper och baserat på en
+ingenjörsgeologisk bergprognos.
+kunna bedöma samt muntligt och skriftligt presentera och
+diskutera ingenjörsgeologiskt, bergmekaniskt och
+bergbyggnadstekniskt relaterat arkiv- och utredningsmaterial inför
+en tänkt publik bestående av tekniker, politiker och
+allmänhet.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+visa tecken på att förstå behovet av förslagsalternativ och
+konsekvensanalys med hänsyn till uppställda teknik-, klimat-, och
+miljökrav vid bergbyggnadstekniska problemställningar.
+
+
+Kursinnehåll
+Ämnesinnehållet fokuseras på följande delar:
+
+Bergkunskap. Grundläggande berggrundsgeologi med
+tonvikt på bergmassans uppbyggnad och karakteristik, i synnerhet
+bergmassans strukturella uppbyggnad och diskontinuiteters betydelse
+vid bergbyggande. De geologiska miljöerna omfattar såväl urberg
+som sedimentärt berg med referens till förhållanden utomlands.
+De speciella geologiska egenskaper och processer som är knutna
+till vittring, leromvandling, sprickighet och hårdhet
+berörs.
+Bergmekanik. Grundläggande hållfasthetsstyrande
+egenskaper hos bergart och bergmassa. Last, spänning och
+deformation i berg, bergmassans responskurva. Inverkan av
+diskontinuiteter och anisotropier på bergmassans hållfasthet och
+byggbarhet. Stabilitet och valvverkan
+Bergbyggnad. Teknik för byggande av bergrum och
+tunnlar. Bergförstärkningsmetoder. Förstärkningsförslag och
+drivningsförslag baserade på ingenjörsgeologisk prognos,
+Ingenjörsgeologiska bedömningssystem och bergmassans mekaniska
+egenskaper.
+Grundvattenförhållandenas inverkan på bergmassans
+egenskaper, särskilt hållfasthet, stabilitet, bergbyggnadsteknik
+och miljöfrågor.
+Teknik för borrning och provtagning i berg samt
+fältundersökningar. Borrhålstester inklusive
+borrhålsgeofysik.
+Miljökrav och klimatpåverkan.
+
+Minst två fältövningar och studiebesök i bergtäkt och på
+bergbyggnadsplatser. En bergbyggnadsteknisk utredningsuppgift
+löper genom kursen; studenterna inom en grupp om 3-4 deltagare har
+ansvar för en deluppgift inom ett större sammanhållet projekt.
+Uppgiften redovisas skriftligt och muntligt vid kursens
+slutseminarium, och varje grupp erbjuds detaljerad skriftlig och
+muntlig handledning och återkoppling. Varje grupp skall dessutom
+genomföra en granskning av en rapport avseende en annan
+deluppgift.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: För slutbetyg krävs att bägge delmomenten (0117, 0217) godkänts. Slutbetyget sätts som ett viktat medelvärde av bedömningen av tentamen (80%) och utredningsuppgiften (20%), och avrundas nedåt till närmaste heltal. 
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0119. Benämning: Tentamen. 
+Antal högskolepoäng: 5. Betygsskala: TH.  Prestationsbedömning: Bedömning av svar på skriftlig tentamen. Poängsättningen är 50% på teoridelen och 50% på räknedelen. För godkänt resultat krävs 50% av totalpoäng på tentamen, men utan krav på fördelning mellan de bägge delarna.  Delmomentet omfattar: Tentamen består av en teoridel som löses utan hjälpmedel och en räknedel, där angivna hjälpmedel är tillåtna.  
+Kod: 0219. Benämning: Redovisning av utredningsuppg, fältövningar och studiebesök.. 
+Antal högskolepoäng: 2,5. Betygsskala: UG.  Prestationsbedömning: Godkänd skriftlig rapport och muntlig presentation av utredningsuppgiften. Aktivt deltagande i obligatoriska fältövningar och studiebesök samt slutseminarium. 
+Antagningsuppgifter
+Förkunskapskrav:
+VTGA01 Teknisk geologi
+
+
+Förutsatta förkunskaper: VSMA05 Byggnadsmekanik OCH
+VBKF15 Konstruktionsteknik OCH
+VVRA05 Vatten OCH
+FMIF50 Miljövetenskap med miljökemisk profil OCH
+VGTF05 Geoteknik.
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Svensson, C.: Större makrostrukturer i berggrunden. Kompendium säljes av teknisk geologi, 2001. Endast tillgängligt på svenska.
+Svensson, C.: Kompendium i Teknisk geologi AK. KFS, 2012. Endast tillgängligt på svenska.
+Lindblom, U.: Bergbyggnad. Liber, 2010, ISBN: 978-91-47-09409-7.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Universitetsadjunkt Peter Jonsson, Peter.Jonsson@tg.lth.se
+Hemsida: http://www.tg.lth.se/grundutbildning/kurser
+Övrig information: Fältövningar, exkursioner och studiebesök redovisas som laborationstimmar i timplanen.
+
+
+

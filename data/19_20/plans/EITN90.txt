@@ -1,0 +1,113 @@
+
+Kursplan 2019/20 EITN90
+
+
+
+
+
+Kursplan för
+Radar och fjärranalys
+Radar and Remote Sensing
+EITN90, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning E
+Beslutsdatum: 2019-03-25
+Allmänna uppgifter
+Valfri för: E4, F4, F4-tf, F4-f, Pi4-bs
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Radio detection and ranging (radar) är en av de mest använda
+typerna av sensorsystemen för automatisk övervakning av
+människor, maskiner, och naturen. Då systemet monteras på en
+rörlig plattform som ett flygplan eller en satellit, används det
+ofta för att skapa bilder av marken och dess egenskaper, så
+kallad fjärranalys. Syftet med denna kurs är att ge en översikt
+av typiska radarsystem och deras principiella funktion, från
+spridningsmekanismer och vågutbredning till
+elektronikimplementering och maskininlärningstekniker för
+signalerna. Varje student ska designa ett radarsystem för en
+specifik tillämpning, och där demonstrera förmåga att väga
+olika kravbilder mot varandra.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+med hjälp av blockdiagram kunna beskriva huvudsaklig
+uppbyggnad, grundläggande funktion och inbördes förhållanden
+mellan de olika delarna i ett radarsystem
+förstå grundläggande egenskaper för elektromagnetiska
+vågor avseende begrepp som våghastighet, vågimpedans,
+polarisation, koherens, och utbredning i lagrade strukturer som
+atmosfären, jordskorpan, eller byggnadsmaterial
+beskriva spridningsmekanismer för olika våglängder, storlek
+på spridare och materialegenskaper
+diskutera hur pulsbredd, toppeffekt och strålbredd påverkar
+radarprestanda
+förklara skillnader mellan olika radarsystem, såsom
+monostatisk och bistatisk, aktiv och passiv, samt pulsbaserad och
+fixfrekvensradar
+kunna välja vågform och detektionsalgoritm för otvetydig och
+noggrann måldetektion
+beskriva typiska tillämpningar inom övervakning, obemannade
+farkoster, fjärranalys, avbildande system etc
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna använda radarekvationen för att uppskatta maximalt
+detektionsavstånd för ett givet mål
+kvantifiera en spridares spridningsegenskaper genom begreppet
+radarmålarea, genom handboksformler såväl som
+simuleringsmjukvara
+kunna processa verklig radardata numeriskt, genom att till
+exempel bestämma avstånd och hastighet från mottagna pulsdata,
+använda maskininlärningstekniker för målklassificering, eller
+skapa bilder från syntetisk aperturradardata
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+tillämpa de förvärvade kunskaperna genom att inom ett
+projektarbete designa ett radarsystem för en specifik
+tillämpning, och demonstrera förståelse för hur önskad teknisk
+prestanda kan viktas mot kostnad och tid för implementation
+
+
+Kursinnehåll
+Radarsystem på blocknivå, egenskaper för elektromagnetiska
+vågor och vågutbredning genom lagrade strukturer, spridningsteori
+och radarmålarea, smygteknik, radarekvationen, antennmönster,
+dopplerskift, radarsignalbehandling, syntetisk aperturradar,
+MIMO-radar, målklassificering med maskininlärning, fjärranalys
+och avbildande system. Teorin demonstreras med praktiska
+experiment, och numerisk behandling av radardata.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: För betyg 3 krävs godkända inlämningsuppgifter och elektroniska frågeformulär, samt godkänd muntlig och skriftlig presentation av projektarbete. Dessa kan endast göras under kursens gång. För högre betyg krävs muntlig tentamen.
+
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+EITF80 Elektromagnetisk fältteori eller EITF85 Elektromagnetisk fältteori eller ETEF01 Elektromagnetisk fältteori
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: ETE071, ETEN05
+Kurslitteratur
+
+Mark A. Richards, James A. Scheer, and William A. Holm: Principles of Modern Radar: Basic Principles. Scitech Publishing, The Institution of Engineering and Technology, 2010. Tillgänglig som e-bok via universitetsbiblioteket.
+J. A. Richards: Remote Sensing with Imaging Radar. Springer, 2009. Kompletterande litteratur, tillgänglig som e-bok via universitetsbiblioteket.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Daniel Sjöberg, daniel.sjoberg@eit.lth.se
+Hemsida: http://www.eit.lth.se/kurs/eitn90
+Övrig information: Vid färre än 12 deltagare kan kursen komma att ges med reducerad undervisning och större inslag av självstudier.
+
+
+

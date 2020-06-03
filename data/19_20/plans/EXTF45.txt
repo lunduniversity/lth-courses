@@ -1,0 +1,112 @@
+
+Kursplan 2019/20 EXTF45
+
+
+
+
+
+Kursplan för
+Finansiell ekonomi
+Financial Management
+EXTF45, 6 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning I
+Beslutsdatum: 2019-04-01
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: I3, Pi4-fm
+Valfri för: F4, F4-fm
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursens syfte är att ge en allmän introduktion till ämnet
+finansiell ekonomi dels från ett företagsperspektiv genom att
+studera företagens finansiering med hjälp av finansiella
+tillgångar, dels från ett marknadsperspektiv genom att skapa
+förståelse för de finansiella marknadernas funktion samt
+prisbestämning och riskhantering av finansiella tillgångar.
+Kursen ger två perspektiv på finansiering, både från
+finansiärens sida och från låntagarens. Kursen har dessutom en
+delad struktur när det gäller valet av finansiella instrument
+och fokuserar dels på värdering av riskfyllda
+tillgångar, dels på värdering av räntebärande
+tillgångar.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+ha kunskap om och förståelse för:
+relevanta begrepp och modeller
+avkastning och riskpremium för aktier och aktieportfölj
+kapitalbudgetering
+val av kapitalstruktur, påverkan på företagets värde och
+styrning av kapitalinlåning
+prissättning av optioner
+utdelning och företagsvärde
+prismekanism för räntebärande tillgångar inklusive
+ränterisker
+finansiering på global marknad inklusive valutaproblematik och
+olika instrument.
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+kunna utföra följande:
+beräkna payoff och avkastning på aktier
+beräkna kapitalkostnad
+välja bland och kalkylera olika kapitalstrukturer i företag
+och organisationer, i synnerhet i fråga om investeringsbeslut
+ha insikt i hur man väljer kapitalstruktur vid investeringar i
+olika kapitalmarknader
+bestämma utdelning till ägare och dess påverkan på
+företagsvärdet
+ha förståelse för och kunna prissätta optioner
+beräkna relationer mellan räntor med olika löptid och
+beräkna ränterisk
+kunna använda data för att beskriva kopplingen mellan
+nationell penningmarknad och valutahandel samt ha insikt i olika
+kapitalinstrument
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+kunna använda etablerade facktermer och på ett tydligt sätt
+kommunicera problemformulering, lösning och tolkning av
+kvantitativa modeller. Efter genomgången kurs ska studenten
+självständigt kunna tillgodogöra sig litteratur på området och
+ytterligare kunna förkovra sig vid behov.
+
+Kursinnehåll
+Kursen består av två delar och åtta segment:
+1. värdering av riskfyllda tillgångar
+a. risk, avkastning och portföljvalsteori
+b. kapitalbudgetering
+c. effektiva marknader
+d. utdelning, kapitalstruktur samt optioner
+2. värdesättning av räntebärande tillgångar
+a. prissättning och räntebildning
+b. riskhantering och riskbegrepp
+c. globala marknader och valutamarknaden
+d. olika instrument
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examinationen består av en skriftlig tentamen efter avslutad kurs. För att bli godkänd på kursen krävs godkänt resultat på tentamen samt tre godkända laborationer. Efter varje laboration ska en rapport lämnas in för bedömning. I gränsfall för godkänt kan studenten korrigera sin laborationsrapport och lämna in för förnyad bedömning. Laborationsrapporter kan endast lämnas in i samband med kursens genomförande och vid de båda omtentamenstillfällena.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+FMS012 Matematisk statistik, allmän kurs eller FMSF45 Matematisk statistik, allmän kurs
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: MIO140
+Kurslitteratur
+
+2013, ISBN: 9780273792024. Berk, J. & DeMarzo, P.: Corporate Finance. 3rd edition, Pearson Addison Wesley, Boston 2013.
+2013, ISBN: 9780273792024.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Dag Rydorff, dag.rydorff@nek.lu.se
+Hemsida: http://www.nek.lu.se
+
+
+

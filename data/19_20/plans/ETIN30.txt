@@ -1,0 +1,124 @@
+
+Kursplan 2019/20 ETIN30
+
+
+
+
+
+Kursplan för
+Integrerad radioelektronik
+Integrated Radio Electronics
+ETIN30, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning E
+Beslutsdatum: 2019-03-25
+Allmänna uppgifter
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursens mål är att ge grundläggande och bred kunskap om
+konstruktion och analys av integrerad högfrekvenselektronik.
+Efterfrågan på sådan kunskap är stor då allt fler
+tillämpningar använder sig av trådlös teknik, till exempel
+mobiltelefoni, trådlösa datornätverk, kortdistanskommunikation
+och satellitnavigation. I alla dessa tillämpningar utgör
+radiodelen en mycket viktig komponent.
+Kursens tyngdpunkt ligger på metoder för analys och syntes av
+integrerad högfrekvenselektronik. Den bygger vidare på kurserna
+Analog IC konstruktion (ETI 063) och Radio (ETI 031), och de
+radiobyggblock som behandlas i kursen Radio får här sitt
+innehåll i form av elektronik primärt i CMOS teknologi. Metoder
+för konstruktion av förstärkare, blandare, oscillatorer m.m.
+behandlas och tillämpas i ett projektarbete där en hel mottagare
+eller sändare konstrueras.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+självständigt kunna redogöra för olika sätt att realisera
+radiobyggblock såsom lågbrusförstärkare, blandare, oscillatorer
+och effektförstärkare på en IC-krets, samt deras detaljerade
+funktion, och hur viktiga egenskaper såsom brus, linjäritet,
+förstärkning och bandbredd påverkas av val av komponentervärden
+och biaspunkter
+självständigt kunna redogöra för hur olika komponenter,
+speciellt spolar, kan realiseras på chip, samt inverkan av
+parasitkapacitans och parasitresistans vid höga frekvenser och hur
+man bör utforma en layout som konsekvens av detta, och hur
+CAD-verktyg används vid konstruktion av RF IC kretsar
+självständigt kunna redogöra för vissa systemöverväganden
+för hela radiodelar och olika arkitekturers egenskaper
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna välja lämplig kretstopologi för en given specifikation
+och dimensionera de ingående komponenterna så att specifikationen
+uppfylls, och dessutom kunna analysera en given koppling med
+avseende på funktion och prestanda. Kunna utföra vissa
+beräkningar och val på systemnivå
+kunna konstruera layout för byggblock och komponenter,
+speciellt spolar, och beräkna dess parasiter. I CAD-program kunna
+simulera RF IC kretsar, samt rita och verifiera deras layout
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+ha tillägnat sig tillräckligt med grundläggande begrepp och
+kunskaper att man kan beskriva idéer, problem och lösningar för
+sakkunniga personer inom området
+kunna bedöma om en konstruktion lämpar sig för integration
+på en CMOS-krets
+
+
+Kursinnehåll
+Kursen är bred och behandlar ämnen från arkitekturnivå
+(homodyn, låg-IF, heterodyn), via byggblocksnivå (LNA, blandare,
+oscillatorer, effektförstärkare) till komponent och layoutnivå.
+Vad gäller komponenter kan spolar och transformatorer realiseras
+på chip, vilket inte är möjligt vid lägre frekvenser. Kursens
+tyngdpunkt ligger på byggblocken och hur de kan realiseras med
+CMOS teknologi. För och nackdelar med olika kretstopologier
+behandlas. Det är en målsättning att ta med även de senaste
+topologierna från forskningen. Metoder att dimensionera de
+ingående komponenterna för att uppnå givna specifikationer,
+liksom metoder att analysera egenskaper hos givna konstruktioner
+är centrala.
+Moderna CAD-verktyg för konstruktion av RF IC-kretsar är ett
+centralt område, som studenten får stifta bekantskap med och
+använda sig av i kursen. I projektet får man lära sig att
+simulera radiobyggblock som förstärkare, blandare och
+oscillatorer med en modern simulator utvecklad speciellt för
+ändamålet.
+Kursen avslutas med en gästföreläsning där föreläsaren
+berättar om sitt arbete vid en konstruktionsavdelning för
+integrerade radiokretsar vid ett företag.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Projektrapporten ska vara godkänd.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+ETIN25 Analog IC-konstruktion
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: ETI170
+Kurslitteratur
+
+Lee T H: The Design of CMOS Radio-Frequency Integrated Circuits, Second Edition. Cambridge University Press, 2004, ISBN: 0-521-83539-9.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Professor Henrik Sjöland, Henrik.Sjoland@eit.lth.se
+Hemsida: http://www.eit.lth.se/kurs/etin30
+Övrig information: Introduktion till trådlösa system (EITF50) rekommenderas men utgör inget nödvändigt förkunskapskrav för ETIN30. 
+
+Vid färre än 16 deltagare kan kursen komma att ges med reducerad undervisning och större inslag av självstudier.
+
+
+

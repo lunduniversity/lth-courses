@@ -1,0 +1,117 @@
+
+Kursplan 2019/20 EXTA60
+
+
+
+
+
+Kursplan för
+Statistik
+Statistics
+EXTA60, 7,5 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning I
+Beslutsdatum: 2019-04-01
+Allmänna uppgifter
+Obligatorisk för: BI2
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursen syftar till att ge kunskaper om grundläggande
+statistiska begrepp inom teknik och ekonomi och att ge övning i
+att bedöma kvaliteten i statistiska undersökningar samt att
+använda datorer vid statistiska beräkningar.
+Kursen ska ge studenten kunskaper i hur man beskriver
+slumpmässig variation och förståelse för principerna bakom
+statistiska analyser. Den ska också ge studenterna en
+verktygslåda med de vanligaste modellerna och metoderna samt
+förmågan att använda dessa i olika praktiska situationer.
+Kursen syftar dels till att ge en allmänbildning i statistik,
+dels ska den ge en grund för vidare studier.
+Allmänbildningen behövs för den som i sitt yrkesliv inte
+nödvändigtvis kommer att syssla med statistiska analyser dagligen
+men som kan förväntas behöva kunna tolka resultat från olika
+undersökningar, presentera resultat och genomföra enklare
+statistiska analyser.
+Kursen skall också kunna ge en grund för vidare studier. Detta
+främst genom att man definierar och använder grundbegreppen inom
+sannolikhetsteori, riskanalys, modellering mm.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+• kunna relatera frågeställningar om slumpmässig variation
+och observerade data, till både praktiska och teoretiska begrepp:
+variabler/slumpvariabler, fördelningar och samband mellan
+variabler,
+• kunna förklara begreppen oberoende, sannolikhet, betingad
+sannolikhet, fördelning, väntevärde, varians, kovarians och
+korrelation,
+• kunna beräkna sannolikheten för en händelse samt
+väntevärde och varians utifrån en given fördelning,
+• kunna förklara grunderna i en statistisk beslutsmodell och
+begrepp som beslut, osäkerheter och värden,
+• kunna beskriva grundläggande tekniker för statistisk
+slutledning och kunna använda dem på enklare statistiska
+modeller.
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+• kunna beskriva ett datamaterial med hjälp av olika
+deskriptiva tekniker,
+• kunna välja och använda en lämplig statistisk metod för
+att besvara en given statistisk frågeställning,
+• kunna beskriva ett problem med hjälp av beslutsträd och
+även kunna hitta det optimala beslutet,
+• kunna använda ett beräkningsprogram för analys av data
+och simuleringar,
+• kunna använda statistiska termer inom området i
+skrift.
+
+Kursinnehåll
+I kursen behandlas de teoretiska och praktiska grunderna för
+statistisk analys av data. Begrepp som händelse, sannolikhet
+(risk), oberoende och väntevärde definieras. Vidare studeras
+några olika diskreta och kontinuerliga sannolikhetsmodeller, t.ex.
+binomial-, Poisson- och normalfördelning. Grunderna i den
+deskriptiva statistiken behandlas: principer för tabellering och
+diagramritning, central-, spridnings- och sambandsmått,
+standardvägningsmetoder samt indexteori. Innebörden av begreppen
+statistisk felmarginal och statistisk signifikans diskuteras. I
+kursen ges också en introduktion till datoranvändning vid
+simuleringar (Monte Carlo) och statistiska beräkningar.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Godkänd skriftlig tentamen samt godkända laborationer.
+
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Skritflig tentamen. 
+Antal högskolepoäng: 7,5. Betygsskala: TH.  Prestationsbedömning: Godkänd skriftlig tentamen 
+Kod: 0217. Benämning: Laborationer. 
+Antal högskolepoäng: 0. Betygsskala: UG.  Prestationsbedömning: Godkända laborationer.  Delmomentet omfattar: För godkänt krävs fullgjorda laborationer  (två obligatoriska introduktionstillfällen och tre laborationer). Detaljerade föreskrifter angående fullgörande av obligatoriska moment kommer att finnas i kursprogrammet.
+
+
+ 
+Antagningsuppgifter
+Förutsatta förkunskaper: FMAA05 Endimensionell Analys
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: TNX071
+Kurslitteratur
+
+Körner S., Wahlgren L: Praktisk statistik, tredje upplagan. Studentlitteratur, 2002, ISBN: 91-44-01915-7. Kapitel 1-6.
+Körner, S., Wahlgren L: Statistisk Dataanalys, fjärde upplagan. Studentlitteratur, 2006, ISBN: 91-44-01573-9. Kapitel 1–8, 10.
+The Centre for Chemical Process Safety, Tools for Making Aute Risk Decisions, Decision of Analysis. American Institute of Chemical Engineers, New York, 1995. Kapitel 11.
+Körner, S: Tabeller och formler för statistiska beräkningar, Andra upplagan. Studentlitteratur, 2000, ISBN: 91-44-01485-6.
+Stencilerat studiematerial , (Handledningar till datorprogram).
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Per-Erik Isberg, per-erik.isberg@stat.lu.se
+Kursansvarig: Lars Wahlgren , lars.wahlgren@stat.lu.se
+Hemsida: http://www.stat.lu.se/utbildning/student/znivaa/tnx071
+Övrig information: För omtentamen skall kursansvarig kontaktas.
+
+
+

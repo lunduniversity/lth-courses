@@ -1,0 +1,125 @@
+
+Kursplan 2019/20 FMFF05
+
+
+
+
+
+Kursplan för
+Statistisk termodynamik med tillämpningar
+Thermodynamics with Applications
+FMFF05, 6 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning N
+Beslutsdatum: 2019-03-28
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: F2
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Termodynamiken är en grundläggande fysikalisk teori som har
+tillämpningar inom de flesta områden av fysik och teknik. Syftet
+med kursen är att ge såväl tillämpningar som en bas för
+fortsatta studier inom bl a atom-, förbrännings- och fasta
+tillståndets fysik. Utgående från termodynamiken, vars grunder i
+statistisk form behandlas i kursens första del, får studenten
+tillämpa och fördjupa sina kunskaper genom att genomföra ett
+projekt. Projekten är kopplade till forskningsområden som starkt
+bidrar till kunskapsutvecklingen inom området hållbar utveckling,
+och anknyter till ett urval av SCB:s indikatorer: "Hållbar
+konsumtion och produktion", "Miljö och klimat" och "Global
+utveckling". Förståelse för och grundläggande kunskaper inom
+området är centralt för utvecklingen av det hållbara
+samhället.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna redogöra för den statistiska termodynamikens
+grundantaganden
+förstå och kunna redogöra för termodynamikens
+huvudsatser.
+kunna beskriva principerna för värmemotorer, kylmaskiner och
+värmepumpar
+förklara sambanden mellan centrala begrepp som
+entropiproduktion och effektiviten hos termodynamiska system
+med utgångspunkt från ett naturvetenskapligt perspektiv kunna
+analysera givna problemställningar inom området hållbar
+utveckling
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna analysera och göra beräkningar på enkla termodynamiska
+system
+kunna genomföra ett projekt där kunskaper inom termodynamik
+tillämpas på en konkret problemställning
+kunna göra en vid bedömning av projektets resultat berörande
+även andra områden än fysik, t ex ekonomi, miljö, klimat eller
+global utveckling
+kunna skriva en vetenskaplig/teknisk rapport med korrekt och
+relevant källhantering
+kunna ge en muntlig presentation av projekt.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+ha förståelse för och se behovet av att värdera en
+problemställning inom området hållbar utveckling från olika
+aspekter
+ha förståelse för samspelet mellan olika aktörer och se sin
+egen roll i utvecklingen av det hållbara samhället.
+
+
+Kursinnehåll
+Termodynamik: Första huvudsatsen. Inre energi, arbete och
+värme. Isoterma och adiabatiska processer i gaser. Andra
+huvudsatsen. Entropi som statistisk storhet. Temperatur och olika
+jämviktsvillkor. Olika värmemaskiner och effektiv användning av
+energi. Boltzmannfaktorn och Maxwells hastighetsfördelning. Ideala
+kvantgaser och Fermigaser vid låga temperaturer.
+Förbränning.
+Inspirationsföreläsningar som behandlar såväl specifika
+problem som övergripande frågeställningar inom området hållbar
+utveckling (obligatorisk närvaro). Projekten innebär fördjupning
+inom ett av följande ämnesområden: Förbränningsprocesser,
+klimatfysik eller effektiv energianvändning/förnyelsebar
+energi.
+Kursens uppläggning. Lp 1 HT: Föreläsningar och övningar
+samt en laboration, ”Kretsprocesser”. Avslutas med deltentamen.
+Lp 2 HT: Inledande föreläsningar och laboration
+”Förbränning”, därefter projektarbete som avslutas med
+redovisning i grupper. Föreläsning som beskriver hur en
+vetenskaplig/teknisk rapport skrives (obligatorisk närvaro). Varje
+projekt ska redovisas skriftligt och med en muntlig presentation.
+Dessutom ingår granskning och argumenterande respons.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen efter första delen av kursen. Godkända laborationsrapporter. Muntlig och skriftlig presentation av projekt.
+Två obligatoriska föreläsningar.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0108. Benämning: Statistisk termodynamik. 
+Antal högskolepoäng: 3. Betygsskala: TH.  Prestationsbedömning: Skriftligt prov.  Delmomentet omfattar: Statistisk termodynamik 
+Kod: 0208. Benämning: Projekt inom hållbar utveckling. 
+Antal högskolepoäng: 3. Betygsskala: TH.  Prestationsbedömning: Skriftlig och muntlig projektredovisning.  Delmomentet omfattar: Projekt inom området hållbar utveckling 
+Antagningsuppgifter
+Förutsatta förkunskaper: FAFA55 Kvantfysikaliska koncept.
+
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Kompendium inom Statistisk termodynamik.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Marcus Dahlström, marcus.dahlstrom@matfys.lth.se
+Hemsida: http://www.matfys.lth.se/education/FMFF05
+
+
+

@@ -1,0 +1,132 @@
+
+Kursplan 2019/20 VBFN05
+
+
+
+
+
+Kursplan för
+Energi, luft och fukt vid ombyggnad och förvaltning
+Energy, Air Movements and Moisture at Rebuilding and Administration
+VBFN05, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning V
+Beslutsdatum: 2019-04-01
+Allmänna uppgifter
+Valfri för: V4-hb, V4-bf
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Att ge fördjupad kunskap om energi-, fukt-, kvalitets- och
+miljöfrågor och tillförlitlighet hos befintliga byggnader, dess
+delar och system under förvaltningsskedet, samt vid projektering
+och produktion vid ombyggnader så att de på lång sikt ska var
+beständiga mot fukt, ha låga driftkostnader, ett gott
+inomhusklimat och uppfylla framtida klimatmål.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+Mäta olika inneklimatparametrar, identifiera problem och
+föreslå åtgärder inklusive eventuella injusteringar.
+Genomföra energianalys och föreslå
+energieffektiviseringsåtgärder.
+Inventera och identifiera miljöstörande ämnen i byggnader
+och installationer.
+Tolka bygg- och VVS-handlingar samt identifiera eventuella
+brister i fuktskyddet och föreslå energieffektiviserande
+åtgärder.
+Beskriva byggnads- och installationstekniken i äldre
+byggnader.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+Tillämpa olika mätmetoder och bedöma deras
+tillförlitlighet.
+Utifrån mätresultat, besiktningar och granskning av
+tillgängliga handlingar utforma del av underhållsplaner och
+föreslå åtgärder för förbättrad inomhusmiljö.
+Förmåga att generalisera inhämtad kunskap på andra
+projekt.
+Beräkna och bedöma inverkan av tredimensionella
+köldbryggor.
+Visa förmåga till lagarbete och samverkan i grupper. Visa
+förmåga att muntligt och skriftligt i dialog med andra grupper
+redogöra för och diskutera sina resultat och slutsatser.
+Kunna beräkna luftströmning och tryckförhållande inom en
+byggnad och genom byggnadsdelar och dess samverkan med
+ventilationssystem samt förstå konsekvenser av luftläckage.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+Värdera lämpligheten och tillförlitligheten för olika
+mätmetoder.
+Ha förmåga att identifiera sitt behov av ytterligare kunskap
+för att utveckla sin kompetens.
+
+
+Kursinnehåll
+
+Upprätta dokument för åtgärder och kontrollplaner för
+fuktskydd och miljöledning i alla skeden av byggprocessen.
+Informera om nya nationella och internationella regelverk
+om byggnader. Analysera och belysa vilka konsekvenser dessa leder
+till.
+Olika metoder för att analysera ny och befintlig bebyggelse
+avseende byggteknik, inneklimat, fuktsäkerhet och
+installationssystem för att rätt prioritera mellan olika ROT- och
+energibesparande åtgärder.
+Uppföljning av driftstatistik för en byggnads
+energianvändning i syfte att erhålla god energihushållning.
+Analysera fuktsäkerhet, energianvändning och
+inomhusmiljö.
+Byggnadsteknik i äldre hus.
+Informera om installationsteknik i äldre byggnader.
+Ritningstolkning av äldre och nyare A-, K- samt
+VVS-ritningar.
+Allmän miljökunskap avseende miljöfarliga bygg- och
+inredningsmaterial och metoder för inventering och hantering.
+Mögel och röta i byggnader.
+Kvalitetssäkring i byggprocessen.
+Konstruktion och ombyggnad av våtrum.
+Energisystem, injustering och byggnadsautomation.
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: 80% närvaro vid föreläsningstillfällena. Godkänd skriftlig tentamen. Tentamen kommer att innehålla frågor från föreläsningarna. För godkänt på kursen krävs även att projektuppgifter, laborationer och datorövning är godkända. Kvaliteten på projektuppgifterna kan påverka slutbetyget.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0114. Benämning: Energi, luft och fukt vid ombyggnad och förvaltning. 
+Antal högskolepoäng: 4. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen 
+Kod: 0214. Benämning: Projektuppgift. 
+Antal högskolepoäng: 3,5. Betygsskala: TH.  Prestationsbedömning: Skriftlig projektuppgift 
+Antagningsuppgifter
+Förutsatta förkunskaper: VBFF01 Energieffektivitet och innemiljö.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: VBF045
+Kurslitteratur
+
+Reppen L, Kallstenius P, Björk C:: Så byggdes husen 1880-2000. , Arkitektur, konstruktion och material i våra flerbostadshus under 120 år. Liber 2003, ISBN: 91-540-5888-0.
+Pettersson, B, Dalenbäck, J-O: Åtgärder för ökad energieffektivisering i bebyggelsen. Chalmers Energicentrum 2005.
+Sundell, J, et al: Problem med inomhusklimatet. BFR A8:1997. pdf-dokument på hemsidan, (Utdrag ur).
+Presentationer och annat material från föreläsningar.
+Abel E, Elmroth A: Byggnaden som system. Studentlitteratur, 2016, ISBN: 978-91-44-11588-7. Upplaga 4:1.
+Sandin, K: Luftströmning. Kompendium. Lund 1990.
+Harderup och Nordquist: Räkneövningar i luftströmning.
+Dahlblom m.fl.: Installationsteknik för fastighetsmäklare-driftstatistik och graddagskorrigering. 2004. Pdf-dokument på hemsidan (Utdrag ur).
+Anders Granlund: Underhållsplanering. 2018. Pdf-dokument på hemsidan.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Birgitta Nordquist, Birgitta.Nordquist@hvac.lth.se
+Kursansvarig: Lars-Erik Harderup, lars-erik.harderup@byggtek.lth.se
+Hemsida: https://liveatlund.lu.se
+
+
+

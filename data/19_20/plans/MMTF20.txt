@@ -1,0 +1,95 @@
+
+Kursplan 2019/20 MMTF20
+
+
+
+
+
+Kursplan för
+Tillverkningsmetoder
+Production and Manufacturing Methods
+MMTF20, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning M
+Beslutsdatum: 2019-03-27
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: M2, MD2
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+En stor del av en produkts kostnad och egenskaper bestäms vid
+valet av tillverkningsmetod, samt av hur denna tillverkningsmetod
+styrs och utformas. Syftet med kursen är att ge studenten en bred
+kunskap om existerande tillverkningsprocesser, för att i olika
+sammanhang kunna påverka en produkts kritiska attribut; kostnad,
+funktion och egenskaper.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna definiera och beskriva specifika begrepp inom
+tillverkningstekniken.
+individuellt och i skriftlig form, kunna värdera och jämföra
+olika tillverkningsprocesser, avseende funktion, resultat och
+effektivitet.
+kunna utföra grundläggande beräkningar som ger
+grundförutsättningar för dessa tillverkningsprocesser.
+kunna integrera grundläggande kunskaper från materialteknik,
+hållfasthetslära, fysik, mekanik.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+i grupp kunna tillämpa beräkningsmetodik på en verklig,
+sammansatt produkt, för att i en skriftlig rapport kunna
+specificera ramarna för tillverkning av denna, avseende material,
+maskin, verktyg, process etc. Studenten skall även i detta
+sammanhang kunna applicera enkla ekonomiska beräkningar.
+utgående från en fysisk detalj, inom givna ramar, kunna
+analysera vilken tillverkningsmetod som använts, integrera
+kunskaper från materialtekniken, samt redovisa resultatet gruppvis
+i en skriftlig rapport.
+självständigt kunna söka upp och sammanställa information
+kring en given tillverkningsprocess, samt muntligt presentera detta
+inför en större grupp.
+
+
+Kursinnehåll
+Kursen omfattar de industriellt använda grupper av
+tillverkningsmetoder inklusive dess teoribas samt tillhörande
+metoder för kvalitetssäkring av tillverkade diskreta mekaniska
+komponenter. De väsentligaste metodgrupperna är plastisk
+bearbetning, skärande bearbetning, slip- och polermetoder samt
+klipp och skärmetoder. Ickemekaniska bearbetningsmetoder som
+exempelvis gnistbearbetning och laserbaserade metoder, gjutning och
+sammanfogningsmetoder som exempelvis svetsmetoder och adhesiva
+förbandsprinciper, tillverkningsmetoder och formfyllnadsmetoder
+för polymera material samt pulverbaserade metoder inklusive
+additiv tillverkning. Kursen omfattar också utformning av
+hållbara tillverkningssystem, kretsloppsteknik, internationell
+produktionsutveckling samt trender och utveckling inom området
+samt en introduktion till tillverkningsekonomi.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen, skriftliga inlämningsuppgifter, obligatoriska laborationer.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: FMEA01/FMEA30 Mekanik, FHL013/FHLF15 Hållfasthetslära, allmän kurs/FHLA01 Hållfasthetslära, allmän kurs och FKM015/FKMA01 Konstruktionsmaterial, allmän kurs/FKMA01 Materialteknik.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: MMTA05
+Kurslitteratur
+
+Ståhl, Jan-Eric: Industriella Tillverkningssystem del I, Material och tillverkningsmetoder. KFS i Lund AB, 2017.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Fredrik Schultheiss, fredrik.schultheiss@iprod.lth.se
+Kursansvarig: Jan-Eric Ståhl, jan-eric.stahl@iprod.lth.se
+Hemsida: http://www.iprod.lth.se
+
+
+

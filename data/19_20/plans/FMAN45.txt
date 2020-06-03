@@ -1,0 +1,92 @@
+
+Kursplan 2019/20 FMAN45
+
+
+
+
+
+Kursplan för
+Maskininlärning
+Machine Learning
+FMAN45, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning F/Pi
+Beslutsdatum: 2019-03-26
+Allmänna uppgifter
+Valfri för: BME4, D4-bg, D4-mai, E5, F4, F4-bs, F4-bg, F4-fm, F4-r, F4-mai, I4, Pi4-bam
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Att ge kännedom om grunderna för maskinlärning --
+konstruktion av automatiserade system som kan lära/hämta
+information från data, till exempel lära sig känna igen tecken i
+handskriven text.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna redogöra för de statistiska principerna som ligger till
+grund för maskininlärning
+kunna beskriva den vetenskapliga grunden för att utveckla och
+analysera inlärningsalgoritmer och lärande system
+ha fördjupade kunskaper om metoder och teorier inom området
+maskininlärning.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+ha visat förmåga att utveckla inlärningsmetoder och lärande
+system för relevanta tekniska frågeställningar
+ha visad förmåga att identifiera, formulera, designa och
+implementera lärande komponenter och applikationer.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+ha visat förmåga att kritiskt värdera och jämföra olika
+inlärningsmodeller och inlärningsalgoritmer för olika
+problemuppställningar och kvalitetsegenskaper.
+
+
+Kursinnehåll
+
+Inlärning, prövning, generalisering, hypotesrum
+Linjär regression och klassificering
+Kärnmetoder och stödvektormaskiner
+Grafiska modeller
+Superpositionsmodeller, EM-algoritmen (Expectation
+Maximization).
+Variations- och samplingsmetoder.
+
+ 
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Obligatoriska inlämningsuppgifter som inkluderar datorarbete och rapport. Skriftlig tentamen. För dem som inte blir godkända på inlämningarna kommer det att finnas en möjlighet att komplettera under följande termin.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+FMAF05 Matematik - System och transformer eller FMAF10 Tillämpad matematik - Linjära system
+
+
+Förutsatta förkunskaper: FMAF05 Matematik - System och transformer eller FMAF10 Tillämpad matematik - Linjära system, samt någon av grundkurserna i Matematisk statistik.
+Begränsat antal platser: 80
+Urvalskriterier: Antal poäng som uppnåtts i kurserna FMSF70, FMSF45, FMSF20, FMSF10, FMSN30, FMSN40, FMAN20, FMAN60 och FMAN70. Förtur ges till studenter vars program har kursen listad i läro- och timplanen.
+Kurslitteratur
+
+Bishop, C. M.: Pattern Recognition and Machine Learning. Springer, 2006, ISBN: 9780387310732.
+I. Goodfellow, Y. Bengio & A. Courville: Deep Learning. MIT press, 2016, ISBN: 978-0-262-03561-3. HTLM-version finns på http://www.deeplearningbook.org/, åtminstone i november 2017.
+R. Sutton & A.G. Barto: Reinforcement Learning, An Introduction. MIT Press, 2017. Manuskript via http://incompleteideas.net/sutton/book/the-book-2nd.html.
+
+
+Kontaktinfo och övrigt
+Lärare: Cristian Sminchisescu, cristian.sminchisescu@math.lth.se
+Kursansvarig: Anders Holst, studierektor@math.lth.se
+Kursadministratör: Studerandeexpeditionen, expedition@math.lth.se
+Hemsida: http://www.ctr.maths.lu.se/course/machinlearn/
+
+
+

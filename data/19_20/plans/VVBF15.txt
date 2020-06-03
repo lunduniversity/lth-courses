@@ -1,0 +1,101 @@
+
+Kursplan 2019/20 VVBF15
+
+
+
+
+
+Kursplan för
+Samverkan fordon/bana-spårfordonsteknik
+Interaction between Track and Vehicle-trackvehicle Technique
+VVBF15, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning V
+Beslutsdatum: 2019-04-01
+Allmänna uppgifter
+Obligatorisk för: IBYI3
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursen syftar till att ge grundläggande kunskaper om
+spårfordons uppbyggnad, funktion och dynamik samt den dynamiska
+samverkan mellan fordon och bana.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+Kunna redogöra för den dynamiska samverkan mellan fordon och
+bana vilket omfattar fordonsrörelser, spårkrafter, risk för
+urspårning, slitage på räls och hjul samt komfort för
+resande
+Ha förståelse för vilken betydelse ovanstående har för
+järnvägstrafikens säkerhet, kvalitet på gods- och
+persontransporter samt ekonomi
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+Med beaktande av gällande normer och regler kunna beräkna de
+krafter som verkar på spår och rullande materiel
+Redovisa lösningarna till olika beräkningsuppgifter i
+kortfattade rapporter
+
+
+Kursinnehåll
+Kursen är uppdelad i två avsnitt, som vardera avslutas med en
+skriftlig tentamen.
+För avsnittet samverkan fordon/bana ingår följande
+moment:
+
+Grundläggande begrepp
+Spårplansacceleration
+Krängning, korgplansacceleration, korglutning
+Hjulprofiler och konicitet
+Hjulparets styrning i spåret
+Spårkrafter, säkerhet mot urspårning
+Slitage på hjul och räler
+Rörelserelaterad komfort
+
+För avsnittet spårfordon ingår följande moment:
+
+Grundläggande begrepp
+Vagnskorgar och löpverk
+Tågs framdrivning
+Broms
+Fordonsöversikter
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Två godkända skriftliga tentamina omfattande fordon/bana respektive spårfordon. Godkända beräkningsuppgifter. För godkänt måste båda tentorna klaras plus godkända inlämningsuppgifter. Det är ingen poänguppdelning mellan dem. Beräkningsuppgifter ingår i båda tentorna.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0111. Benämning: Del 1. 
+Antal högskolepoäng: 4. Betygsskala: TH.  Prestationsbedömning: Godkänd skriftlig tentamen. Godkända beräkningsuppgifter. Godkända inlämningsuppgifter. 
+Kod: 0211. Benämning: Del 2. 
+Antal högskolepoäng: 3,5. Betygsskala: TH.  Prestationsbedömning: Godkänd skriftlig tentamen. Godkända beräkningsuppgifter. Godkända inlämningsuppgifter. 
+Antagningsuppgifter
+Förkunskapskrav:
+VTVA45 Väg- och järnvägsteknik
+
+
+Förutsatta förkunskaper: VTVA35.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: VVB671
+Kurslitteratur
+
+Evert Andersson, Mats Berg, Sebastian Stichel, KTH: Spårfordons dynamik (delar av).
+Evert Andersson, Mats Berg, KTH: Järnvägssystem och spårfordon (delar av).
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Stellan Jönsson, stellan.jonsson@trafikverket.se
+Kursansvarig: Mats Berg, mabe@kth.se
+Examinator: Andreas Persson, andreas.persson@tft.lth.se
+Hemsida: http://www.hbg.lth.se
+Övrig information: Kursen ges vid Trafikverksskolan i Ängelholm.
+
+
+

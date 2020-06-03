@@ -1,0 +1,98 @@
+
+Kursplan 2019/20 KBKF01
+
+
+
+
+
+Kursplan för
+Genteknik
+Gene Technology
+KBKF01, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning B/K
+Beslutsdatum: 2019-03-29
+Allmänna uppgifter
+Huvudområde: Bioteknik. 
+Huvudområde: Teknik. 
+Obligatorisk för: B3
+Alternativobligatorisk för: MBIO1
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursen syftar till att den enskilda studenten självständigt
+och kritiskt skall förstå genteknik.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+beskriva och formulera upplägg för ett enklare
+kloningsförsök.
+beskriva, formulera och värdera olika värdceller för
+expression av ett främmande protein.
+beskriva användning av genteknik inom bioteknik, livsmedel och
+medicin.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+praktiskt använda de vanligast förekommande teknikerna på
+laboratoriet.
+följa enklare fysiologiska förändringar till följd av
+genmodifieringen.
+beskriva och värdera informationen i vetenskapliga artiklar
+inom gentekniken.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+i grupp muntligt diskutera och kritiskt utvärdera vetenskaplig
+literatur.
+i både tal och skrift behärska och utnyttja de vanligast
+förekommande metoderna och teknikerna i gentekniken.
+
+
+Kursinnehåll
+Undervisningen behandlar genmodifiering av bakterier, jäst-,
+växt och animalceller. Speciell vikt läggs vid tillämpningar
+inom kemiteknisk industri, livsmedelsindustrin och
+läkemedelsindustrin. Laborationskursen tar upp de vanligaste
+momenten inom gentekniken som t.ex. isolering och kartläggning av
+DNA, DNA sekvensering, PCR, vektorkonstruktioner,
+transformationsmetoder och hybridiseringstekniker.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Aktivt deltagande i laborationskurs, skriftlig laborationsrapport,  muntlig presentation av en litteraturuppgift och skriftlig tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Genteknik, teori. 
+Antal högskolepoäng: 6. Betygsskala: TH.  Prestationsbedömning: Godkänd muntlig presentation av en litteraturuppgift och skriftlig tentamen.  Delmomentet omfattar: Undervisningen behandlar bakteriers, jäst-, växt och animalcellers genetiska och fysiologiska förutsättningar för genmodifiering. Speciell vikt läggs vid tillämpningar inom kemiteknisk industri, livsmedelsindustrin och läkemedelsindustrin. 
+Kod: 0217. Benämning: Genteknik, laborationer. 
+Antal högskolepoäng: 1,5. Betygsskala: UG.  Prestationsbedömning: Aktivt deltagande och laborationsrapport.  Delmomentet omfattar: Laborationskursen tar upp de vanligaste momenten inom gentekniken som t.ex. isolering och kartläggning av DNA, DNA sekvensering, PCR, vektorkonstruktioner, transformationsmetoder och hybridiseringstekniker. 
+Antagningsuppgifter
+Förkunskapskrav:
+KMB060 Mikrobiologi eller KMBA01 Mikrobiologi
+KBK011 Biokemi eller KBKA10 Biokemi
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: KBK041
+Kurslitteratur
+
+course leaders: Laboratory Compendium. 2013. Laborationskompendium.
+T.A. Brown: Gene Cloning and DNA Analysis, An Introduction. Wiley-Blackwell, 2016, ISBN: 978-1-119-07256-0.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Dr. Catherine Paul, catherine.paul@tmb.lth.se
+Kursansvarig: Dr. Magnus Carlquist, magnus.carlquist@tmb.lth.se
+Kursansvarig: Dr Nelida Leiva Eriksson, Nelida.Leiva_Eriksson@tbiokem.lth.se
+Hemsida: http://www.tbiokem.lth.se
+Övrig information: Kursen ges i samarbete mellan avdelningarna för Tillämpad biokemi och Teknisk mikrobiologi.
+
+
+

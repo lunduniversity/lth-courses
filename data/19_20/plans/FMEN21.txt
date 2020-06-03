@@ -1,0 +1,99 @@
+
+Kursplan 2019/20 FMEN21
+
+
+
+
+
+Kursplan för
+Kontinuumsmekanik
+Continuum Mechanics
+FMEN21, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning M
+Beslutsdatum: 2019-03-27
+Allmänna uppgifter
+Valfri för: F4, F4-bem, M4-bem, Pi4-bem
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursens syfte är att ge en enhetlig och överskådlig
+framställning av deformerbara kroppars mekanik, d.v.s. en allmän
+mekanik för fasta, flytande och gasformiga materiella kroppar i
+rörelse. Kursen syftar till att motivera och illustrera samspelet
+mellan balansekvationer och konstitutiva relationer för
+materialets beteende. Kursen ger också en introduktion till
+cartesisk tensoranalys.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna förklara och använda grundbegreppen
+deformationsgradient, deformationstensor, förskjutningsgradient,
+materiell och lokal tidsderivata, deformationshastighet och
+spänningstensorn
+redogöra för de grundläggande balansekvationer och
+konservationslagar som kan ställas upp för en deformerbar
+kropp
+kunna beskriva de viktigaste resultaten i allmänna teorin för
+konstitutiva relationer
+redogöra för de allmänna ekvationerna för vissa typer av
+vätskor och elastiska kroppar samt känna till något om mer
+avancerade konstitutiva samband
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna beskriva en deformerbar kropps rörelse och lösa enkla
+dynamiska problem av deformerbara kroppar med hjälp av
+balansekvationer och konservationslagar
+tillämpa och analysera olika typer av konstitutiva
+samband
+formulera och lösa vissa enkla strömnings- och
+elasticitetsproblem
+presentera lösningen av ett kontinuummekaniskt problem i en
+teknisk rapport
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+värdera erhållna resultat utifrån fysikalisk rimlighet
+evaluera olika konstitutiva samband genom att kalibrera och
+validera de mot experimentell data
+
+
+Kursinnehåll
+Deformation och kinematik för deformerbara kroppar, kraft och
+spänningar i deformerbara kroppar. Allmänna konservations- och
+balansekvationer för massa, rörelsemängd, rörelsemängdsmoment,
+kraft, energi och entropi. Förhållandet mellan globala och lokala
+balansekvationer, teorin för konstitutiva samband, elasticitet och
+viskösa fluider, blandningsmodeller, exempel på konkreta
+tillämpningar.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Godkända inlämningsuppgifter, projektarbete och skriftlig tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: Grundläggande kurser i mekanik, linjär algebra och analys.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FMEF01, FMEN20
+Kurslitteratur
+
+A.Ahadi: Lecture notes, Continuum mechanics.
+Ellad B Tadmor: Continuum mechanics and thermodynamics. ISBN: 9781107008267.
+A.Ahadi: Lecture notes, Continuum mechanics.
+Ellad B Tadmor: Continuum mechanics and thermodynamics. ISBN: 9781107008267.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Prof. Aylin Ahadi, Aylin.Ahadi@mek.lth.se
+Hemsida: http://www.mek.lth.se
+Övrig information: Kursen kan komma att ges på engelska.
+
+
+

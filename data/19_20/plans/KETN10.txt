@@ -1,0 +1,103 @@
+
+Kursplan 2019/20 KETN10
+
+
+
+
+
+Kursplan för
+Tillämpade transportprocesser
+Applied Transport Phenomena
+KETN10, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning B/K
+Beslutsdatum: 2019-03-29
+Allmänna uppgifter
+Valfri för: B5-pt, K4-p, W4-p
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Vid design och optimering av viktiga steg i kemiska processer,
+såsom reaktorer och separatorer, behövs en djup förståelse av
+stegens beteende och begränsningar. Syftet med kursen är att
+fördjupa studentens kompetens inom området transportfenomen och
+dess betydelse inom kemitekniska, biotekniska och ekologiska
+system. Allt för att studenten skall bli en kompetent yrkesperson
+med förmåga att analyser och dimensionera avancerade
+processystem.
+Speciellt fokus läggs på analys av transport av impuls, värme
+och massa i system med flera faser, t.ex. katalytiska reaktorer och
+proteinkromatografi, och på analys av flödessystem,
+blandningssystem och strömningsfältets inverkan på transport av
+massa och värme, t.ex. biotekniska reaktorer och omblandning.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+Kunna förklara på vilket sätt impuls, värme och massa
+transporteras och interagerar i system med flera faser vid
+reaktion och separation
+Kunna förklara på vilket sätt strömingsfält
+och impulstransport påverkar transport av värme och massa i
+processtekniska flödessystem och blandningssystem
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+Kunna formulera avancerade matematiska modeller för transport
+av impuls, värme och massa
+Kunna analysera processtekniska strömningsproblem med
+teoretisk och beräkningsteknisk problemlösning
+Kunna analysera processtekniska masstransportsproblem med
+teoretisk och beräkningsteknisk problemlösning
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+Kunna bedömma och värdera hur avancerad teori om
+transportfenomen kan appliceras på tekniska system och dess
+användbarhet i några utvalda fall
+
+
+Kursinnehåll
+Kursen behandlar impuls-, värme- och masstransport i avancerade
+tillämpningar hämtade både från kemitekniska, biotekniska och
+ekologiska system.
+Följande områden behandlas:
+
+Masstransport vid ideal och icke-ideal strömning och
+omblandning. Speciellt studeras strömningens inverkan i
+blandningstankar och reaktorer.
+Mass- och värmetransport vid flerfastillämpningar. Speciellt
+studeras gas/fast fas och vätska/fast fas med tillämpningar inom
+heterogen katalys, adsorption och kromatografi.
+Mass- och impulstransport i mikroskala studeras med
+beräkningsmjukvara. Speciellt studeras strömningens inverkan på
+kemiska och biotekniska blandningssystem och reaktorer.
+
+Den presenterade teorin exemplifieras och visualiseras både
+beräkningsmässigt via datorövningar och praktiskt via enkla
+laborativa inslag.
+Ett viktigt inslag för färdighetsträning och förhållningssätt
+är delprojekt på kursen centrala begrepp.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examinationen sker genom ett antal delprojekt, redovisade skriftligt och muntligt samt en skriftlig tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: KETF01 Transportprocesser, KETF10 Separationsprocesser och KETF25 Reaktionsteknik eller KETF40 Masstransport i naturliga och tekniska system och VVRF10 Strömningslära
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Department of Chemical Engineering: Applied Transport Phenomena. 2015.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Bernt Nilsson, bernt.nilsson@chemeng.lth.se
+
+
+

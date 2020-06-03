@@ -1,0 +1,107 @@
+
+Kursplan 2019/20 EIEF40
+
+
+
+
+
+Kursplan för
+Industriell mätning och styrning
+Measurement Systems for Control
+EIEF40, 9 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning E
+Beslutsdatum: 2019-03-25
+Allmänna uppgifter
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Kursen skall ge en god överblick över de viktigaste
+komponenterna som används för att bygga upp industriella mät-
+och styrsystem och dessa komponenters samverkan. Kursen ska även
+ge studenten erfarenhet av att planera, bygga och ta i drift ett
+mindre system inkluderande givare, ställdon och
+presentationsenheter för en given mät- och styruppgift.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+individuellt och utan hjälpmedel kunna
+
+förklara den principiella uppbyggnaden hos ett industriellt
+mät- och styrsystem,
+beskriva uppbyggnaden av en enchipsdator (microcontroller) på
+blocknivå,
+beskriva och fysikaliskt förklara olika givarprinciper för
+mätning av icke elektriska storheter,
+principiellt beskriva funktionen hos linjära
+anpassningskretsar, A/D- och D/A-omvandlare
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+individuellt och med hjälp av datablad kunna
+
+konstruera, bygga och felsöka anpassningar mellan
+givarsignaler och mätsystem,
+välja lämpliga givare för mätning av kraft, moment, tryck,
+temperatur och position inom mätområden där kommersiella
+givarprodukter finns
+bedöma lämpligheten för lösandet av ett industriellt mät-
+eller styrproblem hos elektronikkomponenter av typerna linjära
+anpassningskretsar, A/D- och D/A-omvandlare samt
+mikrodatorkretsar
+skriva enklare styrprogram i C och assembler för en
+microcontroller
+
+i grupp och med felsökningshjälp från handledare kunna
+
+konstruera och färdigställa ett fungerande mät- och
+styrsystem som mäter minst en icke-elektrisk elektrisk storhet,
+utför databehandling av mätvärdet, genomför styråtgärder via
+ansluten aktuator, samt utbyter information med en mänsklig
+operatör.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+i en kortfattad rapport kunna redovisa och förklara
+konstruktionen av hårdvara och mjukvara i ett mät- och styrsystem
+i ett grupparbete. Rapporten skall rikta sig till andra som läst
+denna kurs eller har motsvarande förståelse.
+
+Kursinnehåll
+Logisk algebra, grindar, Karnaughdiagram, vippor, kombinatoriska
+nät och sekvensnät. Egenskaper och prestanda för komponenter och
+kretsfamiljer. Givare, mätmetoder för mätning av
+icke-elektriska storheter. Anpassning mellan givare och mätsystem.
+Omvandling mellan analoga och digitala signaler. Mikrodatorn som
+komponent i mät- och styrsystem. Anslutning av mätsystem till
+persondator. Kommersiella mät- och styrprogram.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Godkända laborationer, godkänt projekt samt skriftlig sluttentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Laborationer och projekt. 
+Antal högskolepoäng: 3. Betygsskala: UG.  Prestationsbedömning: Godkända laborationer och projekt.  Delmomentet omfattar: Laborationer och projekt. 
+Kod: 0217. Benämning: Industriell mätning och styrning. 
+Antal högskolepoäng: 6. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen bedöms i skalan U, 3, 4, 5.  Delmomentet omfattar: Skriftlig tentamen på kursen. 
+Antagningsuppgifter
+Förutsatta förkunskaper: MIE012/EIEF35 Elektroteknikens grunder (M)
+ETE115/EITF90 Ellära och elektronik (F)
+ESS010/EITA35 Elektronik eller ESSF01 Analog elektronik (E).
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Lindstedt G: Kompendium i Industriell mätning och styrning, IEA, LTH, 2007.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Associate Professor Gunnar Lindstedt, gunnar.lindstedt@iea.lth.se
+Hemsida: http://www.iea.lth.se/ims
+Övrig information: Det krävs ca 100 timmars självstudier, främst för att slutföra projektdelen av kursen.
+
+
+

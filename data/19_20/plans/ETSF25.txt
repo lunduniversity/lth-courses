@@ -1,0 +1,130 @@
+
+Kursplan 2019/20 ETSF25
+
+
+
+
+
+Kursplan för
+Affärsdriven programvaruutveckling
+The Business of Software
+ETSF25, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning C/D
+Beslutsdatum: 2019-04-01
+Allmänna uppgifter
+Obligatorisk för: C3, D3
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursens syfte är att ge studenten insikter och kunskaper i
+affärsmässiga aspekter av mjukvaruutveckling. Detta innefattar
+hur marknad och ekonomi samspelar med den tekniska utvecklingen,
+begreppet innovation, affärsmodeller för mjukvaruprodukter och
+-tjänster, hur utvecklingsresurser skapas och används, hur
+projekt planeras och leds såväl inom etablerade företag som
+startups. Kursen syftar också till att belysa etiska
+frågeställningar och juridiska ramverk som påverkar
+programvaruutvecklingen.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna redogöra för grundläggande samband mellan
+programvaruutveckling och marknad, inklusive olika typer av
+innovation
+kunna beskriva hur en affärsidé kan omsättas till en
+programvaruprodukt eller -tjänst
+kunna beskriva hur ett utvecklingsprojekt planeras,
+kostnadsskattas, leds och följs upp
+kunna förklara tekniker för planering, kostnadsskattning,
+riskhantering och ledning & uppföljning av
+utvecklingsprojekt
+kunna beskriva etiska riktlinjer för ingenjörsarbete
+kunna beskriva de juridiska ramar som gäller för
+upphovsrätt, patent, och mjukvarulicenser
+
+ 
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna utveckla en affärsplan för ett mindre startup-företag
+och tillhörande demonstratörer för att kommunicera med
+finansiärer
+kunna ta fram en projektplan med beslutspunkter och
+kostnadsskattningar för hela projektet och för delmoment
+kunna identifiera grundläggande juridiska och etiska aspekter
+i ett projekt och resonera kring dessa
+kunna välja öppen källkodslicens för ett
+utvecklingsprojekt
+kunna skriva en teknisk rapport som följer en etablerad
+akademisk struktur inklusive referenshantering, tabeller och
+figurer.
+kunna söka, och i skrift summera och värdera relevanta
+vetenskapliga publikationer
+i skrift kunna presentera, tolka och diskutera egna
+resultat
+i skrift kunna argumentera för relevansen av ett
+arbete/projekt/studie
+i skrift kunna argumentera för egna slutsatser baserat på
+bevis/resultat
+
+ 
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+ha förståelse för hur marknad och teknik samspelar i
+mjukvaruutvecklingen
+ha förståelse för hur projektledning kan använda mått
+förstå ingenjörens ansvar för produkter och tjänster som
+utvecklas
+
+ 
+
+Kursinnehåll
+
+Affärsmodeller
+Innovation
+Ekosystem
+Affärsvärdet i kunddata
+Projektledning, planering och styrning, för traditionella och
+agila projekt
+Projekt- och organisationsnivåer
+Etikkoder för ingenjörer
+Juridiska aspekter på programvaruutveckling
+Öppen källkodslicenser
+
+ 
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Slutbetyget ges av en sammanvägning mellan projektarbete och skriftlig rapport.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Projekt. 
+Antal högskolepoäng: 4. Betygsskala: TH.  Prestationsbedömning: Projektarbetet betygsätts för projektgruppen. Deltagande i seminarier krävs för godkänt resultat. 
+Kod: 0217. Benämning: Rapport. 
+Antal högskolepoäng: 3,5. Betygsskala: TH.  Prestationsbedömning: Individuell skriftlig rapport som betygsätts. Deltagande i seminarier krävs för godkänt resultat. 
+Antagningsuppgifter
+Förkunskapskrav:
+EDA260 Programvaruutveckling i grupp – projekt eller EDAF45 Programvaruutveckling i grupp - projekt eller ETSA01 Ingenjörsprocessen för programvaruutveckling - metodik eller ETSA02 Programvaruutveckling - metodik
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: ETSA05, ETSF01
+Kurslitteratur
+
+Bob Hughes & Mike Cotterell: Software Project Management. Mc Graw Hill, 2009, ISBN: 9780077122799.
+Vetenskapliga artiklar.
+Material som anvisas av institutionen.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Elizabeth Bjarnason, elizabeth.bjarnason@cs.lth.se
+Hemsida: http://cs.lth.se/etsf25
+
+
+

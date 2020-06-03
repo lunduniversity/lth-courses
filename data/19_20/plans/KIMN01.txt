@@ -1,0 +1,101 @@
+
+Kursplan 2019/20 KIMN01
+
+
+
+
+
+Kursplan för
+Immunteknologi
+Immunotechnology
+KIMN01, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning B/K
+Beslutsdatum: 2019-03-29
+Allmänna uppgifter
+Huvudområde: Bioteknik. 
+Alternativobligatorisk för: MBIO1
+Valfri för: B4-l, B4-mb, BME4-bf, K4-l, N4-nbm
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Syftet med kursen är att ge fördjupad kunskap inom immunologi
+som kombinerat med erfarenheter från tidigare kurser inom
+bioområdet ska ge studenterna en insikt i hur dessa kunskaper kan
+tillämpas på problem inom det biotekniska och biomedicinska
+området.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+beskriva och förklara komplexa immunologiska processer
+tolka och problematisera komplexa biologiska observationer i
+immunologiska termer
+beskriva och förklara analytiska lösningsmetoder baserat på
+immunologiska tekniker för komplexa problem inom bioområdet
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+tillämpa immunologi för att utveckla och designa reagenser
+och analysmetoder för problem inom bioområdet
+utvärdera experimentella data utifrån en samlad bild av
+biokemiska och immunologiska processer
+utnyttja facktermer inom området både i tal och skrift
+redovisa och tolka experimentella data och teoretiska
+övervägande i ett immunologiskt kontext
+
+
+Kursinnehåll
+
+Kursen kommer att belysa bl.a. följande moment: Fundamental
+immunologi, inklusive cellulära och molekylära system samt deras
+interaktioner.
+Utveckling av monoklonala antikroppar/fragment med hjälp
+avcellbiologiska och molekylärbiologiska tekniker. Testmetoder
+baseradepå immunologiska reagenser. Biomedicinsk immunologi med
+aspekter inom allergi, tumörimmunologi och immunologisk terapi.
+Molekylärbiologiska metoder (s.k. genetisk ingenjörskonst –
+genetic engineering) för att förändra/förbättra immunologiska
+specificiteter och reaktioner.
+Immunologin och dess industriella tillämpning.
+Laborativa moment, vilka belyser kursens teoridel ingår.
+Interaktiva moment, såsom problem baserad inlärning och
+gruppdiskussioner, vilka belyser förståelse och förmåga att
+kommunicera ingår.
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Närvaro vid minst 75% av de obligatoriska föreläsningar och aktivt deltagande i obligatoriska PBL övningar. Laborationer och laborationsrapporter. Skriftlig eller muntlig tentamen (som definierat av examinatorn). Det slutgiltiga betyget sätts på den skriftliga eller muntliga tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Laborationsmoment. 
+Antal högskolepoäng: 3. Betygsskala: UG.  Prestationsbedömning: Laborationer och skriftliga laborationsrapporter. Betygskala UG.  Delmomentet omfattar: Delkursen kommer att belysa experimentella system använda inom basal immunologisk forskning samt immunologiska analyssystem och metoder vilka har stor spridning inom ett brett forskningsfält. Rapportering av resultat, där även teorin diskuteras. 
+Kod: 0217. Benämning: Teorimoment. 
+Antal högskolepoäng: 4,5. Betygsskala: TH.  Prestationsbedömning: Närvaro vid upprop och de obligatoriska föreläsningar (minst 75%) och aktivt deltagande i de obligatoriska PBL momenten. Skriftlig eller muntlig tentamen. Den skriftliga eller muntliga tentamen utgör grunden för slutbetyg.  Delmomentet omfattar: Kursens teoriinnehåll, d.v.s. basal immunologi och tillämpningar av immunsystemets celler och molekyler behandlas på ett teoretiskt plan i form av föreläsningar och övningar (och på laborationerna). 
+Antagningsuppgifter
+Förkunskapskrav:
+EXTA70 Cellens biologi eller KBK011 Biokemi eller KBKA05 Teknisk biologi eller KBKA10 Biokemi eller TEK295 Cellens biologi
+
+
+Begränsat antal platser: 48
+Urvalskriterier: Av platserna reserveras högst 3 för utbytesstudenter. Som urvalskriterium för resterande 45 platser används antal poäng som har uppnåtts eller tillgodoräknats på programmet. Förtur ges till studenter vars program har kursen listad i läro- och timplanen.
+Kursen överlappar följande kurser: KIM015, EXTN40
+Kurslitteratur
+
+Kenneth Murphy: Janeway´s Immunobiology, 9th ed. Garland Science, 2016, ISBN:  9780815345053. Murphy, K.Janeway´s Immunobiology. 9th ed. Garland Science, 2016. ISBN: 9780815345053.
+Vetenskapliga artiklar.
+Kompendium: Immunteknologikurs laborationer.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Kathrin Zeller, kathrin.zeller@immun.lth.se
+Hemsida: http://www.immun.lth.se/education/immunotechnology-second-cycle-studies/basic-courses/
+Övrig information: Obligatoriska moment: upprop/introduktion, föreläsningar A-E, PBL samt laborationer.
+
+
+
+

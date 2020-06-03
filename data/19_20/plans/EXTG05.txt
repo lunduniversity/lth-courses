@@ -1,0 +1,116 @@
+
+Kursplan 2019/20 EXTG05
+
+
+
+
+
+Kursplan för
+Biomaterial - Interaktion mellan levande vävnad och syntetiska material
+Biomaterials - Interaction between Living Tissue and Synthetic Materials
+EXTG05, 5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning BME
+Beslutsdatum: 2019-03-28
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: BME3
+Valfri för: N4
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Att ge specifik materialkunskap om vilka designparametrar som
+gäller när man väljer eller skapar material för att användas i
+kontakt med levande vävnad – biomaterial. Att förstå
+de processer och materialegenskaper som styr interaktionen över
+gränsytan, mellan material och levande vävnad. Att förstå den
+process som krävs för att utveckla ett nytt biomaterial från
+koncept till klinik. Att förstå de etiska frågeställningar som
+gäller när man utvecklar ett biomaterial eller en medicinteknisk
+produkt. Att känna till det regelverk som gäller för sådana
+produkter i Europa och övriga delar av världen.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+ 
+
+kunna redogöra för de viktigaste egenskaperna hos ett antal
+kliniskt använda biomaterial
+kunna redogöra för begreppen biomaterial och
+biokompatibilitet,
+förstå koncepten dekontaminering, sterilitet och renhet när
+de appliceras på medicintekniska produkter och biomaterial,
+kunna redogöra för utvecklingsprocessen för ett nytt
+biomaterial.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+
+
+kunna förklara de grundläggande principerna inom kursens
+område,
+kunna föra ett resonemang om de designfaktorer och mekanismer
+som styr utvecklingen av nya biomaterial och medicintekniska
+produkter,
+kunna göra en riskanalys på en användning av en
+medicinteknisk produkt,
+kunna välja bland olika material för en specifik mdicinsk
+teknisk användning.
+
+ 
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+ 
+
+förstå de etiska och kommersiella frågeställningarna i
+utvecklingen av ett nytt biomaterial,
+identifiera sitt kunskapsbehov och ta ansvar för sitt eget
+lärande,
+aktivt delta som medlem i en projektgrupp.
+
+
+Kursinnehåll
+Kursen ges i form av föreläsningar som kommer att innefatta
+materialkunskap, karakterisering och testning av biomateria samt
+steriliseringsmetoder och renrumsprinciper. Processer i gränszonen
+mellan material och vävnad beskrivs, liksom etik, klinisk
+prövning samt regelverk för medicintekniska produkter. Exempel
+på olika kliniska användningar av biomaterial kommer att ges inom
+ortopedi, odontologi, neurologi, kardiovaskulära systemet,
+oftalmologi, audiologi mm.
+Studenterna kommer även att göra ett grupparbete som ska
+presenteras dels i en muntlig presentation med efterföljande
+diskussion, samt i en skriftlig populärvetenskaplig sammanfattning
+(engelska).
+Lärare på medicinska fakulteten och vid LTH ansvarar för
+undervisningen.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: För godkänd kurs skall studenten ha godkänd sluttentamen, som ges i form av korta svarsfrågor där graderade betyg kommer att ges. Dessutom skall studenten genomföra ett grupparbete med godkänt resultat.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0116. Benämning: Skriftlig tentamen. 
+Antal högskolepoäng: 4. Betygsskala: TH.  Prestationsbedömning: Tentamen 
+Kod: 0216. Benämning: Grupparbete. 
+Antal högskolepoäng: 1. Betygsskala: UG.  Prestationsbedömning: Godkänt grupparbete som presenteras dels i muntlig presentation med diskussion samt i skriftlig populärvetenskaplig sammanfattning. 
+Antagningsuppgifter
+Förutsatta förkunskaper: EITA01 Introduktion till medicin och teknik 
+KOKA20 Allmän och organisk kemi 
+Begränsat antal platser: Nej
+Kurslitteratur
+
+David Williams: Essential Biomaterials Science. Cambridge University, 2014, ISBN: 978-0-521-89908-6.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Lucas Kumosa, lucas.kumosa@med.lu.se
+Kursansvarig: Lars Magnus Bjursten, lars_magnus.bjursten@med.lu.se
+Hemsida: http://www.med.lu.se/nrc/courses/biomaterial
+
+
+

@@ -1,0 +1,118 @@
+
+Kursplan 2019/20 EXTN80
+
+
+
+
+
+Kursplan för
+Ekonomiskt och finansiellt beslutsfattande
+Economic and Financial Decision-making
+EXTN80, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning I
+Beslutsdatum: 2019-04-01
+Allmänna uppgifter
+Valfri för: I5-fir, Pi4
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Syftet med kursen är att skapa en djupare förståelse för
+ekonomisk teori och tillämpningen av vetenskapliga analysmetoder.
+Målet är att ge färdigheter i att hantera empiriskt material på
+ett självständigt och kritiskt sätt. De mer specifika målen med
+kursen är att öka studentens förståelse för situationer där
+individer, företag och organisationer verkar i miljöer som
+kännetecknas av risk, osäkerhet och imperfekt information.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+Studenterna ska ha kunskap och förståelse för:
+· axiomatiska teorier för individuellt beslutsfattande under
+risk och osäkerhet,
+· modeller med referensberoende nytta
+· teorier om intertemporalt beslutsfattande,
+· hur dessa teorier möjliggör analys av ett vitt spektrum av
+fundamentala problemställningar i nationalekonomi och finans,
+· psykologiska faktorer och betydelse för ekonomiskt och
+finansiellt beslutsfattande.
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+Studenterna skall ha förmågan att tillämpa modeller för
+beslutsfattande på ett brett spektrum av ekonomiska och
+finansiella frågeställningar. Studenterna ska även kunna
+presentera de teoretiska modellerna muntligt och skriftligt och med
+hjälp grafiska och matematiska verktyg. Vidare skall studenterna
+kunna kommunicera till en lekman hur modellerna kan hjälpa oss att
+förstå olika ekonomiska fenomen, som efterfrågan på
+försäkringar och investeringsbeteende.
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+utveckla förmåga att genomföra vidare studier i ämnet och
+att söka och utvärdera information med en hög grad av
+självständighet
+
+Kursinnehåll
+Förståelsen för hur individer fattar beslut utgör en
+fundamental byggsten vid analysen av ekonomiska förhållanden och
+skeenden. Målet med kursen är att introducera studenterna till
+studiet av ekonomiskt och finansiellt beslutsfattande. Kursen går
+igenom de klassiska modellerna för beslutsfattande under risk och
+osäkerhet samt den empiriska litteraturen kring dessa. Ett flertal
+beteendemässiga regulariteter har dokumenterats angående hur
+människor fattar beslut i ekonomiska och finansiella situationer.
+I relation till dessa regulariteter har det vuxit fram en
+omfattande teoretisk och tillämpad litteratur, vilken diskuteras
+under kursen.
+Psykologisk forskning har pekat ut en rad heuristiker, eller
+tumregler, som är viktiga för beslutsfattande. Sådana
+heuristiker tenderar att ge upphov till förvrängningar när det
+gäller individers sannolikhetsuppfattningar och individers
+uppfattningar om sig själva och sina förmågor. Dess
+implikationer för beteende i ekonomiska och finansiella sammanhang
+kommer att analyseras i kursen samt till vilken grad sådana
+förvrängningar kan tänkas påverka aggregerade
+marknadsutfall.
+Kursens sista del behandlar intertemporalt beslutsfattande och
+tar sin utgångspunkt i modeller baserat på exponentiell
+diskontering, vilka förutsätter tidskonsistent beteende.
+Empiriska studier pekar dock på att individer ibland beter sig på
+ett över tiden inkonsistent sätt, där aktiviteter med omedelbara
+kostnader skjuts upp och aktiviteter med omedelbara vinster
+överkonsumeras. Kursen kommer att gå igenom dessa empiriska
+studier och diskutera hur standardmodellen kan utvidgas för att ta
+hänsyn till denna typ av beteende.
+Under kursens gång kommer den teoretiska diskussionen kring
+beslutsfattande att kompletteras med omfattande ekonomiska och
+finansiella tillämpningar med avsikt att illustrera de
+underliggande idéerna och öka studenternas förståelse för hur
+dessa kan användas vid analys av ekonomiska problem
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examinationen består av obligatoriska inlämningsuppgifter, deltagande i seminarier och en skriftlig tentamen i kursens slutskede. Ytterligare examinationstillfälle anordnas i nära anslutning härtill. Andra examinationsmoment kan förekomma i begränsad omfattning.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+EXTA40 Introduktion till mikroekonomisk teori
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: NEKM61, NEKN22, TEK090
+Kurslitteratur
+
+Eeckhoudt, Louis, Christian Gollier & Harris Schlesinger: Economic and Financial Decisions under Risk. Princeton University Press, 2005.
+Angner, Erik: A Course in Behavioral Economics, second edition. Palgrave MacMillan, 2016.
+Supplementary material.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Roel van Veldhuizen, roel.van_veldhuizen@nek.lu.se
+Hemsida: http://www.nek.lu.se
+Övrig information: Kursen ges av Nationalekonomiska institutionen vid Ekonomihögskolan och samläses med NEKN22. Tentamenstid meddelas av kursläraren.
+
+
+

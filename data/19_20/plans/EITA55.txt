@@ -1,0 +1,117 @@
+
+Kursplan 2019/20 EITA55
+
+
+
+
+
+Kursplan för
+Kommunikationssystem
+Communication Systems
+EITA55, 7,5 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning C/D
+Beslutsdatum: 2019-04-01
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: C1
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursen är en introduktion till ämnet dator- och
+telekommunikation. Dessutom är den ett praktiskt exempel på hur
+en kurs på LTH kan vara uppbyggd och därmed en introduktion till
+studierna på programmet.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna beskriva enkla signal- och dataflöden för några av de
+protokollfunktioner som ingår i datornät i synnerhet och telenät
+i viss mån
+kunna ge en översiktlig beskrivning av länkhantering och
+uppkoppling av förbindelser och sessioner mellan kommunicerande
+enheter på länknivån
+kunna översiktligt redogöra för uppkoppling av
+förbindelser och sessioner mellan kommunicerande enheter på
+nätnivån och transportnivån
+kunna beskriva flerlagriga protokollsmodeller och redogöra
+för samspelet mellan de olika lagren i modellen
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna använda verktyg för att studera dataöverföring i ett
+lokalt nät
+utifrån teori och praktisk analys förklara
+dataöverföringsfenomen som kan iaktagas på ett lokalt nät
+muntligt och skriftligt kunna redogöra för en företeelse
+inom ämnesområdet
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna värdera information om en företeelse inom
+ämnesområdet och utifrån denna information förklara
+företeelsen på ett förståeligt sätt
+
+
+Kursinnehåll
+Kursen ger en introduktion till ämnet dator- och
+telekommunikation. Som exempel på kommunikationsnät används
+genomgående Internet på lokal, regional och global nivå; den
+lokala nivån exemplifieras framför allt med Ethernet. Kursen
+utgår från det alla har kunskap om vad avser datorkommunikation -
+en dator ansluter till en annan dator via en sladd och ett uttag i
+väggen eller en kommunikationsutrustning. Steg för steg införs
+nya komponenter som är nödvändiga för lokal kommunikation
+mellan flera datorer, till vad som är nödvändigt för global
+kommunikation via flera kommunikationsnät, av olika typ och med
+olika protokoll. Mer detaljerat innehåller kursen följande
+moment:
+ 
+
+Omvandling mellan analog information och binärdata
+Feldetektering
+Felhantering
+Protokoll på olika modellnivåer
+Adresseringsmetoder
+Accessmetoder
+Vägvalsalgoritmer
+Ethernet
+Internet
+Fasta telenätet
+Mobila telenät
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examinationen består av en tentamen, laborationer samt en skriftlig och en muntlig rapport som avslutning på fördjupningsstudien. Tentamen kan ge betyget 3 eller 4 vilket också blir betyget på kursen. Den student som erhåller mycket gott resultat både på den ordinarie tentamen och betyget 4 på fördjupningsstudien kan vid en muntlig tentamen omfattande bakgrundsmaterialet för fördjupningsstudien erhålla betyget 5 på kursen.
+
+Omtentamen kan komma att ges som hemtentamen eller motsvarande.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Tentamen. 
+Antal högskolepoäng: 2,5. Betygsskala: TH.  Prestationsbedömning: Den skriftliga tentamen kan ge betyget 3 eller 4.  Delmomentet omfattar: Skriftlig tentamen. För att få betyget 5 på kursen krävs godkänt på frivillig muntlig tentamen på fördjupningsuppgiften samt minst 85 % av maximal poäng på den skriftliga tentamen. 
+Kod: 0217. Benämning: Laborationer. 
+Antal högskolepoäng: 2,5. Betygsskala: UG.  Prestationsbedömning: Godkända laborationer.  Delmomentet omfattar: Laborativa moment att utföras i grupp. 
+Kod: 0317. Benämning: Projekt. 
+Antal högskolepoäng: 2,5. Betygsskala: TH.  Prestationsbedömning: Skriftlig och muntlig rapport bedöms. Projektet kan ge betyget 3 eller 4.  Delmomentet omfattar: Skriftlig och muntlig rapport om företeelse inom ämnesområdet. 
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: ETS130, ETSF15, EITF25, ETS052, ETS302, EITA60, EITF45
+Kurslitteratur
+
+Maria Kihl och Jens A Andersson: Datakommunikation och nätverk. Studentlitteratur, 2013, ISBN: 978-91-44-08306-3.
+Artiklar.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Tekn dr Emma Fitzgerald, emma.fitzgerald@eit.lth.se
+Hemsida: http://www.eit.lth.se/kurs/eita55
+
+
+

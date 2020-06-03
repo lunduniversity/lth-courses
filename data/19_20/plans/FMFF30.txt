@@ -1,0 +1,96 @@
+
+Kursplan 2019/20 FMFF30
+
+
+
+
+
+Kursplan för
+Relativitetsteori
+Theory of Relativity
+FMFF30, 4,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning F/Pi
+Beslutsdatum: 2019-03-26
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Valfri för: E4, F2, Pi2
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Syftet med kursen är att ge en introduktion till
+relativitetsteorin och dess begreppsvärld. Grundläggande begrepp
+som tid och rum behandlas och vi anlägger ett geometriskt
+synsätt på den fyrdimensionella rum-tiden.
+Lorentztransformationen används för att ge invarianter en central
+roll. Kinematik och dynamik för partiklar tillämpas inom atom-,
+kärn- och partikelfysik och dessutom behandlas några
+elektromagnetiska fenomen.
+Kursen skall ge möjlighet till reflektion över
+relativitetsteorins fascinerande fenomenvärld. Stor vikt kommer
+att läggas på begreppsförståelse. Studenten skall uppmuntras
+att aktivt diskutera, förklara och reflektera över kursens
+innehåll. Kursen strävar efter att studenten skall känna
+stimulans och inspiration, bl. a. genom att kursen knyter an både
+till grundläggande filosofiska frågeställningar och
+fysikaliskt/tekniska tillämpningar.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna grunderna för den relativistiska mekaniken samt ha
+förvärvat ett geometriskt synsätt på den fyrdimensionella
+rum-tiden.
+känna till tillämpningar inom fysik och teknik som
+kräver relativitetsteori för full förståelse
+ha översiktlig kunskap om de relativitetsteoretiska
+samband som krävs för att förstå standardmodellen inom
+partikelfysiken.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna göra beräkningar i enkla tillämpningar.
+ha utvecklat sin förmåga att analysera
+relativitetsteoretiska problemställningar med matematiska
+metoder.
+kunna beskriva och diskutera de viktigaste relativistiska
+fenomenen inom fysik.
+kunna förklara grundläggande teoretiska och matematiska
+begrepp för fenomenens analys.
+förstå enklare vetenskapliga artiklar om
+relativitetsteorin.
+kunna använda information från andra källor för att
+lösa nya problemställningar.
+
+
+Kursinnehåll
+Begreppen tid och rum. Mätning av tidsintervall och längder.
+Lorentztransformationen. Invarianter. Konserveringslagar som
+konsekvens av invarianter. Tillämpningar inom bl.a. atom-, kärn-
+och partikelfysik. Kort heuristisk diskussion av den allmänna
+relativitetsteorin.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examinationen består av en skriftlig tentamen där studenten individuellt besvarar frågor av både redogörande och beräkningskaraktär. Betyg bestäms av tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: Grundläggande matematik och mekanik.
+Begränsat antal platser: Nej
+Kursen kan ställas in: Om färre än 12 anmälda.
+Kursen överlappar följande kurser: FMF061
+Kurslitteratur
+
+Kompendium.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Marcus Dahlström, marcus.dahlstrom@matfys.lth.se
+Hemsida: http://www.matfys.lth.se/education/FMFF30
+Övrig information: I kursen varvas föreläsningar och räkneövningar. Dessutom diskuteras några speciella frågeställningar i samband med seminarieövningar.
+
+
+

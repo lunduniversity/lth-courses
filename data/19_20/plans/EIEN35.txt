@@ -1,0 +1,131 @@
+
+Kursplan 2019/20 EIEN35
+
+
+
+
+
+Kursplan för
+Automation för komplexa system
+Automation for Complex Systems
+EIEN35, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning E
+Beslutsdatum: 2019-03-25
+Allmänna uppgifter
+Valfri för: D4, E4-ra, F4, I4, M4-prr
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Syftet med kursen är att skapa förståelse för
+problemställningar som uppstår i stora och komplexa industriella
+automationssystem. Kursen ger också perspektiv på hållbarhet och
+samspelet mellan energi, vatten och livsmedel globalt. Den syftar
+även till att ge grundläggande kunskap om de verktyg och metoder
+som används för att realisera, analysera och utvärdera stora
+industriella automationssystem. Många av dagens industriella
+system innehåller ett mycket stort antal mätpunkter, regulatorer
+och ställdon. En stor processindustri kan ha mer än 200 000
+mätpunkter. Detta kräver stora datorsystem som kan hantera stora
+informationsmängder. Hur kan man på ett systematiskt sätt
+kondensera informationen från ett stort antal delprocesser? Kursen
+beskriver detta och analyserar hur man kan strukturera dessa stora
+system. Kursen syftar alltså primärt till att koordinera många
+delsystem så att den ”industriella orkestern” kan dirigeras
+rätt.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+enskilt kunna
+ 
+
+karaktärisera industriella processer utifrån ett
+komplexitetsbegrepp och förstå hur komplexitet påverkar
+tillämpningen av automation,
+redogöra för hur man kan använda matematiska modeller för
+att lösa typiska automationsproblem,
+förklara och använda viktiga begrepp så som stabilitet,
+realtidskrav, kapacitet, stationaritet, och dynamisk
+styvhet.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+enskilt kunna
+ 
+
+formulera och strukturera en matematisk modell av en större
+industriell process utifrån information om de ingående
+komponenterna och hur dessa interagerar och med hjälp av denna
+modell analysera viktiga karakteristika hos processen,
+strukturera ett styrsystem för en industriell process som
+består av flera delprocesser,
+med PLC-programmering lösa styruppgifter där flera parallella
+processer utförs samtidigt.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+enskilt kunna
+ 
+
+föreslå lämpliga styr-, övervaknings- och
+kommunikationsstrukturer för större industriella processer med
+komplicerade samband mellan viktiga storheter.
+
+
+Kursinnehåll
+Komplexa system: Definition av begreppet komplexitet.
+Hur komplexitet uppträder i industriella system. En fördjupad
+beskrivning av komplexa system: processindustrin, kraftsystem,
+diskret tillverkningsindustri.
+Beskrivning av stora system: Kontinuerliga processer.
+Diskreta produktionssystem och simulatorer.
+Modellering av komplexa system: Representation av
+dynamik i stora system. Styva dynamiska system och glesa matriser.
+Differentialalgebraiska ekvationer. Modellbibliotek i simulatorer.
+Modelleringsverktyg och modelleringsspråk.
+Processövervakning: Multivariabla metoder, estimering
+och regression.
+Strukturer för industriella styrsystem: IEC 61131-3
+standarden. Spegling av strukturer i verktyg för styrsystem.
+Informationsstrukturer och processdatabaser.
+Hemuppgift: Simuleringsarbete om styva dynamiska system
+respektive processövervakning. Dessa redovisas i två
+rapporter.
+Laborationsprojekt: Användning av ett kommersiellt
+system enligt IEC61131-3 standarden för strukturering och
+programmering för att lösa ett större styrproblem till en
+laborationsprocess. Primärt lärandemål för projektet är syntes
+av tidigare förvärvad kunskap (50%) kombinerat med teknisk
+fördjupning (20%), problemanalys (20%) och projektmetodik
+(10%).
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen. För slutbetyg fordras godkända simuleringsövningar (två skriftliga rapporter) och genomfört laborationsprojekt (praktisk demonstration, rapport).
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Automation för komplexa system. 
+Antal högskolepoäng: 7,5. Betygsskala: TH.  Prestationsbedömning: Tentamen 
+Kod: 0217. Benämning: Laborationsprojekt. 
+Antal högskolepoäng: 0. Betygsskala: UG.  Prestationsbedömning: Laborationsarbete och rapportskrivning 
+Kod: 0317. Benämning: Inlämningsuppgift. 
+Antal högskolepoäng: 0. Betygsskala: UG.  Prestationsbedömning: Skriftlig uppgift 
+Antagningsuppgifter
+Förutsatta förkunskaper: MIE080/EIEF45 Automation.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: MIE090
+Kurslitteratur
+
+Olsson G, Rosén C: Kompendium i "Industrial Automation – Application, Structures and Systems". IEA, LTH, Lunds universitet, 2005. (Samma bok som i MIE080 Automation).
+4-5 tekniska och vetenskapliga artiklar som delas ut under kursen.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Associate Professor Gunnar Lindstedt, gunnar.lindstedt@iea.lth.se
+Hemsida: http://www.iea.lth.se/aks/
+
+
+

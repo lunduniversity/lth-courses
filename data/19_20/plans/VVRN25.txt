@@ -1,0 +1,125 @@
+
+Kursplan 2019/20 VVRN25
+
+
+
+
+
+Kursplan för
+Vattenrörledningssystem - design, analys och förvaltning
+Pipe System Engineering and Hydraulics
+VVRN25, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning W
+Beslutsdatum: 2019-04-01
+Allmänna uppgifter
+Huvudområde: Vattenresurshantering. Fördjupning: Avancerad nivå, innehåller examensarbete för masterexamen.
+Valfri för: MWLU2, V5-vr, W5-vr
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursen ges för studenter vid Internationella Mastersprogrammet
+Vattenresurser (WaterLU) och för studenter vid
+civilingenjörsprogrammen Voch W med specialisering inom
+vattenområdet. Syftet är att förbereda studenterna för arbete
+med ledningssystem i vid bemärkelse, d.v.s utredningar,
+projektering, underhållsplaner m.m. Fokus i kursen ligger på att
+ge en omfattande teoretisk förståelse av hydrauliken bakom
+rörströmning och rörsystem. I kursen ingår analys, design,
+planering och förvaltning av rörledningar och rörsystem för
+vatten och avlopp, men andra tillämpningar som fjärrvärme och
+fjärrkyla berörs också.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+• Visa djup förståelse för vilka frågor som behöver
+hanteras för ledningssystem från planering via projektering och
+byggnation till förvaltning inklusive underhåll, och vilka
+hänsyn som måste tas till andra samhällsfunktioner.
+• Visa djup förståelse för fundamentala fysikaliska fenomen
+och koncept relevanta för rörströmning.
+• Kunna ingående beskriva och diskutera de ekvationer och
+matematiska modeller som gäller rörströmning och rörsystem.
+• Visa djup förståelse för hur man applicerar ekvationer och
+metoder för att lösa komplexa praktiska ingenjörsproblem
+avseende ledningssystem.
+• Ha grundläggande förståelse för kopplingen mellan
+ledningssystem och levererad vattenkvalitet.
+• Ha förståelse för de väsentligaste komponenterna i
+förvaltning av ledningssystem.
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+• Kunna tillämpa avancerade metoder för att kvantifiera
+flöden i komplexa ledningsnät.
+• Kunna göra beräkningar för olika typer av icke stationär
+strömning inkluderande tryckslag och ytvågor.
+• Kunna tillämpa, på en professionell nivå, sina teoretiska
+kunskaper på design av ledningssystem.
+• Kunna planera förvaltning av ledningssystem och göra
+bedömningar av förnyelsebehov.
+• På ett ingenjörsmässigt sätt kunna presentera
+projektresultat i rapportform på engelska.
+• I kvalitativa termer kunna kommunicera resultat av genomförda
+analyser till en bred grupp av intressenter.
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+• Ha dup förståelse för vilken roll hållbarhet,
+klimatförändring och andra samhällsintressen spelar i relation
+till ledningssystem
+• Kunna kritiskt analysera förslag och rapporter om
+rörströmning och ledningssystem.
+• Uppvisa stor förståelse för vikten av att tydligt
+presentera osäkerhet i resultat och begränsningar hos metoder och
+modeller i samband med resultat baserade på hydrauliska
+beräkningar. 
+
+Kursinnehåll
+
+Ledningssystem satta i ett sammanhang (historik; olika typer av
+ingenjörsuppgifter).
+Grundläggande ekvationer och strömningsanalys baserat på
+finita kontrollvolymer
+Turbulensteori och infinitesimal strömningsanalys,
+Navier-Stokes ekvationer
+Ledningsnät (komplexa system för tryck och
+gravitationsledningar).
+Datormodeller för analys och design av ledningssystem.
+Hydrauliska strukturer (överfall; luckor; mynningar;
+munstycken; reservoarer; fördröjningsmagasin).
+Pumpar och ventiler (analys och dimensionering av pumpsystem;
+pumptyper; ventiltyper).
+Icke stationärt flöde (tryckslag; ytvågor).
+Vattenkvalitetsaspekter (sårbara punkter; metoder för att
+motverka problem).
+Praktiska aspekter på design av ledningssystem, CAD, GIS.
+Mättekniker, on-line övervakning och kontrollsystem,
+riskhantering.
+Förvaltning, underhåll och förnyelse av ledningssystem.
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examinationen består av en större projektuppgift och en skriftlig tentamen. Bedömning av projektuppgiften baseras både på form och innehåll i rapport, dessutom krävs godkänd muntlig presentation. Betyget utgörs av viktat medelvärde av de två betygsatta momenten.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+VVR120/VVRF10 eller VVR145/VVRA05 eller motsvarande kurs i hydraulik 
+
+
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Larry W. Mays, Water Distribution System Handbook, McGraw-Hill, ISBN: 9780071342131, 2000.
+U. S. Environmental Protection Agency, Water Distribution System Analysis:Field Studies, Modeling and Management -A Reference Guide for Utilities , EPA/600/R-06/028 December 2005.
+Water Supply (Sixth Edition), Don D. Ratnayaka, Malcolm J. Brandt, Michael Johnson, Elsevier, ISBN: 978-0-7506-6843-9, July 2009.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Magnus Larson, magnus.larson@tvrl.lth.se
+Hemsida: http://www.tvrl.lth.se/utbildning/courses/
+
+
+

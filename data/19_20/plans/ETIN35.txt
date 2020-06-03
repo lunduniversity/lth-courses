@@ -1,0 +1,106 @@
+
+Kursplan 2019/20 ETIN35
+
+
+
+
+
+Kursplan för
+IC-projekt 1
+IC-project 1
+ETIN35, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning E
+Beslutsdatum: 2019-03-25
+Allmänna uppgifter
+Obligatorisk för: MSOC1
+Valfri för: D4-dpd, E4-is
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursens mål är att ge insikt i praktisk konstruktion av
+integrerade kretsar med speciell tonvikt lagd på system-på-kisel.
+Kretsarna kan vara antingen analoga, digitala, datororienterade,
+eller "mixed-mode" och konstruktionsarbetet kan utföras antingen
+på transistor eller blocknivå.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+ha kunskap om moderna datorhjälpmedel för konstruktion av
+integrerade kretsar
+förstå designprocessen från specifikation till färdig
+krets
+ha kunskap om begränsningar i den valda teknologin
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna konstruera en integrerad krets med hjälp av
+datorhjälpmedel utifrån en given specifikation
+kunna utföra en projektplanering utifrån givna tidsramar
+kunna presentera sina resultat skriftligt såväl som
+muntligt
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+känna sig familjär med en modern konstruktionmiljö av
+integrerade kretsar
+kunna sätta sig in i en specifikation och hantera processen
+fram till en färdig krets
+
+
+Kursinnehåll
+Konstruktion av integrerade kretsar är ett snabbt växande
+område med ett stort behov av välutbildade ingenjörer. Kursen
+bedrivs som projektarbete där studenterna i små grupper använder
+sina kunskaper från tidigare kurser för att konstruera en
+integrerad krets (IC=Integrated Circuit), också kallat ett chip.
+Detta utförs i en modern datormiljö. Flera projekt kan även
+kopplas ihop till ett större system.
+Kursen ger studenterna en unik möjlighet att konstruera ett
+komplett chip där ett urval kan komma att skickas iväg för
+tillverkning vid slutet av projektarbetet. Tillverkning av de
+utvalda kretsarna tar cirka 3 månader varefter de verifieras i
+kursen IC-projekt fortsättning och verifiering.
+Huvuddelen av projekten syftar till att vara breda från analogt
+via mixed mode till digitalt. I projekten kan då ingå grupper som
+fokuserar på ett speciellt område.
+Den digitala delen innehåller även ett antal obligatoriska
+moment som skall bekanta studenten med de datorverktyg som behövs
+under projektarbetet.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Slutbetyget baseras på kvaliteten av det utförda projektarbetet samt rapporten och den muntliga presentationen av detsamma. Arbetet utföres i grupp och bedömning görs både utifrån gruppens som individuella insatser. Om arbetet inte slutförts inom given ordinarie tidsram kan högre betyg än 3 inte erhållas. Förutom detta krävs av studenter som utför ett digitalt projekt att de godkänns på ett antal inlämningsuppgifter innan projektdelen av kursen påbörjas. Det kommer att finnas en extra möjlighet att godkännas på inlämningsuppgifterna den första måndagen i VT2.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0118. Benämning: Projekt. 
+Antal högskolepoäng: 6. Betygsskala: TH.  Prestationsbedömning: presentationer   Delmomentet omfattar: Godkänd projekt 
+Kod: 0218. Benämning: Inlämningsuppgift. 
+Antal högskolepoäng: 0. Betygsskala: UG.  Delmomentet omfattar: RTL kodning och ASIC flöde 
+Kod: 0318. Benämning: Rapport. 
+Antal högskolepoäng: 1,5. Betygsskala: UG.  Prestationsbedömning: godkänd rapport  Delmomentet omfattar: projektresultat  
+Antagningsuppgifter
+Förkunskapskrav:
+ETIN25 Analog IC-konstruktion (analog) eller ETIN20 Digital IC-konstruktion och EITF35 Digitala strukturer på kisel (digital) eller EITF20 Datorarkitektur och EITF35 Digitala strukturer på kisel (dator)
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: ETIN01, ETI210
+Kurslitteratur
+
+Kursmaterial läggs på kursens webbsida.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Joachim Rodrigues (digital och dator), joachim.rodrigues@eit.lth.se
+Kursansvarig: Henrik Sjöland (analog), henrik.sjoland@eit.lth.se
+Hemsida: http://www.eit.lth.se/kurs/etin35
+
+
+

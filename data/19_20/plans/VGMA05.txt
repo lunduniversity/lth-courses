@@ -1,0 +1,75 @@
+
+Kursplan 2019/20 VGMA05
+
+
+
+
+
+Kursplan för
+Geodetisk mätningsteknik
+Geodetic Surveying
+VGMA05, 6 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning V
+Beslutsdatum: 2019-04-01
+Allmänna uppgifter
+Obligatorisk för: IBYA1, IBYI1, IBYV1
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursens syfte är att ge inledande kunskaper om begrepp och
+metoder i geodetisk mätningsteknik, satellitgeodesi (GPS) och
+fotogrammetri samt tillämpningar på verklighetsnära problem.
+Kursen avser att skapa förståelse för sambanden mellan geodesi,
+kartprojektioner, satellitgeodesi, geodetisk mätningsteknik och
+fotogrammetri.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+Förklara grundläggande begrepp inom geomatikområdet.
+Beskriva de grundläggande principerna för
+satellitpositionering.
+Förstå och utforma lösningar av olika praktiska
+problemställningar enligt föreskrifter och normer.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+Tillämpa den metodik som används vid lösning av geodetiska
+problemställningar inom plan och höjdmätning.
+Utföra enklare utjämningsräkningar med hjälp av
+minsta-kvadratmetoden (MK).
+Utföra enklare praktiska fältmoment.
+
+
+Kursinnehåll
+
+Kursen omfattar geodesins grundbegrepp och definitioner,
+kartprojektioner, stommätning, transformationer,
+satellitpositionering(GPS), plan- och höjdmätning, felteori, och
+introduktion till fotogrammetri.
+Bygg- och anläggningsmätningens speciella förutsättningar
+belyses.
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen samt deltagande i fältövning. Fältövningarna genomförs vid LTH i Lund. Eventuella reskostnader bekostas av teknologen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: VGMF15, VGM630
+Kurslitteratur
+
+Ollvik, L.: Geodetisk mätningsteknik. Institutionen för teknik och samhälle, 2015.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Sadegh Jamali, sadegh.jamali@tft.lth.se
+Hemsida: http://www.tft.lth.se
+
+
+

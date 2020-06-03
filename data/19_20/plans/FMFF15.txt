@@ -1,0 +1,89 @@
+
+Kursplan 2019/20 FMFF15
+
+
+
+
+
+Kursplan för
+Kvantmekanik och matematiska metoder
+Quantum Mechanics and Mathematical Methods
+FMFF15, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning F/Pi
+Beslutsdatum: 2019-03-26
+Allmänna uppgifter
+Obligatorisk för: N4-nf
+Valfri för: E4, N4-hn
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Teknologen skall efter genomgången kurs ha tillräckliga
+kunskaper i kvantmekanik och fysikens matematiska metoder för att
+kunna fortsätta studier inom specialiseringarna nanofysik,
+högfrekvens- och nanoelektronik samt fotonik.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna redogöra för och förklara kvantmekanikens
+grundpostulat.
+kunna förklara grundläggande teoretiska koncept och modeller
+inom kvantmekaniken samt redogöra för vilka matematiska begrepp
+och metoder som används för att beskriva dessa.
+kunna exemplifiera, analysera och problematisera användningen
+av grundläggande kvantmekaniska modeller för att beskriva enklare
+system inom nanofysiken och nanoelektroniken.
+kunna beskriva de viktigaste speciella matematiska funktionerna
+med tillämpning inom grundläggande kvantfysik.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna formulera och lösa enklare kvantmekaniska problem
+relevanta för områdena nanofysik och nanoelektronik samt i stora
+drag kunna bedöma lösningens rimlighet.
+kunna tillämpa kursens matematiska metoder på valda problem
+inom nanofysiken och nanoelektroniken.
+kunna, med hjälp av kursens matematiska metoder, genomföra
+ett datorprojekt samt analysera och presentera resultatet i
+skriftlig form.
+
+
+Kursinnehåll
+Kvantmekanik: Kvantmekanikens formalism: Schrödingerekvationen
+som egenvärdesekvation. Hermiteska operatorer representerande
+fysikaliska storheter, egenvärden och egenfunktioner. Harmonisk
+oscillator. Beräkningsmetoder: Första ordningens störningsteori,
+variationsmetoden och matrisdiagonalisering. Sfäriska koordinater
+och rörelsemängdsmoment. Tillämpningar på väteatomen och
+atomstruktur. Spinn och magnetisk växelverkan. Periodisk
+potential. Blochvågfunktioner.
+Matematiska metoder: Partiella differentialekvationer –
+klassificering och randvillkor. Allmänt om egenfunktioner till
+operatorer. Besselfunktioner. Tillämpningar på
+cylindersymmetriska problem. Legendrepolynom. Sfäriskt harmoniska
+funktioner.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftligt tentamen, inlämningsuppgifter, datorprojekt.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: FAFA10 Kvantfenomen och nanoteknologi, FMFF20 Nanoteknikens matematiska metoder.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FAF245, FAFF10, FMA021
+Kurslitteratur
+
+Gunnar Ohlén: Kvantvärldens fenomen, kap. 5-8.
+Matematikkompendium.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Gillis Carlsson, gillis.carlsson@matfys.lth.se
+Hemsida: http://www.matfys.lth.se/education/FMFF15
+
+
+

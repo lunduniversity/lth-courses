@@ -1,0 +1,118 @@
+
+Kursplan 2019/20 VSMN35
+
+
+
+
+
+Kursplan för
+Balkteori
+Beam Theory
+VSMN35, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning V
+Beslutsdatum: 2019-04-01
+Allmänna uppgifter
+Valfri för: V4-ko
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursen skall ge kunskap om raka och krökta balkars
+funktionssätt och om teorier för beräkning av styvhet,
+deformationer, spänningar och instabilitet hos balkar generellt
+belastade i 3D, inklusive verkan av egenspänningar, och med
+tvärsnitt som kan variera längs balken och ha godtycklig form
+inklusive tunnväggiga tvärsnitt.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+Kunna redogöra för olika balktyper, deras funktionsätt och
+funktionsbegränsande fenomen.
+Kunna redogöra för balkteorierna enligt Bernoulli-Euler,
+Timoshenko, St Venant och Vlasov samt för grunderna i teori för
+analys av instabilitet hos en balk.
+Kunna förklara de begrepp, storheter och konstanter som
+används vid avancerade balkberäkningar.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+Kunna beräkna deformationer, spänningar och instabilitetslast
+för en rak elastisk balk med godtyckligt varierande och utformat
+tvärsnitt och godtyckligt belastad i 3D med krafter, böjmoment,
+vridmoment, bimoment och egenspänningar.
+Kunna beräkna, numeriskt approximativt eller exakt,
+styvhetsmatris och lastvektor för nämnda balktyper och med hjälp
+av dessa kunna analysera konstruktioner som är sammansatta av
+balkar.
+Kunna beräkna deformationer och spänningar för en enkelt
+krökt elastisk balk belastad i 2D.
+Kunna beräkna tvärsnittskonstanter för ett godtyckligt
+utformat balktvärsnitt.
+Kunna redovisa hur en beräkning har genomförts.
+Kunna använda tabeller och handböcker med information om
+balkars konstanter och instabiliteter.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+Kunna bedöma en balks funktionsätt (deformationsmönster,
+styvhetsegenskaper, spänningsfördelningar och
+instabilitetsfenomen) utifrån dess utformning och belastning.
+Kunna bedöma vilken typ av beräkningsmetod som är
+lämpligast.
+
+
+Kursinnehåll
+Kursen behandlar beräkningsmetoder för elastiska balkar med
+symmetriska/osymmetriska, öppna/slutna, massiva/tunnväggiga,
+konstanta/varierande tvärsnitt, utsatta för belastning i 3D,
+inklusive fördelad böjning, vridning, bimoment och
+egenspänningar:
+
+Översikt över olika typer av balkar, funktionsbegränsande
+fenomen och balkteorier.
+Bernoulli-Euler och Timoshenkos teorier för verkan av
+böjmoment, tvärkraft och normalkraft och egenspänningar.
+St Venants och Vlasovs teorier för verkan av vridning.
+Andra ordningens teori för instabilitetsfenomen som böj- och
+vridknäckning och vippning.
+Analytisk och numerisk lösning av de olika balkteoriernas
+differentialekvationer.
+Matrisformulering av balkars styvhet och belastning för
+möjlighet till datorbaserad analys av sammansatta 3D
+konstruktioner.
+
+I kursen ingår två inlämningsuppgifter: de avser
+experimentell provning och teoretisk beräkning av styvheter och
+instabilitetslaster.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examinationen omfattar två inlämningsuppgifter och en skriftlig tentamen. För godkänt betyg krävs godkända inlämningsuppgifter och godkänd tentamen. Betyget baseras på summan av poäng som erhålles från inlämningsuppgifterna och tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+VSMA05 Byggnadsmekanik
+
+
+Förutsatta förkunskaper: VSMF05 Teknisk modellering: Bärverksanalys.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: VSM091, VSMF15
+Kurslitteratur
+
+Kurskompendium, föreläsningsanteckningar, övningsuppgifter och formelsamling. Handledning för inlämningsuppgifter.
+Austrell. P.-E. et al.: CALFEM - A finite element toolbox to MATLAB. Studentlitteratur, 2004, ISBN: 9789188558237.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Professor Per Johan Gustafsson, Per-Johan.Gustafsson@construction.lth.se
+Hemsida: http://www.byggmek.lth.se
+Övrig information: Undervisningen sker i lektionsform med föreläsningar och räkneövningar. Vidare ingår experimentella provningar med dokumentation av försöksuppställningar och resultat.
+
+
+

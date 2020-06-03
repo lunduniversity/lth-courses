@@ -1,0 +1,118 @@
+
+Kursplan 2019/20 FMSF60
+
+
+
+
+
+Kursplan för
+Statistiska metoder för säkerhetsanalys
+Statistical Methods for Safety Analysis
+FMSF60, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning I
+Beslutsdatum: 2019-04-01
+Allmänna uppgifter
+Obligatorisk för: RH4-rh
+Valfri för: BME4, C4-sec, Pi4
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Kursen presenterar begrepp och idéer för grunderna i
+statistisk behandling av risker. Tyngdpunkten ligger på
+förståelsen av teorin och metoderna. Därför fokuserar kursen
+på tillämpningar inom risk och säkerhetsanalys.
+Eftersom uppskattningen av risker kräver att man kombinerar
+information från olika källor används Bayesianska metoder
+flitigt inom detta område. Därför ägnas en väsentlig del av
+kursen åt sådana metoder. För att kunna analysera och
+prediktera förekomst och frekvens av farliga scenarier  används
+moderna statistiska verktyg, såsom Poisson-regression,
+deviationsanalys, extremvärdesteori och tröskelmetoder. Kännedom
+om sådana metoder underlättar förståelsen av den roll
+sannolikhetsteori spelar i riskanalys och hur man på bästa sätt
+utnyttjar resultatet från datorkörningar.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna skatta olycksintensiteten och modellera dess beroende av
+några förklarande variabler
+kunna identifiera situationer där osäkerheten i de
+framräknade resultaten inte kan försummas, ofta i situationer
+där mängden tillgänglig information är begränsad,
+kunna inkludera olika typer av information i en
+riskuppskattning med Bayesianska metoder.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna läsa speciallitteratur inom området risk och säkerhet
+där begrepp som intensitet, sannolikhet och säkerhetsindex ofta
+används,
+kunna kvantifiera osäkerheten i ofta förekommande
+riskmått,
+kunna validera de modeller som använts för att beräkna
+riskmåtten.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+visa en större förståelse för de koncept som används inom
+andra kurser i riskuppskattning,
+vara medveten om den roll sannolikhet spelar i riskanalys och
+kunna använda programpaket på ett riktigt sätt.
+
+
+Kursinnehåll
+Repetition av de grundläggande begreppen inom
+sannolikhetsteori: oberoende, betingad sannolikhet, stokastisk
+variabel, täthets- och sannolikhetsfunktion, väntevärde, varians
+och kovarians.
+Introduktion och enkla tillämpningar av Bayes sats, Centrala
+gränsvärdessatsen, Stora talens lag och Små talens lag.
+Klassisk statistisk inferens: ML-metoden, konfidensintervall,
+hypotesprövning och anpassningstest. Introduktion till bootstrap
+och delta-metoden för konstruktion av konfidensintervall.
+Introduktion till Bayesiansk inferens: prediktiv sannolikhet,
+"conjugated priors", "credibility interval".
+Skattning av intensiteter och Poissonregression
+Några begrepp från säkerhets- och riskanalys: felintensitet,
+säkerhetsindex, karaktäristiska värdet.
+Skattning av kvantiler med POT-metoden.
+Introduktion till extremvärdesanalys: skattning av
+designhändelsen, t.ex. styrkan hos 100-årsstormen, samt
+uppskattning av osäkerheten hos skattningarna.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen samt genomförda laborationer.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Tentamen. 
+Antal högskolepoäng: 6,5. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen. 
+Kod: 0217. Benämning: Laborationer. 
+Antal högskolepoäng: 1. Betygsskala: UG.  Prestationsbedömning: Datorlaborationer. 
+Antagningsuppgifter
+Förkunskapskrav:
+EXTA60 Statistik eller FMSF20 Matematisk statistik, allmän kurs eller FMSF25 Matematisk statistik - kompletterande projekt eller FMSF45 Matematisk statistik, allmän kurs eller FMSF50 Matematisk statistik, allmän kurs eller FMSF55 Matematisk statistik, allmän kurs eller FMSF70 Matematisk statistik eller FMSF75 Matematisk statistik, allmän kurs eller TNX071 Statistik med beslutsteori
+
+
+Förutsatta förkunskaper: Grundkurs i Matematisk statistik eller Statistik.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FMS065
+Kurslitteratur
+
+Rychlik, I. och Rydén, J: Probability and Risk Analysis - An Introduction for Engineers. Springer, 2006, ISBN: 3-540-24223-6.
+
+
+Kontaktinfo och övrigt
+Studierektor: Johan Lindström, studierektor@matstat.lu.se
+Hemsida: http://www.maths.lth.se/matstat/kurser/fms065/
+Övrig information: Bytt kurskod från FMS065.
+
+
+

@@ -1,0 +1,156 @@
+
+Kursplan 2019/20 AEBF15
+
+
+
+
+
+Kursplan för
+Dagsljus och belysning i byggnader
+Daylighting and Lighting of Buildings
+AEBF15, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning V
+Beslutsdatum: 2019-04-01
+Allmänna uppgifter
+Huvudområde: Energi- och miljöeffektiva byggnader. 
+Obligatorisk för: MEMB1
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursen syftar till att introducera nyckelbegrepp om mänsklig
+syn, visuell perception, icke-visuella ljuseffekter, fotometri,
+ljus- och belysningsberäkningar, mätningar, modellering av
+fysiskt ljus och simuleringsverktyg. Kursen ger en överblick av
+väsentliga principer och strategier för framgångsrikt
+dagsljusanvändande och -integrering i utformningen av byggnader
+och med det elektriska belysningssystemet. Kursen förklarar också
+komponenter av dagljussystem såväl som elektriska
+belysningssystem och principer för energieffektiv arkitektonisk
+ljusdesign.
+ 
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+Kunna redogöra för viktiga begrepp inom belysning som t ex de
+icke-visuella effekterna av belysning, visuell komfort, elektriska
+ljuskällor, kontrollsystem och energieffektiv belysning;
+Beskriva och diskutera de fysiska parametrar som påverkar
+ljusets kvalitet och kvantitet i ett rum;
+Redogöra för viktiga materiella egenskaper (t ex
+diffusivitet/utbredning kontra specularity/återspegling) hos
+belysning och dagsljus i rummet;
+Redogöra för skillnaderna mellan grundläggande
+belysningstermer som illuminans, luminans, kontrast,
+dagsljusfaktor, obehag och bländande, dagsljusautonomi med
+mera;
+Beskriva ljus- och dagsljuskällor och diskutera förhållandet
+mellan källornas egenskaper och deras effekter såsom skillnaden
+mellan direkt solstrålning och diffus himmelstrålning osv.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+Kunna påverka/föreslå utformningen av belysning och dagsljus
+grundat på användandet av olika verktyg som
+handberäkningsmetoder, grafiska verktyg, fysisk modellering och
+simuleringar;
+Kunna identifiera, bestämma och integrera olika elektriska
+belysningssystem och -scheman i en dagsljusbelyst byggnad
+Kunna genomföra korrekta ljusmätningar (med en lux- och
+luminansmätare) i ett fullskaligt rum och använda resultaten i en
+analys och förändring av rummet ifråga;
+Kunna genomföra såväl grundläggande handberäkningar av
+belysning som mer avancerade dagljusanalyser på årsbasis;
+Kunna använda grafiska verktyg och fysisk skalmodellering på
+ett funktionellt sätt i analys, utformning och förändring av
+arkitektoniska rum;
+Kunna verifiera hur väl en byggnad uppfyller kriterierna i
+kända certifieringssystem (t ex LEED, BREEAM, Miljöbyggnad
+osv);
+Kunna informera verbalt och grafiskt om ett arkitektoniskt
+dagsljus- och belysningskoncept med korrekt terminologi.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+Kunna beskriva och diskutera egenskaperna hos en dagsljus- och
+belysningsinstallation som omfattar system (fönster och
+avskärmning) och teknik för dagsljus/belysning;
+Kunna namnge och diskutera framstående ljusarkitekters arbeten
+där dagsljus är integrerat på ett meningsfullt och effektivt
+sätt i utformningen av en byggnad;
+Kunna formulera relevanta forsknings- och/eller konsultfrågor
+och -uppgifter med avseende på belysning/dagsljus;
+Kunna diskutera relevanta forskningstrender och utmaningar inom
+området.
+
+
+Kursinnehåll
+Begreppet dagsljusbehandling av en byggnad beskriver det
+medvetna arbetet med att släppa in dagsljus i en byggnad. Skälen
+för att göra detta är många, alltifrån en önskan att skapa
+hälsosamma och stimulerande rum till att reducera
+energianvändningen för elektrisk belysning och kylsystem.
+Tillsammans med elektrisk belysning är dagsljusbehandling en
+väsentlig faktor för att få en god och hälsosam
+inomhusmiljö.
+Arkitekturhistorien har visat att ljus är en bestämmande
+faktor vid arkitektoniskt skapande. Utvecklingen av elektrisk
+belysning och kylsystem under 1930-talet förändrade emellertid
+den fundamentala roll som det naturliga ljuset traditionellt hade
+haft vid utformningen av arkitektoniska rum. Denna utveckling
+tillät designers att isolera/frigöra den byggda formen från
+överväganden om naturligt ljus. Det är idag möjligt att bygga
+rum utan transparens (eller helt transparenta!). Dessa tekniska
+förändringar har också modifierat arkitektens roll som mästare
+av belysningen i arkitektoniska rum. Idag återupptäcker många
+arkitekter möjligheterna för naturligt ljus att integreras i en
+hållbar hälsosam utformning av byggnader.
+Samspelet mellan dagsljus och byggnadens form bidrar väsentligt
+till den estetiska upplevelsen av ett rum, och dagsljusbehandling
+har idag en etablerad position inom arkitekturtillämpning och
+-utbildning. Det är också viktigt att förstå att beslut om
+utformningen av öppningar (storlek, orientering och egenskaper)
+inte bara påverkar dagsljuskvalitet och -kvantitet i ett rum och
+den därpå följande användningen av elektrisk belysning:
+besluten har också en klar påverkan på uppvärmning och kylning,
+termisk komfort och möjligheten till naturlig ventilation i ett
+rum. En flexibel lösning av ljus och skuggning/avskärmning är
+väsentlig för att uppnå en god balans mellan termisk komfort och
+naturligt ljus inomhus.
+Kursen kommer huvudsakligen att ta upp ämnen som rör dagsljus
+i byggnader. Även nyckelbegrepp som rör planering och
+beräkningar av installationer av elektrisk belysning inklusive
+integrering av dagsljus och elektrisk belysning kommer att
+behandlas ingående.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Slutbetyg baseras till 70% på tentamensresultat och till 30% på utförande relaterad till övningar och föreläsningar.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0113. Benämning: Övningsuppgift. 
+Antal högskolepoäng: 3. Betygsskala: UG.  Prestationsbedömning: Examination baserad på skriftlig rapport enligt givna specifikationer.  Delmomentet omfattar: Övningsuppgift: Analys med beräkning och simulering av dagsljusförhållande och belysning i ett rum. 
+Kod: 0213. Benämning: Skriftlig tentamen. 
+Antal högskolepoäng: 4,5. Betygsskala: TH.  Prestationsbedömning: Examination baserad på den skriftliga tentamen.  Delmomentet omfattar: Skriftlig examination av hela kursen. 
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Till kursen finns tillgång till ett elektroniskt kursbibliotek via kurshemsidan.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Marie-Claude Dubois, marie-claude.dubois@ebd.lth.se
+Lärare: Thorbjörn Laike, thorbjorn.laike@mpe.lth.se
+Kursansvarig: Niko Gentile, niko.gentile@ebd.lth.se
+Lärare: Iason Bournas, iason.bournas@ebd.lth.se
+Hemsida: http://www.ebd.lth.se/master
+
+
+

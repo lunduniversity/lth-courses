@@ -1,0 +1,97 @@
+
+Kursplan 2019/20 MMTN40
+
+
+
+
+
+Kursplan för
+Skärande bearbetning, fortsättningskurs
+Metal Cutting, Advanced Course
+MMTN40, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2019/20
+Beslutad av: Programledning M
+Beslutsdatum: 2019-03-27
+Allmänna uppgifter
+Huvudområde: Produktrealisering. 
+Valfri för: M4, MPRR1
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Erhålla en djupare förståelse och kompetens inom området
+skärande bearbetning. Färdigheterna skall även möjliggöra ett
+aktivt deltagande i forskning och utveckling inom hela det
+bearbetningstekniska området.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna redogöra för grundläggande skärtekniska begrepp.
+kunna analysera och beskriva skäreggens
+belastningsförhållande avseende mekanisk, termisk och tribologisk
+last.
+ha förståelse för och kunna göra enklare beräkningar som
+beskriver samspelet mellan belastningsförhållande, skärsort och
+verktygsgeometri.
+allmänt kunna analysera en skärprocess och anvisa
+utvecklingsvägar för skärverktyg och arbetsmaterial som
+möjliggör ökad kvalité eller sänkta
+bearbetningskostnader.
+ha insikt om det mätprinciper som finns för mätning av bl.a.
+statiska och dynamiska skärkrafter samt verktygsrörelser.
+ha insikt om dagens forskningsfrågor inom området skärande
+bearbetning.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna utforma skärtekniska prov för specifika ändamål som
+t.ex. bedömning av slitstyrka, plastisk deformation och
+brottbeteende hos skärverktyg eller bedöma ett arbetsmaterials
+skärbarhet i en eller flera applikationer.
+
+
+Kursinnehåll
+Stora delar av kursen kommer att bedrivas med datorhjälpmedel,
+primärt sker simulering och beräkningar i MathCad.
+Inlämningsuppgifter med laborativa moment är obligatoriska.
+Kursen kommer att behandla följande moment:
+Produktionssäkerhetsbegreppet och produktionsanalys med
+tillämpning på skärande bearbetning. Grundläggande
+skärtekniska begrepp med kompletterande synsätt. Uppträdande hos
+och konsekvenser av verktygsdestruktion. Mekanisk
+belastningsmodellering, skärmotstånd, belastningsfunktioner,
+variationstal m.m. Materialtekniska jämförelser. Termisk analys
+och modellering av skärprocessen. Spänningsberäkningar och
+spänningsanalys av skäreggar. Verktygsnedbrytning, förslitning,
+sprickbildning, brott, deformation och kemisk nedbrytning.
+Verktygsprovning och verktygsegenskaper och egenskapsbild.
+Modellering av bearbetningstribologiska processer.
+Flereggsprocesser, belastningsinterferens och belastningssamverkan.
+Skärkraftsmätning och utveckling av skärkraftsgivare.
+Materialtekniskt relaterad processdynamik, segmentering etc.
+Vibrationer och instabilitet, dämpning och relationen till olika
+verktygsgeometrier. Mikrogeometrier och dynamik. Principer för
+aktiv kontroll av verktygsvibrationer.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig hemtentamen, skriftliga inlämningsuppgifter.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: MMT031/MMTN25 Produktionsteknik eller motsvarande.
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Ståhl, J.-E.: Metal Cutting, Theories and models. SECO TOOLS, 2012.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Professor Jan-Eric Ståhl, jan-eric.stahl@iprod.lth.se
+Kursansvarig: Volodymyr Bushlya, volodymyr.bushlya@iprod.lth.se
+Hemsida: http://www.iprod.lth.se
+
+
+
