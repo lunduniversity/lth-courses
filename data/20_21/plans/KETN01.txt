@@ -1,0 +1,96 @@
+
+Kursplan 2020/21 KETN01
+
+
+
+
+
+Kursplan för
+Processimulering
+Process Simulation
+KETN01, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning B/K
+Beslutsdatum: 2020-03-27
+Allmänna uppgifter
+Valfri för: B4-pt, K4-p, W4-p
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Simuleringsteknik är en viktig teknik inom processindustrin
+för avancerade studier, såsom analys av driftssättsbyte och
+design av nya processer. Kursen förmedlar en fördjupad färdighet
+och förståelse för datorbaserad analys och design av kemiska
+processer. Syftet med kursen är att skapa förutsättningar för
+studenten att bli en kompetent användare och beställare av
+simuleringsteknik genom att belysa teknikens möjligheter,
+begränsningar samt dess komplexitet.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+Kunna formulera avancerade matematiska modeller för mass- och
+värmetransport inom kemitekniska processer
+Kunna bedöma vilka numeriska metoder som lämpar sig för
+lösning av olika typer av simuleringsproblem
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+Kunna formulera avancerade beräkningstekniska problem och
+lösa dessa med beräkningsverktyg
+Kunna presentera simuleringstekniska projekt muntligt,
+skriftligt och interaktivt
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+Kunna bedöma och värdera modellers giltighet, användbarhet
+samt dess simuleringstekniska komplexitet
+Kunna bedöma och värdera möjligheten att framgångsrikt
+utnyttja matematiska modeller för processteknisk
+problemlösning
+
+
+Kursinnehåll
+Kursen tar upp formulering av matematiska modeller med
+tillhörande numeriska metoder för lösning av stationära och
+dynamiska lumpade beskrivningar samt stationära och dynamiska
+distribuerade beskrivningar. Elementär programmeringsteknik tas
+upp för abstraktion och strukturering för ökad användbarhet av
+datorverktyg med grafiska användargränssnitt.
+Beräkningsverktyg utnyttjas både för förståelse av
+modellers och metoders egenskaper samt för att lösa större
+simuleringstekniska projekt.
+Kursens teori och metoder tillämpas på ett simuleringsprojekt
+som är uppdelat i ett antal delprojekt. Projektet genomförs i
+grupper om två eller tre studenter. Kursen bygger på integrerade
+föreläsningar och datorövningar under första delen som stödjer
+projektet. I andra delen sker mer och mer självständigt
+grupparbete inom projektet. Kursen avslutas med en intern
+konferens.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examinationen sker genom ett antal delprojekt, redovisade skriftligt och muntligt.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: KETF01 Transportprocesser och KETF10 Separationsprocesser eller KETF40/KTE170 Masstransport i naturliga och tekniska system
+Begränsat antal platser: Nej
+Urvalskriterier: Antal poäng som återstår till examen.
+Kursen överlappar följande kurser: KAT061
+Kurslitteratur
+
+Process Simulation. Department of Chemical Engineering, 2015.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Professor Bernt Nilsson, Bernt.Nilsson@chemeng.lth.se
+Kursansvarig: Niklas Andersson, niklas.andersson@chemeng.lth.se
+Hemsida: https://www.lth.se/chemeng/ketn01/
+
+
+

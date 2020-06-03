@@ -1,0 +1,116 @@
+
+Kursplan 2020/21 ESSF01
+
+
+
+
+
+Kursplan för
+Analog elektronik
+Analogue Circuits
+ESSF01, 8 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning E
+Beslutsdatum: 2020-03-19
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: E2
+Valfri för: N3
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursen är startpunkten för den som vill inrikta sig på
+konstruktion och utveckling av analoga kretsar såsom
+förstärkare, oscillatorer, mixrar, A/D-omvandlare m.m. Den ger
+grunder för meningsfulla studier i Grundläggande radioteknik,
+Högfrekvensförstärkare, Analog IC-konstruktion och Integrerad
+Radioelektronik. Dessutom kommer kunskaper från kursen vara
+användbara i projektkurserna Analoga projekt och IC-Projekt.
+Kunskaper inom linjära system och komponentfysik tillämpas.
+Kursen presenterar också intressanta tillämpningar för teorier
+inom reglertekniken.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+Ha fått förståelse för återkopplingsteori allmänt och
+fördelarna med negativt återkopplade förstärkare så att
+han/hon kan välja en idealiserad förstärkartopologi och vid
+realisering av denna avgöra hur de ideala parametrarna
+försämras.
+Vara väl förtrogen med transistorn och vilka typer av
+transistorsteg som kan användas samt deras egenskaper och därmed
+vara kapabel att bedöma vilka steg en flerstegsrealisering ska
+innehålla utifrån en given specifikation.
+Känna till aktiva och passiva komponenters frekvensberoende
+och metoder för bandbreddsskattning och frekvenskompensering så
+att önskat beteende uppås i frekvenshänseende.
+
+ 
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+Utifrån en specifikation kunna konstruera en förstärkare som
+uppfyller krav på bandbredd, stegsvar och noggrannhet genom att
+beräkna och realisera en idealiserad förstärkartopologi med upp
+till tre transistorsteg.
+Självständigt kunna göra en analys i frekvens- och
+tidsplanet både utgående från en mätning på en koppling och
+genom analys av ett kopplingsschema.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+Kunna redogöra för och diskutera återkopplingsteori
+tillämpad på analoga byggblock i negativt återkopplade
+flerstegsförstärkare samt deras storsignalegenskaper.
+
+
+Kursinnehåll
+Huvudmålet i kursen är att förmedla kunskaper och modeller
+som behövs vid syntes av negativt återkopplade förstärkare.
+Realisering av nullorn med ett eller flera transistorsteg.
+Asymptotic gain model för beskrivning av negativt återkopplade
+förstärkare. Transistorns småsignalmodell samt
+överföringskaraktäristiken för stora signaler. Aktiva och
+passiva komponenters frekvensberoende, bandbreddsuppskattning,
+stabilitetskriterier och frekvenskompensering. Beräkning och
+implementering av nödvändig arbetspunkt för de ingående
+transistorerna. Kursen innehåller dessutom både muntlig och
+skriftlig kommunikation av ett projektarbete, Studenten skall
+också skriva en kortfattad reflektion över sin utbildning.
+ 
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examinationen består av fyra moment: Tentamen, projekt, inlämningsuppgifter och laborationer. För att få lov att skriva tentamen ska projekt vara godkänt. Betyget sätts efter resultatet på tentamen. Två ordinarie omtentamina finns, men laborationerna ges endast en gång per år.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0118. Benämning: Tentamen. 
+Antal högskolepoäng: 4. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen. 
+Kod: 0218. Benämning: Projekt. 
+Antal högskolepoäng: 3. Betygsskala: UG.  Prestationsbedömning: Godkänt projekt.  Delmomentet omfattar: Projekt 
+Kod: 0318. Benämning: Inlämningsuppgifter. 
+Antal högskolepoäng: 0,5. Betygsskala: UG.  Prestationsbedömning: Godkända inlämningsuppgifter  Delmomentet omfattar: Inlämningsuppgifter 
+Kod: 0418. Benämning: Laborationer. 
+Antal högskolepoäng: 0,5. Betygsskala: UG.  Prestationsbedömning: Godkända laborationer  Delmomentet omfattar: Laborationer 
+Antagningsuppgifter
+Förutsatta förkunskaper: ESS010, EITA35 eller ETIA01 Elektronik.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: ESS020
+Kurslitteratur
+
+Gray, Hurst, Lewis, Meyer: Analysis and Design of Analog Integrated Circuits. Wiley , ISBN: 978-0-470-39877-7.
+Övningskompendie med laborationsmaterial.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Universitetslektor Markus Törmänen, markus.tormanen@eit.lth.se
+Hemsida: http://www.eit.lth.se/kurs/essf01
+Övrig information: Kursen ingår som en del av ett större block av kurser (E-spåret). Se E-programmets hemsida för en detaljerad beskrivning av hela blocket.
+
+
+

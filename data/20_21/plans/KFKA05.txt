@@ -1,0 +1,142 @@
+
+Kursplan 2020/21 KFKA05
+
+
+
+
+
+Kursplan för
+Molekylära drivkrafter 1: Termodynamik
+Molecular Driving Forces 1: Thermodynamics
+KFKA05, 7,5 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning B/K
+Beslutsdatum: 2020-03-27
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: B2, K2
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursen syftar till att ge en solid fysikalisk-kemisk grund för
+fortsatta studier inom kemisk separation och analys, materialkemi,
+reaktion- och energiteknik samt molekylär bioteknik, genom att
+
+ge studenterna en insikt i klassisk och modern statistisk
+termodynamik.
+förmedla en förståelse för de termodynamiska begreppen och
+teorierna utifrån molekylära egenskaper.
+ha ett starkt fokus på problemlösning utifrån dessa
+insikter.
+
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna beskriva och förklara centrala termodynamiska begrepp
+och storheter fenomenologiskt och molekylärt.
+kunna göra enkla kvalitativa förutsägelser av hur ett
+systems jämviktsegenskaper påverkas av förändringar.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna analysera en frågeställning och utföra relevanta
+beräkningar med hjälp av de modeller och ekvationer som
+presenteras i kursen.
+med hjälp av miniräknare och dator kunna utföra vanliga
+numeriska operationer.
+kunna utföra kemiska laborationer på ett noggrant och säkert
+sätt samt handha vanlig laborativ utrustning.
+kunna skriva enkla och fullständiga laborationsredogörelser
+enligt givna instruktioner med korrekt presentation av data och
+feluppskattningar.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna diskutera vardagsfenomen utifrån enkla men
+sunda statistisk-termodynamiska resonemang.
+kunna värdera giltigheten i de grundläggande termodynamiska
+modeller som presenterats i kursen.
+kunna avgöra rimligheten i de svar som erhålls under
+problemlösning.
+
+
+Kursinnehåll
+
+Termodynamiska grundbegrepp som arbete och värme, temperatur,
+entropi, entalpi, fri energi, värmekapacitet och kemisk potential
+behandlas ur både molekylärt statistiskt och termodynamiskt
+perspektiv. Ideala gaser behandlas exakt med den molekylära
+tillståndssumman. Boltzmanns fördelningslag härleds och
+tillämpas på en mängd olika typer av problemställningar.
+Grundläggande kvantmekanik, innefattande energinivåer för
+translation, rotation, vibration och elektroner, med syfte att ge
+bakgrund till den statistiska termodynamiken och
+spektroskopin.
+Reversibla och irreversibla processer.
+Strategin för termodynamiska beräkningar: indelning av
+komplexa processer i isoterma, adiabatiska, isobara, isochora,
+isentropiska eller isolerade delsteg samt användning av
+termodynamiska cykler.
+Integration av differentiella samband för beräkning av
+tillståndsförändringar.
+Kvalitativ och kvantitativ behandling av fasjämvikter i
+enkomponentsystem. Detta innefattar Clapeyrons och
+Clausius-Clapyrons ekvation samt tolknng av fasdiagram för
+enkomponentsystem.
+Kvantitativa beräkningar av samband mellan tryck, temperatur
+och sammansättning i ideala tvåkomponentsystem med en eller flera
+faser. Detta innefattar bl.a. begrepp som partiell molär storhet
+och aktivitet samt beräkningar av kolligativa egenskaper
+(kokpunktshöjning, fyspunktssänkning och osmotiskt tryck) och
+ångtryck över blandningar. Raoults och Henrys lagar. Icke-ideala
+fall behandlas med aktivitetsbegreppet och aktivitetsfaktorer.
+Termodynamisk och statistisk mekanisk behandling av kemisk
+jämvikt.
+Kursen behandlar även grunden för stabilitet hos
+(bio)polymerer.
+Tre laborationer som behandlar kemisk jämvikt, ångbildning
+coh destillation samt termodynamik i vardagen. Minst en
+fullständlig laborationsrapport inklusive statistisk analys och
+felfortplantning med hjälp av Monte Carlometoden.
+En datorlaboration behandlar Boltzmanns fördelningslag.
+Numeriska problem, såsom integrering, derivering,
+ekvationslösning samt passning till räta linjens ekvation löses
+både med räknare och dator.
+Vid laborationerna tränas spektrofotometrisk
+absorbansmätning, arbete med evakuerade system,
+koncentationsbestämning med refraktometer, avläsning av
+tryckmätare, termometer, hygrometer m.m.
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen och laborationer. Slutbetyget baseras på skriftlig tentamen. Tentamen utformas så att god förståelse och grundläggande problemlösningsförmåga inom kursens alla delar krävs för godkänt resultat (betyg 3). Överbetyg (betygen 4 och 5) kräver förmåga till mer komplex problemlösning. 
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0115. Benämning: Tentamen. 
+Antal högskolepoäng: 6,5. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen. 
+Kod: 0215. Benämning: Laborationer. 
+Antal högskolepoäng: 1. Betygsskala: UG.  Prestationsbedömning: För betyg G skall varje laboration utföras och redovisas enligt anvisningarna, vilket kan innebära skriftligt eller muntligt, på svenska eller engelska. För godkänt skall de skriftliga rapporterna vara enkla men korrekta och koncisa, ha lämplig struktur samt innehålla en relevant diskussion av resultaten.  Delmomentet omfattar: Laborationskursen innehåller tre "våta" laborationer och en datorlaboration. 
+Antagningsuppgifter
+Förutsatta förkunskaper: FMAA05 Endimensionell analys, FMAA20 Linjär algebra med datorhjälpmedel, KOOA15 Allmän kemi.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: KFK080, KFK090
+Kurslitteratur
+
+Dill, K and Bromberg, S: Molecular Driving Forces, Statistical Thermodynamics in Chemistry, Physics, Biology and Nanoscience. 2nd edition. Garland Publishing Inc, 2010, ISBN: 9780815344308.
+Kompletterande kompendium, producerat vid avdelningen för Biofysikalisk kemi.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Kristofer Modig, kristofer.modig@bpc.lu.se
+Hemsida: http://www.cmps.lu.se/bpc/education/
+Övrig information: Viss undervisning kan komma att ske på engelska. Viss rapportering kan krävas på engelska.
+
+
+

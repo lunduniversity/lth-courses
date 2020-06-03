@@ -1,0 +1,68 @@
+
+Kursplan 2020/21 IDEA85
+
+
+
+
+
+Kursplan för
+3D-modellering och rendering, del 1
+3D Modelling and Rendering, Part 1
+IDEA85, 2 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning ID
+Beslutsdatum: 2020-02-18
+Allmänna uppgifter
+Huvudområde: Industridesign. 
+Obligatorisk för: KID1
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Efter att ha genomfört kursens första del ska studenterna ha
+utvecklat en grundläggande förståelse för 3D-ytmodellering
+(Nurbs) och dithörande begrepp.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna redogöra för det grundläggande
+användargränssnittet: menyer, verktygsfält, ikoner
+kunna redogöra för grunderna för Nurbskurvor: rita,
+manipulera, förändra, sammanfoga och mäta egenskaper
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+med handledning navigera i 2D/3D-rummet med hjälp av musen och
+genvägar
+med handledning skapa enkla 2D/3D-objekt och modifiera dem
+genom koordinater, snapfunktioner, rörelse, rotation, skalning,
+orientering
+med handledning skapa enkla Nurbsytor från Nurbskurvor: forma,
+redigera, radie
+
+
+Kursinnehåll
+Kursen består av föreläsningar, individuell handledning och
+självstudier/hemarbete.
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: För betyget Godkänd ska studenten ha deltagit i 80 % av undervisningen och genomfört ett flervalsprov med godkänt resultat. 
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: IDEA10
+Kurslitteratur
+
+Programmanual och hjälpfiler; nätvideor, användarfora och diskussionsgrupper.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Andreas Hopf, Andreas.Hopf@design.lth.se
+Hemsida: http://www.ide.lth.se
+
+
+

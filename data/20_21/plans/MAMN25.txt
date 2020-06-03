@@ -1,0 +1,97 @@
+
+Kursplan 2020/21 MAMN25
+
+
+
+
+
+Kursplan för
+Interaktionsdesign
+Interaction Design
+MAMN25, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning C/D
+Beslutsdatum: 2020-03-30
+Allmänna uppgifter
+Obligatorisk för: MD5
+Valfri för: BME5-br, D4-bg, D4-se, F4, L5-gi
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursen syftar till att ge förståelse för grundläggande
+tekniker inom interaktionsdesign, samt förmåga att utforma
+interaktiva produkter och system, med hänsyn till olika
+intressenters behov och villkor. Kunskap i interaktionsdesign
+bidrar till en hållbar utveckling av och attityd till samspelet
+mellan människa och teknik i samhället.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+Definiera och diskutera ämnesområdet interaktionsdesign med
+dess centrala begrepp.
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+Genomföra ett gruppprojekt med en iterativ designprocess.
+Utveckla och presentera en prototyp för en interaktiv produkt
+eller tjänst.
+Sammanfatta och analysera designprocessen samt prototypens
+egenskaper i en artikel med stöd av centrala begrepp från
+teorin.
+Visuellt presentera och muntligen redovisa projektarbetet
+inför publik.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+Föreslå och motivera förändringar av interaktiva produkter
+och tjänster.
+Värdera ett projektarbetes designprocess samt dess interaktiva
+produkt eller tjänst med hjälp av grundläggande begrepp och
+principer inom området interaktionsdesign.
+
+
+Kursinnehåll
+I kursen presenteras teorier, metoder och tekniker som behandlar
+såväl den övergripande designprocessen, som den mer specifika
+utformningen av interaktiva produkter.
+Centrala begrepp och moment i kursen:
+Interaktionsdesign, samverkan i projekt, användbarhet och
+användarupplevelse, MDI (Människa-datorinteraktion),
+interaktionsmodeller, designprinciper, prototyper och
+prototypverktyg.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Grupprojekt som resulterar i prototyp och redovisning av denna. 
+Individuell uppgift i form av skriftlig artikel på vetenskapligt format. 
+Artikelseminarium med återkoppling på annan students artikel.
+Deltagande i obligatoriska moment: projektintroduktion, projektpresentation, artikelseminarium.
+Betyget vägs samman av grupprojektet och den individuella uppgiften.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0118. Benämning: Individuell uppgift. 
+Antal högskolepoäng: 4,5. Betygsskala: TH.  Prestationsbedömning: Slutbetyg på kursen baseras till 60% på den individuella uppgiften. 
+Kod: 0218. Benämning: Projektarbete i grupp. 
+Antal högskolepoäng: 3. Betygsskala: TH.  Prestationsbedömning: Slutbetyg på kursen baseras till 40% på resultatet av grupprojektet. 
+Antagningsuppgifter
+Förutsatta förkunskaper: MAMA11 Belastnings- och kognitionsergonomi, MAMF30 Ergonomi, TEK210/EXTA65 Kognition el. motsvarande.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: MAMA15
+Kurslitteratur
+
+Preece, J, Rogers, Y. & Sharp, H.: Interaction design: beyond human-computer interaction. John Wiley & Sons, 2016, ISBN: 978-1-119-02075-2.
+Övrig litteratur - länkar eller utdelat material. Projektbeskrivning. 
+Aktuella forskningspublikationer i form av ex. vetenskapliga artiklar, offentliga föreläsningar och interaktivt utbildningsmaterial finns tillgängligt på kursens hemsida.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Johanna Persson, johanna.persson@design.lth.se
+Examinator: Christofer Rydenfält, christofer.rydenfalt@design.lth.se
+Hemsida: http://www.eat.lth.se/kurser/interaktionsdesign/interaktionsdesign-mamn25/
+
+
+

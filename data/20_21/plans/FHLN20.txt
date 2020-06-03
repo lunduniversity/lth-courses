@@ -1,0 +1,87 @@
+
+Kursplan 2020/21 FHLN20
+
+
+
+
+
+Kursplan för
+Finita elementmetoden - olinjära system
+Finite Element Method for Non-linear Systems
+FHLN20, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning M
+Beslutsdatum: 2020-03-26
+Allmänna uppgifter
+Valfri för: BME5, F4, F4-bs, F4-bem, M4-bem, Pi4-bs, Pi4-bem, V5-ko
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursen syftar till att ge en förståelse av modellering och
+simulering av icke linjära strukturer och material med hjälp av
+finita elementmetoden.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+förstå grunderna i etablerandet av finita elementmetoden
+för olinjära strukturella problem
+förstå grunderna i behandlingen av stora deformationer och
+töjningar
+tillämpa finita elementmetoden på strukturella olinjära
+problem
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna etablera en olinjär finita elementformulering baserad
+på den svaga formen
+skriva finita elementprogram för olinjära strukturella
+problem
+transformera olinjära system från stark form till svag
+form
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+ha förmåga att analysera, modellera och simulera olinjära
+strukturer med hjälp av finita elementmetoden, samt tolka och
+värdera resultaten.
+
+
+Kursinnehåll
+Kursen behandlar finita elementmetoden, för geometriskt och
+materiellt olinjära problem. Grundläggande teorier för stora
+deformationer och töjningar introduceras. Olika definitioner på
+töjningsmått och spänningsmått introduceras. Tillhörande stark
+och svag formulering av jämviktsekvationerna i spatiell och
+materiell form diskuteras. Den olinjära finita
+elementformuleringen härleds för det generella 3-dimensionella
+fallet. Huvudvikten ges till de fundamentala principerna i
+FE-formuleringen. I kursen kommer deltagarna att skriva ett eget
+olinjärt FE-program.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Kursen är uppbyggd av en seminarieserie. Parallellt ingår datorlaborationer för att implementera teorierna numeriskt. Examinationen kommer att ske genom två projektuppgifter, i vilka både teoretiska och numeriska aspekter behandlas. Uppgifterna poängbedöms och slutbetyget fås av den summerade poängen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: FHLF20/FHL064/FHLF01 Finita elementmetoden eller VSMN30 Finita elementmetoden - konstruktionsberäkningar.
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Urval ur:.
+Krenk, S., Non-Linear Modelling and Analysis. ISBN 978-0521-83054-6.
+CALFEM - A finite element toolbok to MATLAB, Studentlitteratur.
+Notes, Div. of Solid Mechanics.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Professor Matti Ristinmaa, Matti.Ristinmaa@solid.lth.se
+Hemsida: http://www.solid.lth.se
+
+
+

@@ -1,0 +1,105 @@
+
+Kursplan 2020/21 FAFA45
+
+
+
+
+
+Kursplan för
+Termodynamik med tillämpningar
+Thermodynamics with Applications
+FAFA45, 7,5 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning N
+Beslutsdatum: 2020-03-27
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: V1
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Syftet med kursen är att studenten ska utveckla förståelse
+för grundläggande begrepp och samband i termodynamik, för att
+med dessa som verktyg kunna tillägna sig tekniska tillämpningar
+inom, och i anslutning till, ämnesområdet. Kursen ska också ge
+perspektiv på och problematisera kring ingenjörens roll i
+utvecklingen av det hållbara samhället.
+Studenten ska tränas i problemlösning, modelltänkande,
+experimentellt arbete samt skriftlig och muntlig kommunikation.
+Kursen avser också att stimulera studenten till reflektion över
+hur kursinnehållet relaterar till fysikaliska vardagsfenomen.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+förstå hur modelltänkande i form av matematiska modeller,
+analogier och bilder växelverkar med experiment och den
+fysikaliska verkligheten.
+med fysikaliska begrepp kunna beskriva och analysera fenomen,
+särskilt energiflöden, energiomvandlingar och energiutbyten, i
+naturen och i tekniska system.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna utnyttja fysikaliska modeller för att analysera,
+förstå och beskriva olika tekniska problemställningar.
+kunna tillämpa de experimentella metoder som används i kursen
+och relatera dessa till verkliga ingenjörsuppgifter.
+förmå skriva en strukturerad laborations- eller
+projektrapport i vilken experimentella data presenteras och
+analyseras.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+förmå värdera de experimentella metoder som används i
+kursen.
+visa insikt i fysikens möjligheter och begränsningar,
+speciellt i relation till framtida teknikutveckling.
+förmå identifiera sitt eget behov av utökade kunskaper inom
+det aktuella och andra kunskapsområden.
+
+
+Kursinnehåll
+Problemlösningsmetodik. Experimentell metodik. Hantering,
+analys och presentation av mätdata. Temperatur och värme. Tryck.
+Ideala och reala gaser. Strömmande gaser och vätskor. Bernoullis
+ekvation. Termodynamikens huvudsatser, tillståndsändringar
+och kretsprocesser. Värmemaskiner; kylskåp och värmepumpar.
+Statistisk beskrivning av termodynamiken.Värmeöverföring;
+ledning, strömning och strålning. Klimat och växthuseffekt,
+elektromagnetisk strålning, elektriska och magnetiska
+fält, electricitet i hemmet, elsäkerhet.
+ 
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen och godkänd laborationskurs. Resultatet på det skriftliga provet avgör det graderade slutbetyget på kursen.
+Närvaro vid första föreläsningen är obligatoriskt för att få tillträde till kursen
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0110. Benämning: Tentamen. 
+Antal högskolepoäng: 5. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen. 
+Kod: 0210. Benämning: Laborationer och rapporter. 
+Antal högskolepoäng: 2,5. Betygsskala: UG.  Prestationsbedömning: Aktivt deltagande (obligatoriskt) vid laborationer samt godkända laborationsrapporter.  Delmomentet omfattar: Fyra laborationer: 1) Svängande stavar och fjädrar. 2) Elektricitet - mätning av spänning, ström, elektriska och magnetiska fält. 3) Kretsprocesser - värmepump och Stirlingmotor. 4) Strömning 
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FAF220, FAF604, FAFA15, FAFA20, FAFA30, FAFA35, FAFA40, FAF108, FAFA05, FAFF25, FAFA65, FAFA70, FAFA75
+Kurslitteratur
+
+Göran Jönsson: Fysik i vätskor och gaser. Teach support, 2016, ISBN: 978-91-637-9826-9. 9:e upplagan, tryckt 2016.
+Kurslaboratoriet för fysik, LTH: Laborationshandledning. 2016. Laborationshandledningarna tillhandahålls via live@lund.
+Göran Jönsson: Tillämpad ellära. Teach Support, 2017, ISBN: 978-91-639-4348-5. 2:a upplagan, tryckt 2017.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Maria Messing, maria.messing@ftf.lth.se
+Hemsida: https://liveatlund.lu.se
+Övrig information: Närvaro vid första föreläsningen är obligatoriskt för att få tillträde till kursen
+
+
+

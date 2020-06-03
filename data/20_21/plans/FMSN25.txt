@@ -1,0 +1,122 @@
+
+Kursplan 2020/21 FMSN25
+
+
+
+
+
+Kursplan för
+Prissättning av derivattillgångar
+Valuation of Derivative Assets
+FMSN25, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning I
+Beslutsdatum: 2020-04-03
+Allmänna uppgifter
+Valfri för: F5, F5-fm, I5-fir, Pi5-fm
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Studenten skall få en fördjupad förståelse och insikt i de
+ekonomiska och matematiska överväganden som ligger bakom
+värderingen av derivatkontrakt på finansiella marknader. Dessutom
+skall studenten få kunskap om och färdighet i att hantera de
+modeller och de matematiska verktyg som används inom dagens
+finansmatematik. Studenten skall också få en grundlig orientering
+om de viktigaste typerna av finansiella kontrakt som förekommer
+på aktie- och räntemarknaden samt få en bra grund för att
+förstå även kontrakt som inte explicit tagits upp i kursen.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna de grundläggande ekonomiska begreppen: finansiellt
+kontrakt, självfinansierande portfölj, arbitrage, replikerande
+portfölj hedge och komplett marknad.
+hantera verktygen från stokastisk kalkyl: martingal, Itô's
+formel, Feynman-Kac representation, Girsanov måttbyte och
+numerärbyte.
+förklara hur de basala finansiella kontrakten fungerar och
+relaterar till varandra såsom, Europeiska och Asiatiska optioner,
+Forward kontrakt, nollkupongobligationer, kupongobligationer, LIBOR
+och ränteswap.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+använda de grundläggande ekonomiska begreppen för att
+uttrycka relationer mellan olika finansiella kontrakt.
+använda verktygen från stokastisk kalkyl för att räkna ut
+priser på finansiella kontrakt under specifika modellantaganden.
+Detta innefattar speciellt att kunna använda, härleda och
+förstå Black-Scholes formel samt att kunna utvidga den till
+likartade kontrakt.
+använda Monte Carlo metoder för att prissätta
+finansiella kontrakt. I detta sammanhang skall studenten kunna
+använda diverse variansreduktionstekniker såsom antitetiska
+variabler, kontrollvariabler och vägd simulering. Detta moment
+examineras genom obligatoriska inlämningsuppgifter och
+laborationer.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+tillämpa ett matematiskt synsätt på finansiella
+kontrakt.
+bedöma ur ett ekonomiskt och matematiskt perspektiv vad en
+rimlig värdering av ett finansiellt kontrakt bör uppfylla.
+
+
+Kursinnehåll
+Kursen består av två (dock inte fristående) delar. I det
+första momentet kommer vi att inrikta oss mot optionsteori i
+diskret tid. Avsikten är att snabbt och enkelt definiera vissa
+nyckelord som arbitragefrihet och kompletthet, samt martingaler och
+martingalmått. Vi kommer att använda trädstrukturer för att
+modellera tidsutveckling för aktiekurser och
+informationsflöden.
+Under det andra momentet kommer vi att studera modeller
+formulerade i kontinuerlig tid. De modeller vi fokuserar mot är
+främst stokastiska differentialekvationer. Den bakomliggande
+teorin om Brownsk rörelse, stokastiska integraler, Ito-'s formel,
+måttbyten och numerärer gås igenom och tillämpas på
+optionsteori både för aktie och räntemarknaden. Vi
+härleder exempelvis Black-Scholes formel och hur en
+replikerande
+portfölj för en option skapas.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen, obligatorisk närvaro på laborationerna samt godkända inlämningsuppgifter.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0115. Benämning: Tentamen. 
+Antal högskolepoäng: 6. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen. 
+Kod: 0215. Benämning: Laborationsdel 1. 
+Antal högskolepoäng: 0,5. Betygsskala: UG.  Prestationsbedömning: Första datorlaborationen 
+Kod: 0315. Benämning: Laborationsdel 2. 
+Antal högskolepoäng: 1. Betygsskala: UG.  Prestationsbedömning: Övriga datorlaborationer inklusive en inlämningsuppgift 
+Antagningsuppgifter
+Förkunskapskrav:
+FMSF10 Stationära stokastiska processer eller FMSF15 Markovprocesser
+
+
+Förutsatta förkunskaper: Kunskaper i sannolikhetsteori motsvarande FMSF05 Sannolikhetsteori underlättar.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: MASM24, FMS170, MASM19
+Kurslitteratur
+
+Björk, T.: Arbitrage Theory in Continuous Time, 3rd ed. Oxford University Press, 2009, ISBN: 978-0199574742.
+Rasmus, S.: Derivative Pricing. Avd. Matematisk Statistik, 2010.
+
+
+Kontaktinfo och övrigt
+Studierektor: Johan Lindström, studierektor@matstat.lu.se
+Hemsida: http://www.maths.lth.se/matstat/kurser/fmsn25/
+Övrig information: Kursen ges även på naturvetenskaplig fakultet med kurskod MASM24.
+
+
+

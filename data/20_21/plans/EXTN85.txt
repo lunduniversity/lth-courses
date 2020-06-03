@@ -1,0 +1,88 @@
+
+Kursplan 2020/21 EXTN85
+
+
+
+
+
+Kursplan för
+Spridningsmetoder
+Scattering Methods
+EXTN85, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning B/K
+Beslutsdatum: 2020-03-27
+Allmänna uppgifter
+Valfri för: BME4, F4, F4-aft, N4
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursens syfte är att ge grundläggande kunskaper om olika
+spridningsmetoder och hur dessa kan användas för att studera
+struktur och dynamik i kolloidala system.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+förstå och förklara grundprinciperna för statiska
+spridningsexperiment samt vilken information man kan erhålla från
+sådana experiment,
+förstå och förklara grundprinciperna för dynamiska
+ljusspridningsexperiment samt vilken information man kan erhålla
+från sådana experiment,
+ha kunskap om och kunna beskriva de experimentella
+uppställningarna vid ljusspridning samt vid lågvinkelspridning av
+röntgenstrålning och neutroner.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna tolka resultat av statiska spridningsexperiment från
+kolloidala dispersioner i termer av strukturfaktorer och
+formfaktorer,
+kunna tolka resultat av experiment i dynamisk ljusspridnings
+från kolloidala dispersioner,
+kunna med dator simulera den statiska spridningen från en
+dispersion av sfäriska kolloidala partiklar.
+
+
+Kursinnehåll
+Föreläsningar: Kursen startar med grundläggande
+spridningsteori och en härledning av den statiska spridningen
+från dispersioner av sfäriska kolloidala partiklar. Därefter
+följer en genomgång av olika experimentella metoder. De metoder
+som behandlas på kursen är lågvinkelröntgenspridning,
+lågvinkelneutronspridning samt statisk och dynamisk ljusspridning.
+Kursen avslutas med en behandling av dynamiska spridningsmetoder
+med tonvikt på dynamisk ljusspridning.
+Laborationer. I laborationer studeras diffraktion från olika
+spalter och gitter samt röntgen spridning och statisk och dynamisk
+ljusspridning från kolloidala dispersioner.
+
+Kursens examination
+Betygsskala: UV - (U,G,VG) - (Underkänd, Godkänd, Väl godkänd)
+Prestationsbedömning: Skriftlig tentamen, obligatoriska laborationer och inlämningsuppgifter. Slutbetyget på kursen avgörs genom betyg på tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0120. Benämning: Tentamen. 
+Antal högskolepoäng: 5. Betygsskala: UV.  Prestationsbedömning: Skriftlig tentamen 
+Kod: 0220. Benämning: Laborationer. 
+Antal högskolepoäng: 2,5. Betygsskala: UG.  Prestationsbedömning: För betyg G skall varje laboration utföras och redovisas enligt anvisningarna, vilket kan innebära skriftligt eller muntligt, på svenska eller engelska.  
+Antagningsuppgifter
+Förutsatta förkunskaper: Obligatoriska kurser i matematik.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: KEMM37
+Kurslitteratur
+
+Enligt fastställd litteraturlista, vilken skall finnas tillgänglig på institutionens hemsida senast fem veckor före kursstart.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Anna Stradner, anna.stradner@fkem1.lu.se
+Hemsida: http://www.kemi.lu.se/utbildning/kurser/avancerade-kurser/scattering-methods-kemm67/
+Övrig information: Kursen ges av naturvetenskapliga fakulteten (KEMM67) och följer inte läsperiodsindelningen.
+
+
+

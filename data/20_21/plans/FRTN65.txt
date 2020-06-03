@@ -1,0 +1,128 @@
+
+Kursplan 2020/21 FRTN65
+
+
+
+
+
+Kursplan för
+Modellering och inlärning från data
+Modelling and Learning from Data
+FRTN65, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning F/Pi
+Beslutsdatum: 2020-04-01
+Allmänna uppgifter
+Huvudområde: Maskininlärning, system och reglerteknik. 
+Obligatorisk för: MMSR1
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursen ger en introduktion till problemet att lära från data,
+med fokus på de grundläggande koncepten i dataanalys. Kursens
+mål är att studenterna ska läsa sig principer och fundamentala
+begränsningar för vad som kan inläras från data, med tekniker
+både från maskininlärnings- och
+systemidentifieringsdomänen.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna definiera grundläggande begrepp inom dataanalys.
+förstå begränsningar i inlärningsparadigmet samt
+begränsningar och konfidens i inlärningsprocessen.
+ha kunskap om de olika modelltyper och -alternativ som kan
+användas för att beskriva data.
+förstå och följa de olika faserna i processen att bygga
+modeller, från utformning av inlärningsprocessen till dess
+tillämpning på en datamängd samt validering av den erhållna
+modellen.
+beskriva och motivera de grundläggande egenskaperna av både
+maskininlärningsmodeller (såsom regression, neurala nätverk och
+klassificerare) och systemidentifieringsmetoder (såsom
+minstakvadratmetoden, prediktionsfelsmetoder och rekursiva
+identifieringsprocedurer).
+
+ 
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna implementera maskininlärningsalgoritmer och resonera om
+det bästa valet för en given datamängd.
+kunna implementera systemidentifieringsprocedurer och
+genomföra modellval och avgöra hur en given datamängd ska
+analyseras.
+kunna simulera och förstå de erhållna modellerna.
+lösa inlärningsproblem genom att skriva och använda
+datorprogram.
+
+ 
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+förstå den konfidens som är möjlig att uppnå med
+dataanalys.
+bemästra lagarbete och samarbete i laborationerna.
+
+ 
+
+Kursinnehåll
+Att lära från data är viktigt och har många tillämpningar.
+Fältet maskininlärning är väldigt dynamiskt och förändras
+extremt snabbt; nya tekniker framträder medan de gamla faller
+undan och ersätts. Fundamenta kring inlärning kan dock strikt
+definieras. Kursen ger en solid grund för alla studenter som vill
+närma sig dataanalys och vill förstå inlärningsproblemet.
+Kursen täcker de fundamentala begränsningarna hos inlärning och
+övergången från deterministiskt till probabilistiskt rum. Kursen
+introducerar övervakad och oövervakad inlärning. Den diskuterar
+olika typer av modeller och inlärningstekniker.
+Första delen av kursen viks åt maskininlärningsproblemet och
+-algoritmer. I ramverket för övervakad inlärning behandlar
+kursen klassificering och regression. I ramverket för oövervakad
+inlärning innehåller kursen klustringstekniker. Vi beskriver
+olika modelltyper, såsom neurala nätverk och beslutsträd.
+Den andra delen av kursen viks åt systemidentifieringsproblem
+och beskriver koncepten gråbox- och svartboxmodeller och tekniker
+för att utföra systemidentifieringsproceduren. Kursen behandlar
+särskilt linjär regression, maximal trolighetsestimering,
+prediktionsfelsmetoder och experimentutformning.
+Laborationer: Analys av låtpreferenser; Väderprognoser
+baserade på historiska data; Identifiering av dynamiska
+systemmodeller.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen (5 timmar), tre laborationer inklusive tre inlämningsuppgifter. Vid färre än 5 anmälda studenter kan muntlig omtentamen ges.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0120. Benämning: Modellering och inlärning från data. 
+Antal högskolepoäng: 4,5. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen 
+Kod: 0220. Benämning: Laboration 1. 
+Antal högskolepoäng: 1. Betygsskala: UG.  Prestationsbedömning: Godkänd laboration och inlämningsuppgift. 
+Kod: 0320. Benämning: Laboration 2. 
+Antal högskolepoäng: 1. Betygsskala: UG.  Prestationsbedömning: Godkänd laboration och inlämningsuppgift. 
+Kod: 0420. Benämning: Laboration 3. 
+Antal högskolepoäng: 1. Betygsskala: UG.  Prestationsbedömning: Godkänd laboration och inlämningsuppgift. 
+Antagningsuppgifter
+Förutsatta förkunskaper: Kurser jämbördiga med förkunskapskraven för masterprogrammet i Maskininlärning, system, och reglering. 
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FRTN35, FRT041
+Kurslitteratur
+
+Yaser S. Abu-Mostafa, Malik Magdon-Ismail, Hsuan-Tien Lin: Learning From Data; AMLBook (2012).
+Lennart Ljung: System Identification: Theory for the user; Pearson Education (1998).
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Martina Maggio, martina.maggio@control.lth.se
+Kursansvarig: Bo Bernhardsson, bo.berhhardsson@control.lth.se
+Studierektor: Anton Cervin, anton.cervin@control.lth.se
+Hemsida: http://www.control.lth.se/course/FRTN65
+Övrig information: Kursen är hösten 2020 öppen endast för studenter antagna till masterprogrammet i maskininlärning, system och reglerteknik.
+
+
+

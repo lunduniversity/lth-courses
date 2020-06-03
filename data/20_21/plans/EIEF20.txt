@@ -1,0 +1,96 @@
+
+Kursplan 2020/21 EIEF20
+
+
+
+
+
+Kursplan för
+Automationsteknik, fortsättningskurs
+Automation, Advanced Course
+EIEF20, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning E
+Beslutsdatum: 2020-03-19
+Allmänna uppgifter
+Obligatorisk för: IEA3
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursen syftar till att ge fördjupade kunskaper inom
+reglerteknik och automation. Områden inom reglerteknik som utgör
+fördjupning är framför allt system på tillståndsform och
+tidsdiskreta system. Båda två är viktiga för att kunna förstå
+och formulera regleralgoritmer för såväl simulering som
+implementering av regulatorer med mikroprocessorer/datorer. En
+kortfattad introduktion till multivariabel reglerteknik utgör
+också en viktig komplettering till tidigare reglerteknikkunskaper.
+Automationsdelen utgörs av en introduktion till analys av
+maskinhantering modellerad av tidsdiskreta markovkedjor. Kursen
+innehåller laborationer och simulering med anknytning till
+tillståndsåterkoppling, tidsdiskret reglering och
+markovkedjor.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+kunna analysera enklare multivariabla reglersystem
+kunna analysera reglersystem på tillståndsform
+kunna analysera tidsdiskreta reglersystem
+kunna analysera enklare markovkedjor
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+kunna beräkna särkopplingsfilter för enklare multivariabla
+system
+kunna dimensionera tillståndsåterkoppling av processer
+utifrån en given specifikation
+kunna beräkna regulatorer i tidsdiskreta reglersystem utifrån
+en given specikikaton
+kunna ta fram program för att implementera tidsdiskreta
+regulatorer
+kunna utföra modellering av produktflöden i enkla
+tillverkningsprocesser med hjälp av markovkedjor
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+kunna välja lämpligt samplingsintervall för en tidsdiskret
+regulator givet specifikation och processegenskaper
+
+Kursinnehåll
+Tillståndsmodeller och tillståndsåterkoppling
+Tidsdiskreta system och Z-transormer
+Servoteknik
+Tidsdiskreta Markovkedjor
+Multivariabla system
+Särkopplingsfilter vid multivariabel reglering
+Vikningseffekten
+Stabilitetskriterier för tidsdiskreta system
+Diskretisering av tidskontinuerliga regulatorer
+Polplaceringsdesign av tidsdiskreta regulatorer
+Enkel processidentifiering med minstakvadratmetoden
+Exempel på modellering med markovkedjor inom automation 
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Godkända laborationer och skriftlig tentamen
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+Obligatoriska moment (laborationer) EIEF06 eller EIEF05 Automationsteknik
+
+
+Förutsatta förkunskaper: FMA645, FMAA50 Matematisk analys, FMF656, FMAA55 Linjär Algebra, EIEF06 eller EIEF05 Automationsteknik  och FRT602, EIEF30 Styr- och reglerteknik
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Utdelat material.
+Bertil Thomas: Modern reglerteknik, Liber, ISBN13: 9789147093236.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Mats Lilja, mats.lilja@hbg.lth.se
+Hemsida: http://rauni.iea.lth.se:8074/eief20/automfk.htm
+
+
+

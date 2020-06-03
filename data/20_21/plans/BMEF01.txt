@@ -1,0 +1,111 @@
+
+Kursplan 2020/21 BMEF01
+
+
+
+
+
+Kursplan för
+Elektronikprojekt
+Project in Electronics
+BMEF01, 5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning BME
+Beslutsdatum: 2020-03-24
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: E3
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Som avslutning på obligatoriet i elektroteknik genomförs en
+projektkurs. Kursen ska ge den överblick över
+elektroteknikområdet som en ingenjör behöver samt
+självförtroendet att kunna använda sina samlade kunskaper i
+projektarbeten som innefattar både konstruktion och analys. Kursen
+ska ge övning i problemlösning, grupparbete i projektform,
+muntlig framställning och rapportskrivning.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+ha en helhetssyn på elektroteknik, ingående delområden och
+deras inbördes relation
+ha en djup förståelse för minst en specifik elektroteknisk
+tillämpning
+ha kunskap om projektmetodik
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna tillämpa det som lärts ut i övriga obligatoriska
+elektrotekniska kurser genom att genomföra en konstruktionsuppgift
+i projektform
+kunna felsöka samt analysera ett elektriskt system
+ha god färdighet i att söka, sammanställa och värdera
+information
+Kunna författa en projektrapport, samt i rapporten kunna
+strukturera innehållet i olika avsnitt, redogöra för bakgrund
+till projektet, förklara projektets syfte, redogöra för och
+motivera val av material och metod, välja relevanta former för
+redovisning av resultat, tolka och diskutera resultat, formulera
+slutsatser och presentera bevis för dessa samt redovisa referenser
+på ett akademiskt hederligt sätt. Kunna ge konstruktiv respons
+på projektrapport enligt ovanstående kriterier.
+Kunna planera och genomföra en muntlig redovisning av projekt
+där innehåll, disposition, språk och framförande är anpassade
+till syfte sammanhang och mottagare.
+ha fått träning i att planera och samarbeta med andra i ett
+projekt
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+ha fått träning i att söka och tillgodogöra sig information
+om ett dittills okänt område såväl från Internet som från
+tryckta källor
+ha självförtroende i att analysera ett elektriskt system (en
+apparat) ur flera olika elektrotekniska aspekter
+
+
+Kursinnehåll
+I början av läsperiod 1 bildas projektgrupper om 4-5
+teknologer vardera. Varje projektgrupp tilldelas ett projekt som
+man kommer jobba med under terminen. Under lp1 kommer undervisning
+att ske kring projektmetodik, samt andra ämnen som är viktiga
+för projektet. Under läsperiodens gång skall varje projektgrupp
+planera sitt projekt samt ha ett projektmöte med handledare där
+konstruktionsuppgiften är definierad och tidplan och upplägg
+redovisas.
+Under läsperiod 2 genomför projektgruppen själva
+konstruktionsuppgiften, vilken redovisas muntligt samt demonstreras
+praktiskt. Som avslutning på kursen skall en större teknisk
+rapport lämnas in. Förutom bakgrund och tekniska lösningar skall
+även information och reflektioner kring den projektmetodik som
+använts inom gruppen ingå i rapporten.
+Studenten skall också skriva en kortfattad reflektion över sin
+utbildning.
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: Godkänd skriftlig projektplan, kamratgranskning av en annan grupps projektplan, projektrapport samt muntlig och praktisk presentation av elektronikprojektet.
+
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: ESS081, ESSF05
+Kurslitteratur
+
+G. Persson, G. Olsson, M. Alakula: Teknisk rapportskrivning.
+M. Eriksson, J. Lilliesköld: Handbok för mindre projekt. Liber, 2005, ISBN: 9789147052707.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Andreas Lenshof, andreas.lenshof@bme.lth.se
+Hemsida: http://bme.lth.se/course-pages/elektronikprojekt/elektronikprojekt/
+
+
+

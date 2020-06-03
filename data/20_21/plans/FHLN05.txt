@@ -1,0 +1,94 @@
+
+Kursplan 2020/21 FHLN05
+
+
+
+
+
+Kursplan för
+Beräkningsbaserad materialmodellering
+Computational Inelasticity
+FHLN05, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning M
+Beslutsdatum: 2020-03-26
+Allmänna uppgifter
+Valfri för: BME5-br, F4, F4-bem, M4-bem, M4-tt, Pi4-bem, V5-ko
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursen ger en förståelse för den matematiska beskrivningen av
+olinjära materialegenskaper. Studenten ges insikt i hur dessa
+matematiska verktyg används för att etablera materialmodeller.
+Studenten skall även ges en förståelse för hur
+materialmodellerna implementeras i ett olinjärt finita
+elementprogram.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+förstå de antaganden och förenklingar som är gjorda i den
+matematiska beskrivningen av en materialmodell
+förklara och använda olika olinjära elastiska modeller
+förstå grunderna i etablerandet av plasticitets- och
+visco-plasticitetsteorin
+förstå vilka antaganden som gjorts vid en numerisk
+implementering av en materialmodell
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna etablera den olinjära finita elementformuleringen,
+samt kunna etablera de tillhörande lösningsalgoritmerna
+skriva ett materiellt olinjärt finita elementprogram
+implementera en plasticitets/visco-plasticitetsmodell
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+ha förmåga att följa utvecklingen som behandlar
+materialmodellering, både med avseende på teoretiska som
+numeriska aspekter
+
+
+Kursinnehåll
+Kursen behandlar teorin bakom den matematiska beskrivningen av
+olinjära materialegenskaper samt den erforderliga numeriska
+lösningsmetodiken som används i den olinjära
+finita-elementmetoden. I kursen behandlas:
+ 
+
+Utgångsekvationerna för olinjär elasticitetsteori,
+plasticitetsteori samt olika typer av brottkriteria.
+Finitaelementformulering av olinjära problem.
+Implementering av olinjära materialmodeller i
+finitaelementmetoden.
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Kursen ges i form av seminarier som behandlar modern konstitutiv modellering och två projektuppgifter, vilka löses parallellt med seminarieserien. Examinationen kommer att ske genom två projekt samt en tenta. Projekten, som behandlar materiellt olinjära problem, innehåller en analytisk och en numerisk del. Den numeriska delen består i att materialmodellen, som behandlats i den analytiska delen, skall implementeras i ett eget olinjärt finita elementprogram. Därefter löses ett praktiskt problem. Alla tre momenten vägs ihop för att bilda det slutgiltiga betyget.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0112. Benämning: Beräkningsbaserad materialmodellering. 
+Antal högskolepoäng: 7,5. Betygsskala: TH. 
+Kod: 0212. Benämning: Projekt. 
+Antal högskolepoäng: 0. Betygsskala: UG. 
+Antagningsuppgifter
+Förutsatta förkunskaper: FHLF20/FHL064/FHLF01 Finita elementmetoden eller VSMN30 Finita elementmetoden - konstruktionsberäkningar.
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Ottosen, N. S. & Ristinmaa, M: The Mechanics of Constitutive Modelling, Elsevier, 2005. ISBN: 0-008-044606-X.
+CALFEM - A finite element toolbox to MATLAB. Studentlitteratur.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Professor Matti Ristinmaa, Matti.Ristinmaa@solid.lth.se
+Hemsida: http://www.solid.lth.se
+
+
+

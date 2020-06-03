@@ -1,0 +1,115 @@
+
+Kursplan 2020/21 EXTG01
+
+
+
+
+
+Kursplan för
+Medicinska bildgivande system
+Medical Imaging Systems 
+EXTG01, 5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning BME
+Beslutsdatum: 2020-03-24
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: BME3
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Medicinska bilder är centrala för diagnostik och behandling,
+eftersom bilder ger användaren möjlighet att direkt tolka mycket
+komplicerade och stora datamängder. I dagens bildgivande system
+för medicinska tillämpningar är dessa ofta framtagna utgående
+ifrån strålning antingen i joniserande form (nuklearmedicin,
+röntgen) eller icke-joniserande (ultraljud och magnetisk
+resonanstomografi). Trenden är att medicinska bilder får en allt
+större betydelse för inte bara diagnostik och terapi, utan också
+för att förstå människokroppens funktion som sjuk och frisk,
+ända ner på molekylär nivå. Det är därför viktigt att
+civilingenjören i medicin och teknik visar förståelse för de
+grundläggande principerna bakom dessa system vad beträffar
+bildgenerering, begränsningar och möjligheter,
+användningsområden samt eventuella relaterade hälsorisker.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+• ha kunskap om de vanligast förekommande bildsystemen för
+medicinska tillämpningar
+• ha förståelse för hur respektive bild kommer till
+• visa förståelse för hur en undersökning går till för
+respektive bildsystem
+• ha förståelse för vilka tillämpningsområden respektive
+bildgivande system används inom
+• ha förståelse för begränsningar hos systemen för att
+undvika felaktig tolkning av mätresultat
+• ha översiktlig kunskap om strålskydd och relaterade
+hälsorisker
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+• ha fått erfarenhet av bildtolkning typiska för de
+vanligast förekommande bildsystemen
+• kunna kommunicera resultat från laborativa experiment
+skriftligt
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+• kunna föra ett resonemang kring vilket bildsystem som bör
+användas för en given problemställning
+
+Kursinnehåll
+Nuklearmedicin: Principer bakom nuklearmedicin.
+Skintillationskameran, PET/SPECT – Grundläggande principer för
+datainsamling och tomografisk bildrekonstruktion. Radiofarmaka och
+interndosimetri. Kvalitetskontroll.
+Röntgen: Generering av bromsstrålning, röntgenrör,
+Röntgenspektrum och filtrering, Röntgenbilden. Strålfält,
+strålkvalitetsparametrar (HVL, spektra). Primär och sekundär
+strålning, kontrastmedel. Detektorer (film, förstärkningsskärm,
+bildplattor). Bildförstärkare. Direktdigitala detektorer.
+Datortomografi, rekonstruktionsalgoritmer, CT-nummer, Tomosyntes.
+Kliniska applikationer av röntgen. Bildkvalitet versus absorberad
+dos till patienten. DICOM bildarkivering mm inom radiologin.
+Kvalitetskontroll.
+Magnetisk resonanstomografi: Översiktlig historik. NMR-relaterade
+kärnfysikaliska grunder inklusive begreppen magnetfält, resonans,
+spinnpopulation och signalgenerering. Basala kontrastparametrar:
+protontäthet samt T1-, T2- och T2*-relaxation. Signaldetektering
+samt bildrekonstruktion via Fourier-transform.
+Basala pulssekvenser, d.v.s. spinneko, gradienteko, inversion
+recovery samt deras typiska kontrastegenskaper vid olika
+maskininställningar.
+MR-säkerhet samt praktiska risker.
+Ultraljud: Fysik, reflektion, dämpning, ljudutbredning,
+givarteknik, diagnostikapparatens uppbyggnad, beamforming,
+Doppler,säkerhet och artefakter.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: För betyget 3 krävs godkänt på följande moment: Laborationer med tillhörande rapporter, samt skriftlig tentamen. 
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Skriftlig tentamen. 
+Antal högskolepoäng: 4. Betygsskala: TH.  Prestationsbedömning: Godkänd tentamen 
+Kod: 0217. Benämning: Laborationer. 
+Antal högskolepoäng: 1. Betygsskala: UG.  Prestationsbedömning: Godkända laborationer och rapporter. 
+Antagningsuppgifter
+Förutsatta förkunskaper: EITA01 Introduktion till medicin och teknik
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Magdy M. Khalil: Basic Sciences of Nuclear Medicine (e-bok). Samt föreläsningsanteckningar.
+Hendee, W R and Russell, R E: Medical Imaging Physics (e-bok). Samt föreläsningsanteckningar.
+MR: P G Björklunds kompendium (senaste versionen) samt ett mer matematiskt beskrivande kompendium, skrivet av Ronnie Wirestam.
+Ultraljud: Kompendium.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Michael Ljungberg, Michael.Ljungberg@med.lu.se
+Kursansvarig: Tomas Jansson, Tomas.Jansson@elmat.lth.se
+
+
+

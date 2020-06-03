@@ -1,0 +1,89 @@
+
+Kursplan 2020/21 FAFF01
+
+
+
+
+
+Kursplan för
+Optik och optisk design
+Optics and Optical Design
+FAFF01, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning N
+Beslutsdatum: 2020-03-27
+Allmänna uppgifter
+Huvudområde: Fotonik. 
+Obligatorisk för: MFOT1
+Valfri för: BME4-bf, E4-fh, F4, F4-f, F4-aft, N4
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursen syftar till att ge studenterna förståelse för
+de grundläggande principerna inom optik och att
+ge en introdution till optisk design, med hjälp av ett ray
+tracing program.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+ha förvärvat tillräckliga kunskaper om optik för att
+kunna designa och bygga industriella optiska applikationer.
+kunna lösa ett optiskt problem med hjälp av stråloptik,
+vågoptik eller elektromagnetisk optik.
+kunna förstå viktiga begrepp som polarisation, diffraktion,
+interferometri, holografi.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+självständigt kunna göra justeringar och mätningar inom
+optik.
+kunna beräkna utbredning av ljus genom olika optiska
+komponenter.
+praktiskt kunna utföra optisk design.
+kunna söka och integrera kunskaper från engelsk litteratur
+inom området.
+ha förbättrat sin förmåga att skriftligt och muntligt
+presentera projekt.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+ha ökad erfarenhet av att jobba i grupper om fyra eller två
+för ett gemensamt mål.
+
+Kursinnehåll
+
+Stråloptik, matrisformulering
+Vågoptik
+Fourier optik
+Elektromagnetisk optik
+Polarisation
+Media med flera lager och fotoniska kristaller
+
+Tre laborationer: Interferometri, Fourieroptik
+och Polarisation.
+Ett projekt med ray tracing.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen. Obligatoriska laborationer med skriftlig rapport. Rapport och muntlig redovisning om ray tracing projektet.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: Grundkurser i fysik och matematik.
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Fundamental of Photonics B. E. A. Saleh and M. C. Teich Wiley Series in Pure and Applied Optics, John Wiley & sons, Kap 1,2,4,5,6 , Second edition.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Cord Arnold, cord.arnold@fysik.lth.se
+Hemsida: http://www.atomic.physics.lu.se/education/elective-courses/faff01-fyst43-optics-and-optical-design/
+Övrig information: Närvaro vid första föreläsningen är obligatoriskt för att få tillträde till kursen.
+
+
+

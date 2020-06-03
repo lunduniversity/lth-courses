@@ -1,0 +1,108 @@
+
+Kursplan 2020/21 YTHA30
+
+
+
+
+
+Kursplan för
+Livsmedelsteknik I - Värmelära
+Food Technology I - Heat and Heat Transfer
+YTHA30, 7,5 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning LIV
+Beslutsdatum: 2020-03-23
+Allmänna uppgifter
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Syftet med kursen är att med värmelärans principer ge en
+ökad förståelse för hur olika värmande och kylande processer
+fungerar samt hur livsmedlet påverkas under processen. Syftet är
+också att ge kunskaper för att kunna mäta temperaturen i
+livsmedlet och i processutrustningen på ett korrekt sätt.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+känna till olika sätt att mäta temperaturen i
+livsmedelssammanhang
+kunna förklara vad som händer med energiinnehållet vid
+värmning och kylning
+kunna förklara begreppen
+värmeöverföring och värmetransport i fasta och flytande
+livsmedel samt kunna överföra denna kunskap till olika
+mathanteringsprocesser och utrustningar
+kunna beskriva olika metoder och utrustningar för
+uppvärmning/nedkylning av livsmedel samt hur livsmedlet
+påverkas
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna mäta temperaturen med olika typ av kalibrerad
+temperaturmätutrustning samt göra en feluppskattning av erhållet
+värde
+kunna beräkna förändringen i energiinnehåll när olika
+livsmedel värms respektive kyls
+kunna beräkna effektbehovet för en nedkylnings-, infrysnings-
+resp uppvärmningsutrustning
+kunna använda ett Mollierdiagram för att ta reda på luftens
+relativa fuktighet, våta temperatur och daggpunkt
+
+
+Kursinnehåll
+Nästan all matlagning innebär att maten värms upp på något
+sätt. Motsatsen till uppvärmning är nedkylning och det är
+också en mycket viktig process vid produktion av mat.
+Ofta omfattar dessa processer även fasövergångar som
+vid frysning, tining, reducering och fettsmältning och speciellt
+är det vattnets fasövergångar som är intressanta ur
+energisynpunkt.
+I denna kurs kommer processer som innebär att värmeenergi
+tillförs eller bortförs från livmedlet att
+behandlas. Kursen tar upp hur värme transporteras till
+livsmedlets yta på olika sätt men också hur värme transporteras
+inuti livsmedlet samt hur livsmedlets kvalitet
+påverkas. Följande uppvärmnings- och nedkylningsprocesser
+kommer att beskrivas och förklaras: kokning, stekning,
+mikrovågsuppvärmning, fritering, kylning och frysning. Kursen ska
+också leda fram till att studenten kan beräkna hur mycket energi
+som omsätts vid dessa processer för att kunna välja utrustning
+med lämplig kapacitet.
+.
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: Skriftliga tentamina, laborationer, inlämninguppgift samt projektuppgift.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0120. Benämning: Skriftlig tentamen: beräkningar. 
+Antal högskolepoäng: 2. Betygsskala: UG.  Prestationsbedömning: Godkänd skriftlig tentamen 
+Kod: 0220. Benämning: Laborationer. 
+Antal högskolepoäng: 1. Betygsskala: UG.  Prestationsbedömning: Aktivt deltagande i samtliga laborationer och godkänd laborationsredovisning 
+Kod: 0320. Benämning: Projektarbete, värmning/kylning. 
+Antal högskolepoäng: 1,5. Betygsskala: UG.  Prestationsbedömning: aktivt deltagande i projektet samt godkänd muntlig och skriftlig projektredovisning 
+Kod: 0420. Benämning: Inlämningsuppgift, kylrum. 
+Antal högskolepoäng: 1. Betygsskala: UG.  Prestationsbedömning: aktivt deltagande i gruppuppgiften samt gokänd inlämningsuppgift 
+Kod: 0520. Benämning: Skriftlig tentamen: teori. 
+Antal högskolepoäng: 2. Betygsskala: UG.  Prestationsbedömning: godkänd skriftlig tentamen 
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Böcker.
+Nylander, A et all.: Livsmedelsvetenskap. Studentlitteratur, 2014, ISBN: 978-91-44-09567-7.
+Per Uno Ekholm, Lars Fraenkel, Sven Hörbeck  : Formler & tabeller i fysik, matematik & kemi för gymnasieskolan. Konvergenta HB, 2013, ISBN:  9789197370882. Eller annan likvärdig formelsamling.
+Andreas Håkansson: Livsmedelstekniska perspektiv. 2015. Pdf-fil från författaren.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Charlott Håkansson, Charlott.Hakansson@food.lth.se
+Hemsida: http://www.livsmedel.lth.se
+Övrig information: Under kursen anordnade studiebesök och gästföreläsare är obligatoriska. Vid laga förhinder får studenten genomföra egen uppgift med motsvarande innehåll.
+
+
+

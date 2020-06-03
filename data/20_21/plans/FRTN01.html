@@ -1,0 +1,173 @@
+<!DOCTYPE HTML>
+<html lang="sv">
+<head>
+<title>Kursplan 2020/21 FRTN01</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<style type="text/css">
+body {
+    margin: auto;
+    margin: 30px;
+    font-family: times, sans-serif;
+}
+h1 {
+    font-family: Arial, Verdana, Geneva, Helvetica, sans-serif;
+    font-size: 150%;
+    font-style: normal;
+    font-weight: bold;
+    color: rgb(77,76,68);
+}
+h2 {
+    font-family: Arial, Verdana, Geneva, Helvetica, sans-serif;
+    font-size: 114%;
+    font-style: normal;
+    font-weight: bold;
+    color: rgb(77,76,68);
+}
+p {
+    font-size: 100%;
+    font-style: normal;
+    font-weight: normal;
+}
+.small {
+    font-size: 80%;
+}
+.bold {
+    font-weight: bold;
+}
+.italic {
+    font-style: italic;
+}
+@media print {
+    html {
+        font-size: 10pt;
+    }
+    a {
+        text-decoration: none;
+        color: #000;
+    }
+}
+</style>
+</head>
+<body>
+<div class="pdfbody">
+<span class="italic">Kursplan för</span><br />
+<h1>Realtidssystem<br />
+Real-Time Systems</h1>
+<h2>FRTN01, 10 högskolepoäng, A (Avancerad nivå)</h2>
+<p><span class="bold">Gäller för: </span>Läsåret 2020/21<br />
+<span class="bold">Beslutad av: </span>Programledning F/Pi<br />
+<span class="bold">Beslutsdatum: </span>2020-04-01</p>
+<h2>Allmänna uppgifter</h2>
+<p><span class="bold">Valfri för: </span>BME4, C4, D4-ssr, D4-is, D4-se, D4-hs, E4-ra, F4, F4-r, I4-pvs, M4-me, M4-tt, Pi4-pv<br />
+<span class="bold">Undervisningsspråk: </span>Kursen ges på engelska</p>
+
+<h2>Syfte</h2>
+<p>Syftet med kursen är att teknologen skall lära sig hur man
+designar och implementerar datorbaserade reglersystem.</p>
+
+<h2>Mål</h2>
+<p><span class="italic">Kunskap och förståelse</span><br />
+För godkänd kurs skall studenten</p>
+<ul>
+<li>kunna definiera grundläggande begrepp för realtidsystem</li>
+<li>förstå för och nackdelar med olika implementationsmetoder
+för realtidsystem</li>
+<li>förstå kommunikation och synkronisering med hjälp av
+semaforer, monitorer och meddelanden</li>
+<li>kunna redogöra för hur en realtidskärna är uppbyggd och
+fungerar</li>
+<li>kunna designa datorbaserade regulator genom diskretisering av
+kontinuerliga designer och genom sampling</li>
+<li>kunna beräkna samband mellan tidsdiskreta modeller i form av
+differensekvationer, transientsvar och
+pulsöverföringsfunktioner</li>
+<li>kunna beräkna datorbaserade regulatorer på
+tillståndsåterkopplingsform respektive PID form</li>
+<li>förstå hur tidsfördröjningar och jitter påverkar
+reglerprestanda</li>
+<li>vara bekant hur Grafcet, Petrinät och tillståndsmaskiner
+används för att implementera och analysera händelsestyrda
+reglersystem</li>
+<li>förstå problemställningar associerade med reglering över
+näterk</li>
+</ul>
+
+<p><span class="italic">Färdighet och förmåga</span><br />
+För godkänd kurs skall studenten</p>
+<ul>
+<li>kunna implementera mindre datorbaserade reglersystem med hjälp
+av ”concurrent programming” metoder</li>
+<li>kunna applicera grundläggande schemaläggningsteknik för
+realtidssystem</li>
+<li>kunna utveckla ett realtidsystem inom något område av kursen
+i projektform</li>
+<li>kunna presentera projektresultat och erfarenheter på muntlig
+och skriftlig form</li>
+</ul>
+
+<p><span class="italic">Värderingsförmåga och förhållningssätt</span><br />
+För godkänd kurs skall studenten</p>
+<ul>
+<li>förstå betydelsen av formella metoder för säkerhetskritiska
+realtidsystem</li>
+<li>visa förmåga till lagarbete och samverkan i grupp inom
+projekt och vid laborationer.</li>
+</ul>
+
+<h2>Kursinnehåll</h2>
+<p>Ett realtidssystem karaktäriseras av att det inte bara är
+beräkningens resultat som är av betydelse utan också tidpunkten
+när resultatet produceras. Datorer som används för styrning och
+reglering är ett bra exempel på realtidssystem eftersom de måste
+arbeta periodiskt i en tidskala anpassad till den reglerade
+processens tidskala och samtidigt kunna reagera på yttre
+händelser, ofta inom en viss tidsrymd. Två typer av exempel
+industriella styrsystem och dedicerade inbäddade (embedded)
+styrsystem för t.ex. flygtillämpningar, autonoma farkoster eller
+industrirobotar. Kursens syfte är att studera metoder för design
+och implementering av regertekniska realtidssystem.
+Implementeringsdelen sker i projektform.</p>
+<p>Kursen innehåller följande moment: översikt av
+programmeringstekniska metoder för hantering av realtid inkl
+realtidsprimitiver för synkronisering och för garanti av
+ömsesidig uteslutning samt realtidskärnor och
+realtidsoperativsystem, datorrealisering av enkla regulatorer,
+diskretisering av kontinuerliga regulatorer, sampling av
+kontinuerliga system, insignal-utsignal modeller för tidsdiskreta
+system, sekvensstyrning med hjälp av Grafcet, schemaläggning,
+integrerad reglering och schemaläggning, implementationsaspekter,
+reglering över nätverk.</p>
+
+<h2>Kursens examination</h2>
+<p><span class="bold">Betygsskala: </span>TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)<br />
+<span class="bold">Prestationsbedömning: </span>Skriftlig tentamen (5 tim), tre laborationer, projekt. Vid färre än fem anmälda kan omtentamina ges på muntlig form.</p>
+<p>Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.</p>
+<p><span class="bold">Delmoment</span><br />
+<span class="bold">Kod: </span>0114. <span class="bold">Benämning: </span>Tentamen. <br />
+<span class="small"><span class="bold">Antal högskolepoäng: </span>6. <span class="bold">Betygsskala: </span>TH.  <span class="bold">Prestationsbedömning: </span>Godkänd tentamen </span><br />
+<span class="bold">Kod: </span>0214. <span class="bold">Benämning: </span>Laboration 1. <br />
+<span class="small"><span class="bold">Antal högskolepoäng: </span>0,5. <span class="bold">Betygsskala: </span>UG.  <span class="bold">Prestationsbedömning: </span>Godkända förberedelseuppgifter och godkänt genomförande av laborationen </span><br />
+<span class="bold">Kod: </span>0314. <span class="bold">Benämning: </span>Laboration 2. <br />
+<span class="small"><span class="bold">Antal högskolepoäng: </span>0,5. <span class="bold">Betygsskala: </span>UG.  <span class="bold">Prestationsbedömning: </span>Godkända förberedelseuppgifter och godkänt genomförande av laborationen </span><br />
+<span class="bold">Kod: </span>0414. <span class="bold">Benämning: </span>Laboration 3. <br />
+<span class="small"><span class="bold">Antal högskolepoäng: </span>0,5. <span class="bold">Betygsskala: </span>UG.  <span class="bold">Prestationsbedömning: </span>Godkända förberedelseuppgifter och godkänt genomförande av laborationen </span><br />
+<span class="bold">Kod: </span>0514. <span class="bold">Benämning: </span>Projekt. <br />
+<span class="small"><span class="bold">Antal högskolepoäng: </span>2,5. <span class="bold">Betygsskala: </span>UG.  <span class="bold">Prestationsbedömning: </span>Skriftlig rapport och muntlig presentation </span></p>
+<h2>Antagningsuppgifter</h2>
+<p><span class="bold">Förutsatta förkunskaper: </span>Grundläggande kurs i programmeringsteknik och <a href="/kursplaner/20_21/FRTF05.html">FRTF05</a> Reglerteknik AK.<br />
+<span class="bold">Begränsat antal platser: </span>Nej<br />
+<span class="bold">Kursen överlappar följande kurser: </span><a href="/kursplaner/2006/FRT031.html">FRT031</a></p>
+<h2>Kurslitteratur</h2>
+<ul>
+<li>Årzén K-E: Real-Time Control Systems (senaste upplagan) och Wittenmark, B, K.J. Åström och K.-E- Årzén: Computer Control: An Overview" (senaste upplagan). Båda säljs av KFS + material som tillhandahålls av institutionen.</li>
+
+</ul>
+<h2>Kontaktinfo och övrigt</h2>
+<p><span class="bold">Kursansvarig: </span>Karl-Erik Årzén, <a href="mailto:karl-erik.arzen@control.lth.se">karl-erik.arzen@control.lth.se</a><br />
+<span class="bold">Studierektor: </span>Anton Cervin, <a href="mailto:anton.cervin@control.lth.se">anton.cervin@control.lth.se</a><br />
+<span class="bold">Hemsida: </span><a href="http://www.control.lth.se/course/FRTN01">http://www.control.lth.se/course/FRTN01</a><br />
+<span class="bold">Övrig information: </span>Det är en fördel om man tidigare har läst kursen EDAF55 Realtidsprogrammering.</p>
+
+</div>
+</body>
+</html>

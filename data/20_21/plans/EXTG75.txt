@@ -1,0 +1,118 @@
+
+Kursplan 2020/21 EXTG75
+
+
+
+
+
+Kursplan för
+GIS för samhällsbyggnad och miljö
+GIS for Built and Natural Environments
+EXTG75, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning L
+Beslutsdatum: 2020-03-27
+Allmänna uppgifter
+Valfri för: MWLU2, RH4, V4-vr, W4-vr
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Kursens syfte är att ge inledande kunskaper om begrepp och
+metoder inom behandling och analys av geografiska data med
+geografiska informationssystem, (GIS). Kursen avser också att ge
+en inblick i ämnet naturgeografi och hur GIS och fjärranalys kan
+användas för att studera landskapsprocesser.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+känna till olika konceptuella modeller för rumsliga
+fenomen,
+kunna beskriva olika datamodeller för digitala geografiska
+data (raster och vektor), samt ha en inblick i hur dessa kan lagras
+i datorer,
+kunna beskriva innebörden av olika kartprojektioner,
+kunna förklara grundläggande rumsliga analysmetoder,
+kunna utförligt beskriva innebörden av enklare
+interpolationsmetoder,
+kunna översiktligt beskriva principerna för datainsamling med
+fjärranalys samt hur dessa kan användas för
+landskapsstudier,
+ha en inblick i hur landskapsprocesser studeras med rumslig
+analys.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna använda ett geografiskt informationssystem som verktyg
+för geografiska analyser,
+självständigt och i grupp kunna utföra enklare GIS-analyser
+med standardprogramvara utifrån en given problemställning,
+kartografisk och grafiskt kunna presentera geografisk data för
+specialister och lekmän,
+kunna utföra och presentera enklare statistiska utvärderingar
+av interpolerade rumliga data
+kunna exemplifera hur de under kursen behandlade teknikerna kan
+användas inom den egna inriktningen i civilingenjörsyrket.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+visa medvetenhet om vikten av, och självförtroende för, att
+använda geografisk information och analys inom den egna
+inriktningen i civilingenjörsyrket,
+ha uppnått ett kritiskt förhållningssätt till geografisk
+data och analysresultat,
+ha förmåga att bedöma relevansen av GIS och fjärranalys
+inom projektering, planering, miljökonsekvensbeskrivningar och
+andra för det framtida yrket aktuella problemställningar,
+visa medvetenhet om samband mellan naturliga landskapsprocesser
+och antropogen verksamhet, samt hur dessa kan studeras med hjälp
+av geografisk data och analys.
+
+
+Kursinnehåll
+Kursen ger en god grund till vidare arbete med rumsliga digitala
+data. Föreläsningar behandlar den grundläggande teorin rörande,
+rumsliga fenomen, geografisk data och analys samt fjärranalys inom
+studier av landskapsprocesser. Förståelse för representation och
+analys av rumsliga element poängteras. En stor del av kursen
+består praktiska övningar med några av de inom ämnet vanligast
+förekommande standardprogramvarorna. De moment inom GIS-tekniken
+som på detta sätt behandlas omfattar kartprojektioner och
+referenssystem, geografiska data i digital form (kartor,
+fjärranalysdata och tabeller), grundläggande analys av
+geografiska data i raster- och vektorform samt kartografisk och
+grafisk presentation av digitalt kartmaterial. Härigenom tränas
+och exemplifieras generella rumsliga problemställningar inom
+miljö och samhälle. Genom en självständig litteraturstudie
+sätter studenten den nyvunna kunskapen i relation till sin egen
+inriktning inom civilingenjörsyrket.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examination sker skriftligt i form av tentamen och litteraturstudie. Kursbetyg baseras på tentamensresultat och litteraturstudie. För godkänt på kurs krävs godkänt på tentamen samt godkänt på obligatoriska övningar och inlämningsuppgifter. För studerande som ej godkänts vid ordinarie tentamen erbjuds ytterligare tentamenstillfälle i slutet av augusti årligen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: 120 högskolepoäng inom civilingenjörsutbildning eller motsvarande.
+Begränsat antal platser: 40
+Urvalskriterier: Avklarade högskolepoäng inom programmet. Förtur ges till studenter vars program har kursen listad i läro- och timplanen.
+Kursen överlappar följande kurser: EXTA45, EXTF80, TEK270, EXTF01
+Kurslitteratur
+
+Harrie L. (red.): Geografisk informationsbehandling,  - teori, metoder och tillämpningar. Studentlitteratur, 2013, ISBN: 9789144088778.
+Dept. of physical geography and ecosystem science: Exercises: GIS for landscape studies, EXTF01. Dept. of physical geography and ecosystem science, 2019. Säljes av institutionen vid kursstart.
+Karin Larsson: How to...in ArcGIS. Dept. of physical geography and ecosystem science, 2013. Säljes av institutionen vid kursstart.
+Kang-tsung Chang: Introduction to geographic information systems. McGraw-Hill, New York, 2014, ISBN: 9781259010613.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Karin Larsson, karin.larsson@nateko.lu.se
+Hemsida: http://www.nateko.lu.se/sv/extf01
+Övrig information: Undervisningsform: Undervisningen omfattar föreläsningar, en stor del praktiska datorövningar med GIS samt en självständig litteraturstudie. Genomförande av praktiska GIS-övningar och litteraturstudien är obligatorisk.
+
+
+

@@ -1,0 +1,94 @@
+
+Kursplan 2020/21 VVRA05
+
+
+
+
+
+Kursplan för
+Vatten
+Water
+VVRA05, 9 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning W
+Beslutsdatum: 2020-03-23
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: V2
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Syftet är att studenterna skall få insikt om de grundläggande
+kunskaper som erfordras för analys och problemlösning inom några
+viktigare områden med vattenanknytning som en väg- och
+vattenbyggare kan komma i kontakt med. Vidare skall studenten i
+viss utsträckning kunna tillämpa kunskaperna på problem inom
+vattenbyggnad, stadsbyggnad och vattenförsörjning.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+förklara och använda de grundläggande hydrologiska
+processerna och deras interaktion i den hydrologiska cykeln,
+känna till storleksordningen hos olika hydrologiska processer
+och avgöra rimligheten av olika värden för Svenska
+förhållanden,
+beskriva grundläggande hydrauliska begrepp såsom
+kontinuitetsekvationen, energiekvationen och
+rörelsemängdsekvationen.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+formulera, strukturera och lösa problem inom urban och rural
+hydrologi.
+beräkna grundvattenflöden med Darcys lag.
+dimensionera enkla vattenledningar, pumpar och turbiner.
+beräkna krafter på rörkrökar, förträngningar mm.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+redovisa lösningen av ett hydrologiskt/hydrauliskt problem i
+en teknisk rapport
+
+
+Kursinnehåll
+
+deskriptiv och kvantitativ hydrologi: Grundläggande
+begrepp; vattenbalans, avrinningsområde, mark- och grundvatten.
+Hydrologiska processer, nederbörd. Avdunstning, transpiration,
+infiltration, avrinning. Dimensionerande flöde,
+frekvensanalys.
+strömningslära: Hydrostatik. Fundamentala begrepp,
+kontinuitetsekvationen, energiekvationen,
+rörelsemängdsekvationen. Mätning av tryck, hastighet och
+flöde.
+applikationer: Rörströmning, VA-teknik, Urban
+hydrologi.
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examinationen kommer att ske både enskilt och baserat på arbete i grupp. Under kursens gång erbjuds två deltentamen och dessutom skall inlämningsuppgifter presenteras i skriftliga rapporter. Inlämningsuppgifterna poängsätts och görs i grupper om två studenter. Slutbetyg baseras på summan av poängen från deltentamen och inlämningsuppgifter.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: VTGA01 Teknisk geologi, FMAA05 Endimensionell analys och VSM010 Mekanik.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: VVR120, VVR145
+Kurslitteratur
+
+Hamill, L.: Understanding hydraulics. 2011, 3rd ed., Palgrave.
+Persson, M., Larsson, R., Malm, J.: Examples, Water.
+Visst kompletterande material.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Professor Magnus Persson, magnus.persson@tvrl.lth.se
+Hemsida: http://www.tvrl.lth.se/utbildning/courses/
+
+
+

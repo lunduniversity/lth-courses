@@ -1,0 +1,108 @@
+
+Kursplan 2020/21 FMNN10
+
+
+
+
+
+Kursplan för
+Numeriska metoder för differentialekvationer
+Numerical Methods for Differential Equations
+FMNN10, 8 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning F/Pi
+Beslutsdatum: 2020-04-01
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: F3, Pi3
+Valfri för: BME4, I4
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Kursens syfte är att lära ut numeriska metoder för lösning
+av både ordinära och partiella differentialekvationer. Detta
+inkluderar konstruktion, analys och tillämpning av grundläggande
+beräkningsalgoritmer för  approximativ lösning på dator av
+begynnelse-,  randvärdes-, och egenvärdesproblem för ordinära
+differentialekvationer, samt för partiella differentialekvationer
+i en rums- och en tidsdimension. Självständig problemlösning på
+dator utgör ett centralt inslag i kursen. Särskild vikt läggs
+vid att studenterna självständigt författar projektrapporter,
+baserade på tolkning och värdering av uppnådda resultat, med
+referenser och övrig dokumentation som stöd för sina
+slutsatser.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna diskretisera ordinära och partiella
+differentialekvationer med finita differens- och elementmetoder,
+samt självständigt kunna implementera och använda dessa
+algoritmer
+självständigt kunna gå från observation och tolkning av
+beräkningsresultat till slutsats, samt i fritt rapportformat på
+vetenskaplig grund kunna demonstrera och redogöra för sina
+slutsatser.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+självständigt, på vetenskaplig grund, kunna välja lämplig
+beräkningsalgoritm för givna problem
+kunna använda sådana beräkningsalgoritmer på
+tillämpningsproblem
+självständigt kunna bedöma beräkningsresultatens relevans
+och noggrannhet
+redovisa problemlösningar och numeriska resultat i skriftlig
+form.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna  logiskt och med adekvat terminologi redogöra för
+konstruktion av grundläggande numeriska metoder och
+algoritmer
+ha förmågan att självständigt värdera uppnådda numeriska
+resultat i förhållande till (den okända) lösningen till den
+differentialekvation som studerats
+kunna självständigt författa projektrapporter av
+vetenskaplig karaktär, med referenser och övrig dokumentation
+från genomfört arbete till stöd för studentens slutsatser.
+
+
+Kursinnehåll
+Metoder för tidsintegration: Eulers metod, trapetsmetoden.
+Flerstegsmetoder: Adams metoder, BDF (Backward Differentiation
+Formulae) metoder. Explicita och implicita Runge-Kutta metoder.
+Felanalys, stabilitet och konvergens. Styva problem och
+A-stabilitet. Felkontroll och anpassning av steglängd. Poissons
+ekvation: Finita differenser och finita elementmetoden. Elliptiska,
+paraboliska och hyperboliska problem. Tidsberoende PDEer: Numeriska
+metoder för diffusionsekvationen. Introduktion
+till differensmetoder för konservationslagar.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Slutbetyget bestäms av inlämningsuppgifter och en skriftlig tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: FMAB20 Linjär algebra, FMAB30 Flerdimensionell analys, FMAN55 Kontinuerliga system.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FMN041, FMN050, FMN081, FMN130, FMNF01
+Kurslitteratur
+
+Iserles, A: Numerical analysis of differential equations. Cambridge University Press, 2008, ISBN: 978-0521734905.
+Föreläsningsanteckningar.
+
+
+Kontaktinfo och övrigt
+Studierektor: Studierektor Anders Holst, Studierektor@math.lth.se
+Lärare: Tony Stillfjord, tony.stillfjord@math.lth.se
+Kursadministratör: Student Office, expedition@math.lth.se
+Hemsida: http://www.maths.lth.se/na/courses/FMNN10
+
+
+

@@ -1,0 +1,106 @@
+
+Kursplan 2020/21 EDAA70
+
+
+
+
+
+Kursplan för
+Inledande programmering med Python
+Introduction to Programming Using Python
+EDAA70, 7,5 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning C/D
+Beslutsdatum: 2020-03-30
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Valfri för: B4, K4
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Målet med kursen är att ge studenter en introduktion till
+programmering. Fokus ligger på datavetenskapliga begrepp samt
+programmeringsfärdighet med problemlösning och stegvis
+utveckling.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna förklara grundläggande begrepp inom imperativ och
+objekt-orienterad programmering
+kunna förklara och ge exempel på användning av
+grundläggande datatyper och enkla algoritmer
+kunna förklara steg för steg vad som händer när ett program
+körs
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna konstruera och implementera algoritmer för att lösa
+enkla uppgifter
+kunna använda grundläggande datatyper för samlingar
+(listor, mängder och nyckel-värdetabeller)
+kunna strukturera program med hjälp av funktioner, klasser och
+metoder
+kunna stegvis utveckla, testa och felsöka program
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna bedöma vilka grundläggande datatyper och algoritmer som
+lämpar sig för att lösa olika problem
+
+
+Kursinnehåll
+
+Grundläggande programkonstruktioner som funktioner, iteration
+och villkorssatser.
+Grundläggande värden och typer som heltal, flyttal, booleska
+värden och strängar.
+Variabler och tilldelning.
+Grundläggande datatyper för sammansatta värden, som listor,
+tupler, mängder och nyckel-värdetabeller.
+Inläsning, utskrift och filer.
+Enkla algoritmer för sökning, summering och liknande.
+Användning av bibliotek och klasser, exempelvis slumptal,
+beräkningar, plottning och domänspecifika problem.
+Grundläggande kunskaper om klasser och metoder.
+Grundläggande exekveringsmodell med funktionsanrop,
+parameteröverföring, objekt och metodanrop.
+Grundläggande programmeringsmetodik med stegvis utveckling,
+testning och felsökning.
+Grundläggande användning av programmeringsverktyg.
+Som programmeringsspråk används Python 3.
+
+ 
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Tentamen är skriftlig. För deltagande i tentamen fordras att de obligatoriska momenten är godkända. Slutbetyg på kursen baseras på resultatet av tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0120. Benämning: Tentamen. 
+Antal högskolepoäng: 3. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen. Slutbetyg på kursen baseras på betyget på denna tentamen. För att få deltaga i tentamen krävs att de obligatoriska momenten är godkända.  Delmomentet omfattar: Skriftlig tentamen. 
+Kod: 0220. Benämning: Datorlaborationer och inlämningsuppgifter. 
+Antal högskolepoäng: 4,5. Betygsskala: UG.  Prestationsbedömning: För godkänt krävs fullgjorda datorlaborationer och godkända inlämningsuppgifter. Detaljerade föreskrifter angående fullgörande av obligatoriska moment kommer att finnas i kursprogrammet.   Delmomentet omfattar: Datorlaborationer och inlämningsuppgifter. 
+Antagningsuppgifter
+Begränsat antal platser: 60
+Urvalskriterier: Avklarade högskolepoäng inom programmet. Förtur ges till studenter vars program har kursen listad i läro- och timplanen.
+
+Kursen kan ställas in: Om färre än 15 anmälda.
+Kursen överlappar följande kurser: EDA011, EDA010, EDA015, EDA016, EDA017, EDA390, EDA500, EDA501, EDA616, EDA618, EDAA10, EDAA20, EDAA55, EDAA65, EDAA45, EDAA50
+Kurslitteratur
+
+Allen B. Downey: Think Python 2nd Edition, How to Think Like a Computer Scientist. O'Reilly, 2015, ISBN: 9781491939369. Boken finns fritt tillgänglig online på https://greenteapress.com/wp/think-python-2e.
+
+
+Kontaktinfo och övrigt
+Studierektor: Studierektor, studierektor@cs.lth.se
+Kursansvarig: Niklas Fors, niklas.fors@cs.lth.se
+Hemsida: http://cs.lth.se/EDAA70
+
+
+

@@ -1,0 +1,147 @@
+
+Kursplan 2020/21 EIEN10
+
+
+
+
+
+Kursplan för
+Vindkraftsystem
+Wind Power Systems
+EIEN10, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning E
+Beslutsdatum: 2020-03-19
+Allmänna uppgifter
+Valfri för: E4-em, F4, F4-es, M4-en, W5-es
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Kursen syftar till att ge grundläggande kunskaper inom
+vindkraft och dess användning i samhället. Den syftar även till
+att på ett ingenjörsmässigt sätt identifiera och förklara
+vindkraftteknik och -system samt deras integrering i
+kraftsystemet. Kursen har stor relevans för en hållbar utveckling
+av energisystemet där vindkraft för tillfället är den mest
+expansiva förnybara energikällan med en årlig global
+utbyggnadstakt på ca 20 %.
+Behovet av elektrisk energi växer ständigt samtidigt som
+kraven på miljövänlig elproduktion ökar. Utbyggnaden av
+miljövänliga alternativ ökar successivt till följd av ökade
+nationella mål på förnybar elproduktion. I Sverige finns
+elcertifikatsystemet som är drivkraften för utbyggnaden av
+förnybar elproduktion med 17 TWh fram till år 2016 jämfört med
+år 2002 varav vindkraft beräknas stå för 10 TWh.
+Energimyndigheten har dessutom föreslagit ett nytt planeringsmål
+för vindkraftens elproduktion med 30 TWh per år till 2020. I takt
+med att andelen förnybar elproduktion ökar ställs högre krav
+på kraftsystemet till följd av minskade reglermarginaler. För
+att behålla elförsörjningens höga driftsäkerhet kommer även
+kraven på vindkraftsystem att öka.
+I kursen beskrivs nuläget och möjligheterna för vindkraften
+att bidra till energiförsörjningen i Sverige och internationellt.
+Vi studerar bland annat vinden som energiresurs, verkens produktion
+och uppbyggnad samt miljöfrågor.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+Kunna
+ 
+
+förstå vindens och omgivningens betydelse för att bedöma
+platsval för anläggning
+redogöra för olika vindkraftskonstruktioner med deras för-
+och nackdelar
+beskriva en vindkraftanläggning på både komponent- och
+systemnivå
+redogöra för olika reglermetoder och begränsningar av
+vindkraftverk
+förstå betydelsen av inbördes placering av vindkraftverk i
+en anläggning
+förstå de tekniska krav (grid codes) som gäller i samband
+med inkoppling till nätet
+inse betydelsen av små- och storskalighet och dess påverkan
+på kraftsystemet
+redogöra för de viktigaste momenten inom projektering,
+konstruktion och drift & underhåll
+redogöra för hur vindkraftverk påverkar miljön
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+Kunna
+ 
+
+informera om och beskriva vindkraftsystem på ett objektivt
+sätt
+utföra dimensionerande beräkningar för vindkraftverk
+formulera en matematisk modell av ett vindkraftverk utifrån
+information om de ingående komponenterna och hur de samverkar
+analysera vindresurs och estimera årlig produktion för
+vindkraftsystem
+relatera anläggningsplats, placering av verk, rotordiameter,
+generatorkapacitet och verkningsgrad för val av design och
+optimering av elproduktion
+relatera val av design och vindkraftskonstruktion för
+bedömning av robusthet och tillgänglighet
+göra en ekonomisk analys av en vindkraftanläggning
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+visa insikt i vindkraftens möjligheter och begränsningar och
+dess roll i samhället
+objektivt bedöma för och emot integrering av vindkraft
+geografiskt lokalt men även nationellt och ur ett globalt
+perspektiv.
+
+
+Kursinnehåll
+
+Historisk överblick av vindkraftens utveckling och dess
+geografiska expansion
+Vindpotential och dess fysikaliska bakgrund. Påverkan av
+terräng vid val av anläggningsplats. Energiinnehåll och
+produktionsberäkning.
+Teknik och system för vindkraftanläggningar. Funktion och
+egenskaper för olika konstruktioner. Styrning, reglering och
+drift
+Storskalig och småskalig utbyggnad. Exempel på storskalig
+havsbaserad anläggning.
+Design och dimensionering för optimering av produktion,
+tillgänglighet och kostnad.
+Integrering av vindkraftsystem till kraftsystemet.
+Anslutningskrav och systemtjänster.
+Vindkraftens påverkan på Elmarknaden.
+Modellering, simulering och analys av vindkraftsystem.
+Arbetsmoment inom projektering, konstruktion och drift &
+underhåll.
+
+Inlämningsuppgifter, projektuppgift samt laboration
+Studiebesök hos kraftbolag med vindkraftanläggning.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: För godkänd kurs krävs fullgörande av en laboration med förberedelseuppgifter, en simuleringsuppgift, en designövning, två inlämningsuppgifter, projektuppgift samt skriftlig sluttentamen som innefattar uppgifter med både problemlösning och teorifrågor.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0111. Benämning: Vindkraftsystem. 
+Antal högskolepoäng: 7,5. Betygsskala: TH. 
+Kod: 0211. Benämning: Laborationer och projekt. 
+Antal högskolepoäng: 0. Betygsskala: UG. 
+Antagningsuppgifter
+Förutsatta förkunskaper: ESSF15 Elenergiteknik (E+W), MIE012, EIEF35 Elektroteknikens grunder (M), ETE115, EITF90 Ellära och elektronik (F).
+Begränsat antal platser: Nej
+Kurslitteratur
+
+James F. Manwell, Jon G. McGowan, Anthony L. Rogers: Wind Energy Explained, Theory, Design and Application. 2009, ISBN: 9780470015001.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Dr Jörgen Svensson, jorgen.svensson@iea.lth.se
+Hemsida: http://www.iea.lth.se/wps
+
+
+

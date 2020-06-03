@@ -1,0 +1,97 @@
+
+Kursplan 2020/21 ETEF05
+
+
+
+
+
+Kursplan för
+Elenergiteknik
+Power Engineering
+ETEF05, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning E
+Beslutsdatum: 2020-03-19
+Allmänna uppgifter
+Obligatorisk för: IEA2
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursens syfte är att ge grundläggande kunskaper om produktion
+och distribution av elenergi samt kunskap om allmän uppbyggnad av
+låg och högspänningsanläggningar. Kursen ger också perspektiv
+på hållbarhet i energifrågor och miljövänliga energislag
+belyses.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna redogöra översiktligt för olika typer av
+elproduktion.
+kunna redogöra översiktligt för ett
+elkraftsdistributionssystem.
+kunna dimensionera en elanläggning med hänsyn till
+kapacitet och begränsningar.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna utföra beräkningar i ett elkraftsystem
+kunna utföra mätningar i ett trefassystem.
+kunna göra vissa beräkningar i
+högspänningsanläggningar.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+visa insikt i olika typer av elenergiproduktion och
+elkraftsdistribution,
+ha självförtroende i att kunna genomföra vissa mätningar
+och beräkningar i ett elkraftsystem.
+
+
+Kursinnehåll
+
+Elenergiproduktion
+Trefas krafttransformatorer
+Elkraftdistribution
+Högspänningsställverk
+Distributionssystem för elektrifierade system t.ex.
+järnväg.
+Kraftförsörjnings anläggningar vid t.ex. järnväg
+Kapacitet och dimensionerande faktorer.
+Driftövervakning.
+Säkerhet.
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: För att erhålla betyget 3 krävs godkända skriftliga tentamen, godkända redovisningar av laborationsförberedelser inför varje laborationstillfälle samt godkända laborationer. Högre betyg avgörs via de skriftliga tentamina.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0113. Benämning: Elenergiteknik. 
+Antal högskolepoäng: 6,5. Betygsskala: TH.  Prestationsbedömning: För att erhålla betyget 3 krävs godkänd skriftlig tentamen. Även högre betyg avgörs via skriftlig tentamen. 
+Kod: 0213. Benämning: Laborationer. 
+Antal högskolepoäng: 1. Betygsskala: UG.  Prestationsbedömning: Godkända redovisningar av laborationsförberedelser inför varje laborationstillfälle samt godkända laborationer. 
+Antagningsuppgifter
+Förkunskapskrav:
+Godkända laborationer i EITA40/ETE604 Krets och mätteknik
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: EIE602
+Kurslitteratur
+
+Elkrafthandboken, Elkraftsystem 1. Liber , 2003, ISBN: 9789147051762.
+Samt utdelat material.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Univ. adj. Henriette Weibull, henriette.weibull@iea.lth.se
+Hemsida: http://www.iea.lth.se/etef05/
+
+
+

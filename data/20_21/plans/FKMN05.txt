@@ -1,0 +1,84 @@
+
+Kursplan 2020/21 FKMN05
+
+
+
+
+
+Kursplan för
+Pulverteknologi
+Powder Technology
+FKMN05, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning M
+Beslutsdatum: 2020-03-26
+Allmänna uppgifter
+Valfri för: M4, N4, MPRR1
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Syftet med kursen är att fördjupa teknologernas kunskaper om
+pulvermaterial och pulvermetallurgiska grunder och visa hur de kan
+tillämpas för att få pulverprodukter med önskvärda
+egenskaper.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+känna till de vanligaste pulvermaterialen
+känna till sambandet mellan materialens struktur och
+egenskaper
+känna till pulverbehandlingsprocesser och tillverkningsmetoder
+för pulverprodukter
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna karakterisera pulvermaterial
+kunna designa pulverbehandlingsprocesser för att uppnå vissa
+materialegenskaper
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+visa förmåga att självständigt kunna välja lämpliga
+pulvermaterial för olika tillämpningar
+visa förmåga att kunna analysera materialbeteende hos
+pulverprodukter
+visa förmåga att muntligt och skriftligt kunna presentera
+pulvermetallurgiska begrepp och processer
+
+
+Kursinnehåll
+Metalliska och keramiska pulver. Karakterisering av
+pulvermaterial. Pulverframställningsmetoder. Kompaktering av
+pulver. Isostatisk pressning. Sintring av pressat pulver. Diffusion
+och ytfenomen i sintring. Smältfassintring. Sintring av
+pulverstål och hårdmetaller. Pulvermaterial och deras
+användning.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig och muntlig tentamen, obligatoriska laborationer, inlämningsuppgifter.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: Konstruktionsmaterial, allmän kurs och/eller avancerad materialteknologi och linjär algebra, endimensionell analys, termodynamik och strömningslära samt kurs i fysik.
+Begränsat antal platser: Nej
+Kursen kan ställas in: Om färre än 12 anmälda.
+Kurslitteratur
+
+Randall M. German, Powder Metallurgy and Particulate Materials Processing, Metal Powder Industries Federation (2005). ISBN 0-9762057-1-8.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Professor Srinivasan Iyengar, Srinivasan.Iyengar@material.lth.se
+Kursansvarig: Professor Dmytro Orlov, dmytro.orlov@material.lth.se
+Kursadministratör: Rose-Marie Hermansson, rose-marie.hermansson@mel.lth.se
+Hemsida: http://www.material.lth.se
+Övrig information: Kursen undervisas under vårterminen (läsperiod 4)vartannat år (2021, 2023 ...)
+
+
+

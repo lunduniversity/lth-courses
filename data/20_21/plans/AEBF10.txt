@@ -1,0 +1,130 @@
+
+Kursplan 2020/21 AEBF10
+
+
+
+
+
+Kursplan för
+Energianvändning och termisk komfort i byggnader
+Energy Use and Thermal Comfort in Buildings
+AEBF10, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning V
+Beslutsdatum: 2020-03-23
+Allmänna uppgifter
+Huvudområde: Energi- och miljöeffektiva byggnader. 
+Obligatorisk för: MEMB1
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursen syftar till att introducera centrala koncept för
+utformning av energi- och miljöeffektiva byggnader med mycket låg
+energianvändning eller med nollenergilösningar, i kalla klimat.
+Kursen ger en överblick över de parametrar som beskriver
+prestanda och målsättningar för byggnader samt ger en
+fördjupning av väsentliga klimatparametrar.
+Kursen syftar också till att ge förståelse för och övning i
+strategier och metoder som syftar till låg energianvändning och
+hög termisk komfort i byggnader. Syftet är även att ge en
+förståelse för möjligheter och begränsningar att uppnå
+energi- och miljöeffektiva byggnader.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+visa djup förståelse kring viktiga energiaspekter och koncept
+för byggnader, på lokal och global nivå;
+förstå och kritiskt kunna diskutera centrala
+frågeställningar relaterade till energieffektivitet och
+energianvändning i byggnader för kalla klimat;
+Förstå allmänna såväl som specifika principer och viktiga
+strategier vad gäller passiv klimatisering för byggnader i kalla
+klimat;
+Förstå betydelsen av nyckelfaktorer för byggnader, inom
+regelverk, funktionskrav i relation till uppsatta mål för termisk
+komfort och energianvändning i byggnader;
+Visa djup förståelse för skillnaden mellan olika
+beräkningsverktyg (handberäkning, stationär beräkning, dynamisk
+simulering).
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna beskriva och diskutera viktiga koncept och strategier
+relaterat till energianvändning på global, lokal och
+byggnadsnivå;
+kunna använda strategier för lågenergibyggnader i kalla
+klimat med särskild fokus på energibesparing, passiva
+soltillskott och solavskärmning etc;
+kunna diskutera klimataspekter och integrera strategier för
+att minska energianvändning och öka termisk komfort i
+byggnader;
+på ett klokt sätt kunna använda verktyg för termiska
+aspekter vid utformning av byggnader, för att analysera
+energiprestanda som stöd för beslut om byggnadsutformning;
+kunna föreslå lämpliga designstrategier (verbalt och
+grafiskt), koncept och åtgärder utifrån det lokala klimatet och
+uppsatta mål och påverka byggnadsutformningen genom att använda
+fakta och kunskaper samt med stöd av använda verktyg
+(handberäkningar, stationära metoder, dynamiska
+simuleringar).
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna visa en medvetenhet kring nyckelfaktorer relaterat till
+energianvändning i byggnader, på lokal och global nivå;
+känna till och kunna bedöma centrala koncept och
+spjutspetsexempel inom energi- och miljöeffektiva byggnader;
+visa förmåga att kunna identifiera relevant forskning,
+tillämpade konsultuppgifter och regelverk inom området
+energieffektiva byggnader och termisk komfort.
+
+
+Kursinnehåll
+Kursen inleds med en översikt av målen för programmet med ett
+globalt perspektiv på miljöaspekter, energibehov och
+naturresurser, direktiv och mål, policy, incitament samt
+fuktsäkerhetsarbete (tillsammans med VBFF05, Moisture Safety
+Design, första veckan).
+Kursen fortsätter med föreläsningar och övningar om
+strategier och metoder för låg energianvändning och hög termisk
+komfort i byggnader. Teman som tas upp är krav gällande
+energiprestanda och termisk komfort, grunder i värmeöverföring,
+termiska komfortparametrar, klimatskalets prestanda, energibalans i
+byggnader, grundläggande termiska beräkningar och simuleringar.
+Olika lågenergikoncept diskuteras och exemplifieras genom vunna
+erfarenheter från befintliga byggnader, för att ge en
+förståelse för möjligheter och begränsningar för energi- och
+miljöeffektiva byggnader.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Slutbetyg baseras till 70% på tentamensresultat och till 30% på utförande relaterat till övningar och föreläsningar.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0112. Benämning: Övningsuppgift. 
+Antal högskolepoäng: 3. Betygsskala: UG.  Prestationsbedömning: Examination baserad på skriftlig rapport enligt givna specifikationer.  Delmomentet omfattar: Övningsuppgift i 2 delar: 1) Beräkning av energibehov baserat på förenklad stationär metod. 2) Beräkning av energibehov och termisk komfort med dynamiskt simuleringsprogram.  
+Kod: 0212. Benämning: Skriftlig tentamen. 
+Antal högskolepoäng: 4,5. Betygsskala: TH.  Prestationsbedömning: Examination baserad på den skriftliga tentamen.  Delmomentet omfattar: Skriftlig examination av hela kursen. 
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Till kursen finns tillgång till ett elektroniskt kursbibliotek via kurshemsidan.
+Lechner, Norbert: Heating, Cooling, Lighting, Sustainable Design Methods for Architects. Wiley, 2014, ISBN:  978-1-118-58242-8.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Maria Wall, maria.wall@ebd.lth.se
+Lärare: Henrik Davidsson, henrik.davidsson@ebd.lth.se
+Lärare: Jouri Kanters, jouri.kanters@ebd.lth.se
+Lärare: Niko Gentile, niko.gentile@ebd.lth.se
+Hemsida: http://www.ebd.lth.se/master
+
+
+

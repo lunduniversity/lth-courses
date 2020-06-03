@@ -1,0 +1,112 @@
+
+Kursplan 2020/21 FRTN15
+
+
+
+
+
+Kursplan för
+Prediktiv reglering
+Predictive Control
+FRTN15, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning F/Pi
+Beslutsdatum: 2020-04-01
+Allmänna uppgifter
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Avancerade kunskaper om modellbaserad design av reglersystem
+omfattande prediktiva, adaptiva och läraktiga algoritmer för
+styrning av tidsvariabla och ofullständigt kända processer med
+störningar inkl. stabilitet och växelverkan mellan identifieing
+och reglering.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna definiera grundläggande begrepp för system med flera
+in- och utsignaler;
+kunna översätta mellan olika flervariabla
+systembeskrivningar, särskilt transientsvar, överföringsmatriser
+och tillståndsbeskrivningar;
+kunna beräkna egenskaper hos sammankopplade system från
+egenskaper hos ingående delmodeller;
+kunna översätta villkor på in- och utsignal till
+verifierbara villkor på de matematiska modeller, som beskriver
+systemet ;
+kunna visa hur bristande processkunskap sätter gränser för
+vilka reglertekniska prestanda, som går att uppnå;
+förstå möjligheter och begränsningar i användning av
+adaptation och läraktiga system.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna formulera reglertekniska specifikationer för prediktiv
+reglering;
+kunna översätta reglertekniska specifikationer
+till modelbaserade reglerproblem
+från resultatet av prediktiv reglering kunna dra slutsatser om
+rimlighet i modell och specifikationer
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+förstå samband och begränsningar då förenklade modeller
+används för att beskriva en komplexa och flervariabel
+verklighet
+visa förmåga till lagarbete och samverkan i grupp vid
+laborationer.
+
+
+Kursinnehåll
+Realtidsidentifiering, Rekursiv Identifiering, Automatisk
+regulatortrimning, Parameterstyrning, Autokalibrering. Tidsdiskreta
+linjära system, Polplacering, Modellreferenssystem,
+Störningsmodeller, Optimal prediktion, Optimal modellbaserat
+prediktiv styrning. Adaptiv reglering, Självinställande
+regulatorer, Stokastisk adaptiv reglering, Modellreferensreglering,
+Stabilitet, Passivitetsteori, Robusthet, Modelprediktiv reglering,
+Iterativ läraktig reglering, Iterativ regulatortrimning.
+Tillämpningar och mjukvara.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig examen (5 tim), godkänt projekt, tre laborationer, tre inlämningsuppgifter. Vid färre än fem anmälda kan omtentamina ges på muntlig form.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0116. Benämning: Tentamen. 
+Antal högskolepoäng: 5. Betygsskala: TH.  Prestationsbedömning: Godkänd tentamen 
+Kod: 0216. Benämning: Laboration 1. 
+Antal högskolepoäng: 0,5. Betygsskala: UG.  Prestationsbedömning: Godkända förberedelseuppgifter och godkänt genomförande av laborationen 
+Kod: 0316. Benämning: Laboration 2. 
+Antal högskolepoäng: 0,5. Betygsskala: UG.  Prestationsbedömning: Godkända förberedelseuppgifter och godkänt genomförande av laborationen 
+Kod: 0416. Benämning: Laboration 3. 
+Antal högskolepoäng: 0,5. Betygsskala: UG.  Prestationsbedömning: Godkända förberedelseuppgifter och godkänt genomförande av laborationen 
+Kod: 0516. Benämning: Projekt. 
+Antal högskolepoäng: 1. Betygsskala: UG.  Prestationsbedömning: Skriftlig rapport och muntlig presentation 
+Kod: 0616. Benämning: Inlämningsuppgift 1. 
+Antal högskolepoäng: 0. Betygsskala: UG. 
+Kod: 0716. Benämning: Inlämningsuppgift 2. 
+Antal högskolepoäng: 0. Betygsskala: UG. 
+Kod: 0816. Benämning: Inlämningsuppgift 3. 
+Antal högskolepoäng: 0. Betygsskala: UG. 
+Antagningsuppgifter
+Förutsatta förkunskaper: FRTF05 Reglerteknik AK.
+Begränsat antal platser: Nej
+Kurslitteratur
+
+R. Johansson: Predictive and Adaptive Control, Inst. Reglerteknik, Lund, 2010.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Rolf Johansson, rolf.johansson@control.lth.se
+Studierektor: Anton Cervin, anton.cervin@control.lth.se
+Hemsida: http://www.control.lth.se/course/FRTN15
+
+
+

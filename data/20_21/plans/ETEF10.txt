@@ -1,0 +1,98 @@
+
+Kursplan 2020/21 ETEF10
+
+
+
+
+
+Kursplan för
+Kraftelektronik
+Power Electronics
+ETEF10, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning E
+Beslutsdatum: 2020-03-19
+Allmänna uppgifter
+Obligatorisk för: IEA2
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Syftet med kursen är att ge kunskap om elektroniska komponenter
+och system, som används i elkrafttekniken.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna förklara och använda begrepp inom
+krafthalvledartekniken.
+kunna förklara funktionen hos olika typer av likriktare och
+växelriktare.
+ha insikt i HVDC-tekniken.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna beräkna de parametrar, som behövs för att välja
+krafthalvledare i ett givet elsystem.
+kunna planera och genomföra mätningar i
+kraftelektroniksystem.
+kunna projektera ett kraftelektroniksystem efter givna
+förutsättningar.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna bedöma lämpligheten och egenskaperna hos ett
+kraftelektroniskt system på en generell nivå.
+ha självförtroende att förstå strukturen hos olika
+kraftelektroniksystem.
+ha självförtroende i att kunna genomföra vissa mätningar
+och beräkningar på ett kraftelektroniskt system.
+
+
+Kursinnehåll
+
+Switchade nätaggregat
+Strömriktare
+Nätkommuterade likriktare
+Lastkommuterade växelriktare
+Självkommuterade växelriktare
+Växel- och likspänningsomriktare
+Applikationer
+HVDC överföring
+Statiska omriktare
+Transistordrivkretsar och skyddskretsar (snubbrar)
+Passiva komponenter och filter
+Halvledarförluster och kylning
+Normer (översikt)
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: För att erhålla betyget 3 krävs godkänd skriftlig tentamen, godkända redovisningar av laborationsförberedelser inför varje laborationstillfälle samt godkända laborationer. Högre betyg avgörs via de skriftliga tentamina.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0113. Benämning: Kraftelektronik. 
+Antal högskolepoäng: 6,5. Betygsskala: TH.  Prestationsbedömning: För att erhålla betyget 3 godkänd skriftlig tentamen. Högre betyg ges också av skriftlig tentamen. 
+Kod: 0213. Benämning: Laborationer. 
+Antal högskolepoäng: 1. Betygsskala: UG.  Prestationsbedömning: Godkända laborationsförberedelser inför varje laborationstillfälle samt godkända laborationer. 
+Antagningsuppgifter
+Förkunskapskrav:
+Godkända laborationer i EITA40/ETE604 Krets och mätteknik
+
+
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Williams, BW: Power Electronics, Devices, Drivers, Applications and Passive Components. 2006, ISBN: 9780955338403.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Univ adj Bengt Simonsson, Bengt.Simonsson@iea.lth.se
+Hemsida: http://www.iea.lth.se/etef10/
+
+
+

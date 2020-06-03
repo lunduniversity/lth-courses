@@ -1,0 +1,101 @@
+
+Kursplan 2020/21 EITA50
+
+
+
+
+
+Kursplan för
+Signalbehandling i multimedia
+Signal Processing in Multimedia
+EITA50, 7,5 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning E
+Beslutsdatum: 2020-03-19
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: C2, D3
+Alternativobligatorisk för: E3
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Dagligen använder vi utrustning där signaler lagras och
+behandlas i digital form. Från den enkla digitala
+signalbehandlingen som sker i en CD-spelare till avancerad
+komprimering i t.ex. MP3 kodning av musik, kodning av tal i GSM,
+digital video för DVD, bildbehandling, etc. Kursen ger
+grundläggande kunskaper i digital signalbehandling och kunskaper
+om signalers frekvensegenskaper och frekvensinnehåll.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna identifiera tillämpningar på digital signalbehandling
+och hur dessa används i modern utrustning
+kunna beskriva digitala signaler och digitala signalers
+frekvensegenskaper
+ha fått förståelse för samband mellan signalers egenskaper
+i tidsplanet och i frekvensplanet.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna analysera signalers tidsegenskaper och dess
+frekvensegenskaper
+kunna beräkna digital kretsars tidsegenskaper och dess
+frekvensegenskaper
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+ha fått insikt om tillämpningar av digital signalbehandling
+i praktisk utrustning
+ha förmåga att ta del av litteratur inom området
+
+
+Kursinnehåll
+Kursen behandlar tidsdiskreta signaler och system. Hjälpmedel
+som beskrivs är Fouriertransform, Diskret Fourier Transform (DFT)
+och Z-transform. Begrepp som frekvens- och systemfunktion
+introduceras samt olika typer av enkla filter. Digital
+signalbehandling av analoga signaler via A/D- och D/A-omvandling
+presenteras samt några olika strukturer för implementering av
+digitala filter. En rad tillämpningar, som t.ex. behandling av
+signaler från hjärtat och hjärnan (EKG och EEG), talsignaler och
+bilder tas upp på laborationerna. Här studeras också enkla
+filter och samband mellan amplitud- och fasfunktion och poler och
+nollställen; olika signaler filtreras med hjälp av en digital
+signalprocessor (DSP). Matlab används som beräkningsverktyg i
+laborationerna.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examination sker genom ett slutprov och ett antal delprov under kursen. Slutbetyg erhålls när det slutliga provet, delprov och laborationer, godkänts.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 1901. Benämning: Tentamen. 
+Antal högskolepoäng: 6. Betygsskala: TH.  Prestationsbedömning: Godkänd tentamen 
+Kod: 1902. Benämning: Laborationer. 
+Antal högskolepoäng: 1,5. Betygsskala: UG.  Prestationsbedömning: Godkända laborationer. 
+Kod: 1903. Benämning: Inlämningsuppgifter. 
+Antal högskolepoäng: 0. Betygsskala: UG.  Prestationsbedömning: Godkända inlämningsuppgifter  Delmomentet omfattar: Två skriftliga inlämningsuppgifter som görs individuellt.  Övrig information: Poängen tillgodoräknas tentaresultatet.
+Antagningsuppgifter
+Förutsatta förkunskaper: FMAA01 Endimensionell analys.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: ESS040, EITF15, EITF75, ETI265
+Kurslitteratur
+
+Proakis J G, Manolakis D G. : Digital Signal Processing. Principles, Algorithms and Applications. Pearson Education, 2007, ISBN: 0-13-228731-5. Senast kursen gavs användes Proakis J G, Manolakis D G: Digital Signal Processing. Principles, Algorithms and Applications.
+ Pearson Prentice Hall,: 4:e upplagan,. ISBN: 0-13-187374-1. Kompletterande material från institutionen.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Jan Eric Larsson, jan_eric.larsson@eit.lth.se
+Hemsida: http://www.eit.lth.se/kurs/eita50
+Övrig information: Denna kurs ger väsentligen samma förkunskaper som grundkursen (Digital signalbehandling, ESS040) och möjliggör därför val av fortsättningskurser i ämnet Signalbehandling. Stödundervisning på engelska kan ges vid behov.
+
+
+

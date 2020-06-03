@@ -1,0 +1,103 @@
+
+Kursplan 2020/21 EITF05
+
+
+
+
+
+Kursplan för
+Webbsäkerhet
+Web Security
+EITF05, 4 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning C/D
+Beslutsdatum: 2020-03-30
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: C3
+Valfri för: BME5, D4-se, D4-ns, E5
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursen ska ge studenten kunskaper om de säkerhetsproblem och
+lösningar som relaterar till webbaserade tekniker, samt
+fördjupade kunskaper inom ett par områden.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+Beskriva hur webbapplikationer kan realiseras och hur de
+interagerar med en webbserver.
+Beskriva de olika säkerhetsproblem som uppstår vid
+användandet av webbtjänster.
+Beskriva varför problemen uppstår och hur de kan
+undvikas.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+Självständigt kunna göra analyser av säkerhetsproblem och
+kunna föreslå lösningar.
+Visa prov på förståelse av de tekniska lösningar som finns
+för att lösa säkerhetsproblem.
+Visa prov på förståelse av de säkerhetsbegränsningar som
+webbaserade tjänster har.
+Kunna både muntligt och skriftligt kommunicera resultatet av
+ett projektarbete.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+Under kursens gång ska studenten kunna redogöra och diskutera
+utfört projekt.
+
+Kursinnehåll
+Kryptologi: time-memory trade-off-attacker,
+rainbow-attacker.
+Säkerhet i webbapplikationer: Säkerhet i PHP och
+MySQL, validering av användardata med reguljära uttryck,
+SQL-injektioner, cross site scripting, cross site request forgery,
+directory traversal, filinkludering, sessionsattacker, HTTP
+response splitting.
+Serversäkerhet: HTTP server, PHP- och
+MySQL-konfigurering.
+Klientsäkerhet: Javascript, cookie-säkerhet,
+same-origin policy, CORS.
+Fjärrinloggning: Basic och digest access
+authentication.
+Email och Spam: Emailsäkerhet, tekniker för att
+skicka spam, spamfilter, spårning av email, DKIM, SPF, DMARC,
+hashcash.
+DNS-säkerhet: DNS-konfigurering,
+amplifieringsattacker, DNS cache poisoning, DNS rebinding,
+DNSSEC.
+Kursen innehåller även ett större projekt där slutresultatet
+ska sammanfattas i en teknisk rapport och sedan presenteras under
+ett seminarie.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: För godkänd kurs och betyg 3 krävs godkänt projekt och godkänd tentamen som görs online. Utöver detta kan frivillig skriftlig tentamen ge betyg 4 eller 5. 
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0118. Benämning: Projekt. 
+Antal högskolepoäng: 2. Betygsskala: UG.  Prestationsbedömning: För godkänt projekt krävs godkänd skriftlig rapport och godkänd muntlig presentation. 
+Kod: 0218. Benämning: Tentamen. 
+Antal högskolepoäng: 2. Betygsskala: TH.  Prestationsbedömning: För godkänd kurs och betyg 3 krävs godkänt projekt och godkänd tentamen som görs online. Onlinetentamen är obligatorisk. Utöver detta kan frivillig skriftlig tentamen ge betyg 4 eller 5. 
+Antagningsuppgifter
+Förutsatta förkunskaper: EITA25 Datasäkerhet, EDA016, EDAA50, EDAA55 Programmeringsteknik eller EDAA45 Programmering grundkurs. Studenten ska även kunna sätta upp en egen databas och göra enkla SQL-förfrågningar till den.
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Föreläsningsanteckningar.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Martin Hell, martin.hell@eit.lth.se
+Hemsida: http://www.eit.lth.se/kurs/eitf05
+Övrig information: Kursen ges på svenska men vissa moment kan ges på engelska. Allt kursmaterial är på engelska.
+
+
+

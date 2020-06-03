@@ -1,0 +1,134 @@
+
+Kursplan 2020/21 VRSN05
+
+
+
+
+
+Kursplan för
+Riskanalysens och riskhanteringens grunder
+Foundations for Risk Assessment and Management
+VRSN05, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning BI/RH
+Beslutsdatum: 2020-03-16
+Allmänna uppgifter
+Huvudområde: Katastrofriskhantering och klimatanpassning. 
+Obligatorisk för: RH4-rh, MKAT1
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursen syftar till att studenten skall få grundläggande
+kunskaper om riskanalys, riskvärdering och riskhantering, med
+tillämpningar inom en bredd av områden såsom säkerhet, miljö
+och samhälle. Kursen syftar även till att studenterna ska
+tillgodogöra sig verktyg för riskanalys, riskvärdering och
+riskhantering och hur dessa kan användas som underlag för beslut
+om riskrelaterade frågor. Vidare syftar kursen till att utgöra en
+bas för fortsatta studier inom riskhanteringsområdet.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+Kunna beskriva riskhanteringens vetenskapliga och konceptuella
+utgångspunkter
+Kunna beskriva olika perspektiv på risk och vara medveten om
+konsekvenserna av att använda olika perspektiv i en
+riskhanteringskontext
+Kunna beskriva riskanalys-, riskvärderings- och
+riskhanteringsmetoder, deras tillämplighet inom olika områden,
+speciellt inom områdena säkerhet, miljö och samhälle, samt
+deras styrkor och svagheter.
+Kunna beskriva olika sätt att presentera risk, deras
+begränsningar och styrkor och hur de kan användas för att
+värdera risk.
+Kunna beskriva olika typer av osäkerhet och hur de kan
+hanteras i en riskanalys- och riskvärderingskontext.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+Kunna kritiskt, systematiskt och självständigt använda
+koncept, metoder och verktyg för riskanalys och riskvärdering
+även i nya situationer.
+Skriftligen och muntligen kunna redogöra för och diskutera
+innebörden av en genomförd riskanalys för personer med
+kunskapsmässigt olika bakgrund.
+Kunna föreslå riskreducerande åtgärder och
+riskhanteringsåtgärder även där det endast finns begränsat med
+information
+Kunna självständigt välja och tillämpa lämpliga metoder,
+såväl enskilt som i grupp, kring problem som har med risk att
+göra.
+Kunna tillgodogöra sig material i vetenskapliga publikationer
+som är relevanta för riskbedömningar och riskhantering.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+Kunna kritiskt reflektera kring fördelarna och
+begränsningarna när det gäller att använda riskanalyser som
+underlag för beslutsfattande.
+Kunna reflektera kring etiska, subjektiva och samhälleliga
+dimensioner av riskanalyser..
+
+
+Kursinnehåll
+De övergripande momenten i kursen utgörs av: introduktion till
+riskhanteringsprocessen inklusive riskanalys, riskvärdering och
+riskbehandling, utförlig behandling av riskbegreppet och generell
+riskteori, riskanalysmetodik inom områdena säkerhet, miljö och
+samhälle, grundläggande osäkerhets- och känslighetsanalys,
+olika sätt att presentera och värdera risk, introduktion till
+människors riskperception och riskkommunikation samt
+beslutsfattande när det gäller behandling av risker.
+Under kursens gång kommer obligatoriska seminarier och
+projektarbete i grupp att genomföras. Projektuppgiften ska
+redovisas såväl muntligt som skriftligt i form av en rapport.
+ 
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Prestationsbedömningen är en sammanvägning mellan resultat på en skriftlig tentamen, en individuell hemuppgift och en projektuppgift. Närvaro vid obligatoriska  seminarier krävs.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0115. Benämning: Skriftlig tentamen. 
+Antal högskolepoäng: 4. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen.  Delmomentet omfattar: Kursen syftar till att studenten skall få grundläggande kunskaper om riskanalys, riskvärdering och riskhantering, med tillämpningar inom en bredd av områden såsom säkerhet, miljö och samhälle. Kursen syftar även till att studenterna ska tillgodogöra sig verktyg för riskanalys, riskvärdering och riskhantering och hur dessa kan användas som underlag för beslut om riskrelaterade frågor. Vidare syftar kursen till att utgöra en bas för fortsatta studier inom riskhanteringsområdet. 
+Kod: 0215. Benämning: Projektuppgifter, hemuppgifter. 
+Antal högskolepoäng: 3,5. Betygsskala: UG.  Prestationsbedömning: Godkända individuella hemuppgifter och projektuppgift i grupp  Delmomentet omfattar: Under kursens gång skall individuella hemuppgifter samt projektuppgift i grupp genomföras. Till projektuppgifterna finns handledning/konsultation tillgänglig. Projektuppgifterna redovisas skriftligt och muntligt. 
+Antagningsuppgifter
+Begränsat antal platser: 50
+Urvalskriterier: Avklarade högskolepoäng inom programmet. Studenter som har kursen listad som obligatorisk har platsgaranti. För övrigt ges förtur till studenter vars program har kursen listad i läro- och timplanen.
+
+Kursen överlappar följande kurser: VBR180, VBRN01, VBRN45
+Kurslitteratur
+
+Hansson, S. O. : Risk: objective or subjective, facts or values. 2010. Journal of Risk Research 13(2): 231-238.
+Slovic, P. : The Risk Game. 2001. Journal of Hazardous Materials 86: 17-24.
+Tehler, H.: A general framework for risk assessment. Division of Risk Management and Societal Safety, Lund University, Sweden, 2015.
+ADPC: COMMUNITY-BASED DISASTER RISK MANAGEMENT – Field practitioners’ handbook. Asian Disaster Preparedness Center, 2008.
+Bier, V. M. : On the state of the art: risk communication to the public. 2001. Reliability Engineering and System Safety, 71: 139-150.
+CCPS: Guidelines for Chemical Process Quantitative Risk Analysis. New York: Center for Chemical Process Safety, American Institute of Chemical Engineers, 2000. Kap. 4-4.3: Risk Measures.
+Duijm, N. J. : Recommendations on the Use and Design of Risk Matrices. 2015. Safety Science, 76, pp. 21-31.
+Garrick, B. J. : Technological Stigmatism, Risk Perception and Truth. 1998. Reliability Engineering and System Safety, 59(1), pp. 41-45.
+ISO/IEC : Risk management – Risk assessment Techniques. Geneva: International Organization for Standardization, 2009. Kap. 1-5, Annex a, B.1-B.6 + B.8-B.9 + B.13-B.15 + B.27-B.29.
+ISO: ISO 31000 Risk Management – Principles and Guidelines. Geneva: International Organization for Standardization, 2009.
+Paté-Cornell, M. E. : Uncertainties in Risk Analysis: Six Levels of Uncertainty Treatment. 1996. Reliability Engineering and System Safety, 54(2-3), pp. 95-111.
+Slovic, P. : Trust, Emotion, Sex, Politics, and Science: Surveying the Risk-Assessment Battlefield. 1999. Risk Analysis, 19(4): 689-701.
+Bier, V. M. : On the state of the art: risk communication to decision-makers. 2001. Reliability Engineering and System Safety, 71: 151-157.
+Fan, A.M., Khan, E.M. & Alexeeff, G.V. : Toxicology and risk assessment. Boca Raton, FL: CRC Press, 2015. (Chapter 1.4: Dose-response assessment, pp. 12-19; Ch. 1.5: Exposure assessment, pp. 19-23; Ch. 1.6: Risk characterization, pp. 23-26).
+Hassel, H. & Cedergren, A. : A method for combined risk and continuity management in a municipal context. 2017. The annual European Safety and Reliability Conference ESREL, June 18-22, Portoroz, Slovenia.
+Olsen, O. E., Kruke, B. I. & Hovden, J. : Societal Safety: Concept, Borders and Dilemmas. 2007. Journal of Contingencies and Crisis Management, 15(2): 69-79.
+Slovic, P. : The Risk Game. 2001. Journal of Hazardous Materials, 86(1-3): 17-24.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Henrik Hassel, henrik.hassel@risk.lth.se
+Kursadministratör: Hanna Lindbom, hanna.lindbom@risk.lth.se
+Övrig information: I grupparbeten och seminarier förutsätts aktivt deltagande. Varje gruppmedlem skall enskilt kunna redovisa och svara för innehållet. Uppfyller inte en medlem övrigas krav på aktiv medverkan, eller åsidosätter sina åtaganden, kan beslut av examinator om omplacering till annan grupp eller underkänt betyg erhållas.
+
+
+

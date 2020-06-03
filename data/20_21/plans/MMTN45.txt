@@ -1,0 +1,123 @@
+
+Kursplan 2020/21 MMTN45
+
+
+
+
+
+Kursplan för
+Produktionsteknik 2
+Production Technology 2
+MMTN45, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning M
+Beslutsdatum: 2020-03-26
+Allmänna uppgifter
+Huvudområde: Produktrealisering. 
+Obligatorisk för: MPRR1
+Valfri för: I4, M4
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursen syftat till at ge en fördjupad kunskap och kompetens i
+utvalda teknikområden, där institutionen har speciellt
+forskningsfokus och besitter en hög kompetensnivå. Dessa
+teknikområden innefattar induktionvärmning, formningsteknik och
+formningstribologi, samt ytkaraktärisering och ytanalys.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+ 
+
+Kunna beskriva och diskutera fundamentala principer rörande
+induktionsvärmning
+Kunna beskriva de grundläggande komponenterna i ett
+induktionsvärmningssystem
+Känna till kraven på induktionsspolar och integerarde
+material samt visa en grundläggande förståelse för hur man
+designar och dimensionerar induktionsspolar.
+Kunna tolka och analysera resultat från simulering av
+induktionsvärmning
+Kunna visa en förståelse för praktiska konsekvenser av
+induktionsvärmning i industriella processer.
+Kunna beskriva olika formningsprocesser och specifikt
+betydelsen av ytkontakter och tribologin relaterad till dessa.
+Kunna beskriva olika metoder instrument för tribologisk
+testning och deras användning.
+Kunna diskutera friktionsmodeller och metoder för  bedömning
+av tribologiska data.
+Kunna visa grundläggande förståelse för mätning av ytor
+och karakterisering och analys av bearbetade ytor.
+
+ 
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+ 
+
+Kunna genomföra analys av induktionsvärmningsprocesser med
+hjälp av simuleringsprogram.
+Kunna, på en grundläggande nivå, dimensionera och balansera
+en induktionsvärmningsuppställning.
+Kunna hantera och analysera data från en
+tribologimätutrustning, och genomföra beräkningar utgående
+från dessa data för att kunna dra slutsatser relevanta för
+formningsprocessen.
+Kunna utföra ytjämnhetsmätningar och mätningar på
+underliggande ytlager samt kunna analysera ytor med
+ytscanningsinstrument (2D och 3D) och hårdhetsmätare.
+
+ 
+
+Kursinnehåll
+Kursen behandlar ett antal aktuella forskningsområden inom
+tillverkningsteknik vid institutionen. Detta innefattar metoder
+för industriell värmning i tillverkningskedjor, med fokus på
+induktionsvärmning. Styrningen av induktionsprocessen behandlas,
+liksom olika tekniska system och använda materialtyper. Olika
+värmningsprocesser analyseras, t.ex. värmebehandling av metaller
+och härdning av kompositmaterial. Kursens andra del behandlar
+tribologi och ytkaraktär i tillverkningsprocesser med speciellt
+fokus på formningsoperationer.
+Kursen innefattar följande delområden:
+Industriell värmning allmänt: teknologier, applikationer,
+användning.
+Induktionsvärmning: Grundläggande principer och funktion.
+Induktionsvärmning: System och komponenter
+Induktionsvärmning: Design och dimensionering
+Induktionsvärmning: Applikationer och arbetsmaterial.
+Temperaturmätning: IR, termoelement, resistiva givare etc.
+Tribologi i tillverkningsprocesser.
+Instrument och metoder för att mäta friktion.
+Friktionsmodeller och formningsanalys.
+Ytutvärderingsmetoder. Alicona-instrumentet (Infinite focus)
+samt optisk mikroskopering.
+Ythårdhetsmätning. mikrohårdhetsmätare och
+Nano-indenter.
+Simulering av induktionsvärmning ska öka den allmänna
+förståelsen för tekniken, samt belysa viktiga fenomen och
+anpassning till olika processer.  Laborationer i tribologi och
+ytkaraktär omfattar friktionsmätning i institutionens
+tribo-mätare, mätning  och analys av 3D-ytor med
+Alicona-instrumentet, analys av ythårdhet av bearbetade ytor med
+mikroskop och hårdhetamätare.
+ 
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen, skriftliga inlämningsuppgifter, obligatoriska laborationer.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: MMT012/MMTF20 Tillverkningsmetoder eller MMTA05 Industriella produktionssystem och FKM015/FKMA01 Konstruktionsmaterial, allmän kurs.
+Begränsat antal platser: Nej
+Kurslitteratur
+
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Universitetslektor Mats Andersson, mats.andersson@iprod.lth.se
+Hemsida: http://www.iprod.lth.se
+
+
+

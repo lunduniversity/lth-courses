@@ -1,0 +1,84 @@
+
+Kursplan 2020/21 TNSN01
+
+
+
+
+
+Kursplan för
+Servicerobotik
+Service Robotics
+TNSN01, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning ID
+Beslutsdatum: 2020-02-18
+Allmänna uppgifter
+Valfri för: C4, D4, E4, M4-me, MD4
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Kursens syfte är att ge kunskaper i servicerobotik och
+exemplifiera detta med experimentella arbeten som visar på dess
+uppbyggnad och tillämpningar.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+förstå servicerobotars egenskaper och dess betydelse vid
+användning i olika sammanhang
+förklara och använda metoder för modellering och styrning av
+servicerobotar i några typfall
+modellera och experimentellt bygga och validera system med
+servicerobotar
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+ta fram och presentera ett designförslag på mobila
+robotsystem
+genom experimentellt arbete skapa de styrprogram och den
+mekanik som krävs för att lösa definierade uppgifter
+redovisa genom muntlig och skriftlig argumentation samt
+demonstration av experimentella resultat föreslagna lösningar på
+uppställda problem
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+kunna värdera designalternativ för det valda projekts ämne
+med hänsyn tagen till tillämpningsområde och till systemets
+interaktion med omvärlden.
+
+Kursinnehåll
+Kursen består av en del med praktiskt inriktade
+projektuppgifter och en teoretisk del. Föreläsningar kommer att
+förklara grunderna i ämnesområdet. Den teoretiska delen mynnar
+ut i en litteraturstudie där man gruppvis väljer ett av ett antal
+relevanta ämnesområden med muntlig och skriftlig redovisning.
+Exempel på ämnen för litteraturstudie kan vara en behandling av
+service robotar med fokus på  artificiell intelligens,
+mobilitet, människa-robot interaktion, mm.
+Den praktiska delen består av ett projekt i ett eller flera av
+de ovan nämnda områden.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Varje student redovisar sina resultat från definierade projektarbeten i kursen i form av rapport, modeller och experimentellt arbete i anslutning till respektive projekt. Dessa utförs som regel i grupper om två studenter i varje grupp. Resultatet från varje projekt betygssätts och slutbetyget beräknas som ett viktat medelvärde av dessa. Omexamination sker i samråd med kursledare genom kompletterande arbete.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: MMKN30
+Kurslitteratur
+
+Kompendier och annat material som finns tillgängliga på kursens hemsida.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Håkan Eftring, universitetslektor, tekn dr, hakan.eftring@certec.lth.se
+Examinator: Håkan Eftring, universitetslektor, tekn dr, hakan.eftring@certec.lth.se
+Hemsida: http://www.certec.lth.se/utbildning/
+
+
+

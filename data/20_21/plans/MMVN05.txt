@@ -1,0 +1,130 @@
+
+Kursplan 2020/21 MMVN05
+
+
+
+
+
+Kursplan för
+Numerisk strömningsmekanik och värmeöverföring
+Numerical Fluid Dynamics and Heat Transfer
+MMVN05, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning M
+Beslutsdatum: 2020-03-26
+Allmänna uppgifter
+Valfri för: F4, F4-bem, M4-bem, Pi4-bem
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Kursen syftar till att ge grundläggande kunskap om moderna
+numeriska beräkningsmetoder som används rutinmässigt för analys
+av strömning och värmeöverföring det som med ett samlingsnamn
+brukar kallas CFD. Tonvikten läggs på inkompressibel strömning
+och konvektiv värmeöverföring Dessutom diskuteras de vanligaste
+turbulensmodellerna och hur dessa påverkar lösningen. Kursen
+avser att ge färdigheter i att genomföra denna typ av
+simuleringar i någon kommersiell programvara. Vidare avser kursen
+ge färdigheter i att analysera och bedöma resultat från dylika
+numeriska simuleringar. Dessa kunskaper skall vara tillräckliga
+för att för en given ingenjörsmässig problemställning kunna
+välja lämplig lösningsstrategi och kunna bedöma noggrannheten i
+resultatet.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+ 
+
+kunna redogöra för potentialer och begränsningarna i de
+metoder som behandlas i kursen
+kunna redogöra för de vanligaste RANS-baserade
+turbulensmodellernas uppbyggnad och hur dessa kan påverka den
+numeriska lösningen av strömningar
+kunna redogöra för processen från matematisk beskrivning
+till numerisk lösning av ett strömnings- och
+värmeöverföringsproblem, samt vilka krav som ställs för att
+systemet skall vara lösbart
+kunna beskriva de olika felkällor som finns i processen från
+matematisk beskrivning till numerisk lösning av strömnings- och
+värmeöverföringsproblem och hur dessa påverkar resultatet
+kunna redogöra för olika metoder att behandla s k
+konvektions-diffusionstermer, och algoritmer för
+tryck-hastighetskopplingen (t ex SIMPLE, SIMPLEC, SIMPLEX, PISO
+etc)
+kunna förklara några för ämnet viktiga och grundläggande
+begrepp
+
+ 
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+ 
+
+kunna genomföra simuleringar i någon kommersiell
+CFD-programvara
+kunna analysera ett strömnings- eller värmeöverföringsfall
+och föreslå en strategi för lösning av detsamma med avseende
+på ingående ekvationer, möjliga förenklingar, val av lämplig
+numerisk metod och turbulensmodell samt jämföra med en
+alternativa metoder och modeller
+kunna kritiskt granska och utifrån givna kriterier bedöma
+noggrannhet och rimlighet hos resultat från simulering av
+strömningar
+
+ 
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+ 
+
+kunna aktivt deltaga i diskussioner kring inom ämnet relevanta
+problem
+kunna i tal och skrift presentera i en teknisk rapport
+innehållande analyser och val av numerisk lösningsmetod och
+turbulensmodell
+
+ 
+
+Kursinnehåll
+Kursen behandlar metoder för att numeriskt lösa
+ingenjörsmässiga strömnings- och värmeöverföringsproblem.
+Hanteringen av s k konvektions-diffusionstermer behandlas.
+Begreppet numerisk diffusion införs. Algoritmer för
+tryck-hastighetskopplingen presenteras (t ex SIMPLE, SIMPLEC,
+SIMPLEX, PISO etc). I kursen behandlas diskretisering med finita
+volymmetoder, samt hur dessa påverkar noggrannhet och stabilitet
+hos lösningen. Olika typer av beräkningsnät, hur de genereras
+och hur de påverkar felet i lösningen ingår. Dessutom diskuteras
+de vanligast förekommande turbulensmodellerna baserade på
+Reynolds medelvärderade Navier-Stokes ekvationer (RANS) och hur
+dessa kan påverka lösningen. Datorlaborationer och projektarbete
+kommer att utföras i kommersiell CFD programvara.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examinationen sker både enskilt och baserat på arbete i grupp. De obligatoriska inlämningsuppgifterna och datorlaborationerna redovisas skriftligt enskilt.  Närvaro vid är obligatorisk datorlaborationerna. Projektuppgift redovisas i grupp både skriftligt i form av en rapport och muntligt vid ett seminarium, där alla gruppmedlemmar skall deltaga aktivt. Examinationen innefattar även ett skriftligt teoriprov. För att få godkänt på denna kurs måste alla obligatoriska moment dvs. inlämningsuppgifter, laobrationsrapporter, projektuppgift samt den skriftliga teoriprovet vara godkända. Betyg sätts baserat projektuppgift och teoriprov.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+FMA430 Flerdimensionell analys eller FMA435 Flerdimensionell analys med vektoranalys eller FMAB30 Flerdimensionell analys eller FMAB35 Flerdimensionell analys med vektoranalys
+FMA420 Linjär algebra eller FMAB20 Linjär algebra
+KETF01 Transportprocesser eller MMVF01 Termodynamik och strömningslära eller MMVF10 Strömningslära eller MMVF15 Strömningslära
+
+
+Förutsatta förkunskaper: MMVF05 Värmeöverföring
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: MVKN45, MMV042
+Kurslitteratur
+
+H K Versteeg & M W Malalasekera: An Introduction to Computational Fluid Dynamics-The Finite Volume Method 2nd ed. Pearson Education Limited, 2007.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Hesameddin Fatehi, hesameddin.fatehi@energy.lth.se
+Examinator: Hesameddin Fatehi, hesameddin.fatehi@energy.lth.se
+Kursansvarig: Christer Fureby, christer.fureby@energy.lth.se
+Hemsida: http://www.fm.energy.lth.se/english/education/courses/numerical-fluid-dynamics-and-heat-transfer-mmvn05/
+
+
+

@@ -1,0 +1,118 @@
+
+Kursplan 2020/21 EITG05
+
+
+
+
+
+Kursplan för
+Digital kommunikation
+Digital Communications
+EITG05, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning C/D
+Beslutsdatum: 2020-03-30
+Allmänna uppgifter
+Huvudområde: Kommunikationssystem. 
+Huvudområde: Teknik. 
+Obligatorisk för: C3, MWIR1
+Valfri för: BME4, D4-ssr, D4-ns, E4-ks, F4, F4-f, M4, MFOT1, Pi4, MMSR2
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursens syfte är att ge grundläggande kunskaper om principer,
+begrepp,
+funktion, prestanda och begränsningar för digitala
+kommunikationssystem.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna identifiera och formulera problem inom området digital
+kommunikation
+kunna klassificera problemens svårighetsgrad i förhållande
+till den egna kunskapsnivån
+kunna modellera en kommunikationslänk av låg komplexitet med
+hjälp av uppdelningen sändare - kommunikationskanal -
+mottagare
+kunna analysera och beskriva okodade digitala
+kommunikationssystem av låg och medelhög komplexitet
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna ange förslag på tekniska lösningar för okodade
+digitala kommunikationssystem av låg och medelhög
+komplexitet
+kunna visa prov på förmåga att hantera för studenten nya
+begrepp, metoder och resultat
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna visa prov på insikt om möjligheter och begränsningar
+med digitala kommunikationsmetoder
+
+
+Kursinnehåll
+Inledning: En översikt ges av en generell
+kommunikationslänk bestående av de tre delarna sändare -
+kommunikationskanal - mottagare. Exempel på digitala
+kommunikationsmetoder introduceras för realistiska bithastigheter
+och brusnivåer.
+Sändarsidan: Sändarens arbetssätt förklaras samt
+dess principer, struktur och funktion. Grundläggande digitala
+kommunikationsmetoder som använder två, eller flera,
+signalalternativ presenteras, exempelvis: fasskiftsteknik (PSK),
+QAM-teknik, frekvensskiftsteknik (FSK), multitonteknik (OFDM) samt
+metoder som använder flera sändar- och/eller mottagarantenner
+(MIMO system). Olika metoders effektivitet med avseende på
+bithastighet, bandbredd och effekt undersöks.
+Kommunikationskanalen: Kommunikationskanalens inverkan
+på de sända informationsbärande signalerna studeras, speciellt
+uppmärksammas flervägsutbredning samt dess konsekvenser på
+bithastigheten. Störningar, brus, och andra oönskade signaler
+beskrivs och modelleras (exempelvis som additivt vitt Gaussiskt
+brus (AWGN)). Olika multiplextekniker berörs i samband med
+fleranvändarkommunikation. Inverkan av olika överföringsmedia
+såsom luft, metalliska ledare, och optisk fiber diskuteras.
+Mottagarsidan: Mottagarens arbetssätt förklaras (ML
+och MAP) samt dess principer, struktur och funktion.
+Synkroniseringsproblematiken beskrivs. Mottagarens
+bitfelsannolikhet beräknas. Sambandet mellan bithastighet, sänd
+effekt, störnivå, bandbredd och felsannolikhet konkretiseras.
+Diversitetsbegreppet diskuteras och illustreras. Utmaningar vid
+snabb dataöverföring, såsom uppkomsten av
+intersymbolinterferens, förklaras.
+Tillämpningsexempel: Några av följande
+tillämpningsexempel berörs i kursen: Mobil digital telefoni (3G,
+EDGE, GSM), WLAN, modem, ADSL, digital TV, Bluetooth, navigering
+(GPS), system för övervakning.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Tentamen (5 tim) är skriftlig och omfattar normalt fem uppgifter av problemtyp. Godkänd laboration är ett krav för att få tentera.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Tentamen. 
+Antal högskolepoäng: 6,5. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen.  Delmomentet omfattar: Hela kursen. 
+Kod: 0217. Benämning: Laborationer. 
+Antal högskolepoäng: 1. Betygsskala: UG.  Prestationsbedömning: Godkänd laboration.  Delmomentet omfattar: Kursen har en obligatorisk laboration. 
+Antagningsuppgifter
+Förutsatta förkunskaper: FMAA01 Endimensionell analys eller motsvarande, samt studievana motsvarande 2 års studier vid teknisk högskola.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: ETT051
+Kurslitteratur
+
+Lindell, G: Introduction to Digital Communications. 2006. Kompendium.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Michael Lentmaier, michael.lentmaier@eit.lth.se
+Hemsida: http://www.eit.lth.se/kurs/eitg05
+
+
+

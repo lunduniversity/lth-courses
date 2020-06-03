@@ -1,0 +1,114 @@
+
+Kursplan 2020/21 EDAN90
+
+
+
+
+
+Kursplan för
+Avancerat projekt i datavetenskap
+Advanced Project in Computer Science
+EDAN90, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning C/D
+Beslutsdatum: 2020-03-30
+Allmänna uppgifter
+Valfri för: C4, D4
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Kursens syfte är att träna på ett vetenskapligt arbetssätt
+för att ge fördjupade kunskaper och färdigheter inom något
+ämnesområde inom datavetenskap.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+ha fördjupade kunskaper i det aktuella ämnesområdet
+ha insikt om gällande metoder och arbetssätt inom det valda
+ämnesområdet
+ha insikt i hur ett genomfört tekniskt arbete dokumenteras och
+presenteras på ett vetenskapligt sätt i tal och skrift
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+självständigt kunna planera, genomföra och rapportera avsett
+projekt
+självständigt kunna söka bearbeta och sammanställa relevant
+information från vetenskapliga och praktikerbaserade källor
+kunna praktiskt tillämpa inhämtade kunskaper inom det
+aktuella projektområdet
+kunna presentera sina projektresultat i både skriftlig och
+muntlig form, enligt etablerad akademisk standard för
+ämnesområdet
+
+ 
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+visa förmåga till reflektion kring projektets genomförande
+och resultat i en rapport av vetenskaplig karaktär
+visa förmåga till att ta in och värdera information från
+olika typer av källor
+
+ 
+
+Kursinnehåll
+I kursen genomförs ett projekt inom ett underområde till
+datavetenskap med anknytning till den forskning som bedrivs vid
+institutionen och därtill kopplade kurser. Kursen utgör ett
+tillfälle att ytterligare fördjupa sig inom ett ämne som man
+redan införskaffat grunderna i genom att ha följt en av
+institutionens ordinarie kurser. Vidare syftar kursen till att
+träna förmågan till vetenskapligt arbetssätt och kommunikation.
+Kursmoment som ingår inkluderar
+
+handledda självständiga litteraturstudier via databaser och
+bibliotek
+handlett självständigt arbete med anknytning till det
+aktuella ämnet
+analys och reflektion utifrån ett vetenskapligt arbetssätt
+på insamlad information och genomfört arbete
+skriftlig rapportering på svenska eller engelska enligt
+standard från internationellt granskade tidskrifter samt muntlig
+rapportering vid offentligt seminarium på svenska eller
+engelska
+
+Möjliga projektområden kan variera från kursomgång till
+kursomgång och annonseras i god tid före kursstart och
+tillhörande kursanmälningsperiod via institutionens hemsida.
+Kursen kan bygga vidare på resultat från en tidigare projektkurs,
+eller omfatta ett nytt ämnesområde. Projektområden väljs från
+institutionens kurser på avancerad nivå. Det garanteras dock inte
+att alla dessa områden är öppna vid varje kursomgång. I mån av
+tillgång till handledare inom institutionens forskargrupper kan
+även en individuell kursplan upprättas för ett projektarbete med
+särskild koppling till ett av institutionens
+forskningsprojekt.
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: För godkänt på kursen måste studenterna slutföra projektarbetet, skriva en rapport av vetenskaplig karaktär och presentera sitt arbete muntligt.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+EDAN70 Projekt i datavetenskap, samt en av institutionens fördjupningskurser på G2- eller A-nivå inom ämnet för det valda projektarbetet. Förkunskapskraven kommer tydligt att uttryckas tillsammans med information om vilka projektområden som är öppna för varje kurstillfälle via institutionens hemsida
+
+
+Begränsat antal platser: 30
+Urvalskriterier: Avklarade högskolepoäng inom programmet. Förtur ges till studenter vars program har kursen listad i läro- och timplanen
+Kurslitteratur
+
+Vetenskapliga originalartiklar eller annan litteratur med anknytning till det valda ämnet.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Studierektor, studierektor@cs.lth.se
+Hemsida: http://cs.lth.se/edan70
+
+
+

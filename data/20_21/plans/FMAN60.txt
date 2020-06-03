@@ -1,0 +1,96 @@
+
+Kursplan 2020/21 FMAN60
+
+
+
+
+
+Kursplan för
+Optimering
+Optimization
+FMAN60, 6 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning F/Pi
+Beslutsdatum: 2020-04-01
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Alternativobligatorisk för: I3
+Valfri för: BME4, D4-mai, E4, F4, F4-bs, F4-bg, F4-fm, F4-r, F4-mai, M4, Pi4-bs, Pi4-fm, Pi4-bem, Pi4-bam
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Syftet med kursen är att presentera den grundläggande
+optimeringsteorin och att ge en översikt över de viktigaste
+metoderna och deras praktiska användning.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+känna till och med egna ord kunna beskriva de
+optimeringsalgoritmer, för problem med och utan bivillkor, som
+berörs i kursen, och deras egenskaper.
+känna till teorin för konvexa mängder och konvexa funktioner
+och kunna formulera och härleda de viktigaste satserna om
+konvexitet.
+vara medveten om hur man kan utnyttja konvexitet vid
+behandlingen av ett optimeringsproblem.
+känna till Kuhn-Tucker-teorin och kunna formulera och härleda
+de viktigaste satserna inom denna.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna visa förmåga att lösa optimeringsproblem inom kursens
+ram.
+kunna visa förmåga att hantera optimeringsproblem med hjälp
+av dator.
+kunna visa förmåga att i samband med problemlösning i enkla
+situationer bevisa enkla resultat som inte gåtts igenom i
+kursen.
+kunna redogöra för sambanden mellan olika begrepp i kursen,
+med adekvat terminologi, och på ett välstrukturerat och logiskt
+sammanhängande sätt.
+med adekvat terminologi, lämpliga beteckningar, väl
+strukturerat och logiskt sammanhängande kunna redogöra för
+lösningen till matematiska problem och för teori inom kursens
+ram.
+
+
+Kursinnehåll
+Kvadratiska former och matrisfaktorisering. Konvexitet. Teori
+för optimering med och utan bivillkor: Lagrange-funktioner,
+Kuhn-Tucker-teori. Dualitet. Metoder för optimering utan
+bivillkor: linjesökning, descentmetoder, Newton-metoder,
+konjugerade riktningar, olinjär minsta kvadrat-optimering. Metoder
+för optimering med bivillkor: linjär optimering, kvadratisk
+programmering, straffunktioner och barriärfunktioner.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftligt prov omfattande teori och problem. Två obligatoriska datorövningar och ett projekt.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Optimering. 
+Antal högskolepoäng: 6. Betygsskala: TH. 
+Kod: 0217. Benämning: Programmeringsuppgift. 
+Antal högskolepoäng: 0. Betygsskala: UG. 
+Antagningsuppgifter
+Förutsatta förkunskaper: Grundkurserna i matematik samt den linjära algebra som ingår i kursen FMAF10 (eller FMAF05).
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FMA051, MATC51
+Kurslitteratur
+
+Lars-Christer Böiers: Mathematical Methods of Optimization. Studentlitteratur, 2010, ISBN: 978-91-44-07075-9.
+Computer Laboratory Exercises in Optimization. Tillhandahållna av institutionen.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Studierektor Anders Holst, Studierektor@math.lth.se
+Kursadministratör: Studerandeexpeditionen, expedition@math.lth.se
+Lärare: Stefan Diehl, Stefan.Diehl@math.lth.se
+Hemsida: http://www.maths.lth.se/course/optnykod/
+
+
+

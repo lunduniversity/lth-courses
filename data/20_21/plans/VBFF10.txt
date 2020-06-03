@@ -1,0 +1,104 @@
+
+Kursplan 2020/21 VBFF10
+
+
+
+
+
+Kursplan för
+Byggnadsfysik
+Building Physics
+VBFF10, 6 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning V
+Beslutsdatum: 2020-03-23
+Allmänna uppgifter
+Obligatorisk för: IBYA2
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Efter genomförd kurs ska studenten
+
+ha översiktliga kunskaper om en byggnads konstruktiva
+utformning
+ha elementära kunskaper om olika byggnadskomponenter och hur
+dessa sammanfogas till en sund och energisnål byggnad
+ha grundläggande kunskaper om värme- och fukttransport i en
+byggnad
+kunna identifiera och lösa olika byggnadsfysikaliska
+problem
+
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+Förstå hur man kombinerar byggnadsmaterial till en fungerande
+byggnadsdel ur värme- och fuktsynpunkt.
+Identifiera ingående poster i en energibalans.
+Kvantitativt kunna bedöma fuktskyddet för en byggnad.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+Utforma byggnadsdelar till ett enfamiljshus och sätta samman
+dem till en fungerande byggnad beträffande energianvändning
+och fuktbeständighet.
+Tillämpa befintlig kunskap i CAD.
+Tillämpa kunskap från VBFA10 (VBF630) för att skapa en
+byggnad som uppfyller delkrav i byggnormen beträffande
+energibehov.
+Färdigheter i att använda teorier rörande fukttransport
+genom byggnadsdelar. Förmåga att välja lämpliga värden på
+randvillkor och materialdata. Kvantitativt kunna värdera
+byggnadsdelar och enkla byggnader ur fuktsynpunkt.
+
+
+Kursinnehåll
+Fysikaliska grunder av värme- och fukttransport genom material
+och byggnadsdelar. Beräkning av fukt- och temperaturtillstånd i
+konstruktioner för att skapa fuktsäkra och energieffektiva hus.
+Byggnadsfysikalisk dimensionering av tak, grunder och ytterväggar.
+Information om metodik för fuktsäkerhetsprojektering, kritiska
+fukttillstånd och sunda hus.
+Stationära energi- och fuktbalanser upprättas för att lära
+sig vilka poster som ingår.
+Ett centralt moment i kursen är projektuppgiften, där
+kopplingen mellan klimatskal, materialval, stomsystem och
+stomkomplettering behandlas. Detta utmynnar i enkla bygghandlingar
+med tillhörande CAD-ritningar.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Tentamen är skriftlig och består av en teoridel och en beräkningsdel med minimipoäng för respektive del. För godkänt på kursen krävs även att projektuppgiften är godkänd. Väl genomförd projektuppgift kan höja slutbetyget med ett halvt steg.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Inlämningsuppgift. 
+Antal högskolepoäng: 2. Betygsskala: UG.  Prestationsbedömning: Korrekt beskriven och ritade byggnadsdelar till en småhus.  Delmomentet omfattar: 5st inlämningar av olika byggnadsdelar inklusiv u-värdesberäkning, grund, vägg, tak, och sektion av väggen. 
+Kod: 0217. Benämning: Tentamen. 
+Antal högskolepoäng: 4. Betygsskala: TH.  Prestationsbedömning: En tenta med två delar, en teori del och en beräknings del.  Delmomentet omfattar: En tenta med två delar, en teori del och en beräknings del. 
+Antagningsuppgifter
+Förkunskapskrav:
+VBF630 Husbyggnadsteknik eller VBFA10 Husbyggnadsteknik
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: VBF605
+Kurslitteratur
+
+Sandin, K: Praktisk byggnadsfysik. Studentlitteratur, 2010, ISBN: 9789144059914.
+Sandin, K: Praktisk byggnadsfysik, Övningsbok. Studentlitteratur , 2010, ISBN: 9789144059891.
+Harderup L-E: Övningsuppgifter med lösningar till Fukthandbok.
+Harderup L-E: Formelsamling till Fukthandbok. 2017.
+Arfvidsson, Harderup, Samuelson: Fukthandbok, Praktik och Teori. Svensk Byggtjänst, 2017, ISBN: 978-91-7333-823-3.
+Utdelade föreläsningar tillgängliga på hemsidan.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Petter Wallentén, petter.wallenten@byggtek.lth.se
+Hemsida: http://www.byfy.lth.se
+Övrig information: Projektuppgiften löper som en röd tråd genom kurserna VBEF10 och ABKF05. 
+
+
+

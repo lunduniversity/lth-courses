@@ -1,0 +1,123 @@
+
+Kursplan 2020/21 VBRN85
+
+
+
+
+
+Kursplan för
+Avancerad CFD
+Advanced CFD
+VBRN85, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning BI/RH
+Beslutsdatum: 2020-03-16
+Allmänna uppgifter
+Valfri för: BI4, RH4
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursen är avsedd att ge kunskap om hur man simulerar brand- och
+brandgasspridning med Computational Fluid Dynamics (CFD), till
+exempel vid brandteknisk dimensionering eller brandutredningar,
+samt ge förståelse för de ingående numeriska och fysikaliska
+modellernas begränsning och kännedom om vanliga felkällor.
+Kursen syftar även till att ge djupare förståelse, både
+teoretiskt och praktiskt, kring mer avancerade delmodeller som
+används främst inom forskning.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+• kunna beskriva och tillämpa de ingående fysikaliska
+modellerna för konservering av massa, ämnen, energi och
+rörelsemängd.
+• kunna beskriva och tillämpa olika numeriska metoder för
+att lösa ekvationssystemen.
+• kunna identifiera ingående delmodellers begränsningar och
+vanligaste felkällor.
+• kunna tillämpa olika delmodeller praktiskt samt tolka dess
+resultat.
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+• kunna utföra avancerade beräkningar med diverse
+tillämpningar i  ett utvalt CFD-program.
+• kunna utvärdera beräkningar mot experimentella data.
+• kunna bedöma hur man kan skatta osäkerheten i en
+simulering beroende på de antagande som görs i de ingående
+fysikaliska och numeriska modellerna.
+• kunna förstå och använda facktermer inom området
+simulering av brandförlopp med CFD.
+• kunna muntligt och skriftligt redogöra för och diskutera
+innebörden av genomförd simulering av brandgasspridning i samband
+med brandteknisk dimensionering och brandutredning.
+• kunna tillgodogöra sig material i tekniska referens- och
+användarmanualer för avancerade simuleringsprogram för
+brandgasspridning.
+• kunna med viss självständighet utnyttja nyvunna kunskaper
+för nya brandtekniska dimensioneringsfall.
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+• visa insikt i de brandtekniska simuleringsmetodernas
+möjligheter och begränsningar, dess roll vid avancerad
+byggnadsteknisk projektering och människors ansvar för dess
+nyttjande och självständigt analyserande.
+• visa förmåga att identifiera sitt behov av ytterligare
+kunskap och att fortlöpande utveckla sin kompetens om brandteknisk
+simulering.
+
+Kursinnehåll
+• Introduktion till CFD
+• Tid och längdskalor vid brand
+• Turbulensmodeller
+• Numeriska metoder
+• Large eddy simulering (LES)
+• Förbränningsmodeller
+• Strålningsmodeller
+• Sotmodeller
+• Värmeöverföringsmodeller
+• Uppbyggnad och hantering av CDF-modeller
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig individuell tentamen samt godkända individuella inlämningsuppgifter. Närvaro vid seminarierna är obligatorisk.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0118. Benämning: Dugga. 
+Antal högskolepoäng: 3,5. Betygsskala: TH.  Prestationsbedömning: Godkänd dugga på teoridel av kurs.
+  Delmomentet omfattar: Kunna beskriva och tillämpa de ingående fysikaliska modellerna för konservering av massa, ämnen, energi och rörelsemängd.
+
+Kunna beskriva och tillämpa olika numeriska metoder för att lösa ekvationssystemen.
+
+Kunna identifiera ingående delmodellers begränsningar och vanligaste felkällor.
+
+Kunna tillämpa olika delmodeller praktiskt samt tolka dess resultat.
+ 
+Kod: 0218. Benämning: Uppgifter/seminarier. 
+Antal högskolepoäng: 4. Betygsskala: UG.  Prestationsbedömning: Godkända uppgifter, godkänt aktivt deltagande i seminarium.
+
+  Delmomentet omfattar: Uppgifter relaterade till föreläsningsmaterial som lämnas in individuellt för att sedan diskuteras på seminarium. Studenten ska självständigt ha jobbat med given uppgift och genomfört simuleringar, genererat resultat och fört diskussion som relaterar till presenterad teori, numeriska fel, användarfel, begränsningar i modellen samt vanliga misstag.  
+Antagningsuppgifter
+Förkunskapskrav:
+VBRF10 Branddynamik
+
+
+Förutsatta förkunskaper: FMA420 Linjär algebra eller FMAB20 Linjär Algebra, FAFA30 Fysik- elektricitetslära, gaser och vätskor, VBRF20 Brandkemi och värmetransport, MMVA01 Termodynamik med strömningslära, VBRN60 Brandskyddssystem
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: VBRF15, VBRN15, VBR200, VBRF16
+Kurslitteratur
+
+Föreläsningsanteckningar.
+Manualer till olika datorprogram (FDS, Smokeview).
+G.Cox and S.Kumar: ”Modelling Enclosure Fires Using CFD”. In the SFPE-handbook Chapter 3:8.
+Kompletterande material görs tillgängligt via Luvit.
+•	Tu, J. et al.: Computational fluid dynamics, A practical approach. Utvalda kapitel.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Jonathan Wahlqvist, jonathan.wahlqvist@brand.lth.se
+
+
+

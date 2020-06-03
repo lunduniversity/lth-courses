@@ -1,0 +1,126 @@
+
+Kursplan 2020/21 VBRN70
+
+
+
+
+
+Kursplan för
+Brandteknisk riskvärdering
+Fire Safety Evaluation
+VBRN70, 9 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning BI/RH
+Beslutsdatum: 2020-03-16
+Allmänna uppgifter
+Obligatorisk för: BI3
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Syftet med kursen är att knyta ihop och generalisera kunskaper
+från denna kursen och från tidigare kurser och ge studenterna
+insikt i hur dessa kunskaper kan tillämpas för att värdera
+personsäkerheten vid händelse av brand i ett byggnadsverk. Syftet
+är också att öka ingenjörsmässigheten och förmågan att kunna
+bygga och analysera modeller.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna beskriva och tolka de i byggnormen angivna
+föreskrifterna avseende anordningar för utrymning vid brand.
+kunna beskriva och förklara övriga föreskrifter i byggnormen
+med tillhörande exempel på lösningar, metoder och allmänna
+råd, samt känna till lagen om skydd mot olyckor,
+arbetsmiljölagen.
+ha kännedom om aktuellt forsknings- och utvecklingsarbete inom
+det brandtekniska området.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kritiskt kunna utnyttja och utveckla metoder och tekniker
+avseende byggnadstekniskt brandskydd.
+kunna bedöma verkan på människor av värme, rök, och
+giftiga gaser utifrån brandscenarier.
+kunna tillämpa metoder för beräkning av brand- och
+brandgasspridning.
+kunna tillämpa metoder som beskriver utrymningshastighet för
+olika byggnadstyper.
+kunna genomföra en omfattande skriftlig värdering av
+personsäkerheten vid brand i ett verkligt objekt.
+förstå och använda facktermer inom området både i tal och
+skrift.
+visa förmåga till lagarbete och samverkan i grupper.
+visa förmåga att muntligt och skriftligt klart redogöra för
+och diskutera sina slutsatser, och den kunskap och de argument som
+ligger till grund för värderingen av personsäkerheten, i dialog
+med olika målgrupper.
+kunna söka och använda information rörande brandteknik i
+vetenskapliga artiklar och handböcker.
+kunna kritiskt använda information i ämnesdatabaser för att
+lösa sitt problem eller uppgift.
+kunna planera och rapportera sin tid samt förstå vikten av
+det.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+visa insikt i brandteknikens möjligheter och begränsningar
+för den valda tillämpningen, dess roll i samhället och
+människors ansvar för dess nyttjande, inbegripet sociala och till
+viss del ekonomiska aspekter.
+kunna bedöma ingenjörsmässiga lösningar med hänsyn till
+vetenskapliga, samhälleliga och etiska aspekter.
+kunna bedöma inhämtad information med hänsyn till
+vetenskapliga, samhälleliga och etiska aspekter.
+visa förmåga att identifiera sitt behov av ytterligare
+kunskap och att fortlöpande utveckla sin kompetens.
+
+
+Kursinnehåll
+Genomföra en värdering av personsäkerheten vid brand i ett
+verkligt objekt. Förslag till förbättringar skall kunna anges
+samt säkerhetskonsekvensen av dessa.
+Under kursens gång redovisar studenterna sin tid och planering
+i veckorapporter.
+I kursen ingår också hemuppgifter och inlämningsuppgifter.
+Vidare ingår datorlaborationer.
+Målet är att lära sig använda byggföreskrifterna avseende
+brandskydd (särskilt utrymningssäkerheten) genom förenklad
+dimensionering. En enkel beskrivning av brandskyddet skall
+upprättas för en byggnad, gruppvis.
+Projektuppgift, utgör huvuddelen i kursen.
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: Godkänd hemuppgift, godkända inlämningsuppgifter, närvaro vid demonstrationslaborationer, godkänd laboration, redovisning, opposition och genomförande av projektuppgift, närvaro vid obligatoriska redovisningar, aktivt deltagande vid obligatoriska moment, revidering av rapporten efter presentation och genomgångar ger slutbetyget godkänd.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0118. Benämning: Rapport 1. 
+Antal högskolepoäng: 4. Betygsskala: UG.  Prestationsbedömning: Godkänd hemuppgift och genomförande av projektuppgift.  Delmomentet omfattar: Genomföra en värdering av risknivån hos ett objekt, vilken genomförs som ett större projektarbete. I projektarbetet skall förslag till förbättringar kunna anges samt säkerhetskonsekvenserna av dessa. Projektarbetet utförs som ett grupparbete med bl. a. experimentella inslag, studiebesök och rapportskrivning. 
+Kod: 0218. Benämning: Rapport 2. 
+Antal högskolepoäng: 5. Betygsskala: UG.  Prestationsbedömning: Skriftlig och muntlig presentation av projektarbete, samt revidering av slutrapport.  Delmomentet omfattar: Skriftlig och muntlig presentation av projektarbetet, opposition på annat arbete samt revidering av slutrapport. Närvaro vid övriga gruppers presentationer. 
+Antagningsuppgifter
+Förkunskapskrav:
+VBRF05 Branddynamik eller VBRF10 Branddynamik
+
+
+Förutsatta förkunskaper: FMA420 Linjär algebra eller FMAB20, FAFA30 Fysik- elektricitetslära, gaser och vätskor, VBRF20 Brandkemi och värmetransport, MMVA01 Termodynamik med strömningslära,
+VBRN60 Brandskyddssystem
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: VBR054
+Kurslitteratur
+
+Kursen innehåller ingen obligatorisk kurslitteratur.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Marcus Runefors, marcus.runefors@brand.lth.se
+Övrig information: I grupparbeten förutsätts aktivt deltagande. Varje gruppmedlem skall enskilt kunna redovisa och svara för innehållet. Uppfyller inte en medlem övrigas krav på aktiv medverkan, eller åsidosätter sina åtaganden, kan beslut av examinator om omplacering till annan grupp eller underkänt betyg erhållas.
+
+
+

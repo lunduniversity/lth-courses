@@ -1,0 +1,93 @@
+
+Kursplan 2020/21 VVAN25
+
+
+
+
+
+Kursplan för
+Dricksvattenproduktion och avloppsvattenrening
+Water and Wastewater Treatment
+VVAN25, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning B/K
+Beslutsdatum: 2020-03-27
+Allmänna uppgifter
+Huvudområde: Vattenresurshantering. 
+Obligatorisk för: MWLU1
+Valfri för: K4-p, V4-vr, W4-p, W4-vr
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Vattenverk för dricksvattenproduktion och avloppsreningsverk
+är viktiga delar av den urbana vatteninfrastrukturen och påverkar
+det hydrologiska kretsloppet. För att skydda miljön och de
+miljötjänster som ekosystemen tillhandahåller måste vatten
+hanteras på ett miljömässigt hållbart sätt.
+Syftet med kursen är att ge kunskap om vatten- och
+avloppsvattenrening för att kunna utforma och driva kommunala
+anläggningar för att producera dricksvatten och rena
+avloppsvatten i den urbana miljön.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+redogöra för olika parametrar som påverkar kommunal
+dricksvattenproduktion och kommunal avloppsvattenhantering samt
+förklara dessa parametrars påverkan
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+utifrån givna förutsättningar kunna välja och dimensionera
+processer för kommunal dricksvattenproduktion och
+avloppsvattenrening (inklusive slambehandling)
+visa förmåga till lagarbete genom att i grupp genomföra ett
+avgränsat, fördjupande projektarbete om vattenrening
+visa förmåga att anpassa skriftlig och muntlig redovisning av
+resultatet av ett projektarbete till anvisad målgrupp
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+genom att samla och sammanställa information som är relevant
+för dimensionering och drift av kommunala vattenverk och kommunala
+avloppsreningsverk visa en förmåga att analysera och värdera
+olika typer av information
+
+Kursinnehåll
+Översikt av vattentillgångar, vattenförbrukning och
+vattenkvalitet
+Processer för beredning av konsumtionsvatten
+Avloppsvattensystem
+Fysikaliska, biologiska och kemiska reningsmetoder
+Slambehandling
+Småskalig avloppsvattenhantering
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig examination. Projektuppgift med muntlig och skriftlig redovisning samt deltagande i laborationsuppgift. Betyg baseras på den skriftliga examinationen.
+
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0120. Benämning: Dricksvattenproduktion och avloppsvattenrening. 
+Antal högskolepoäng: 5,5. Betygsskala: TH.  Prestationsbedömning: Skriftlig examination  Delmomentet omfattar: Examination av dricksvattenberedning, avloppsvattenhantering och slambehandling  
+Kod: 0220. Benämning: Obligatoriska moment. 
+Antal högskolepoäng: 2. Betygsskala: UG.  Prestationsbedömning: Projektuppgift med muntlig och skriftlig redovisning samt deltagande i laborationsuppgift  Delmomentet omfattar: Projektuppgift och laborationsuppgift 
+Antagningsuppgifter
+Förkunskapskrav:
+KETF01 Transportprocesser eller VVAF01 VA-teknik eller VVRF10 Strömningslära
+KETF01 Transportprocesser eller VVRA01 Hydrologi och akvatisk ekologi eller VVRA05 Vatten
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: VVAN05, VVA030
+Kurslitteratur
+
+Mackenzie L. Davies: Water and Wastewater Engineering, Design Principles and Practice. McGraw Hill, 2010, ISBN: 978-0-07-171384-9. Annat material tillkommer via kurswebben.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Åsa Davidsson, asa.davidsson@chemeng.lth.se
+Hemsida: https://www.lth.se/chemeng/
+
+
+

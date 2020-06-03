@@ -1,0 +1,114 @@
+
+Kursplan 2020/21 EDAF45
+
+
+
+
+
+Kursplan för
+Programvaruutveckling i grupp - projekt
+Software Development in Teams - Project
+EDAF45, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning C/D
+Beslutsdatum: 2020-03-30
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: D2
+Valfri för: C4, E4
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Många civilingenjörer kommer under sin karriär att samarbeta
+med andra i utveckling av programvara. Syftet med kursen är att ge
+kunskaper om och praktisk erfarenhet av hur man samverkar i ett
+team för att ta fram en programvaruprodukt. Fokus ligger på
+metoden extremprogrammering, en högiterativ, så kallad agil,
+utvecklingsprocess som syftar till hållbar utveckling av mjukvara.
+Kursen tar upp principer för samarbete med beställaren,
+planering, hållbar design/implementation, testning och leverans.
+Kursen fungerar samtidigt som fördjupning inom objektorienterad
+programmering. Kursen ger även studenten en grundläggande kunskap
+om hur utveckling av programvarusystem generellt går till, samt en
+förmåga att reflektera kring syftet med olika moment i en
+utvecklingsmetodik.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna redogöra för och motivera de olika delteknikerna inom
+extremprogrammering
+kunna redogöra för principer för versionshantering
+kunna definiera grundläggande begrepp inom utveckling av
+programvarusystem
+kunna beskriva de vanligaste processerna för utveckling av
+stora programvarusystem.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna utveckla och leverera en hållbar programvaruprodukt i
+samarbete med andra
+kunna tillämpa tekniker och verktyg för automatiserad
+testning, refaktorisering, och versionshantering
+kunna tillämpa iterativ planering och uppföljning
+kunna tillämpa parprogrammering
+kunna reflektera över sina egna och teamets aktiviteter i ett
+utvecklingsprojekt och förstå hur dessa tillsammans bidrar till
+en bra utvecklingsprocess.
+
+
+Kursinnehåll
+En konkret iterativ, så kallad agil, programutvecklingsmetodik
+används där studenterna tränas i att arbeta i grupp. Den
+använda metoden tar sin utgångspunkt i idéer från
+extremprogrammering (XP) med deltekniker som iterativ planering,
+automatiserad testning, test-first, parprogrammering,
+refaktorisering och täta leveranser.
+Kundens/användarens krav formuleras och prioriteras i samarbete
+med studenterna. Därigenom får studenterna inblick i de olika
+rollerna i processen exempelvis som kund/användare, projektledare
+och utvecklare samt förståelse för användarens behov och hur de
+kan hanteras. Kursen ger praktisk erfarenhet av hur ett småskaligt
+projekt kan drivas och ger därmed en referensram för
+påbyggnadskurser, som behandlar metodik för programutveckling
+för större projekt och organisationer.
+Kursen går över två läsperioder. Under den första perioden
+varvas föreläsningar med laborationer på enskilda moment som
+planering, testning, versionshantering och refaktorisering. Under
+andra perioden delas studenterna in i grupper om cirka 10 personer.
+Varje grupp driver ett programutvecklingsprojekt som en serie av
+planeringsmöten varvade med långlaborationer och med en
+avslutande projektredovisning.
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: För godkänt krävs fullgjorda laborationer, godkänt på kontrollskrivningen samt fullgjorda planeringsövningar, långlaborationer, reflektioner och godkänd projektredovisning under kursens andra läsperiod. Detaljer kommer att finnas i kursprogrammet.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0116. Benämning: Laborationer och kontrollskrivning. 
+Antal högskolepoäng: 2,5. Betygsskala: UG.  Prestationsbedömning: Godkänt på laborationer. Godkänt på kontrollskrivning. 
+Kod: 0216. Benämning: Projekt. 
+Antal högskolepoäng: 5. Betygsskala: UG.  Prestationsbedömning: Godkänt på alla delar av projektet. 
+Antagningsuppgifter
+Förkunskapskrav:
+Samtliga obligatoriska moment i kursen EDA061/EDAF60 eller EDAF10. Dessutom godkänd tentamen i någon av kurserna EDAA01, EDA027, EDA061/EDAF60, EDAF10
+
+
+Begränsat antal platser: 120
+Urvalskriterier: Studenter som följer D-programmet har platsgaranti. Urval för resterande platser: Avklarade högskolepoäng inom programmet. Förtur ges till studenter vars program har kursen listad i läro- och timplanen.
+Kursen överlappar följande kurser: EDA321, EDA322, EDA260, ETSA03, EDAG05
+Kurslitteratur
+
+chromatic: Extreme Programming Pocket Guide. O'Reilly, 2003, ISBN: 0-596-00485-0. Dessutom tillkommer kursmaterial i form av artiklar som tillhandahålles av institutionen.
+Pankaj Jalote: A Concise Introduction to Software Engineering. Springer, 2008, ISBN: 978-1-84800-301-9.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Ulf Asklund, ulf.asklund@cs.lth.se
+Hemsida: http://cs.lth.se/edaf45
+
+
+

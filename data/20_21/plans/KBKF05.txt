@@ -1,0 +1,91 @@
+
+Kursplan 2020/21 KBKF05
+
+
+
+
+
+Kursplan för
+Cellbiologi
+Cell biology
+KBKF05, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning B/K
+Beslutsdatum: 2020-03-27
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: B2, B3
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursen skall ge god kännedom om de basala molekylära
+mekanismerna i en levande cell.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+ha en förståelse för och kunna beskriva:
+
+den eukaryota cellens uppbyggnad och cellcykeln
+det eukaryota genbegreppet och eukaryot genreglering
+stamceller, stamcellterapi och kloning
+immunsystemets uppbyggnad och funktion i människa
+grundläggande cellulära och fysiologiska processer i
+kroppen
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna sammanställa en kortfattad rapport av ett centralt
+område inom cellbiologin baserad på vetenskapliga artiklar, samt
+redogöra för denna skriftigt eller muntligt.,
+kunna utföra basala laborativa moment inom cellbiologin.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna genomföra grundläggande etiska ställningstagande inom
+cellbiologin,
+kunna göra en basal bedöming av kvaliteten på ett
+vetenskapligt arbete inom cellbiologin.
+
+
+Kursinnehåll
+Cellkärnan och kromatinets organisation. Proteinsortering och
+sekretion. Celldelning och reglering av cellcykeln. Eukaryot
+genstruktur, exoner och introner. Informationsflödet i den
+eukaryota cellen. Cellbiologiska processer hos flercelliga
+eukaryoter. Immunologi. Molekylär fysiologi. Stamceller och
+cancer. Kloning och andra bioteknologiska tillämpningar.
+Djurförsök/Etiska frågeställningar. Laboration med
+mammalieceller.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig och/eller muntlig rapport av en litteraturuppgift, som kan ge extra poäng till tentamen, skriftlig tentamen, samt laborationsrapport. Slutbetyg baseras på sammanlagt tentamensresultat.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Cellbiologi, teori. 
+Antal högskolepoäng: 6. Betygsskala: TH.  Prestationsbedömning: Skriftlig och/eller muntlig rapport av en litteraturuppgift samt skriftlig tentamen. 
+Kod: 0217. Benämning: Cellbiologi, laborationer. 
+Antal högskolepoäng: 1,5. Betygsskala: UG.  Prestationsbedömning: Skriftlig rapport enligt instruktioner av handledarna. Aktivt deltagande. 
+Antagningsuppgifter
+Förutsatta förkunskaper: KBTA05 Inledande bioteknik
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: KBK070, KBK020
+Kurslitteratur
+
+Berg, J.M. and Tymoczko, J.L., Stryer, L.: Biochemistry, 9th edition. W.H. Freeman & Co, 2019, ISBN: 978-131911465-7.
+Alberts, Bray, Hopkin et al.: Essential Cell Biology, (4th or) 5th edition. Garland Publishing, 2019, ISBN: 9780393680393.
+Laborationskompendium i Cellbiologi.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Lieselotte Cloetens, Lieselotte.Cloetens@tbiokem.lth.se
+Hemsida: http://www.tbiokem.lth.se
+Övrig information: Vissa delar kan vara på engelska.
+
+
+

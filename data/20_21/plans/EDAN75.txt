@@ -1,0 +1,94 @@
+
+Kursplan 2020/21 EDAN75
+
+
+
+
+
+Kursplan för
+Optimerande kompilatorer
+Optimising Compilers
+EDAN75, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning C/D
+Beslutsdatum: 2020-03-30
+Allmänna uppgifter
+Valfri för: C5-pv, D5-is, D5-pv, E4-pv, F5, F5-pv, Pi5
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursens syfte är att studenterna skall förstå möjligheter
+och begränsningar hos moderna optimerande kompilatorer, och
+därigenom veta vad de behöver optimera för hand och vad
+kompilatorer kan optimera automatiskt.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+förstå vilka algoritmer och datastrukturer som används vid
+implementation av moderna optimerande kompilatorer, samt
+förstå vilka språkkonstruktioner som begränsar
+optimeringsmöjligheter.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna analysera benchmarkprogram för att se vilka
+optimeringsalgoritmer som är lämpliga att implementera, samt
+kunna implementera givna optimeringsalgoritmer på SSA form,
+kontrollera att de är korrekt implementerade, samt mäta
+prestandaeffekter.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna på egen hand sätta sig in i en vetenskaplig artikel i
+ämnet, och presentera denna muntligt för de andra
+studenterna,
+kunna bedöma ungefär hur lång tid det kan tänkas ta att
+implementera den presenterade algoritmen, samt bedöma om det kan
+anses vara värt arbetet, samt
+kunna bedöma om en optimeringsteknik kan vara lämplig att
+använda för hand i de fall kompilatorn inte kan göra det
+automatiskt.
+
+
+Kursinnehåll
+Kontrollflödesanalys, dataflödesanalys, beroendeanalys,
+aliasanalys, elimination av redundans, optimering av loopar,
+optimering av proceduranrop, registerallokering, schemaläggning av
+instruktioner, optimering för objektorienterade språk, optimering
+av minneshierarkin samt vektorisering för processorer med SIMD
+instruktioner.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Tentamen är skriftlig. Ett projekt ingår i kursen. Detta skall fullgöras inom en månad efter kursens slut. Slutbetyget bestäms av betygen på den skriftliga tentamen och ett frivilligt extra projekt.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Tentamen i optimerande kompilatorer. 
+Antal högskolepoäng: 4,5. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen. Slutbetyg på kursen baseras på resultatet av denna tentamen och ett frivilligt extra projekt. 
+Kod: 0217. Benämning: Obligatoriska moment. 
+Antal högskolepoäng: 3. Betygsskala: UG.  Prestationsbedömning: För godkänt betyg krävs fullgjorda övningar, laborationer och projekt. 
+Antagningsuppgifter
+Förkunskapskrav:
+EDAF05 Algoritmer, datastrukturer och komplexitet eller EDA027 Algoritmer och datastrukturer
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: EDA230
+Kurslitteratur
+
+Jonas Skeppstedt: An Introduction to the Theory of Optimizing Compilers, with performance measurements on POWER. Skeppberg, 2020, ISBN: 978-1537091129.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Jonas Skeppstedt, jonas.skeppstedt@cs.lth.se
+Hemsida: http://cs.lth.se/edan75
+Övrig information: Obligatoriska moment: Övningar, datorlaborationer och projektuppgift.
+
+
+

@@ -1,0 +1,110 @@
+
+Kursplan 2020/21 MMTF25
+
+
+
+
+
+Kursplan för
+CAD/CAM/CAE
+Computer Aided Design/Computer Aided Manufacturing
+MMTF25, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning M
+Beslutsdatum: 2020-03-26
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: MD1
+Alternativobligatorisk för: M3
+Valfri för: BME4, I4-pr, MPRR1
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Idag är både små och stora industriföretag utsatta för
+hård global konkurrens som leder till behov av att ständigt
+förbättra och effektivisera både sina produktions- och
+produktutvecklingsprocesser. Stora företag är ofta globala och
+behöver IT-system för att effektivt dokumentera, hantera och
+visualisera produkter och dokument i globala företagsmiljöer.
+Mindre företag är ofta beroende av effektiva samarbeten med
+underleverantörer särskilt när det gäller utbyte av
+produktdata. Behovet att minska ledtider i produktutvecklingen för
+att snabbare få ut produkter på marknaden och att vara flexibel
+för kundanpassade lösningar kräver ett integrerat IT-stöd.
+Syftet med denna kurs är att ge studenten en bred bild av vilka
+komponenter som ingår i detta integrerade IT-stöd, och förse
+studenten med färdigheter inom olika applikationsområden som
+finns tillgängliga i ett modernt 3D IT-verktyg för
+produktframtagning.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna identifiera komponenterna som bygger upp ett system för
+datorbaserat ingenjörsarbete.
+kunna förstå potentialen hos en tredimensionell datormodell
+och utnyttja denna information för olika tillämpningar och inom
+olika funktioner i ett företag.
+kunna identifiera och diskutera begrepp och funktioner inom
+ämnesområdet, på ett sådant sätt att man kan fungera som
+kravställare vid inköp/utveckling av datorbaserade
+ingenjörshjälpmedel.
+i muntlig form kunna beskriva och diskutera kring ett
+godtyckligt delområde inom ämnesområdet CADCAMCAE
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna skapa avancerade solidmodeller i programvaran Creo
+Parametric.
+kunna använda 3D-modellerings-, sammanställnings-,
+berednings- och visualiseringsfunktionerna för att kunna skapa och
+visualiera komplexa produkter.
+kunna genomföra en beredning av en detalj för bearbetning i
+en numeriskt styrd bearbetningsmaskin.
+
+
+Kursinnehåll
+Kursen teoretiska del behandlar de olika komponenterna och
+funktionerna i delområdena datorstödd ritning CAD, datorstödd
+beredning CAM och datorstött ingenjörsarbete CAE. Teoridelen
+omfattar kunskaper om grundläggande CAD- och CAM-teknik,
+generering och hantering av sammanställningar, friformkurvor,
+ytmodellering, solidmodellering (olika representationsformer),
+produktkvalité, rendering, visualisering, optimering,
+friformframställning, produktdatahantering (PDM), hantering av
+data kopplat till produktens livscykel (PLM).
+I kursens praktiska del arbetar studenten självständigt med
+inlämningsuppgifter som löses med hjälp av den kommersiella
+programvaran Creo Parametric. De praktiska momenten innebär
+arbete i olika moduler i programvaran och omfattar avancerad yt-
+och solidmodellering, sammansättning av solider (assemblering),
+programmering i CAD-system, ritningsframställning,
+rörelsesimulering och beredning. Beredningsarbetet innefattar
+bl.a. att skapa kod med bearbetningsinformation till en
+fleroperationsmaskin för att praktiskt bearbeta fram den
+3D-geometri som modellerats.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Löpande examination under kursens gång med inlämningsuppgifter, gästföreläsningar och deltagarundervisning. Ett obligatoriskt poänggivande modellprov avslutar kursen. Tillfälle ges att genomföra ett ommodelleringsprov direkt efter det ordinarie provtillfället.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: MMK010/MMKA25 Ritteknik/datorstödd ritning, FMAA01/FMAA05 Endimensionell analys.
+Begränsat antal platser: 120
+Urvalskriterier: Avklarade högskolepoäng inom programmet. Programstudenter som har kursen listad som obligatorisk eller alternativobligatorisk har platsgaranti. För övrigt ges förtur till studenter vars program har kursen listad i läro- och timplanen.
+Kurslitteratur
+
+Ett kursbibliotek med referenslitteratur för genomförande av deltagarundervisningen.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Hans Walter, hans.walter@iprod.lth.se
+Lärare: Jinming Zhou, jinming.zhou@iprod.lth.se
+Hemsida: http://www.iprod.lth.se
+Övrig information: Studenten behöver ha ett användarkonto för att kunna arbeta med programvaran som används för de obligatoriska inlämningsuppgifterna.
+
+
+

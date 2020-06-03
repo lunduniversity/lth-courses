@@ -1,0 +1,88 @@
+
+Kursplan 2020/21 FMNN05
+
+
+
+
+
+Kursplan för
+Simuleringsverktyg
+Simulation Tools
+FMNN05, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning F/Pi
+Beslutsdatum: 2020-04-01
+Allmänna uppgifter
+Valfri för: D4, F4, F4-bs, Pi4-bs, Pi4-pv
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Simuleringsteknik är ett ämne som kräver såväl
+erfarenhet av modellering som goda kunskaper i numerisk analys
+samt programmeringsförmåga. Kursens syfte är att ge studenter i
+en sen fas av utbildningen möjligheten att praktiskt arbeta i små
+arbetslag med industrinära beräkningsproblem inom modellering av
+komplexa mekaniska system. Studenterna får i kursen se hur
+matematiska  metoder kan återfinnas på olika nivåer i
+industrinära simuleringsverktyg. I synnerhet kommer numeriska
+metoder för ordinära differentialekvationer, med
+diskontinuiteter och/eller algebraiska bivillkor, samt numeriska
+metoder för att lösa stora system av ickelinjära
+ekvationssystem att utgöra kursens ryggrad.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna ange vilka frågeställningar de använda programmen
+besvarar.
+beskriva de numeriska metoder som används i vanliga
+kommersiella simuleringsverktyg.
+kunna göra egna resultatbedömningar för några
+exempelproblem.
+kunna redogöra för strukturella likheter mellan olika
+ingenjörsproblem som behandlas i kursen.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+självständigt kunna tillämpa och kritiskt evaluera numeriska
+metoder som finns i industriella programpaket.
+skriva en rapport som med adekvat terminologi, och
+algoritmiskt välstrukturerat, redogör för matematiska metoder
+som används i industrinära simuleringsverktyg.
+
+
+Kursinnehåll
+Teoridel: Numerisk behandling av ordinära
+differentialekvationer med diskontinuiteter och/eller algebraiska
+bivillkor och av tidsberoende partiella differentialekvationer.
+Modelleringsvarianter, variationsintegratorer och andra speciella
+modelleringsanpassade numeriska metoder. Introduktion till ett
+modelleringsspråk.
+Praktisk del: Numeriska experiment med
+beräkningsverktyg i kommersiell, industrirelevant programvara som
+t.ex. FEniCS. Likartade experiment med egen kod i Python.
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: Inlämningsrapport i flera delar.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: FMNN10 Numeriska metoder för differentialekvationer eller liknande kurs.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FMN145, NUMN05
+Kurslitteratur
+
+Relevant material (tidskriftsartiklar samt utdrag ur webbaserade handböcker) delas ut vid kursstart.
+
+
+Kontaktinfo och övrigt
+Studierektor: Anders Holst, Studierektor@math.lth.se
+Kursansvarig: Claus Führer, claus.fuhrer@na.lu.se
+Kursadministratör: Student Office, expedition@math.lth.se
+Hemsida: http://www.maths.lth.se/na/courses/FMNN05
+
+
+

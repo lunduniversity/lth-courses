@@ -1,0 +1,126 @@
+
+Kursplan 2020/21 VVRA01
+
+
+
+
+
+Kursplan för
+Hydrologi och akvatisk ekologi
+Hydrology and Aquatic Ecology
+VVRA01, 15 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning W
+Beslutsdatum: 2020-03-23
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: W1
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+
+att visa på samspelet mellan naturliga hydrologiska och
+ekologiska processer samt människans påverkan.
+att få insikt i kopplingarna mellan biologiska och fysikaliska
+processer/förhållanden i vattenbaserade ekosystem.
+speciellt betonas även förmåga att arbeta gemensamt i grupp
+samt att kommunicera och strävan efter ett kritiskt
+förhållningssätt.
+
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna förklara och använda grundbegrepp inom vattenbalans,
+avrinning och mark- grundvatten samt fysikaliska och kemiska
+karaktäristika för ytvattensystem
+kunna beskriva fotosyntes och grundläggande
+näringsomsättning för organismer i ytvatten samt hur vatten och
+näringsämnen/föroreningar transporteras i miljön
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna lösa ett typiskt vattenmiljöproblem genom att använda
+hydrologi och akvatisk ekologi.
+kunna redovisa lösningen av ett typiskt vattenmiljöproblem
+muntligt och i rapport för olika avnämartyper
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna kritiskt bedöma lösningar till typiska
+vattenmiljöproblem sett från vetenskaplig metod och samhällelig
+nytta.
+kunna bedöma lösningar till typiska vattenmiljöproblem från
+en etisk synpunkt samt ett hållbarhetsperspektiv.
+
+
+Kursinnehåll
+
+vattenresurslära: Mänskliga behov, tekniska system
+för vattenhantering, mänsklig påverkan, avrinningsområdet.
+vattnets kretslopp; Det hydrologiska systemet,
+vattenbalans, nederbörd, avdunstning, infiltration, grundvatten,
+avrinning.
+rinnande vatten och sjöar: Flödesdämpning,
+introduktion till termodynamik och strömningsprocesser,
+omblandning, omsättningstider, skiktning av vattenmassan,
+ämnestransport, syrgasförhållanden, sedimentation,
+grundläggande kanalströmning.
+ekologiska grundbegrepp: Allmänna grundbegrepp såsom
+evolution, genetik och ekosystemteknologi. Näringsrika och
+näringsfattiga sjöar, samspelet mellan olika trofiska nivåer
+(som fytoplankton, zooplankton och fisk), eutrofiering, kopplingen
+mellan sediment och vattenmassa för utbytet av näringsämnen,
+litorala och pelagiska näringskedjor, strandväxtlighet.
+kretslopp för näringsämnen. Kolets, kvävets och
+fosforns kretslopp, koppling mellan näringsämnen och
+fytoplankton, zooplankton och fisk, tillgänglighet av
+näringsämnen under olika tider.
+mänsklig påverkan: Påverkan från urbana områden,
+jordbruk och skogsbruk, sjöar och floder som recipienter, diffusa
+källors påverkan, reningsteknik, åtgärder i rinnande vatten och
+sjöar.
+presentationsteknik består av ett par föreläsningar
+samt ett uppsatsarbete inom hydrologi och akvatisk ekologi.
+
+Undervisningen tar sin utgångspunkt i ett utvalt
+avrinningsområde där man gör fältövningar. Med detta som
+bakgrund och åskådningsexempel gör studenterna i en
+projektuppgift. Dessutom hålls traditionella föreläsningar och
+övningar.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examinationen sker både individuellt och baserat på arbete i grupp. Delkurs 1 betygsätts genom obligatorisk skriftlig tentamen i slutet av läsperiod 1. Delkurs 2 betygsätts dels genom projektuppgift samt en duga. Det graderade slutbetyget (3, 4 eller 5) baseras på tentamen, projektuppgift, duga samt den fortlöpande examineringen under läsperiod 2. För godkänd kurs krävs godkänd tentamen, godkänd skriftlig och muntlig redovisning av fältövningar samt godkänd skriftlig delredovisning av projektuppgift under delkurs 1 och godkänd skriftlig och muntlig redovisning av projektuppgift samt skriftlig redovisning under delkurs 2.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Delprov 1. 
+Antal högskolepoäng: 7,5. Betygsskala: TH.  Prestationsbedömning: För godkänd kurs krävs godkänd tentamen, godkänd skriftlig och muntlig redovisning av fältövningar samt godkänd skriftlig delredovisning av projektuppgift under delkurs 1.  Delmomentet omfattar: Vattnets kretslopp, mänsklig påverkan och ekologi  Övrig information: Examination i slutet av period 1
+Kod: 0217. Benämning: Delprov 2. 
+Antal högskolepoäng: 7,5. Betygsskala: TH.  Prestationsbedömning: Godkänd skriftlig och muntlig redovisning av projektuppgift under delkurs 2.  Delmomentet omfattar: Restaurering av förorenad bäck  Övrig information: Muntlig och skriftlig presentation av projekt vid slutet av period 2.
+Antagningsuppgifter
+Förutsatta förkunskaper: Kunskaper i matematik, fysik, kemi och biologi motsvarande NV-programmet på gymnasiet.
+Begränsat antal platser: Nej
+Urvalskriterier: Se allmän information på LTH:s hemsida
+Kursen överlappar följande kurser: VVR111
+Kurslitteratur
+
+Christer Brönmark och Lars-Anders Hansson: The Biology of Lakes and Ponds. Oxford University Press, 2018, ISBN: 978-0-19-871360-9. DOI 10.1093/oso/9780198713593.001.0001
+web page: https://global.oup.com/academic/product/the-biology-of-lakes-and-ponds-9780198713609?cc=se&lang=en&.
+Hydrology for Environmental Engineers, R. Berndtsson, et al, 6th Edition, 2017.
+Berndtsson, R., et al, Riseberga Restoration Project, 6th Edition, 2017.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Professor Lars-Anders Hansson/Limnologi, Lars-Anders.Hansson@limnol.lu.se
+Kursansvarig: Linus Zhang, linus.zhang@tvrl.lth.se
+Hemsida: http://www.tvrl.lth.se/utbildning/courses/vvra01/
+Övrig information: Kursen bedrivs som ett samarbete mellan Institutionen för teknisk vattenresurslära och Ekologiska institutionen.
+
+
+

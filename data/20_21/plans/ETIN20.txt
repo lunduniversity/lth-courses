@@ -1,0 +1,114 @@
+
+Kursplan 2020/21 ETIN20
+
+
+
+
+
+Kursplan för
+Digital IC-konstruktion
+Digital IC-design
+ETIN20, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning E
+Beslutsdatum: 2020-03-19
+Allmänna uppgifter
+Huvudområde: Elektronikkonstruktion. 
+Huvudområde: Nanovetenskap. 
+Obligatorisk för: MSOC1
+Valfri för: D4, E4-fh, E4-is, F4, F4-hn, N4-hn
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Digital IC-konstruktion är den första kursen, i digital
+VLSI-konstruktion, av totalt 5. Denna kurs syftar till att skapa
+en grundlig förståelse för digital integrerad kretskonstruktion.
+Den ges parallellt med kurserna Analog IC-konstruktion och Digitala
+strukturer på kisel. Ökande komplexitet och ökande krav på
+prestanda i form av snabbhet och effektsnålhet ställer allt
+högre krav på hårdvarukonstruktören. Att förstå både
+möjligheterna och begränsningarna är viktigt inte bara för den
+som gör ”full custom designs”. Även den som gör
+högnivåkonstruktioner (t.ex. i VHDL) måste känna till grunderna
+för att kunna göra effektiva VLSI-implementeringar.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+beskriva de parametrar som påverkar de fysikaliska
+egenskaperna, i transistorn eller i en digital krets, med avseende
+på area, effektförbrukning eller fördröjningar,
+analysera enklare digitala kretsstrukturer baserade på
+CMOS-teknik, utgående från en given topologi, en given funktion,
+en layout, eller ett ledningsnät,
+beskriva hur man bygger upp enkla aritmetiska och
+kombinatoriska block utgående från elementära funktioner och
+redogöra för hur dessa block fungerar i sekventiella nät
+samt
+använda basala verktyg för layout, schema och simulering for
+digital ASIC-konstruktion.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+utifrån givet ett problem, självständigt eller i grupp om
+två, tillämpa sina kunskaper genom att analysera digitala kretsar
+samt simulera och konstruera dem i en datorbaserad miljö.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna kommunicera resultat från laborativa experiment
+muntligen och
+ha tillägnat sig tillräckligt med grundläggande begrepp och
+kunskaper att man kan beskriva idéer, problem och lösningar för
+sakkunniga personer, i området.
+tillägna sig och sovra i viktig information ur ett digert
+material, såsom lärobok eller manual, utan läsanvisning.
+
+Efter kursen förväntas studenten inse att ett chip inte är en
+kaotisk samling av transistorer utan ett organiserat hierarkiskt
+system uppbyggt av moduler.
+
+Kursinnehåll
+Kursen innehåller en genomgång av MOS-transistorn och dess
+fysikaliska egenskaper. Modeller för dess funktion härleds.
+Speciellt beaktas de parametrar vi kan påverka som
+kretskonstruktörer. Olika familjer för logiska funktioner
+baserade på MOS-transistorer avhandlas. Dimensionering av dessa
+är ett viktigt inslag. Kursen tar upp sammansättning av olika
+block till aritmetiska funktioner. Här beaktas även egenskaper
+hos ledare för sammansättningen. Stort utrymme ges även åt
+sekventiell konstruktion. I alla delar beaktas dessutom prestanda
+såsom effektförbrukning, kiselarea och snabbhet.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Studenten ska vara godkänd på laborationerna samt vara godkänd på tentamen.
+För att få högsta betyget (5)  krävs genomförandet av ett litet projekt som ska redovisas muntligt.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0118. Benämning: Tentamen. 
+Antal högskolepoäng: 6. Betygsskala: TH.  Prestationsbedömning: Godkänd tentamen.  Delmomentet omfattar: Hela kursen  Övrig information: För betyg 5 krävs genomförande av projekt med muntlig redovisning.
+Kod: 0218. Benämning: Laborationer. 
+Antal högskolepoäng: 1,5. Betygsskala: UG.  Prestationsbedömning: Tre godkända laborationer.  Delmomentet omfattar: Hela kursen 
+Antagningsuppgifter
+Förutsatta förkunskaper: EIT020/EITF65 Digitalteknik samt ESS010/EITA35/ETIA01 Elektronik eller ETE115/EITF90 Ellära och elektronik.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: ETI130
+Kurslitteratur
+
+Rabaey J M, Chandrakasan A, Nicolic B: Digital Integrated Circuits, A Design Perspective. Prentice Hall , ISBN: 9780130909961.
+Övrigt material läggs ut på kursens hemsida http://bwrc.eecs.berkeley.edu/icbook/.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Joachim Rodrigues, joachim.rodrigues@eit.lth.se
+Hemsida: http://www.eit.lth.se/kurs/etin20
+Övrig information: Laborationerna sker i CADENCE/Linux miljö. Under laborationerna förväntas studenterna behärska elementära UNIX-kommandon.
+
+
+

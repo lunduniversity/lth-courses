@@ -1,0 +1,101 @@
+
+Kursplan 2020/21 KBKA10
+
+
+
+
+
+Kursplan för
+Biokemi
+Biochemistry
+KBKA10, 7,5 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning B/K
+Beslutsdatum: 2020-03-27
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursens syfte är att ge grundläggande kunskaper i biokemi,
+speciellt inom områdena proteinkemi, enzymologi, fotosyntes och
+metabolism. Kursen ska också ge basala färdigheter inom biokemisk
+laborationsteknik.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+Kunna förklara och beskriva centrala metoder för
+proteinupprening och proteinkarakterisering
+Kunna förklara och beskriva enzymers sätt att fungera och hur
+deras aktivitet kan regleras
+Kunna diskutera och beskriva på en medelhög komplexitetsnivå
+energimetabolismens tre steg
+Kunna använda oxidations/reduktionsbegreppet för att
+förklara energiomvandlingar i cellen, inkluderat fotosyntes
+Kunna beskriva på en låg komplexitetsnivå hur cellen kan
+syntetisera biomolekyler
+Kunna förklara, beskriva och generalisera centrala begrepp
+inom metabolismreglering
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+designa och i grupp genomföra en process för proteinupprening
+i laboratoriesammanhang.
+behärska ett antal vanliga biokemiska laboratorietekniker
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+ 
+
+kunna bedöma rimligheten i en metod att rena upp ett protein
+från ett biologiskt material.
+kunna göra en översiktiktlig värdering av
+näringsinnehållet i en livsmedelsprodukt samt hur detta kan
+tänkas påverka en individs hälsa.
+
+
+Kursinnehåll
+
+olika metoder för proteinupprening och
+proteinkarakterisering
+exempel på specifika enzymmekanismer
+kolhydrater i biologiska system
+grundläggande begrepp för förståelse av metabolismen
+energimetabolismens tre steg
+metabolismen för kolhydrater, fetter och proteiner.
+regleringen av metabolismen genom olika metoder
+mekanismer för hur hormoner kan påverka cellfunktionen
+elektrontransport och dess koppling till ATP-syntes och
+fotosyntes
+biosyntes av centrala biomolekyler
+upprening av ett enzym i en laboration
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen. För godkänd kurs krävs även en laborationsrapport av enklare typ.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Biokemi,  teori. 
+Antal högskolepoäng: 6. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen.  Delmomentet omfattar: Olika metoder för proteinupprening och proteinkarakterisering. Exempel på specifika enzymmekanismer. Kolhydrater i biologiska system. Grundläggande begrepp för förståelse av metabolismen. Energimetabolismens tre steg. Metabolismen för kolhydrater, fetter och proteiner. Regleringen av metabolismen genom olika metoder. Mekanismer för hur hormoner kan påverka cellfunktionen. Elektrontransport och dess koppling till ATP-syntes och fotosyntes. Syntes av biomolekyler. 
+Kod: 0217. Benämning: Biokemi, laborationer. 
+Antal högskolepoäng: 1,5. Betygsskala: UG.  Prestationsbedömning: Laborationsrapport.  Delmomentet omfattar: Laborationen omfattar upprening av genmodifierat laktatdehydrogenas från E. coli. 
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: KBK010, KBK020, KBK011
+Kurslitteratur
+
+Berg, J.M., Tymoczko, J.L., Gatto, G.J. and Stryer, L.: Biochemistry. W.H. Freeman & Co, 2015, ISBN: 978-1-4641-2610-9.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Nélida Leiva Eriksson , nelida_leiva.eriksson@tbiokem.lth.se
+Hemsida: http://www.tbiokem.lth.se/utbildning/biokemi-75-hp/
+
+
+

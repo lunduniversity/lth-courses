@@ -1,0 +1,90 @@
+
+Kursplan 2020/21 EITF95
+
+
+
+
+
+Kursplan för
+Kösystem
+Queuing System
+EITF95, 4,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning C/D
+Beslutsdatum: 2020-03-30
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: C3, D3
+Valfri för: E4-ks
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursens syfte är att ge en introduktion till metoder för att
+förutsäga realtidsegenskaper hos betjäningssystem, i synnerhet
+för telekommunikationssystem.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+Kunna lösa problem inom elementär köteori och
+könätsteori
+Kunna använda enkla simuleringsverktyg
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+Ställa upp enkla kömodeller modeller för att skatta ett
+systems realtidsegenskaper
+Använda simulering för att studera prestanda för ett
+system
+Kunna tolka mätningar och göra skattningar
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+Visa förmåga att kritiskt tolka resultat från beräkningar
+och simuleringar
+Visa kännedom om begränsningar hos matematiska modeller av
+kösystem
+
+
+Kursinnehåll
+Kursen behandlar realtidsegenskaper hos
+telekommunikationssystem. Studenter lär sig metoder för att
+beräkna och simulera prestanda för system och får därmed också
+möjligheter att dimensionera och optimera system.
+Kursen ger en översikt över den elementära köteorin,
+könätsteorin och introducerar diskret händelsesimulering. I
+köteorin behandlas metoder för att beräkna svarstider och
+spärrsannolikheter. Inom könätsteorin studeras Jacksonnät.
+Diskret händelsesimulering i ett generellt programspråk (Matlab)
+gås igenom och tillämpas.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen av problemlösningstyp. Laborationer.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Tentamen. 
+Antal högskolepoäng: 3. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen.  Delmomentet omfattar: Problemlösning 
+Kod: 0217. Benämning: Laboration, fördjupningsuppgift. 
+Antal högskolepoäng: 1,5. Betygsskala: UG.  Prestationsbedömning: Laborationer.  Delmomentet omfattar: Laborationer. 
+Antagningsuppgifter
+Förutsatta förkunskaper: FMS012/FMSF45/FMSF55 Matematisk statistik. Kunskaper motsvarande ETS130/EITA55 Kommunikationssystem eller ETS052/EITF45 Datorkommunikation.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: ETS075, ETS010, ETS020, ETS055
+Kurslitteratur
+
+Körner, Ulf: "Köteori".
+Övningskompendium.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Christian Nyberg, christian.nyberg@eit.lth.se
+Hemsida: http://www.eit.lth.se/kurs/eitf95
+
+
+

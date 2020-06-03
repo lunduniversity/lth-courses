@@ -1,0 +1,87 @@
+
+Kursplan 2020/21 VSMA01
+
+
+
+
+
+Kursplan för
+Mekanik
+Mechanics
+VSMA01, 5 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning V
+Beslutsdatum: 2020-03-23
+Allmänna uppgifter
+Huvudområde: Industridesign. 
+Obligatorisk för: KID1
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+
+Kursen ger baskunskaper mekanik, strukturmekanik och
+konstruktion för att förstå samspelet mellan form och
+belastningar.
+Begreppen förmedlas så att dessa kan utnyttjas som verktyg i
+en designprocess och bidra till en produkts uttryck.
+
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna förklara grundläggande begrepp inom mekanik och
+konstruktion
+kunna analysera och beskriva utifrån de grundläggande
+begreppen befintliga produkter insatta i sitt sammanhang
+kunna beskriva hur val av form påverkar kraftspel och
+deformationer
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna tillämpa denna kunskap som aktivt hjälpmedel vid
+utformning av produkter
+åskådliggöra värden och förklara mekaniska principer
+utifrån skisser och friläggning samt hur dessa värden
+kommuniceras en användare av produkten.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+Redovisa i bilder, text och muntlig presentation produktens
+mekaniska egenskaper och gestaltningsvärden kopplat till
+dessa.
+
+
+Kursinnehåll
+Grundläggande begrepp, storheter och samband som används för
+att beskriva material, krafter och deformationer förklaras. Ur
+verkliga situationer avgränsas problem och väljs lämpliga
+modeller för överslagsmässig analys av problem.
+En välbetänkt hållning till fysikens modelltänkande ges
+därigenom. Exempel på begrepp och storheter som behandlas är
+massa, tyngdpunkt, styvhet, dimensioner, kraft, moment och
+jämvikt.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examination sker genom två projekt med redovisning och skriftlig tentamen. Slutbetyget baseras på resultatet på tentamen. I projekten arbetar studenten i par respektive i grupp om 4-5 studenter. Godkända projekt krävs för godkänt betyg.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: VSM101
+Kurslitteratur
+
+Gustavsson, P. och Austrell, P.-E.: Krafter. LTH Byggnadsmekanik, 2003.
+Material som ges ut av avdelningen.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Erik Serrano, erik.serrano@construction.lth.se
+Hemsida: http://www.byggmek.lth.se/utbildning/kurser/vsma01-mekanik/
+
+
+

@@ -1,0 +1,104 @@
+
+Kursplan 2020/21 FMSN20
+
+
+
+
+
+Kursplan för
+Spatial statistik med bildanalys
+Spatial Statistics with Image Analysis
+FMSN20, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning I
+Beslutsdatum: 2020-04-03
+Allmänna uppgifter
+Valfri för: BME4, C4, D5-bg, E4-bg, F4, F4-bg, Pi4-ssr, Pi4-biek, Pi4-bam, MMSR2
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursens syfte är att studenten ska tillägna sig verktyg för
+att hantera högdimensionella statistiska problem. Kursen
+innehåller modeller och metoder med praktiska tillämpningar
+främst inom spatial statistik och bildanalys. Speciellt viktigt
+är de Bayesianska aspekterna, eftersom de bildar grunden för
+många moderna spatiala statistiska metoder och bildanalysmetoder.
+Kursen fokuserar på metoder med tillämpningar inom klimat,
+miljöstatistik och fjärranalys.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+förklara och använda begreppet statistisk modell, speciellt
+utifrån ett Bayesianskt perspektiv.
+beskriva principer för Bayesiansk modellering och
+inferens.
+identifiera och beskriva stokastiska modeller och
+analysmetoder för högdimensionella problem, speciellt inom
+spatial statistik och bildanalys.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+självständigt föreslå och analysera stokastiska modeller
+för högdimensionella data, speciellt inom spatial statistik och
+bildanalys.
+självständigt implementera ett datorprogram för lösning av
+ett givet statistiskt problem med tillhörande analysmetod.
+redovisa motiveringar, tillvägagångssätt och slutsatser
+vid lösning av en given statistisk problemställning, både
+skriftligt och muntligt.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+identifiera och problematisera möjligheter och begränsningar
+vid statistisk modellering och slutledning, speciellt i
+högdimensionella problem.
+kunna anlägga ett stokastiskt synsätt på slumpmässig
+variation i naturliga fenomen.
+
+
+Kursinnehåll
+Bayesianska metoder för stokastisk modellering, klassificering
+och rekonstruktion. Stokastiska fält, Gaussiska fält, Kriging,
+Markovfält, Gaussiska Markovfält, icke gaussiska
+observationer. Kovariansfunktioner, multivariata tekniker.
+Simuleringsmetoder för stokastisk inferens (Gibbs sampling).
+Tillämpningar inom klimat, miljöstatistik, fjärranalys och
+spatial statistik.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Projektuppgifter med skriftlig och muntlig redovisning. Slutbetyget avgörs av en sammanvägning av resultatet på projektdelarna.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0115. Benämning: Projektdel 1. 
+Antal högskolepoäng: 2,5. Betygsskala: UG.  Prestationsbedömning: Skriftlig projektrapport 
+Kod: 0215. Benämning: Projektdel 2. 
+Antal högskolepoäng: 5. Betygsskala: UG.  Prestationsbedömning: Skriftlig och muntlig projektredovisning 
+Antagningsuppgifter
+Förkunskapskrav:
+FMSF10 Stationära stokastiska processer eller FMSF15 Markovprocesser eller FMSF20 Matematisk statistik, allmän kurs eller FMSF25 Matematisk statistik - kompletterande projekt eller FMSF45 Matematisk statistik, allmän kurs eller FMSF50 Matematisk statistik, allmän kurs eller FMSF55 Matematisk statistik, allmän kurs eller FMSF70 Matematisk statistik eller FMSF75 Matematisk statistik, allmän kurs
+
+
+Förutsatta förkunskaper: Någon av Markovprocesser eller Stationära stokastiska processer. God Matlabvana.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FMS150, MASM13, MASM25
+Kurslitteratur
+
+A. Gelfand, P. Diggle, P. Guttorp, M. Fuentes (Eds.): Handbook of Spatial Statistics. CRC Press Inc, 2010, ISBN: 9781420072877. Endast delar av boken används, finns som e-bok.
+
+
+Kontaktinfo och övrigt
+Studierektor: Johan Lindström, studierektor@matstat.lu.se
+Hemsida: http://www.maths.lth.se/matstat/kurser/fmsn20/
+Övrig information: Utöver Handbook of Spatial Statistics kan alternativ litteratur, fritt tillgänglig från Lunds universitets bibliotek, föreslås.
+
+Kursen ges även på naturvetenskaplig fakultet med kurskod MASM25.
+
+
+

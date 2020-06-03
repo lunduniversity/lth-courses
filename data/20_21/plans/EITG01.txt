@@ -1,0 +1,93 @@
+
+Kursplan 2020/21 EITG01
+
+
+
+
+
+Kursplan för
+Dator- och telekommunikation
+Computer and Telecommunication
+EITG01, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning C/D
+Beslutsdatum: 2020-03-30
+Allmänna uppgifter
+Obligatorisk för: IDA2, IEA2
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursens syfte är att ge grundläggande kunskaper om de dator-
+och telekommunikationssystem, som används idag och orientering
+om system som är under utveckling.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna beskriva funktionerna i radio- och TV system
+kunna beskriva uppbyggnaden av cellulära
+mobiltelefonisystem
+kunna redogöra för olika vägvalsprotokoll och deras
+egenskaper
+kunna beskriva de viktigaste protokollen inom dator- och
+telekommunikation
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna utgående från givna krav konfigurera ett tele- eller
+datorkommunikationssystem
+kunna konfigurera routing för ett datornätverk
+kunna skriftligt dokumentera och muntligt redovisa en lösning
+för ett tele- eller datorkommunikationssystem
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+Visa prov på insikt om möjligheter och begränsningar inom
+dator- och telekommunikation
+Visa prov på samarbetsförmåga i grupp
+
+
+Kursinnehåll
+
+Modulationsmetoder i bärvågssystem
+Digital radio och TV
+Transmissionsledningar och antenner
+Multiplexering
+Kretskopplade nät och telefonnät
+DSL, kabelmodem, SONET
+Punkt-till-punkt-access
+Mobil- och satellitnät
+Virtuella kretskopplade nät
+Vägval
+Prestanda-aspekter
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Krav för betyg 3 är godkända laborationer, godkända inlämningsuppgifter och godkänd tentamen. Högre betyg avgörs via den skriftliga tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Dator- och telekommunikation. 
+Antal högskolepoäng: 5. Betygsskala: TH.  Prestationsbedömning: Tentamen 
+Kod: 0217. Benämning: Laborationer och inlämningsuppgift. 
+Antal högskolepoäng: 2,5. Betygsskala: UG.  Prestationsbedömning: Godkända laobrationer och godkänd inlämningsuppgift 
+Antagningsuppgifter
+Förutsatta förkunskaper: EITA60/ETS302 Datorkommunikation.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: ETS610, ETS630, ETS601, EITF45
+Kurslitteratur
+
+ James F. Kurose , Keith W. Ross: Computer Networking: A Top-down Approach. Pearson Education Limited, 2012, ISBN: 9780273768968.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Johan M Karlsson, johan_m.karlsson@eit.lth.se
+Hemsida: http://www.eit.lth.se/kurs/eitg01
+
+
+

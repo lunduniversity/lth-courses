@@ -1,0 +1,106 @@
+
+Kursplan 2020/21 IDEN60
+
+
+
+
+
+Kursplan för
+Ytbaserad modellering, rendering och design
+Surface-based Modelling, Rendering and Design
+IDEN60, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning ID
+Beslutsdatum: 2020-02-18
+Allmänna uppgifter
+Huvudområde: Industridesign. 
+Obligatorisk för: MD4
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Ytbaserad 3D-modellering och rendering är en viktig del i
+många industridesignprocesser. Efter att ha slutfört denna kurs
+skall studenterna ha en fördjupad förståelse för 3D-design och
+känna sig säkra i att självständigt översätta sina
+designidéer till 3D-modeller lämpade för vidare utveckling och
+presentation med hjälp av datorbaserade verktyg. Målet är att
+utöka studenternas kunskaper och färdigheter inom ytmodellering,
+som ett komplement till solidmodellering vid modellering av
+komplexa ytor och för att ge studenterna kunskap kring verktyg och
+analysmodeller för att skapa och modifiera ytor med hög
+kvalitet.
+För att på djupet förstå nyttan med ytmodellering kommer
+studenterna att få undervisning i konceptuella verktyg för att
+aktivt och kritiskt kunna reflektera över en 3D-forms
+designaspekter i en industriell kontext. 
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+Ha förståelse för och förmåga att kritiskt reflektera över
+designaspekter och relationer mellan 3D-former, däribland aspekter
+som:
+-Ytkontinuitet och övergångar mellan ytor
+-Ytor och kurvors krökning
+-Dominant/subdominant/underordnad form
+-Proportioner
+Förstå och kunna genomföra den vedertagna arbetsgången för
+3D-ytmodellering:
+- Mjukvarors användargränssnitt, dvs menyer, fönster, ikoner,
+snabbtangenter och mapphantering
+- Det tredimensionella rummet; NURBS-geometrins historia och
+principer, dvs punkter, kurvor och ytor
+-Teoretisk förståelse av G0-, G1-, G2- och G3-kontinuitet
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+- Fånga designidén genom konstruktion och manipulering av
+3D-kurvor genom punkter i det tredimensionella rummet.
+- Modellering av enkla kurvor som grundmaterial för enkla ytor
+- Analysera kurvor och ytors krökning och kontinuitet
+- Genom modellering av befintliga produkter övas konstruktion och
+modifiering av ytor för noggrann objektbeskrivning
+-Modifiering av ytor för att utforska relationer mellan former
+- Fotorealistisk rendering av färdiga objekt genom texturering och
+ljussättning; dvs  mapping av bilder och HDR-bilder (bilder med
+stort dynamiskt omfång)
+- Framtagning av grundläggande data för användning i annan
+mjukvara samt för snabb prototypframställning
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+-Uppvisa en förmåga att bedöma de estetiska kvaliteterna hos
+en design
+-Uppvisa en förmåga att bedöma och verifiera kurvor och ytors
+kvalitet
+
+Kursinnehåll
+Kursen bygger på kunskaper och färdigheter från tidigare
+kurser i estetik, skissmodellering och CAD. Kursen består av
+gruppföreläsningar kompletterade med individuell handledning
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: 80 % närvaro krävs. Bedömningen grundar sig på dokumentation av individuella inlämningsuppgifter.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+AFOA25 Estetik I
+IDEA95 Verkstadsintroduktion
+MMTF25 CAD/CAM/CAE
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: MMKF25, IDEA85, IDEA90
+Kurslitteratur
+
+Aktuella mjukvarumanualer, hjälpfunktioner på nätet och i annan form, webbsidor från tredje part samt användarfora och diskussionsgrupper på nätet enligt den/de kursansvarigas anvisningar vid kursstart.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Andreas Hopf, andreas.hopf@design.lth.se
+Hemsida: http://www.ide.lth.se
+Övrig information: Undervisningsform: Kursen består av föreläsningar och individuell datorhandledning.
+
+
+

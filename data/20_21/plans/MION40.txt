@@ -1,0 +1,141 @@
+
+Kursplan 2020/21 MION40
+
+
+
+
+
+Kursplan för
+Simulering av industriella processer och logistiksystem
+Simulation of Industrial Processes and Logistic Systems
+MION40, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning I
+Beslutsdatum: 2020-04-03
+Allmänna uppgifter
+Alternativobligatorisk för: MLOG2
+Valfri för: I5-pr, I5-lf, M5-lp, M5-prr
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Kursens syfte är att ge studenterna fördjupade kunskaper i
+metoder för att utveckla simuleringsmodeller av industriella
+processer och logistikproblem både från en teoretisk och praktisk
+synvinkel. En viktig aspekt är att öka studenternas förmåga att
+strukturera och lösa projektuppgifter i grupp.
+Konkreta mål är att ge studenterna:
+ 
+
+fördjupade kunskaper i kvantitativa metoder för
+händelsestyrd simulering av stokastiska system.
+träning och utveckling av förmågan att genomföra och leda
+simuleringsprojekt.
+
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna använda grundläggande teori samt metodik för
+händelsestyrd simulering för att analysera och lösa
+företagsproblem kopplade till industriella processer och
+logistiksystem i vid mening.
+
+För simuleringsavsnittet innebär detta:
+ 
+
+att få en djupare förståelse av principerna bakom
+händelsestyrd simulering, samt vilka begränsningar och
+möjligheter denna teknik erbjuder.
+att kunna använda en kommersiell programvara (Extend) för att
+skapa en datorbaserad simuleringsmiljö för analys av
+händelsestyrda processer.
+att på ett statistiskt korrekt sätt analysera in- och utdata
+till och från simuleringsmodeller och tolka de resultat som
+modellen genererar. Detta involverar bl.a. val och anpassning av
+fördelningsfunktioner samt olika typer av hypotesprövning.
+att förstå hur slumptal genereras.
+att använda händelsestyrd simulering för att modelera
+industriella processer och logistiksystem.
+att jämföra olika system konfigurationer och dra slutsatser
+om dessa jämförelser.
+
+För teoriavsnittet innebär detta:
+ 
+
+att förstå och kunna redogöra för analytisk modellering av
+kösystem i nätverk.
+att kunna beräkna stationära tillståndssannolikheter för
+Markovkedjor/ Markovprocesser.
+att kunna tolka de lösningar som fås från modellerna och
+sätta dem i ett produktionstekniskt sammanhang.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+Självständigt kunna genomföra statistiskt korrekt analys av
+indata och utdata. Studenten ska kunna bygga en simuleringsmodell
+av verklighetsbaserade system. Studenten ska kunna lösa enklare
+problem genom att använda Markovteori. Konkret ska studenten ha
+färdighet och förmåga inom följande områden:
+ 
+
+att genomföra alla steg i en simuleringsstudie.
+att använda kommersiell simuleringsprogramvara.
+att skatta empiriska och parametriska fördelningar.
+att använda tekniker för att testa oberoende i en
+datasekvens.
+att använda histogram, sannolikhets-plot, kvantil-plot.
+att använda Chi-2 test.
+att använda Kolmogorov-Smirnov test.
+att använda Linjär kongruens metoden.
+att använda Inverstransform metoden.
+att generera av slumptal från olika fördelningar.
+att identifiera Transienta vs. Stationära egenskaper hos
+processer.
+att använda konfidensintervall och hypotestester.
+att formulera och analysera Markovkedjor
+att formulera och analyseraMarkovprocesser
+
+
+Kursinnehåll
+I simuleringsavsnittet studeras Markovteori som ett analytiskt
+verktyg för att analysera stokastiska system. För att hantera mer
+komplexa system använder vi en kommersiell programvara för
+händelsestyrd processimulering (Extend). De framtagna modellerna
+används för att analysera och förbättra processeffektiviteten.
+För att komma fram till en relevant simuleringsmodell måste olika
+typer av slumpmässiga förlopp karakteriseras i form av lämpliga
+fördelningsfunktioner. Vidare måste simuleringsmodellens in- och
+utdata analyseras på ett statistiskt korrekt sätt. Innehållet
+innefattar även  generering av slumptal. De obligatoriska
+inlämningsuppgifterna och hemtentamen struktureras kring
+praktikfall analys och med hjälp av simuleringsmodeller.
+Målsättningen är att ge en djupare förståelse för styrkor och
+svagheter med simuleringsmodeller som analyshjälpmedel.
+Inlämningsuppgiften och projektet redovisas i form av
+välstrukturerade tekniska rapporter.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examinationen består av inlämningsuppgifter i simulering samt en hemtentamen. Slutbetyget avgörs genom en sammanvägning av prestationerna i dessa moment.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+Grundkurs i matematisk statistik
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: MIO240, MION15
+Kurslitteratur
+
+Laguna M. and J. Marklund, Business Process Modeling, Simulation and Design, CRC Press (latest edition).
+Kompletterande kurskompendium.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Johan Marklund, johan.marklund@iml.lth.se
+Hemsida: http://www.pm.lth.se
+
+
+

@@ -1,0 +1,125 @@
+
+Kursplan 2020/21 KIMN10
+
+
+
+
+
+Kursplan för
+Biologiska läkemedel
+Biopharmaceuticals
+KIMN10, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning B/K
+Beslutsdatum: 2020-03-27
+Allmänna uppgifter
+Huvudområde: Läkemedelsteknologi. 
+Obligatorisk för: MLAK1
+Valfri för: B4, K4
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Syftet med kursen är att ge basala kunskaper och en bred
+förståelse om olika typer av biologiska läkemedel, så kallade
+"biologics", som finns idag, hur måltavlor för biologiska
+läkemedel identifieras, hur de utvecklas och produceras, samt
+molekylära och cellbiologiska principer som är relevanta för
+utveckling och produktion av biologiska läkemedel.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna beskriva vad biologiska läkemedel är, vilka typer som
+finns, enligt vilka principer de utvecklas, och de steg som krävs
+från upptäckt till produktion.
+kunna beskriva sätt och metoder för upptäck av molekylära
+måltavlor för behandling och de molekylära interaktioner som är
+vanligt förekommande mellan läkemedel och dess måltavla.
+kunna beskriva sambandet mellan basala molekylära och
+cellbiologiska mekanismer och funktionen hos biologiska läkemedel,
+samt demonstrera fördjupad förståelse kring dessa aspekter hos
+ett urval av vanliga biologiska läkemedel.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna analysera olika typer av litteratur och extrahera
+relevant information inom området och närliggande
+discipliner.
+kunna beskriva, exemplifiera och diskutera/problematisera
+upptäckt av terapeutiska måltavlor och föreslå lämpliga
+kandidater för biologiska läkemedel.
+kunna presentera laborativt arbete och litteratur på ett
+formellt korrekt sätt i en rapport.
+
+
+Kursinnehåll
+Kursen kommer att inkludera föreläsningar som täcker:
+
+historiska aspekter kring biologiska läkemedel, inkluderande
+olika typer, upptäckt, validering och produktion av läkemedel
+(inklusive produktion i odlade celler), och formulering av
+biologiska läkemedel.
+cellulära och molekylära interaktioner i sjukdom och
+homeostas.
+Mätmetoder med hög genomströmning för upptäckt av
+potentiella måltavlor för biologiska läkemedel och funktionella
+undersökningar.
+klasser och administration av proteinläkemedel:
+administrationsvägar, medicinska apparater.
+strategier för att förlänga halveringstiden hos biologiska
+läkemedel i blodomloppet.
+en översikt av flera stora terapeutiska områden, såsom
+cancer, transplantation, inflammatoriska sjukdomar där biologiska
+läkemedel används, inklusive immunterapi.
+farmakologiska, farmakokinetiska samt toxicitetsaspekter kring
+biologiska läkemedel.
+
+Kursen kommer också inkludera:
+
+Studiebesök och gästföreläsningar från företag och
+infrastrukturer inom eller med relevans för biologiska
+läkemedel.
+Ett projekt "Från upptäckt till validering och
+produktion"
+Ett fall med kombinationsbehandling som inkluderar
+kunskapsaktivering från kurserna Läkemedelskemi och Biologiska
+läkemedel.
+Laborativa moment som belyser relevanta metoder för utveckling
+av biologiska läkemedel.
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Närvaro vid obligatoriska föreläsningar och aktivt deltagande i obligatoriska övningar. Laborationer och rapportering av laborationer. Skriftlig eller muntlig tentamen (som definieras av examinatorn). Det slutgiltiga betyget baseras på den skriftliga eller muntliga tentamen.
+
+
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0120. Benämning: Praktiska moment. 
+Antal högskolepoäng: 3. Betygsskala: UG.  Prestationsbedömning: Laborativt arbete och rapportering av detta. Aktivt deltagande i PBL-sessioner, inklusive avrapportering.   Delmomentet omfattar: Laborativt arbete och rapportering av detta. Laborationerna kommer att innehålla metoder som används vid upptäckt och utveckling av biologiska läkemedel.
+ 
+Projektarbete i PBL-format. Projekten kommer innefatta analys av litteratur och data som är relevant för utveckling av biologiska läkemedel. 
+Kod: 0220. Benämning: Teorimoment. 
+Antal högskolepoäng: 4,5. Betygsskala: TH.  Prestationsbedömning: Deltagande vid obligatoriska föreläsningar och studiebesök. Skriftlig eller muntlig examination.  Delmomentet omfattar: Föreläsningar och studiebesök rörande biologiska läkemedel 
+Antagningsuppgifter
+Förkunskapskrav:
+EXTA70 Cellens biologi eller KBK011 Biokemi eller KBKA05 Teknisk biologi eller KBKA10 Biokemi eller TEK295 Cellens biologi
+
+
+Begränsat antal platser: 24
+Urvalskriterier: Avklarade högskolepoäng inom programmet. Förtur ges till studenter vars program har kursen listad som obligatorisk, och därefter till studenter som har kursen listad i läro- och timplanen.
+Kurslitteratur
+
+Wei Wang, Manmohan Singh : Biological Drug Products, Development and Strategies, 1st Edition. Wiley, 2013, ISBN: 978-1118148891.
+Vetenskapliga artiklar och översiktsartiklar.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Christina Sakellariou, Christina.Sakellariou@immun.lth.se
+Hemsida: http://www.immun.lth.se/education
+
+
+

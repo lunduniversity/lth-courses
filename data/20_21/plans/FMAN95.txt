@@ -1,0 +1,92 @@
+
+Kursplan 2020/21 FMAN95
+
+
+
+
+
+Kursplan för
+Datorseende
+Computer Vision
+FMAN95, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning F/Pi
+Beslutsdatum: 2020-04-01
+Allmänna uppgifter
+Valfri för: BME4, C4, D4-bg, D4-mai, E4-bg, F4, F4-bg, F4-mai, Pi4-bam, MMSR1
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Kursen syftar till att ge en översikt över teori och
+praktiskt användbara metoder i datorseende, med tillämpningar
+inom t.ex. seende system, icke-förstörande mätningar och
+"augmented reality". Syftet är vidare att få studenten att
+utveckla sin förmåga till problemlösning, både med och utan
+dator, med användning av matematiska verktyg tagna från många
+områden inom de matematiska vetenskaperna, framför allt geometri,
+matristeori, algebraisk geometri, optimering, matematisk statistik,
+invariantteori och transformteori.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna tydligt förklara och använda grundbegrepp inom
+datorseende, speciellt med avseende på projektiv geometri,
+kameramodellering, epipolargeometri, stereoseende samt struktur-
+och rörelseproblem för statiska och dynamiska scener.
+kunna beskriva och översiktligt förklara den matematiska
+teorin bakom några centrala algoritmer i datorseende (minsta
+kvadratmetoden, robust modellanpassning. RANSAC,
+singulärvärdesfaktorisering, konvex optimering och Newton-baserad
+optimering).
+
+ 
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+på ett ingenjörsmässigt sätt kunna använda programpaket
+på dator för att självständigt lösa datorseendeproblem.
+kunna visa god förmåga att självständigt identifiera
+problem som kan lösas med datorseendetekniker samt att välja
+lämplig metod.
+självständigt kunna applicera grundläggande
+datorseendetekniker på industriellt och forskningsmässigt
+relevanta problem.
+med adekvat terminologi, väl strukturerat och logiskt
+sammanhängande kunna redogöra för lösningen till ett problem
+inom datorseende.
+
+ 
+
+Kursinnehåll
+Projektiv geometri. Geometriska transformationer. Modellering av
+kameror. Kamerakalibrering. Epipolargeometri. Stereoseende.
+Fotogrammetri. Modellanpassning. Robusta metriker. Minimallösare.
+3D-modellering. Geometri för ytor och dess silhuetter.
+Deformerbara modeller. Visualisering.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Obligatoriska inlämningsuppgifter innefattande både teori och datorkörningar. Godkänt resultat på alla dessa räcker för godkänt på kursen. För överbetyg fordras godkänt resultat på en skrivning och en muntlig tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: FMAF05 Matematik - System och transformer eller motsvarande (t. ex. FMAF10 Tillämpad matematik - Linjära system).
+Begränsat antal platser: 140
+Urvalskriterier: Inresande behöriga utbytesstudenter har företräde till 10 platser. Rangordning bland sådana sökande görs av kursansvarig baserat på vilka relevanta kurser de sökande läst. Bland de återstående sökande bestäms prioritetsordningen av antalet avklarade poäng inom programmet. Företräde ges till studenter på program som har kursen listad i läro- och timplanen.
+
+Kursen överlappar följande kurser: FMA270, FMA271, FMAN85
+Kurslitteratur
+
+Image group: 2015. Föreläsningsanteckningar läggs ut på nätet.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Studierektor Anders Holst, Studierektor@math.lth.se
+Lärare: Carl Olsson, carl.olsson@math.lth.se
+Kursadministratör: Studerandeexpeditionen, expedition@math.lth.se
+Hemsida: http://www.maths.lth.se/course/datorseendenynykod/
+
+
+

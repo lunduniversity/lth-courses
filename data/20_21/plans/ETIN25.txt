@@ -1,0 +1,120 @@
+
+Kursplan 2020/21 ETIN25
+
+
+
+
+
+Kursplan för
+Analog IC-konstruktion
+Analogue IC-design
+ETIN25, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning E
+Beslutsdatum: 2020-03-19
+Allmänna uppgifter
+Huvudområde: Elektronikkonstruktion. 
+Obligatorisk för: MSOC1
+Valfri för: E4-fh, E4-is, F4, F4-hn, N4-hn
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Analog IC-konstruktion bygger vidare på kunskaperna från
+Analog Elektronik (ESS020), alternativt Modern Elektronik (ETIN
+70), där konstruktion av förstärkare med diskreta transistorer
+lärts ut. I Analog IC-konstruktion får man lära sig hur
+förstärkare kan konstrueras på integrerade kretsar. Kursen
+syftar till att skapa en grundlig förståelse för analog
+integrerad kretskonstruktion. Fokus ligger på CMOS-teknologi som
+är den vanligast förekommande tekniken för integrerade kretsar.
+Laborationsdelen av kursen har till syfte att skapa färdighet i
+användandet av CAD-programvara för IC-konstruktion, så att man
+efter genomgången kurs ska klara av att genomföra ett IC-projekt
+(ETIN01) med analog inriktning.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+veta hur en CMOS krets är uppbyggd, hur man som konstruktör
+genom layouten kan styra kretsens utseende, och hur olika
+komponenter som transistorer, dioder, resistorer och kondensatorer
+kan realiseras.
+kunna beskriva MOS transistorns och andra komponenters beteende
+med enkla modeller för såväl stora som små signaler. Dessutom
+kunna redogöra för olika med dessa komponenter
+konstruerade byggblocks funktion och deras utmärkande
+egenskaper. Exempel på sådana byggblock är strömspeglar,
+förstärkarsteg, och operationsförstärkare.
+redogöra för hur CAD-verktyg används vid konstruktion av
+analoga IC-kretsar
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+Utan dator: Både kunna välja lämplig kretstopologi för en
+given specifikation och dimensionera de ingående komponenterna så
+att specifikationen uppfylls, och analysera en given koppling med
+avseende på funktion och prestanda. Dessutom kunna konstruera och
+analysera layout för komponenter och beräkna såväl dess
+önskade del som dess parasiter
+Med dator: Kunna simulera analoga IC-kretsar, konstruera
+layout, och verifiera layouten i CAD-program
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+ha tillägnat sig tillräckligt med grundläggande begrepp och
+kunskaper för att kunna beskriva idéer, problem och lösningar
+för sakkunniga personer inom området
+kunna bedöma om en konstruktion lämpar sig för integration
+på en CMOS-krets
+
+
+Kursinnehåll
+Kursen börjar med en kort genomgång av hur tillverkning av en
+CMOS krets går till och hur konstruktören kan styra kretsens
+utseende med layouten. Detta följs sedan av en beskrivning av hur
+man realiserar olika komponenter och vilka egenskaper de får. Stor
+vikt fästs vid ekvationer och modeller som beskriver
+komponenternas beteende, särskilt MOS-transistorn. Komponenterna
+sätts därefter samman till olika typer av kretsar, främst
+behandlas olika typer av strömspeglar, förstärkarsteg och
+operationsförstärkare. Val av kretstopologi och dimensionering av
+komponenterna för att uppfylla en given specifikation är centrala
+moment, liksom analys av givna konstruktioner.
+Moderna CAD-verktyg för konstruktion av analoga IC-kretsar är
+också ett centralt område, där laborationerna spelar en viktig
+roll. Laborationerna omfattar konstruktion och simulering på
+schema-nivå såväl som på layout-nivå. Efter genomgången kurs
+ska man klara av att genomföra ett IC-projekt (ETIN01) med analog
+inriktning. Man kan även fortsätta med konstruktion av
+CMOS-kretsar för radiofrekvens i Integrerad Radioelektronik
+(ETI170).
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Studenten ska vara godkänd på laborationerna samt vara godkänd på tentamen. Utöver ordinarie tentamenstillfälle erbjuds en skriftlig omtentamen, ytterligare tentamenstillfälle erbjuds efter överenskommelse.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0118. Benämning: Tentamen. 
+Antal högskolepoäng: 6. Betygsskala: TH.  Prestationsbedömning: Godkänd tentamen 
+Kod: 0218. Benämning: Laborationer. 
+Antal högskolepoäng: 1,5. Betygsskala: UG.  Prestationsbedömning: Godkända laborationer 
+Antagningsuppgifter
+Förutsatta förkunskaper: ESS020/ESSF01 Analog elektronik eller ETE115/EITF90 Ellära och elektronik eller ETIA01 Elektronik och FRT010/FRTF05 Reglerteknik, allmän kurs, eller Modern Elektonik ETIN70
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: ETI063
+Kurslitteratur
+
+Gray, Hurst, Lewis, Meyer: Analysis and Design of Analog Integrated Circuits, Fifth Edition. Wiley 2010.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Pietro Andreani, pietro.andreani@eit.lth.se
+Hemsida: http://www.eit.lth.se/kurs/etin25
+
+
+

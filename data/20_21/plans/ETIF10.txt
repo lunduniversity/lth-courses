@@ -1,0 +1,107 @@
+
+Kursplan 2020/21 ETIF10
+
+
+
+
+
+Kursplan för
+Signalbehandling - design och implementering
+Signal Processing - Design and Implementation
+ETIF10, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning BME
+Beslutsdatum: 2020-03-24
+Allmänna uppgifter
+Valfri för: BME4, C4, D4-bg, D4-ssr, E4-ss, E4-bg, F4, F4-r, F4-ss, Pi4-ssr
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Kursen ger lösningar till problem inom signalbehandling där
+design av filter, filterbankar och snabba algoritmer för
+implementering efterfrågas. Kursen ger grunderna i wavelet-teori
+och pekar på olika tillämpningar där waveletanalys är ett
+kraftfullt verktyg. Kursen ger en översikt på tillämpningar där
+dessa lösningar används. Studenten skall ges tillräckliga
+insikter om teori och handhavande för att självständigt kunna
+formulera det matematiska problemet, lösa det och implementera
+lösningen för användning med verkliga signaler.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna och förstå och ha en helhetsbild av olika sätt att
+designa filter och filterbankar, härleda snabbaalgoritmer (t.ex.
+FFT) och ha en förståelse för hur sådana algoritmer
+implementeras i en digital signalprocessor (DSP).
+kunna och förstå wavelets och hur waveletanalys används
+kunna tillämpa de vanligaste metoderna på verkliga problem
+och signaler inom olika tillämpningsområden som medicin, audio
+och kommunikation (MATLAB-nivå).
+kunna formulera matematiska problem inom området utifrån
+situationsbeskrivningar.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna förstå principerna för olika sätt att designa filter
+(IIR och FIR med varianter) samt hur detta genomförs
+i Matlab.
+kunna beskriva och analysera de vanligaste typerna av
+filterbankar och använda dessa för t.ex. kompressionssyfte.
+kunna beskriva och analysera de felkällor som förekommer vid
+implementering i DSP-miljö.
+kunna beskriva effektiva algoritmer för beräkning av
+transformer, t.ex. Fourier-och wavelet-transformen.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+ha förmåga att analysera, värdera och implementera filter,
+filterbankar och effektiva algoritmer, samt tolka och beskriva
+deras inneboende principer.
+ha insikt om att till synes skilda tekniska problem kan lösas
+med samma metoder.
+
+
+Kursinnehåll
+Filterdesign:
+Digital IIR filter design; Bilinjär transformation; Digital FIR
+filter design; Fönstermetoden, Ideala filter och Gibbs fenomen;
+Ekvirippelfilter.
+Implementation:
+Strukturverifiering; Effektiva transformalgoritmer (Fourier- och
+wavelet); Olika typer av kvantisering.
+Multiratesignalbehandling och filterbankar:
+Upp- och nersampling; Decimering och interpolering;
+Polyfasuppdelning; Nyqvist filter; Uniforma filterbankar;
+Tvåkanals QMF; Multinivåfilter och wavelets.
+ 
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Tentamen i slutet av kursen. Frivillig inlämningsuppgift efter halva kursen. 
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0118. Benämning: Signalbehandling - design och implementering. 
+Antal högskolepoäng: 7,5. Betygsskala: TH.  Prestationsbedömning: Godkänd tentamen 
+Kod: 0218. Benämning: Datorövningar. 
+Antal högskolepoäng: 0. Betygsskala: UG. 
+Antagningsuppgifter
+Förutsatta förkunskaper: ESS040, EITF75 Digital Signalbehandling eller ETI265, EITA50 Signalbehandling i multimedia eller ETI080 Signalbehandling och kommunikation.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: ETIF01, ETI270
+Kurslitteratur
+
+Proakis J G, Manolakis, D G: Digital Signal Processing, Principles, Algorithms and Applications. Pearson Prentice Hall, 2007, ISBN: 0-13-187374-1.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Professor Leif Sörnmo, leif.sornmo@bme.lth.se
+Hemsida: http://bme.lth.se/course-pages/signalbehandling-design-och-implementering/signalbehandling-design-och-implementering/
+
+
+

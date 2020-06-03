@@ -1,0 +1,124 @@
+
+Kursplan 2020/21 MVKN70
+
+
+
+
+
+Kursplan för
+Avancerade metoder inom numerisk strömningsmekanik och värmeöverföring
+Advanced Methods within Numerical Fluid Mechanics and Heat Transfer 
+MVKN70, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning M
+Beslutsdatum: 2020-03-26
+Allmänna uppgifter
+Valfri för: F5, F5-bem, M5-bem, Pi5-bem
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursen syftar till att ge kunskap om moderna numeriska
+beräkningsmetoder som används för analys av strömning och
+värmeöverföring, det som med ett samlingsnamn brukar kallas CFD.
+Vidare ges kunskap om ett flertal diskretiseringsmetoder såsom
+finita differenser och finita volymer. Kunskap om hur olika
+strömnings och värmeöverföringsfenomen, som t.ex. stötar,
+flerfasströmning, strålning och massövergång behandlas
+numeriskt ges. Kursen avser att ge färdigheter i att genomföra
+denna typ av simuleringar i någon kommersiell programvara. Vidare
+avser kursen ge färdigheter i att analysera och bedöma resultat
+från dylika numeriska simuleringar. Dessa kunskaper skall vara
+tillräckliga för att för en given ingenjörsmässig
+problemställning kunna välja lämplig lösningsstrategi och kunna
+bedöma noggrannheten i resultatet.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+ 
+
+kunna redogöra för potentialer och begränsningarna i de
+metoder som behandlas i kursen
+kunna redogöra för olika metoder för att numeriskt lösa
+strömningsproblem och deras applicerbarhet på olika typer av
+strömning
+kunna beskriva de vanligaste förekommande
+diskretiseringsmetoderna och deras för- och nackdelar
+kunna beskriva de olika felkällor som finns i processen från
+matematisk beskrivning till numerisk lösning av strömnings- och
+värmeöverföringsproblem och hur dessa påverkar resultatet
+kunna beskriva hur man hanterar vissa fenomen numeriskt, t.ex.
+stötar, termisk strålning och kemiska reaktioner.
+kunna förklara några för ämnet viktiga och grundläggande
+begrepp
+
+ 
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+ 
+
+kunna analysera ett strömnings- eller värmeöverföringsfall
+och föreslå en strategi för lösning av detsamma med avseende
+på ingående ekvationer, möjliga förenklingar och val av
+lämplig numerisk metod samt jämföra med alternativa metoder och
+modeller
+kunna kritiskt granska och utifrån givna kriterier bedöma
+noggrannhet och rimlighet hos resultat från simulering av
+strömningar
+
+ 
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+ 
+
+kunna aktivt deltaga i diskussioner kring inom ämnet relevanta
+problem
+kunna i tal och skrift presentera i en teknisk rapport
+innehållande analyser och val av numerisk lösningsmetod och
+turbulensmodell
+
+ 
+
+Kursinnehåll
+Kursen behandlar metoder för att numeriskt lösa strömnings-
+och värmeöverföringsproblem, både inkompressibla och
+kompressibla. I kursen behandlas diskretisering med finita
+volymmetoder, finita differensmetoder och i viss utsträckning
+finita elementmetoder, samt hur dessa påverkar noggrannhet och
+stabilitet hos lösningen. Både inkompressibel och kompressibel
+strömning behandlas. Vidare behandlas metoder för att hantera
+strömning med flera faser samt värme- och massövergång mellan
+faser. Även metoder för att hantera kemiska reaktioner (t.ex.
+förbränning) diskuteras. Metoder för att öka
+beräkningseffektiviteten (t.ex. multigridmetoder) ingår
+också.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examinationen sker både enskilt och baserat på arbete i grupp. De obligatoriska inlämningsuppgifterna och datorlaborationerna redovisas skriftligt enskilt.  Närvaro vid är obligatorisk datorlaborationerna. Projektuppgift redovisas i grupp både skriftligt i form av en rapport och muntligt vid ett seminarium, där alla gruppmedlemmar skall deltaga aktivt. Examinationen innefattar även ett skriftligt teoriprov. För att få godkänt på denna kurs måste alla obligatoriska moment dvs. inlämningsuppgifter, laborationsrapporter, projektuppgift samt den skriftliga teoriprovet vara godkända. Betyg sätts baserat projektuppgift och teoriprov.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+FMA430 Flerdimensionell analys eller FMAB30 Flerdimensionell analys
+FMA420 Linjär algebra eller FMAB20 Linjär algebra
+KETF01 Transportprocesser eller MMV211 Strömningslära eller MMVF01 Termodynamik och strömningslära eller MMVF10 Strömningslära eller MMVF15 Strömningslära
+
+
+Förutsatta förkunskaper: MMVN05 Numerisk strömningsmekanik och värmeöverföring eller MMV042 Numerisk värmeöverföring eller MVKN45 Tillämpad numerisk strömningsmekanik.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: MVKN45, MMV042
+Kurslitteratur
+
+Material delas ut under kursen. Som komplement kan någon bok i CFD användas. Till exempel, Dale Anderson, John C. Tannehill, Richard H. Pletcher, Computational Fluid Mechanics and Heat Transfer,  3rd ed. CRC Press, ISBN 9781591690375, 2012.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Rixin Yu, rixin.yu@energy.lth.se
+Kursansvarig: Christer Fureby, christer.fureby@energy.lth.se
+Examinator: Christer Fureby, christer.fureby@energy.lth.se
+Hemsida: http://www.fm.energy.lth.se/english/education/courses/advanced-methods-for-numerical-fluid-dynamics-and-heat-transfer-mvkn70/
+
+
+

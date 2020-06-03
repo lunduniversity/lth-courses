@@ -1,0 +1,145 @@
+
+Kursplan 2020/21 FMSF80
+
+
+
+
+
+Kursplan för
+Matematisk statistik, allmän kurs
+Mathematical Statistics, Basic Course
+FMSF80, 9 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning I
+Beslutsdatum: 2020-04-03
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: F3, I2, Pi2
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursen ska ge studenten grunderna i matematisk modellering av
+slumpmässig variation och förståelse för
+principerna bakom statistiska analyser. Den ska också ge
+studenterna en verktygslåda med de vanligaste modellerna och
+metoderna samt förmågan att använda dessa i olika praktiska
+situationer. Studenten ska också kunna modifiera
+standardmodellerna och metoderna till olika
+icke-standardsituationer och kunna hantera beroende mellan
+observationer.
+Kursen fyller två syften. Dels är den en allmänbildningskurs
+i matematisk statistik, dels ska den ge en grund för vidare
+studier.
+Allmänbildningen behövs för den som i sitt yrkesliv inte
+nödvändigtvis kommer att syssla med statistiska
+analyser dagligen men som kan förväntas behöva genomföra
+enklare statistiska tester ibland och presentera resultatet för
+sina kollegor. Man förväntas då också kunna läsa och
+värdera andras analyser.
+Kursen ska, framför allt, ge en grund för vidare
+studier. Dels inom statistisk modellering och analys av
+slumpmässiga fenomen i tiden och/eller rummet, dels i
+tillämpningsämnena, t.ex. fysik, miljö, medicin, ekonomi,
+signalbehandling, logistik och processtyrning. Tyngdpunkten ligger
+därför på sannolikhetsteori och statistisk modellering av både
+oberoende och beroende data.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna relatera frågeställningar om slumpmässig variation och
+observerade data, till begreppen slumpvariabler, fördelningar och
+samband mellan variabler,
+kunna förklara begreppen oberoende, sannolikhet, betingad
+sannolikhet, fördelning, väntevärde, varians, kovarians och
+korrelation,
+kunna beskriva grundläggande tekniker för statistisk
+slutledning och sambandsanalys,
+förstå att ett statistiskt samband mellan två variabler inte
+nödvändigtvis betyder orsak-verkan.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna beräkna sannolikheten för en händelse samt
+väntevärde och varians utifrån en given fördelning,
+kunna välja och modifiera en statistisk modell utifrån ett
+problem hämtat ut verkligheten,
+kunna välja, modifiera, utföra och tolka en statistik
+procedur som besvarar en given statistisk frågeställning,
+kunna använda grundläggande tekniker för statistisk
+slutledning och sambandsanalys på enklare statistiska
+modeller,
+kunna använda ett beräkningsprogram för simulering och
+tolkning av probabilistiska och statistiska modeller samt för
+analys av data,
+kunna använda statistiska termer och kommunicera statistiska
+slutsatser i skrift.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna tillämpa ett stokastiskt synsätt på slumpmässig
+variation i data,
+kunna granska en statistisk modell och dess förmåga att
+beskriva verkligheten.
+kunna granska en enkel mätsituation och bedöma om data
+samlats in på ett sätt som gör vidare analys möjlig.
+
+
+Kursinnehåll
+Dataanalys. Beskrivande statistik. Sannolikhetsaxiomen. Betingad
+sannolikhet, oberoende händelser. Stokastiska variabler.
+Transformationer, linjärkombinationer, summor, max och min av
+stokastiska variabler. Väntevärde, varians, kovarians och
+korrelation. Diskreta och kontinuerliga standardfördelningar som
+normal, exponential, binomial och Poisson. Stora talens lag och
+centrala gränsvärdessatsen. Betingade fördelningar och betingade
+väntevärden. Punktskattningars egenskaper. ML-metoden och
+MK-metoden. Principer för intervallskattning och hypotesprövning.
+Metoder för intervall och hypotestprövning baserade på
+normalfördelade och approximativt normalfördelade skattningar.
+Simuleringsbaserade statistiska metoder. Multipel linjär
+regression. Grundläggande principer för modellval i regression.
+Exempel väljes med hänsyn till studenternas programtillhörighet
+och förväntad framtida yrkesverksamhet.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen, godkända datorbaserade test, laborationer, och skriftlig projekt rapport
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0120. Benämning: Tentamen. 
+Antal högskolepoäng: 4,5. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen. 
+Kod: 0220. Benämning: Laborationer. 
+Antal högskolepoäng: 1. Betygsskala: UG.  Prestationsbedömning: Datorlaborationer. 
+Kod: 0320. Benämning: Färdighetsprov 1. 
+Antal högskolepoäng: 0,5. Betygsskala: UG.  Prestationsbedömning: Datorbaserat test på sannolikhetsteori 
+Kod: 0420. Benämning: Färdighetsprov 2. 
+Antal högskolepoäng: 1. Betygsskala: UG.  Prestationsbedömning: Datorbaserat test på statistik 
+Kod: 0520. Benämning: Projektarbete. 
+Antal högskolepoäng: 2. Betygsskala: UG.  Prestationsbedömning: Skriftlig projektrapport. 
+Antagningsuppgifter
+Förkunskapskrav:
+FMAA01 Endimensionell analys eller FMAA05 Endimensionell analys eller FMAA50 Matematisk analys eller FMAB30 Flerdimensionell analys eller FMAB35 Flerdimensionell analys med vektoranalys
+FMAA20 Linjär algebra med introduktion till datorhjälpmedel eller FMAB20 Linjär algebra
+
+
+Förutsatta förkunskaper: Endimensionell analys, Linjär algebra och Flerdimensionell analys.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FMSF20, FMSF30, FMSF35, FMSF40, MASB03, FMSF50, FMSF55, FMSF70, FMSF75, MASA01, FMS012, FMS121, FMSF45
+Kurslitteratur
+
+Blom, G, Enger, J, Englund, G, Grandell, J, Holst, L: Sannolikhetsteori och statistikteori med tillämpningar. Studentlitteratur, 2005, ISBN: 91-44-02442-8.
+
+
+Kontaktinfo och övrigt
+Studierektor: Johan Lindström, studierektor@matstat.lu.se
+Hemsida: http://www.maths.lth.se/matstat/kurser/fms012/
+Övrig information: Kursen ersätter FMSF45. Kursen ges också för fysiker vid naturvetenskaplig fakultet med koden MASB0?.
+
+
+

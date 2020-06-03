@@ -1,0 +1,119 @@
+
+Kursplan 2020/21 MTTN25
+
+
+
+
+
+Kursplan för
+Materialhantering
+Warehousing and Materials Handling
+MTTN25, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning I
+Beslutsdatum: 2020-04-03
+Allmänna uppgifter
+Obligatorisk för: MLOG1
+Valfri för: I4-pr, I4-lf, M4-lp
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursen syftar till att ge dig den allra senaste kunskapen inom
+design och styrning av lager i alla slags miljöer. Efter avklarad
+kurs kommer du att behärska tekniker och verktyg för att
+analysera och förbättra effektiviteten i existerande lager
+såväl som att bidra vid design av helt nya anläggningar. Denna
+kurs kommer också att bidra till att förbättra din förmåga att
+abstrahera, modellera och lösa problem relaterade till logistik
+och materialhantering.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+lära sig verktyg och koncept som kan användas for att
+analysera och förbättra effektiviteten i ett lager. Detta betyder
+att studenten måste kunna:
+ 
+
+Förstå och förklara strategisk betydelse av lager i
+försörjningskedjor
+Beskriva och förklara tekniker som kan användas för att
+analysera materialflöden i ett lager
+Analysera materialflöden och konfigurationer i ett lager och
+föreslå effektivitetsförbättringar
+Beskriva och förklara materialflödet i ett lager
+Beskriva och analysera valet av materialhanteringsutrustning
+och automationslösningar
+Förstå och förklara vilka faktorer som påverkar designen av
+ett lager
+Första och förklara vilka kostnader som uppstår i ett
+lager
+Förstå hållbarhetsaspekter i lager och
+materialhantering
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+utveckla förmågor som gör att hon/han kan arbeta med
+effektivitetsförbättringar i ett lager. Detta betyder att
+studenten måste:
+ 
+
+Applicera tekniker for att analysera materialflöden i ett
+lager och utveckla mer effektiva lösningar
+Utvärdera inköp av materialhanteringsutrustning
+På egen hand och i grupp diskutera problem relaterade till
+materialhantering under föreläsningar och övningar
+Presentera sig själv och sina idéer för både en akademisk
+och en företagsnära publik
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+kunna applicera kritiskt tänkande samt, förhoppningsvis, få
+ett bestående intresse för materialhanteringsfrågor. Hans/hennes
+förhållningssätt skall ”professionaliseras”, och studenten
+skall ha fått insyn i frågor relaterade till utformningen och
+styrningen av ett lager.
+
+Kursinnehåll
+Kursen introducerar konceptet lager i en försörjningskedja
+och dess relevanta terminologi. Dessutom kommer du att lära dig
+vilka typer av materialhanteringsutrustning samt systemstöd som
+lämpar sig för olika lagermiljöer. Du kommer också att lära
+dig att analysera lager för att kunna planera dess layout och
+hantering av resurser. Slutligen kommer du att lära dig att
+benchmarka lagerverksamheter mot varandra.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Slutbetyg erhålles efter godkänd skriftlig tentamen, godkänt projektarbete och godkända inlämningsuppgifter. Obligatorisk närvaro kan förekomma i vissa moment.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0120. Benämning: Materialhantering. 
+Antal högskolepoäng: 2,5. Betygsskala: UG.  Prestationsbedömning: Godkänd skriftlig tentamen.  Delmomentet omfattar: Behandlar litteratur och föreläsningar 
+Kod: 0220. Benämning: Projektarbete. 
+Antal högskolepoäng: 4. Betygsskala: UG.  Prestationsbedömning: Godkänt projektarbete.  Delmomentet omfattar: Projektarbetet går ut på att lösa ett fingerat företags materialhanteringsproblem, och görs i grupper om 3-4 studenter. En skriftlig PM skall redovisas. 
+Kod: 0320. Benämning: Inlämningsuppgifter. 
+Antal högskolepoäng: 1. Betygsskala: UG.  Prestationsbedömning: Godkänd individuell inlämningsuppgift.  Delmomentet omfattar: Inlämningsuppgiften skall lösas individuellt och redovisas skriftligt.   
+Antagningsuppgifter
+Förkunskapskrav:
+MTTF01 Logistik
+
+
+Förutsatta förkunskaper: MIO310/MIOF30 Optimering och simulering.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: MTT021, MTT091, MTTF10
+Kurslitteratur
+
+Bartholdi III, J.J. and Hackman, S.T: Warehouse & Distribution Science. 2010. Laddas ner från www.warehouse-science.com.
+En lista med artiklar delas ut i början av kursen.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Joakim Kembro, joakim.kembro@tlog.lth.se
+Hemsida: http://www.tlog.lth.se
+Övrig information: Deltagande vid första undervisningstillfället är obligatoriskt. Uteblivande från detta tillfälle kan medföra uteslutning från kursen.
+
+
+

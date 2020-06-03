@@ -1,0 +1,108 @@
+
+Kursplan 2020/21 MMTA05
+
+
+
+
+
+Kursplan för
+Industriella produktionssystem
+Production Systems
+MMTA05, 6 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning M
+Beslutsdatum: 2020-03-26
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: I3
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Syftet med kursen är att ge en övergripande förståelse för
+de aktiviteter och processer som ingår vid industriell framtagning
+av produkter, samt uppbyggnaden av ett tillverkningssystem. Kursen
+ska även ge en djupare förståelse för de mest centrala
+tillverkningsmetoderna, materialets betydelse i en
+tillverkningsprocess och hur man kan påverka produktens kvalitet
+och produktionssystemets prestanda.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+behärska den grundläggande nomenklaturen inom
+produktframtagning samt och kunna beskriva och definiera
+grundläggande begrepp inom tillverkningsteknik.
+kunna redogöra för grundläggande begrepp inom
+materialtekniken och hur materialvalet påverkar
+producerbarheten.
+kunna redogöra för olika tillverkningsmetoders principer,
+karaktärsdrag, begräsningar, möjligheter och resultat.
+kunna utföra beräkningar som ger grundförutsättningar för
+dessa tillverkningsmetoder
+kunna redogöra för egenskaper hos olika
+produktionssystemslayouter.
+värdera hur olika processparametrar påverkar
+produktionssystemets prestanda och kostnad.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+självständigt kunna söka och sammanställa information om en
+given tillverkningsprocess och redovisa den skriftligt och
+muntligt.
+i grupp tillämpa beräkningsmetodik på en verklig sammansatt
+produkt för att specificera ramarna för att tillverka denna, samt
+kunna dokumentera detta skriftligt.
+kunna dimensionera centrala tillverkningsmetoder med
+utgångspunkt från en given form, givna kvalitetskrav och
+specificerad utrustning.
+kunna identifiera viktiga produktionskritiska krav knutna till
+en produkt eller komponent.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna göra överväganden avseende hållbarhet vid val av
+material och tillverkningsmetod i
+produktframtagningsprocessen.
+
+
+Kursinnehåll
+Kursen belyser översiktligt hela området produktframtagning,
+med en fördjupning inom produktionsfasen. Kursen fokuserar på de
+grupper av industriella tillverkningsmetoder som används för att
+ge ett material önskade former och egenskaper. För varje
+metodgrupp behandlas förutsättningar, utrustning, verktyg,
+karaktäristik och resultat. De metodgrupper som behandlas är
+plastisk formning, gjutning, skärande bearbetning, sammanfogning,
+pulverbaserade, polymerbaserade och laserbaserade metoder.
+Kursen behandlar även produktionssystemsuppbyggnad och
+produktionsutvecklingsfrågor. Eftersom materialet har stor
+betydelse för resultatet av förädlingsprocess inleds kursen med
+grundläggande materialteknik. Vidare belyses hur hållbarheten vid
+produktion kan påverkas via både medvetna val av metod och
+material.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Löpande examination av tre  moment ger maximalt 8 examinationspoäng vilket tillsammans med en skriftlig tentamen om max 52 poäng ger slutbetyget. Även en obligatorisk laboration krävs för att bli godkänd.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: MMT012
+Kurslitteratur
+
+Ståhl, Jan-Eric: Industriella Tillverkningssystem del I, Material och tillverkningsmetoder. KFS i Lund AB, 2014. Huvudbok.
+S. Kalpakjian, S. Schmid: Manufacturing Engineering and Technology, Seventh edition. Pearson, 2014, ISBN: 978-981-06-9406-7. Referensbok.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Carin Andersson, carin.andersson@iprod.lth.se
+Lärare: Mats Andersson, mats.andersson@iprod.lth.se
+Hemsida: http://www.iprod.lth.se
+
+
+

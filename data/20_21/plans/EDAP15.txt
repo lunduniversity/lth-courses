@@ -1,0 +1,92 @@
+
+Kursplan 2020/21 EDAP15
+
+
+
+
+
+Kursplan för
+Programanalys
+Program Analysis
+EDAP15, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning C/D
+Beslutsdatum: 2020-03-30
+Allmänna uppgifter
+Valfri för: C4-sec, C4-pv, D4-pv, E4-pv, F4, F4-pv, Pi4-pv
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Programanalys gör det möjligt för oss att bättre förstå
+vad mjukvara kan och inte kan göra.
+Tekniken för programanalys kan därmed bidra till
+mjukvarusäkerhet, programkvalitetskontroll, programförståelse,
+underhåll och utveckling av programvara samt förbättring av
+mjukvarans prestanda.
+Syftet med kursen är att ge en detaljerad förståelse för
+moderna programanalystekniker samt deras styrkor och svagheter när
+de tillämpas på realistisk mjukvara.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+förstå och visa kunskap om statisk programanalysteknik och
+deras styrkor och svagheter
+förstå och visa kunskap om dynamiska programanalystekniker,
+deras styrkor och svagheter samt deras effekt på
+programkörning
+förstå och kunna uttrycka sig i det formella språk som
+används i klassen.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna utforma, implementera och validera statiska, dynamiska
+och kombinerade statiska dynamiska programanalyser för olika
+uppgifter.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+visa förmåga att beskriva, förstå och kritiskt utvärdera
+olika programanalystekniker som tillämpas på olika
+uppgifter.
+
+
+Kursinnehåll
+Kursens ämnen är: typ och effektsystem, operationssemantik,
+dataflödesanalys, begränsningsbaserad analys, minnesabstraktion,
+samtalsdiagramanalys, domänspråk för programanalys, profilering
+och provtagning.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen. För deltagande i tentamen fordras att laborationerna har fullgjorts. Slutbetyg i kursen bestäms av resultatet på den skriftliga tentamen.
+
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0119. Benämning: Laborationer. 
+Antal högskolepoäng: 3. Betygsskala: UG.  Prestationsbedömning: Fullgjorda laborationer.  Delmomentet omfattar: Laborationer 
+Kod: 0219. Benämning: Tentamen. 
+Antal högskolepoäng: 4,5. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen. Slutbetyg på hela kursen bestäms av resultatet på denna tentamen. För att få deltaga i tentamen krävs att laborationerna fullgjorts.  Delmomentet omfattar: Skriftlig tentamen 
+Antagningsuppgifter
+Förkunskapskrav:
+Laborationerna i en av kurserna EDA180 Kompilatorteknik, EDA230 Optimerande kompilatorer, EDAN75 Optimerande kompilatorer eller EDAN65 Kompilatorer
+EDAA01 Programmeringsteknik - fördjupningskurs eller EDAA30 Programmering i Java - fortsättningskurs
+
+
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Nielson, Flemming, Nielson, Hanne R., Hankin, Chris: Principles of Program Analysis. Addison Wesley, 1999, ISBN: 978-3-662-03811-6. Valfri kursbok.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Christoph Reichenbach, christoph.reichenbach@cs.lth.se
+Hemsida: http://cs.lth.se/edap15
+
+
+

@@ -1,0 +1,90 @@
+
+Kursplan 2020/21 FRTN45
+
+
+
+
+
+Kursplan för
+Matematisk modellering, fortsättningskurs
+Mathematical Modelling, Advanced Course
+FRTN45, 4,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning F/Pi
+Beslutsdatum: 2020-04-01
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: Pi3
+Valfri för: F4, F4-bs, I4
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Syftet med kursen är att befästa och utveckla studentens
+modelleringskunskaper i form av grundläggande teori och ett
+praktiskt projekt.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+ha förbättrat sina grundläggande kunskaper om matematisk
+modellering
+ha inhämtat nya kunskaper inom de områden som projektet
+aktualiserat
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna genomföra ett flertal av momenten i ett typiskt
+modelleringsprojekt: identifiering av syftet, datainsamling,
+analys, val av modellstruktur, parameterskattning, simulering,
+validering, dokumentation och presentation.
+kunna presentera sina projektresultat i både skriftlig och
+muntlig form
+visa förmåga på samarbete i projektform
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+förstå samband och begränsningar då förenklade modeller
+används för att beskriva en komplex verklighet
+
+
+Kursinnehåll
+Kursen innehåller en föreläsningsdel (20%) av generell
+karaktär och en projektdel (80%).
+Föreläsningsdelen ger en översikt av olika modelltyper och
+beskriver grunderna såväl för fysikaliskt modellbygge som för
+modellering från mätdata. Modellvalidering är ett centralt
+begrepp. Simuleringsmetoder för olika modelltyper diskuteras.
+Projektdelen, den dominerande delen, kan vara av olika karaktär
+och inriktning. Gemensamt för projekten är dock att valet av
+modellstruktur är en väsentlig del av arbetet och att flera olika
+varianter av modeller kan vara relevanta. Varje projekt ska
+involvera expertis från flera olika ämnesområden. Projektplan
+och regelbundna projektmöten är en del av kursen. Den skriftliga
+rapporten ska ställas i relation till innehållet i kursens
+föreläsningar.
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: Godkänt projektarbete. Muntlig och skriftlig projektredovisning samt muntlig och skriftlig opposition.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: FMAF05 Matematik - System och transformer, FMSF10 Stationära stokastiska processer, FMAN55 Kontinuerliga system.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FRT095
+Kurslitteratur
+
+Lennart Ljung och Torkel Glad, Modellbygge och Simulering, Studentlitteratur 2:a upplagan 2004, ISBN 91-44-02443-6.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Anders Rantzer, anders.rantzer@control.lth.se
+Studierektor: Anton Cervin, anton.cervin@control.lth.se
+Hemsida: http://www.control.lth.se/course/FRTN45
+
+
+

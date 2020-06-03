@@ -1,0 +1,82 @@
+
+Kursplan 2020/21 VBFA05
+
+
+
+
+
+Kursplan för
+Husbyggnadsteknik
+Building Technology
+VBFA05, 4 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning V
+Beslutsdatum: 2020-03-23
+Allmänna uppgifter
+Obligatorisk för: BI1
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Syftet med kursen är att ge översiktliga kunskaper i
+byggprocessen, husbyggnadsteknik, byggnadsfysik,
+installationsteknik och tolkning av byggritningar.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+tolka byggritningar
+beskriva olika byggnadsdelar
+ange anledningar till utformningen av olika byggnadsdelar
+beskriva enkla byggnadsfysikaliska förlopp
+beskriva installationsteknik för bostadsbyggnader
+identifiera och beskriva fuktpåverkan på olika
+byggnadsdelar
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+konstruera enklare byggnadsdelar och utforma anslutningar
+mellan dessa byggnadsdelar
+bedöma olika konstruktioner med hänsyn till fukt- och
+värmefrågor
+utnyttja facktermer inom ämnet i både i tal och skrift
+diskutera olika byggnadstekniska lösningar med aktörer inom
+byggbranschen
+
+
+Kursinnehåll
+Kursen inleds med en genomgång av olika byggnadstekniska
+begrepp, byggnadsdelar och hur dessa byggnadsdelar sammanfogas till
+en hel byggnad. Därefter genomgås byggprocessen och olika
+bygghandlingar. Värme- och fuktfrågor behandlas både teoretiskt
+och praktiskt. Den teoretiska behandlingen görs i form av
+beräkningar. Den praktiska hanteringen av värme- och fuktfrågor
+tas upp både under genomgången av olika byggnadsdelar och i en
+projektuppgift. I ytterligare föreläsningar behandlas historisk
+byggnadsteknik och installationsteknik. Projektuppgifterna ansluter
+till dessa föreläsningar.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examinationen sker genom en skriftlig tentamen, en obligatorisk projektuppgift, samt närvaro vid några obligatoriska föreläsningar och övningar. Tentamen består av en teoridel och en beräkningsdel.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: VBF030
+Kurslitteratur
+
+Sandin, K: Praktisk husbyggnadsteknik. Studentlitteratur, 2007, ISBN: 9789144048796.
+Sandin, K: Praktisk byggnadsfysik. Studentlitteratur, 2010, ISBN: 9789144059914.
+Sandin, K: Praktisk byggnadsfysik: övningsbok. Studentlitteratur, 2010, ISBN: 9789144059891.
+Ritningar och kompletterande handlingar.
+
+
+Kontaktinfo och övrigt
+Examinator: Hans Bagge, hans.bagge@byggtek.lth.se
+Kursansvarig: Akram Abdul Hamid, akram.abdul_hamid@byggtek.lth.se
+Övrig information: Lärandeprocessen baseras på läromedel för grundläggande högskolestudier och tillhandahållet ritningsunderlag från praktiken. Efter genomgången kurs ska studenten ha utvecklat förmåga till vidare studier med viss självständighet.
+
+
+

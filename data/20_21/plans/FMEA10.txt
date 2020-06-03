@@ -1,0 +1,122 @@
+
+Kursplan 2020/21 FMEA10
+
+
+
+
+
+Kursplan för
+Mekanik, grundkurs
+Engineering Mechanics, Basic Course
+FMEA10, 9 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning M
+Beslutsdatum: 2020-03-26
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: I1
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Syftet med kursen är att:
+
+ge kunskaper om mekanikens grundläggande begrepp för
+materiella system i vila såväl som i rörelse, främst partiklar
+och stela kroppar.
+ge skicklighet i ingenjörsmässigt modelltänkande.
+ge förmåga till problemlösning genom tillämpning av
+matematik.
+med ett simuleringsprogram som visualiseringsmetod utveckla det
+ingenjörsmässiga modelltänkandet
+berika och utvidga begreppet problemlösning till att omfatta
+en industrirelaterad programvara som numeriskt verktyg
+
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna förklara och använda grundbegreppen kraft och moment
+samt utrycka dem skalärt och i vektorform.
+kunna frilägga en materiell kropp och ställa upp
+jämviktsekvationer och rörelseekvationer.
+kunna formulera fysikaliska samband för energi, impuls,
+impulsmoment, rörelsemängd och rörelsemängdsmoment.
+kunna tolka och nyttja hastigheter och accelerationer, samt
+kraft- och momentekvationer uttryckta i vektorform
+redogöra för de viktigaste resultaten som påvisats inom
+projektet
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+utifrån verkliga situationer kunna avgränsa en
+problemställning och utföra en jämviktsanalys.
+tillämpa systematiska metoder för analys av mekaniska system
+i rörelse.
+presentera skriftliga lösningar av mekanikproblem med
+tillhörande illustrationer i form av modellskisser och
+friläggningar.
+kunna utifrån en given projektspecifikation avgränsa en
+problemställning och skapa en modell för behandling av uppgiften
+i ett simuleringsprogram
+utföra en systematisk numerisk analys av ett mekaniskt system
+i rörelse
+presentera en skriftlig rapport med en utförlig beskrivning av
+problemställning, förutsättningar, utförande, erhållna
+resultat, samt utvärdering
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna utvärdera erhållna resultat med avseende på fysikalisk
+rimlighet samt praktisk tillämpbarhet
+
+
+Kursinnehåll
+Statik: Kraft- och momentsystem i två och tre
+dimensioner. Likvärdiga system, friläggning och jämvikt.
+Tillämpningar av jämviktsekvationerna på materiella kroppar och
+delkroppar. Fackverk och ramar, masscentrum och friktion.
+Dynamik: Kinematik och kinetik för partiklar i rät och
+kroklinjig rörelse, cartesiska, naturliga och polära koordinater.
+Kinematik och kinetik för stela kroppar i planet. Arbete, energi,
+rörelsemängd, rörelsemängdsmoment, impuls, impulsmoment samt
+stöt.
+Newtons lagar, kinematik och kinetik för partiklar i två och
+tre dimensioner, samt stela kroppar i plan rörelse. Små
+svängningar i odämpade och dämpade mekaniska system. Fri
+svängningsrörelse samt svängning med tvångsvillkor.
+Partikelrörelse och stelkroppssvängning. Studie av fysikaliska
+företeelser så som självsvängning och svävning.
+Vibrationsanalys innefattande egenvinkelfrekvens och
+dämpningsfaktor
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen. Skriftlig projektrapport. Projektet utförs i grupper om två där gruppen arbetar självständigt med möjlighet till support i samband med schemalagda datorövningar.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0108. Benämning: Mekanik, grundkurs. 
+Antal högskolepoäng: 8. Betygsskala: TH.  Prestationsbedömning: tre deltentamina  Delmomentet omfattar: Statik: Kraft- och momentsystem i två och tre dimensioner. Likvärdiga system, friläggning och jämvikt. Tillämpningar av jämviktsekvationerna på materiella kroppar och delkroppar. Fackverk och ramar, masscentrum och friktion. Dynamik: Kinematik och kinetik för partiklar i rät och kroklinjig rörelse, cartesiska, naturliga och polära koordinater. Kinematik och kinetik för stela kroppar i planet. Arbete, energi, rörelsemängd, rörelsemängdsmoment, impuls, impulsmoment samt stöt. Newtons lagar, kinematik och kinetik för partiklar i två och tre dimensioner, samt stela kroppar i plan rörelse. 
+Kod: 0208. Benämning: Mekanik, projekt. 
+Antal högskolepoäng: 1. Betygsskala: UG.  Prestationsbedömning: Skriftlig projektrapport.  Delmomentet omfattar: Små svängningar i odämpade och dämpade mekaniska system. Fri svängningsrörelse samt svängning med tvångsvillkor. Partikelrörelse och stelkroppssvängning. Studie av fysikaliska företeelser så som självsvängning och svävning. Vibrationsanalys innefattande egenvinkelfrekvens och dämpningsfaktor 
+Antagningsuppgifter
+Förutsatta förkunskaper: FMA420 Linjär algebra, FMAA05 Endimensionell analys.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FMEA30, FMEA20, FMEA05, FMEA15
+Kurslitteratur
+
+Nyberg C.: Mekanik, Grundkurs. Liber, 2003.
+Nyberg C.: Mekanik, Problemsamling. Liber, 2003.
+Computer Exercises in Mechanics for Industrial Engineers. Division of Mechanics, Lund University, latest edition.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Aylin Ahadi, aylin.ahadi@mek.lth.se
+Hemsida: http://www.mek.lth.se
+
+
+

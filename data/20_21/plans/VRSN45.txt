@@ -1,0 +1,179 @@
+
+Kursplan 2020/21 VRSN45
+
+
+
+
+
+Kursplan för
+Kritiska Infrastrukturers resiliens
+Critical Infrastructure Resilience
+VRSN45, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning BI/RH
+Beslutsdatum: 2020-03-16
+Allmänna uppgifter
+Huvudområde: Katastrofriskhantering och klimatanpassning. 
+Valfri för: RH4, MKAT2
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+
+att förbereda studenterna så att de kan arbeta med
+ämnesområdet kritisk infrastruktur och skydd av samhällsviktig
+verksamhet inom t.ex. privata företag, offentliga samt
+icke-statliga organisationer.
+att ge en grund för studenter intresserade av fortsatta
+studier och forskning inom ämnesområdet kritisk
+infrastruktur.
+
+ 
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+demonstrerar övergripande förståelse för olika kritiska
+infrastrukturers form och funktion, tekniska såväl som
+organisatoriska aspekter
+demonstrera förståelse avseende förutsättningar och
+utmaningar för analys, planering och hantering av kritisk
+infrastruktur
+demonstrera förståelse för hur koncept och metoder inom
+området hantering av kritisk infrastruktur relaterar till varandra
+och kan appliceras i en praktisk kontext
+
+ 
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+demonstrera förmåga att analysera kritiska infrastrukturer
+och deras samberoenden samt kunna applicera metoder och utvärdera
+strategier för säkerställande av funktion i dessa typer av
+system.
+demonstrera förmåga att muntligt och skriftligt kunna
+redogöra för och diskutera sina slutsatser samt reflektera kring
+den kunskap, och de resultat samt argument som ligger till
+grund.
+demonstrerar förmåga att planera, genomföra och redovisa
+projektuppgifter och projektarbete samt i samband med detta visa
+förmåga till lagarbete och samverkan
+demonstrerar förmåga att tillgodogöra sig material i
+vetenskapliga publikationer som är relevanta för
+ämnesområdet
+
+ 
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+demonstrera förmåga att analysera och reflektera över
+infrastrukturella och samhälleliga aspekter avseende hantering av
+kritisk infrastruktur.
+demonstrera förmåga att reflektera över egna behov av
+vidareutveckling av kunskaper och kompetens.
+
+ 
+
+Kursinnehåll
+I kursen introduceras och diskuteras viktiga aspekter som ligger
+till grund för hantering av kritiska infrastrukturer, t.ex.
+elkraftsystem, vattenförsörjningssystem, telekommunikationssystem
+och transportsystem. Kursen ska därmed ses som en introduktion
+till ämnesområdet kritisk infrastruktur och skydd av
+samhällsviktig verksamhet. Viktiga aspekter som berörs är
+kritiska infrastrukturers form, funktion och roll i samhället samt
+centrala metoder och koncept för analys och hantering av kritiska
+infrastrukturer. Metoder som täcks inom ramen för kursen är
+exempelvis: nätverksteori som analysverktyg för komplexa
+infrastruktursystem, riskhantering, tillgångsförvaltning (asset
+management), livscykelanalys, beroendemodellering av
+infrastrukturer, och konsekvensanalyser vid storskaliga
+infrastrukturstörningar. Koncept som är viktiga för studenten
+att förstå och reflektera kring under kursens gång är
+exempelvis: risk, tillförlitlighet, osäkerhet, resiliens,
+komplexitet och kontinuitet. En viktig del av lärandeprocessen är
+att studenter ska applicera koncept och metoder på realistiska
+representationer av infrastrukturer samt kunna knyta samman och
+reflektera över de olika koncepten och metoderna.
+Genom kursen sker en progression från en abstrakt till en mer
+realistisk representation av infrastrukturer, där studenten ska
+reflektera över olika modeller, metoder och koncepts styrkor och
+svagheter. Kursen är därför indelad i ett antal delmoment som
+guidar studenten genom viktiga begrepp och metoder. Till
+delmomenten kopplas datorlaborationer för att studenterna ska
+kunna tillägna sig och applicera metoder som introduceras i
+kursen. Även lärarledda seminarium för varje centralt delmoment
+i kursen ges där studenterna aktivt kan diskutera och reflektera
+över temat och litteraturen samt jämföra ansatser för
+problemlösning.
+Examination av kursen sker genom uppsatser som behandlar kursens
+olika delmoment samt ett avslutande projektarbete där antingen en
+fördjupning av en eller flera delmoment alternativt en syntes av
+samtliga delmoment redovisas (dvs. varje delmoment blir
+ingångsvärden för det avslutande projektarbetet). Arbetet med
+projektet diskuteras i ett lärarlett seminarium för att
+studenterna även ska tillägna sig förmåga att muntligen
+redovisa och diskutera sina ansatser och preliminära resultat samt
+att ge konstruktiv feedback.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examinationen är en sammanvägning av skriftliga uppsatser för projektuppgifterna samt en skriftlig avslutande projektuppsats. För godkänt betyg krävs aktivt deltagande på obligatoriska moment. Projektarbetet skall redovisas både muntligt och skriftligt.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0119. Benämning: Rapport Delmoment. 
+Antal högskolepoäng: 5. Betygsskala: TH.  Prestationsbedömning: Godkänd skriftlig rapport  Delmomentet omfattar: Individuella rapporter för projektuppgifterna 
+Kod: 0219. Benämning: Projektrapport. 
+Antal högskolepoäng: 2,5. Betygsskala: TH.  Prestationsbedömning: Godkänd skriftlig rapport och muntlig redovisning  Delmomentet omfattar: Individuell projektrapport och muntlig redovisning. 
+Antagningsuppgifter
+Förkunskapskrav:
+EXTA60 Statistik eller FMSF20 Matematisk statistik, allmän kurs eller FMSF30 Matematisk statistik eller FMSF50 Matematisk statistik, allmän kurs
+FMAA01 Endimensionell analys eller FMAA05 Endimensionell analys eller FMAB65 Endimensionell analys B1
+FMAA01 Endimensionell analys eller FMAA05 Endimensionell analys eller FMAB70 Endimensionell analys B2
+
+
+Förutsatta förkunskaper: Grundläggande förståelse för programmering.
+Minst 150 hp från ett civilingenjörsprogram alt från brandingenjörsprogrammet vid LTH eller motsvarande utbildningsbakgrund och nivå om internationell student.
+Begränsat antal platser: 20
+Urvalskriterier: Avklarade högskolepoäng inom programmet. Studenter som har kursen listad som obligatorisk har platsgaranti. För övrigt ges förtur till studenter vars program har kursen listad i läro- och timplanen.
+
+Kursen kan ställas in: Om färre än 12 anmälda.
+Kurslitteratur
+
+Communication from the commission: on a European Programme for Critical Infrastructure Protection. Commission of the European communities, 2006. COM(2006) 786 final.
+Concerning measures for a high common level of security of network and information systems across the Union. The European Parliament and of the council, 2016. Directive (EU) 2016/1148.
+Fritzon, Å., Ljungkvist, K., Boin, A., & Rhinard, M.: Protecting Europe's critical infrastructures: problems and prospects. Journal of Contingencies and Crisis Management, 2007. 15(1), 30-41.
+Brown, K. A.: Critical path: a brief history of critical infrastructure protection in the United States. Spectrum Publishing Group, Incorporated, 2006.
+Protection of Vital Societal Functions & Critical Infrastructure: Fact sheet. Swedish Civil Contingencies Agency, Karlstad., 2016. MSB939.
+Failure to Act: Closing the Infrastructure Investment Gap for America’s Economic Future. American Society of Civil Engineers, 2016. Reston, VA, USA.
+Newman, M.E.: The structure and function of complex networks. SIAM Review, 2003. Vol. 45, No. 2, pp.167–256.
+Strogatz, S.: Exploring Complex Networks. Nature, 2001. Vol. 410, pp. 268-276.
+Grubesic, T.H., Matisziw, T.C., Murray, A.T., Snediker, D.: Comparative Approaches for Assessing Network Vulnerability. International Regional Science Review, 2008. Vol. 31, No. 1, pp. 88-123.
+Johansson, J., Hassel, H., & Zio, E.: Reliability and vulnerability analyses of critical infrastructures: comparing two approaches in the context of power systems. Reliability Engineering & System Safety, , 2013. Vol. 120, pp. 27-38.
+Zio, E.: Challenges in the vulnerability and risk analysis of critical infrastructures. Reliability Engineering & System Safety, 2016. Vol. 152, pp. 137-150.
+Johansson, J., Jonason Bjärenstam, R., Axelsdóttir, E.: Contrasting critical infrastructure resilience from Swedish infrastructure failure data. Safe Societies in a Changing World, Proceedings of ESREL 2018, , 2018. Trondheim, Norway, June 17-21.
+Koppenjan, J. F., & Enserink, B.: Public–private partnerships in urban infrastructures: reconciling private sector participation and sustainability. Public Administration Review, 2009. Vol. 69(2), pp. 284-296.
+Moteff, J.: Risk management and critical infrastructure protection: Assessing, integrating, and managing threats, vulnerabilities and consequences. Library of Congress Washington DC Congressional Research Service., 2005.
+Too, E. G.: A framework for strategic infrastructure asset management. In Definitions, concepts and scope of engineering asset management. Springer, London., 2010. Pp. 31-62.
+Schneider, J., Gaul, A. J., Neumann, C., Hogräfer, J., Wellßow, W., Schwan, M., & Schnettler, A.: Asset management techniques. International Journal of Electrical Power & Energy Systems, 2006. Vol. 28(9), pp. 643-654.
+Rinaldi, B.S.M., Peerenboom, J.P. & Kelly, T.K.,: Identifying, Understanding, and Analyzing Critical Infrastructure Interdependencies. IEEE Control Systems Magazine, , 2001. Vol. 21(6), pp.11– 25.
+Rinaldi, S. M.: Modeling and simulating critical infrastructures and their interdependencies. Proceedings of the 37th annual Hawaii international conference on System Sciences, IEEE, 2004. Pp. 1-8.
+Buldyrev, S. V., Parshani, R., Paul, G., Stanley, H. E., & Havlin, S.: Catastrophic cascade of failures in interdependent networks. Nature, 2010. Vol. 464, pp. 1025-1028.
+Johansson, J., & Hassel, H: An approach for modelling interdependent infrastructures in the context of vulnerability analysis. Reliability Engineering & System Safety, , 2010. Vol. 95(12), pp. 1335-1344.
+Ouyang, M.: Review on modeling and simulation of interdependent critical infrastructure systems. Reliability engineering & System safety, , 2014. Vol. 121, pp. 43-60.
+Thacker, S., Pant, R., & Hall, J. W.: System-of-systems formulation and disruption analysis for multi-scale critical national infrastructures. Reliability Engineering & System Safety, , 2017. Vol. 167, pp. 30-41.
+Boin, A., & McConnell, A.: Preparing for critical infrastructure breakdowns: the limits of crisis management and the need for resilience. Journal of Contingencies and Crisis Management, 2007. Vol. 15(1), pp. 50-59.
+Little, R. G.: Toward more robust infrastructure: observations on improving the resilience and reliability of critical systems. Proceedings of the 36th Annual Hawaii International Conference on System Sciences, IEEE, 2003. Pp. 1-9.
+Ouyang, M., & Wang, Z.: Resilience assessment of interdependent infrastructure systems: With a focus on joint restoration modeling and analysis. Reliability Engineering & System Safety, , 2015. Vol. 141, pp. 74-82.
+Almklov, P., Antonsen, S., & Fenstad, J.: Post-disaster infrastructure restoration: A comparison of events for future planning. In Risk and Interdependencies in Critical Infrastructures , 2012. Pp. 211-225.
+Risk Management in Critical Infrastructures. Springer, London.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Jonas Johansson, jonas.johansson@risk.lth.se
+Övrig information: Arbete med projektuppgifterna kan med fördel genomföras i samarbete mellan studenterna. Varje student skall dock enskilt kunna redovisa och svara för arbetet genom individuella uppsatser. En av projektuppgifterna kan genomföras som arbete i grupp om minst två och redovisas i en gemensam uppsats. Om gemensam redovisning sker måste varje gruppmedlem kunna presentera och ansvara för innehållet i uppsatsen. Uppfyller inte en medlem övrigas krav på aktiv medverkan, eller åsidosätter sina åtaganden, kan examinator besluta om omplacering till annan grupp eller underkänt betyg.
+
+
+

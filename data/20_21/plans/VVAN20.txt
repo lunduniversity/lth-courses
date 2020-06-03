@@ -1,0 +1,117 @@
+
+Kursplan 2020/21 VVAN20
+
+
+
+
+
+Kursplan för
+Avancerad avloppsvattenhantering
+Advanced Wastewater Treatment
+VVAN20, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning B/K
+Beslutsdatum: 2020-03-27
+Allmänna uppgifter
+Huvudområde: Vattenresurshantering. 
+Valfri för: MWLU1, V4-vr, W4-vr
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Framtidens avloppsvattenhantering innebär högt ställda krav
+på rening gällande såväl näringsämnen som olika
+mikroföroreningar. Samtidigt finns förväntningar om plats- och
+energieffektiva lösningar.
+Syftet med kursen är att:
+
+erbjuda fördjupad kunskap om principer och metoder för
+mekanisk, biologisk och kemisk avloppsvattenrening
+erbjuda verktyg för tillämpning vid val och design av
+avancerade reningsmetoder.
+
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+utifrån givna utsläppskrav kunna föreslå lämpliga
+reningstekniker för en avloppsström som ger upphov till en viss
+hydraulisk belastning såväl som en viss
+föroreningsbelastning.
+
+ 
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+utifrån givna förutsättningar och för kommunala
+avloppsvatten kunna:
+
+dimensionera aktivslam- och biofilmsprocesser
+dimensionera efterbehandlingssystem
+dimensionera slambehandlingssystem
+beskriva principell utformning för avskiljning och
+nedbrytning av mikroföroreningar
+såväl muntligen som skriftligen presentera ett avancerat
+system för avloppsvattenbehandling för andra studenter
+kritiskt granska vetenskapliga artiklar inom valda delar av av
+avloppsvattentekniken.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna väga för- och nackdelar med olika processval baserat
+på de olika valens konsekvenser för vattenkvalitet, platsbehov,
+energieffektivitet och hantering av restprodukter.
+
+
+Kursinnehåll
+
+Designprocessen - datautvärdering och processval¨
+Aktivslamprocessen - principer och design
+Biofilmsprocesser - principer och design
+Efterbehandling - principer och design
+Membranbioreaktorer och direkt membranfiltrering av
+avloppsvatten
+Alternativ kväverening
+Slambehandling och anaerob nedbrytning - principer och
+design
+Avskiljning av mikroföroreningar
+Källsortering
+Urban infrastruktur och dagvattenrening
+
+
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig examination. Muntlig och skriftlig redovisning av projektarbete.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Tentamen 1. 
+Antal högskolepoäng: 1,5. Betygsskala: UG.  Prestationsbedömning: Skriftlig examination 
+Kod: 0217. Benämning: Tentamen 2. 
+Antal högskolepoäng: 1,5. Betygsskala: UG.  Prestationsbedömning: Skriftlig examination 
+Kod: 0317. Benämning: Projektarbete. 
+Antal högskolepoäng: 4,5. Betygsskala: TH.  Prestationsbedömning: Muntlig och skriftlig redovisning av projektarbete 
+Antagningsuppgifter
+Förkunskapskrav:
+VVAN05 Urbana vatten, Delprov 117 Urbana vatten (Tentamen 1).
+eller
+VVAN25 Dricksvattenproduktion och avloppsvattenrening, Delprov 0120 Dricksvattenproduktion och avloppsvattenrening
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: KBTF10
+Kurslitteratur
+
+Mackenzie L. Davis: Water and wastewater engineering, Design Principles and Practice. McGraw-Hill Education, 2010, ISBN: 978-0-07-171384-9.
+Vetenskapliga artiklar, annat utdelat material.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Michael Cimbritz, michael.cimbritz@chemeng.lth.se
+Hemsida: https://www.lth.se/chemeng/vvan20
+
+
+

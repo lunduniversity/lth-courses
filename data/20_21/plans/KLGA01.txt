@@ -1,0 +1,116 @@
+
+Kursplan 2020/21 KLGA01
+
+
+
+
+
+Kursplan för
+Livsvetenskapliga processer med beräkningar
+Life Science Processes and Calculations
+KLGA01, 7,5 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning B/K
+Beslutsdatum: 2020-03-27
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: B1
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+
+att introducera studenterna till livsvetenskapliga processer
+såsom produktion av livsmedel och läkemedel samt ge exempel på
+aktuell forskning inom dessa områden
+att introducera grunderna för ingenjörsmässig
+beräkningsteknik
+att visuallisera produktionsprocesser för life science genom
+beräkningar och simuleringar
+att introducera livsvetenskapliga processer genom gruppbaserat
+lärande
+att introducera miljö-, etik- och hållbarhetsaspekter vid
+livsvetenskaplig produktion
+Att ge studenterna en möjlighet att diskutera etiska frågor
+rörande produktion men också etik kopplat till  deras roll som
+student
+
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna den underliggande teorin för mass och
+energibalanser
+kunna beskriva livsmedelsvetenskapliga processer och
+enhetsoperationer
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna rita upp flödesscheman för industriell produktion av
+livsmedel och läkemedel
+ha grundläggande kunskaper och färdigheter i
+beräkningsmetodik för att numeriskt beräkna mass- och
+energibalanser för industriella processer
+kunna ställa upp och beräkna massflöden och
+energiförbrukningen för enklare produktionssystem för
+livsmedels- och läkemedelsproduktion
+kunna delta  grupparbete samt kunna presentera resultat i en
+gemensam rapport samt göra en individuellt muntligt presentation
+av arbetet.
+Individuellt skriftligt beskriva en enhetsoperation..
+kunna bedöma och diskutera miljöaspekter och etiska aspekter
+samt betydelsen av en hållbar produktion
+självständigt och i grupp kunna söka information i
+textböcker och vetenskapliga artiklar som behandlar
+livsvetenskapliga processer
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna formulera och diskutera frågor om en hållbar utveckling
+för produktion av livsmedelsvetenskapliga produkter såsom
+livsmedel och läkemedel
+Kunna diskutera etiska frågeställningar relaterat till
+projektuppgiften och vad avser grupp dynamik
+
+
+Kursinnehåll
+
+Flödesscheman för livsvetenskapliga processer
+Mass- och engergibalanser för produktion av livsmedel och
+läkemedel
+Projekt: introduktion till principer för tillverkning av
+livsmedel och läkemedel, studiebesök, litteraturstudier, kunskap
+och aspekter på hur miljön påverkas av olika
+produktionstekniker, etiska aspekter, hållbar produktion samt
+träning i grupparbete, rapportskrivning och muntlig
+redovisning
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen TH skala ( 75% godkänt på del ett för betyg 3, betyg 4,5 ges på resultatet från del 1 och 2 på tentamen), inlämningsuppgifter i MATLAB, Aktivt deltagande i projektarbete, individuell muntlig presentation av projektet och projektrapport bestående av en grupp del och en individuell del (ger extra poäng till tentamen). Inlämnad etik uppgift samt aktivt deltagande i etik case.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0118. Benämning: Mass- och energibalanser. 
+Antal högskolepoäng: 5. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen och inlämningsuppgifter i MATLAB. 
+Kod: 0218. Benämning: Projekt. 
+Antal högskolepoäng: 2,5. Betygsskala: UG.  Prestationsbedömning: Projektrapport, muntlig presentation och aktivt deltagande projektarbete 
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: KKKA01, KKKA05, KKKA10, KBTA01
+Kurslitteratur
+
+Utdelat kursmaterial, online kursbibliotek.
+Mass- och energibalanser. Kompendium LTH.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Marie Wahlgren, marie.wahlgren@food.lth.se
+Hemsida: http://www.food.lth.se
+
+
+

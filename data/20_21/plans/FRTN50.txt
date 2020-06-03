@@ -1,0 +1,114 @@
+
+Kursplan 2020/21 FRTN50
+
+
+
+
+
+Kursplan för
+Optimering för maskininlärning
+Optimization for Learning
+FRTN50, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning F/Pi
+Beslutsdatum: 2020-04-01
+Allmänna uppgifter
+Valfri för: D5-mai, E4, F5, F5-r, F5-mai, I4, M4, Pi5-ssr, MMSR2
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Att lära från data har blivit viktigare inom många
+ingenjörsområden. Metoder för sådan inlärning är ofta
+baserade på optimering; att träna en maskin består oftast av att
+lösa ett specifikt optimeringsproblem. Dessa problem är oftast
+storskaliga. I denna kurs kommer vi lära oss att lösa sådana
+optimeringsproblem effektivt. Traditionella metoder går inte att
+applicera då problemen är för stora. Vi kommer presentera en
+enhetlig beskrivning av algoritmer för storskalig konvex
+optimering och behandla algoritmer för det icke konvexa problemet
+att träna djupa neurala nätverk.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna grundläggande konvex analys
+förstå kopplingen mellan maskininlärning och optimering
+förstå regularisering i maskininlärning från ett
+optimeringsperspektiv
+förstå enhetligt ramverk för storskalig konvex
+optimering
+förstå koncept som icke expansivitet och averagedness och
+deras relation til monotona operatorer och deras roll för att visa
+konvergens av algoritmer
+förstå hur man härleder specifika algoritmer från de få
+generella metoderna
+förstå metoder för att undvika numeriska problem vid
+träning av djupa neurala nätverk.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna redogöra för optimalitetsvillkor som är användbara
+för storskalig optimering
+kunna redogöra för vilka byggstenar som bygger upp
+storskaliga optimeringsalgoritmer och varför just de används
+kunna analysera prestanda för optimeringsalgoritmer
+kunna lösa optimeringsproblem med mjukvara och egna
+implementeringar
+kunna presentera resultat skriftligt.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+förstå vilken algoritm som bör användas för olika
+maskininlärningsproblem
+kunna medverka i grupparbeten för att lösa
+inlämningsuppgifterna.
+
+
+Kursinnehåll
+Kursen har föreläsningar, övningar och fyra
+inlämningsuppgifter.
+Föreläsningarna innehåller:
+konvexitet, modeller för inlärning, enhetlig beskrivning av
+konvexa optimeringsalgoritmer, fixpunktsiterationer, monotona
+operatorer, icke expansiva avbildningar, stokastiska metoder,
+metoder med reducerad varians, metoder med
+block-koordinatuppdateringar, icke konvexa stokastiska
+gradientmetoder för träning av djupa neurala nätverk.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen (5 timmar), 4 inlämningsuppgifter. Om färre än 5 studenter är registrerade kan muntlig examen användas.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0119. Benämning: Tentamen. 
+Antal högskolepoäng: 7,5. Betygsskala: TH. 
+Kod: 0219. Benämning: Inlämningsuppgift 1. 
+Antal högskolepoäng: 0. Betygsskala: UG. 
+Kod: 0319. Benämning: Inlämningsuppgift 2. 
+Antal högskolepoäng: 0. Betygsskala: UG. 
+Kod: 0419. Benämning: Inlämningsuppgift 3. 
+Antal högskolepoäng: 0. Betygsskala: UG. 
+Kod: 0519. Benämning: Inlämningsuppgift 4. 
+Antal högskolepoäng: 0. Betygsskala: UG. 
+Antagningsuppgifter
+Förutsatta förkunskaper: FMAN60 Optimering
+Begränsat antal platser: 90
+Urvalskriterier: Avklarade högskolepoäng inom programmet. Förtur ges till studenter vars program har kursen listad i läro- och timplanen.
+Kursen kan ställas in: Om färre än 12 anmälda.
+Kurslitteratur
+
+Lecture slides and notes.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Pontus Giselsson, pontusg@control.lth.se
+Studierektor: Anton Cervin, anton.cervin@control.lth.se
+Hemsida: http://www.control.lth.se/course/FRTN50
+
+
+

@@ -1,0 +1,146 @@
+
+Kursplan 2020/21 MMKN35
+
+
+
+
+
+Kursplan för
+Produktinnovation
+Product Innovation
+MMKN35, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning M
+Beslutsdatum: 2020-03-26
+Allmänna uppgifter
+Valfri för: BME4, I4, M4-pu, MD5, N4
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Kursen syftar till att ge grundläggande förståelse och
+kunskaper om strategier, begrepp och metodik avseende
+produktinnovationsprocessen och i denna ingående delprocesser,
+huvudsakligen produktförnyelse och produktutveckling. Primärt
+berörs strategiska delar av utvecklingsarbetet, dvs.
+produktförnyelse inkluderande upprättande av ett
+produktförnyelseprogram (produktplan över framtagna
+produktförslag). Avseende produktutvecklingsprocessen, så kommer
+denna att belysas i ett djupare och mera omfattande perspektiv än
+som var fallet inom ramen för grundläggande utveckling- och
+designkurser, det vill säga, Utvecklingsmetodik, Designmetodik och
+Medicinteknisk design. Speciellt kommer metoder för hållbar
+produktutveckling undervisas, etablerade metoder för
+produktutvecklingsprocessen kommer att kritiskt belysas mot senaste
+forskningsrön, samtidigt som även processens senare faser, som
+inte ingick i de grundläggande kurserna, kommer att belysas.
+Kursdeltagarna kommer att kunna kritiskt reflektera över och, om
+så krävs, också kunna föreslå förbättringar av existerande
+produktinnovationsprocessmodeller.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+förvärvat kunskap och förståelse om strategier, begrepp och
+metodik avseende produktinnovationsprocessen och de i denna
+ingående delprocesserna, produktförnyelse och
+produktutveckling
+ha förståelse för relevansen av denna kunskap i ett
+industriellt sammanhang
+ha sådana insikter om metoder och tekniker inom
+produktinnovation att studenten kan avgöra deras roll och
+betydelse i ett specifikt produktförnyelse- och
+produktutvecklingsprojekt
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+självständigt och i grupp kunna analysera behovet av
+produktförnyelse i små och medelstora företag
+självständigt och i grupp kunna strukturera och planera
+genomförandet av ett produktförnyelseprojekt
+för en industriell uppdragsgivare, i form av ett grupparbete,
+aktivt kunna medverka i alla delar i genomförandet av ett
+produktförnyelseprojekt av måttlig komplexitet
+utifrån en uppdragsbeskrivning, självständigt eller i grupp,
+kunna strukturera, planera och genomföra den del av
+produktutvecklingsarbetet som innefattas i
+produktutvecklingsprocessens olika faser
+för en industriell uppdragsgivare, kunna muntligen och
+skriftligen, självständigt och i grupp, redovisa resultatet från
+ett produktförnyelse- och produktutvecklingsprojekt - i form av
+resultat och process
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+visa förmågan av att kritiskt reflektera över eget utfört
+produktförnyelse- och produktutvecklingsprojekt
+visa förmågan att självständigt kunna bedöma
+möjligheterna och begränsningarna för de i kursen presenterade
+metoderna och verktygen
+visa förmågan att kritiskt reflektera över och, om så
+krävs, också kunna föreslå förbättringar av existerande
+produktinnovationsprocessmodeller
+
+
+Kursinnehåll
+Utifrån en övergripande modell över den industriella
+utvecklingsprocessen för framtagning av produkter,
+produktinnovationsprocessen, inleds kursen direkt med att indela
+kursdeltagana i grupper (team) inför det industriella
+utvecklingsprojektet. Parallellt med projektarbetet introduceras
+produktförnyelseprocessen (en för små och medelstora företags
+specifik process som i stort motsvarar den traditionella
+produktplaneringsprocessen). Inom ramen för denna process
+genomgås hur företaget, utifrån en från affärsmålet och på
+marknadsanalys härledd produktpolitik, tar fram en för
+företagets övergripande mål lämpligt avpassad projektportfölj
+av utvecklingsprojekt. I efterföljande del av kursen behandlas
+produktutvecklingsprocessen med tyngdpunkt på den inledande
+princip- eller, alternativt, konceptutvecklingsfasen, men också
+innefattande dess övriga faser om så är aktuellt. Notera, att
+genomförandet av produktutvecklingsdelen av projektet i
+normalfallet blir mycket övergripande och fokuserar i första hand
+på produktlösningen som sådan och inte, som i kursen
+Utvecklingsmetodik, på processen. I den avslutande delen av kursen
+fördjupar sig i kursdeltagarna i ett antal redovisade metoder och
+verktyg (särskilt inom hållbar produktutveckling) med hjälp av
+de senaste forskningsrönen inom området.
+Projektet består med andra ord av två delar: produktförnyelse-
+och produktutvecklingsprojekt. I den andra delen av projektet,
+omfattande dels konceptutveckling men även innefattande inslag
+från efterföljande faser såsom framtagning av produktarkitektur
+och detaljutformning, utgör en direkt fortsättning av
+utvecklingsarbetet på ett i produktförnyelsedelen framtaget
+produktförslag. Projektarbetet redovisas skriftligen i form av en
+för respektive grupp gemensam rapport och även muntligen av hela
+gruppen vid en för alla grupper gemensam presentation inför
+medverkande företag. Arbetet i projektet utförs av grupper (team)
+om 4-6 teknologer per grupp.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: En obligatorisk projektuppgift, i form av ett industriellt utvecklingsprojekt, ingår i kursen, vilket utförs i grupper om 4-6 studenter per grupp. Projektarbetet bedöms i skalan TH och alla gruppmedlemmar erhåller det för respektive projektarbete uppnådda projektbetyget, vilket också blir slutbetyget.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+EEMA01 Medicinteknisk design eller FAFF05 Projekt nanoingenjör eller MMKF01 Utvecklingsmetodik eller MMKF05 Utvecklingsmetodik
+
+
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Urval av artiklar och e-böcker tillgängliga via LUBsearch eller från kursledningen.
+K.Ulrich & S. Eppinger: Product Design and Development. McGraw-Hill International Edition, 2012, ISBN: 978-007-108695. 5:e utgåvan. Alternativt 4:e utgåvan (2008) eller svenska utgåvan.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Damien Motte, damien.motte@design.lth.se
+Kursadministratör: Cilla Perlhagen, cilla.perlhagen@design.lth.se
+Hemsida: http://www.product.lth.se/education/courses/
+
+
+

@@ -1,0 +1,94 @@
+
+Kursplan 2020/21 EDAG05
+
+
+
+
+
+Kursplan för
+Agil programvaruutveckling - projekt
+Agile Software Development - Project
+EDAG05, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning C/D
+Beslutsdatum: 2020-03-30
+Allmänna uppgifter
+Valfri för: C4, E4, F4, L5-gi, M4, Pi4
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Att ge kunskaper om och praktisk erfarenhet av hur man samverkar
+i ett team för att ta fram programvara. Fokus ligger på praktisk
+erfarenhet av metoder och verktyg lämpliga för ett mindre
+programvaruprojekt med ett utvecklingsteam.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna definiera grundläggande begrepp inom utveckling av
+programvara.
+kunna redogöra för och motivera olika deltekniker inom
+programvaruutveckling.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna utveckla och leverera en programvaruprodukt i samarbete
+med andra.
+kunna tillämpa tekniker och verktyg för
+programvaruutveckling.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna värdera hur aktiviteter i ett utvecklingsprojekt
+påverkar utvecklingsprocessen.
+kunna se kopplingar mellan aktiviteter i utvecklingsprocessen
+och den slutliga programvaruprodukten.
+
+
+Kursinnehåll
+
+Kundnära programutveckling i grupp.
+Iterativ programutvecklingsmetodik (extreme programming, agil
+programmering)
+Metodik för planering och prioritering av utvecklingsarbetet
+(planning game, Kanban).
+Parprogrammering.
+Praxis och verktyg för versionshantering, kodgranskning,
+testning, och kodunderhåll (git, gerrit, continuous integration,
+refaktorisering).
+Automatiserad testning och leverans.
+Relation till utveckling av öppen källkod.
+
+ 
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: För godkänt krävs fullgjorda laborationer, planeringsövningar, långlaborationer, reflektioner samt godkänd projektredovisning.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0120. Benämning: Laborationer. 
+Antal högskolepoäng: 2,5. Betygsskala: UG.  Prestationsbedömning: Godkänt på laborationer. 
+Kod: 0220. Benämning: Projekt. 
+Antal högskolepoäng: 5. Betygsskala: UG.  Prestationsbedömning: Godkänt på alla delar av projektet.  Delmomentet omfattar: Projektet innefattar fyra programvaruutvecklingsiterationer. Varje iteration innefattar ett planeringsmöte, hemarbetestid, gemensam utvecklingstid, samt inlämningsuppgifter. Projektet avslutas med en skriftlig rapport, muntlig presentation, samt en granskning av en annan grupps projekt. 
+Antagningsuppgifter
+Förkunskapskrav:
+EDAA01 Programmeringsteknik - fördjupningskurs eller EDAA30 Programmering i Java - fortsättningskurs
+
+
+Begränsat antal platser: 30
+Urvalskriterier: Avklarade högskolepoäng inom programmet. Förtur ges till studenter vars program har kursen listad i läro- och timplanen.
+Kursen kan ställas in: Om färre än 12 anmälda.
+Kursen överlappar följande kurser: ETSA02, EDAF45, ETSA03
+Kontaktinfo och övrigt
+Kursansvarig: Emma Söderberg, emma.soderberg@cs.lth.se
+Kursansvarig: Ulf Asklund, ulf.asklund@cs.lth.se
+Hemsida: http://cs.lth.se/EDAG05
+Övrig information: Kurstyp projekt.
+
+
+

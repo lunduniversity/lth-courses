@@ -1,0 +1,99 @@
+
+Kursplan 2020/21 BMEA05
+
+
+
+
+
+Kursplan för
+Signaler och system
+Signals and Systems 
+BMEA05, 7,5 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning BME
+Beslutsdatum: 2020-03-24
+Allmänna uppgifter
+Obligatorisk för: BME2
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursen ger grundläggande kunskaper i digital signalbehandling
+och är speciellt anpassad för BME studenternas förkunskaper och
+behov. Signalbehandling handlar om att representera, manipulera och
+transformera signaler och den information som signalerna
+innehåller med hjälp av matematiska metoder. Tillämpningar finns
+i många olika områden såsom biologi, medicin, ljud, bild och
+kommunikation.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+förstå skillnader mellan tidsdiskreta och tidskontinuerliga
+signaler och system
+förstå sambanden mellan tids- och frekvensegenskaper för
+tidsdiskreta system och signaler.
+förstå hur transformer kan användas för att analysera
+tidsdiskreta signaler och system
+kunna grundläggande terminologi och definitioner inom
+området
+
+ 
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna analysera signalers tids- och frekvensegenskaper
+kunna beräkna systems tids- och frekvensegenskaper
+kunna analysera hur ett givet system påverkar en given
+signal
+kunna tillämpa metoder från kursen för att ta fram önskad
+information ur en uppmätt signal.
+
+ 
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna kritiskt granska och bedöma rimligheten i beräkningar
+och analysresultat
+ha fått insikt om möjligheter och begränsningar med de
+grundläggande signalbehandlingsmetoder som används i kursen.
+ha förmåga att ta del av litteratur inom området
+
+ 
+
+Kursinnehåll
+Kursen behandlar metoder för analys av tidsdiskreta signaler
+och system. Fouriertransformen, diskreta Fouriertransformen (DFT)
+och z-transformen introduceras som analysverktyg. Tidsdiskreta
+system beskrivs i form av differensekvation, impulssvar,
+frekvenssvar och systemfunktion och pol-nollställediagram.
+Sambanden mellan dessa systembeskrivningar och hur systemet
+påverkar olika insignaler i tid- och frekvensdomänen analyseras.
+Sampling och vikning behandlas. Fokus läggs på att tillämpa
+metoderna i praktiken för analys av biomedicinska signaler. Matlab
+används i laborationer och projekt.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen samt laborationer och projekt.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0120. Benämning: Skriftlig tentamen. 
+Antal högskolepoäng: 4,5. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen 
+Kod: 0220. Benämning: Laborationer och projekt. 
+Antal högskolepoäng: 3. Betygsskala: UG.  Prestationsbedömning: Förberedelseuppgifter, aktivt deltagande samt rapport. 
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: EITA50
+Kurslitteratur
+
+ John G Proakis, Dimitris K Manolakis: Digital Signal Processing. Pearson, ISBN: 9781292025735.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Frida Sandberg, frida.sandberg@bme.lth.se
+
+
+

@@ -1,0 +1,96 @@
+
+Kursplan 2020/21 IDEA56
+
+
+
+
+
+Kursplan för
+Avancerad skissteknik
+Advanced Sketching
+IDEA56, 3 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning ID
+Beslutsdatum: 2020-02-18
+Allmänna uppgifter
+Huvudområde: Industridesign. 
+Obligatorisk för: KID1
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Att ge en grundläggande introduktion till hur det
+tredimensionella rummet återges tvådimensionellt med hjälp av
+perspektiv.
+Att ge en introduktion till tvådimensionella frihandstekniker
+och material som används i designyrket för utveckling och
+illustration av idéer.
+Att öva på olika tekniker för skissning och rendering.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+• Kunna konstruera grundläggande geometriska former korrekt
+i perspektiv samt mer komplexa former.
+• Förstå hur skuggor kan konstrueras.
+• Förstå hur förkortningstekniker kan användas och kunna
+rita en symmetrisk form i perspektiv
+• Förstå hur matta plana ytor, cylindrar, koner och sfärer
+renderas
+• Uppvisa viss förmåga till effektiv rendering av olika
+material samt texturer
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+• Visa förmåga att tillämpa perspektivritningstekniker på
+fri hand med användande av relevanta material och verktyg.
+• Visa förmåga att skissa på ett dynamiskt vis.
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+• I undervisningen och vid genomgångar visa en lyhördhet
+för konstnärliga och estetiska värderingar och
+kvalitetsbedömningar av bilder.
+
+Kursinnehåll
+Kursen består av en serie föreläsningar samt workshops med
+övningar, demonstrationer och gruppåterkoppling för utvärdering
+av uppnådda resultat. Kursen bygger på tidigare inhämtad kunskap
+från ”Designers verktyg” så som: 1-2-3 punksperspektiv,
+cirklar i perspektiv/ellipser, förkortning, frihansdsskissteknik,
+etablering av perspektiv, formåtergivning genom skuggning osv.
+Följande ämnen behandlas:
+- Verktyg och material
+- Sektionsritning
+- Återgivning av symmetriska former
+- Materialåtergivning
+- Komposition
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: 80 % närvaro krävs. Bedömningen grundar sig på dokumentation av individuella inlämningsuppgifter. 
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: IDEA55
+Kurslitteratur
+
+Ernest R Norling: Perspective Made Easy. www.bnpublishing.com. USA. 200711, 2007, ISBN: 9789563100167. Referenslitteratur.
+John Montague: Basic Perspective Drawing. John Wiley And Sons Ltd. Sverige., 2004, ISBN: 9780471472742. Referenslitteratur.
+Ray Smith: Perspektiv: grunderna. Richters, ISBN: 91-7707-097-5. Referenslitteratur.
+Koos Eissen: Sketching. Stiebner Verlag GmbH. Tyskland. , 2008, ISBN: 9783830713630. Referenslitteratur.
+Scott Robertson: Techniques of Scott Robertson, No. 1 - Basic Perspective Form Drawing,. The Gnomon Workshop, 2006. DVD, Referenslitteratur.
+Scott Robertson: How to Render Matte Surfaces: v. 1, Shading Planar Surfaces. The Gnomon Workshop, 2006. DVD, Referenslitteratur.
+Scott Robertson: How to Render Matte Surfaces: v. 2 , Shading Round Geometric Surfaces. The Gnomon Workshop, 2006. Referenslitteratur.
+Erik och Klara Sjölén: Design Sketching. ISBN: 978-91-976807-0-7. Referenslitteratur.
+Scott Robertson : How to Draw,  Drawing and Sketching Objects and Environments from Your Imagination. 2013, ISBN: 9781933492759. Referenslitteratur.
+Scott Robertson : How To Render, Communicating Form and Rendering a Wide Range of Materials. ISBN: 9781933492834. Referenslitteratur.
+Klara Sjölén, Allan Macdonald : Learning Curves , Aims at showing you the tips, tricks and methods that will teach you how to really learn to sketch. 2011, ISBN: 978-91-633-8952-8. Referenslitteratur.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Charlotte Sjödell, Charlotte.Sjodell@design.lth.se
+Hemsida: http://www.ide.lth.se
+Övrig information: Lärandet sker genom föreläsningar samt utifrån återkoppling av hemuppgifter både individuellt och i grupp för att bedöma idéutveckling och progression redovisade i hemuppgifterna.
+
+
+

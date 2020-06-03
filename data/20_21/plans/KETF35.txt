@@ -1,0 +1,106 @@
+
+Kursplan 2020/21 KETF35
+
+
+
+
+
+Kursplan för
+Processriskanalys
+Loss Prevention
+KETF35, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning B/K
+Beslutsdatum: 2020-03-27
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Alternativobligatorisk för: K3
+Valfri för: B4, RH4, W4-p
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursen ger erforderliga kunskaper om moderna arbetsmetoder och
+beräkningsprocedurer för identifiering, analys och minimering av
+risker, samt mekanismer och beräkningsmetoder för skadeförlopp
+inom kemisk processindustri.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+Ha en helhetsbild av en riskhanteringsprocedur inom
+processindustrin.
+Kunna redogöra för begreppen riskkemikalier och
+riskprocesser.
+Förstå när och varför säkerhetsgranskningar är
+påkallade.
+Kunna redogöra för de olika delmomenten som ingår i en
+teknisk säkerhetsgranskning.
+Förstå hur fel uppstår och fortplantar sig i
+processanläggningar.
+Kunna värdera risker mot riskacceptkriterier.
+Förstå hur säkerhetssystem kan tillämpas för att minimera
+risker.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+Kunna välja erforderliga riskanalysmetoder vid en påkallad
+säkerhetsgranskning.
+Kunna genomföra kvalitativa och kvantitativa
+riskanalyser.
+Kunna genomföra konsekvensanalyser.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+Göra fördjupade tillämpningar av HazOp och felträdsanlys,
+spridningsberäkningar, samt kemisk reaktorsäkerhet.
+I riskhanteringsgrupp genomföra, dokumentera och redovisa en
+säkerhetsgranskning av en industriell processanläggning.
+
+
+Kursinnehåll
+Säkerhetsgranskning, riskkemikalier och riskprocesser.
+Tillförlitlighet: Komponentfel. Felmekanismer på utrustning under
+dess livscykel. Logiska processdiagram. Riskanalys: Checklistor,
+indexmetoder, HazOp och felträdsanalys. Konsekvensanalys:
+Haverier. Utsläpp, utströmning och spridning av gaser och
+vätskor. Brand och explosion. Skenande reaktorer. Värdering och
+minimering av risker: Riskacceptans. Risk-/nyttaanalys. Skydds- och
+säkerhetssystem. Drift och underhåll av processer.
+Systemlösningar. Katastrofer: Fallstudier. Katastrofplanering.
+Problemlösning i anslutning till teoriavsnitten. Obligatoriska
+beräkningsuppgifter och obligatorisk projektuppgift.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen, projektuppgift och beräkningsuppgifter. Slutbetyget baseras på skriftlig tentamen samt tilläggspoäng på max 0,5 från projektuppgift och beräkningsuppgifter. 
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Teori. 
+Antal högskolepoäng: 4,5. Betygsskala: UG.  Prestationsbedömning: Skriftlig tentamen. 
+Kod: 0217. Benämning: Beräkningsuppgift. 
+Antal högskolepoäng: 3. Betygsskala: UG.  Prestationsbedömning: Beräkningsuppgifter. Projektuppgift. 
+Antagningsuppgifter
+Förkunskapskrav:
+KETF01 Transportprocesser eller KETF40 Masstransport i naturliga och tekniska system eller VBRN45 Riskanalys inom brandteknik eller VRSN05 Riskanalysens och riskhanteringens grunder
+
+
+Förutsatta förkunskaper: KETF25 Reaktionsteknik och KETF10 Separationsprocesser
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: KTE131
+Kurslitteratur
+
+Karlsson, H T: Processriskanalys. LTH, 2012.
+Karlsson, H T: Omniboken i processriskanalys. LTH, 2012.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Christian Hulteberg, christian.hulteberg@chemeng.lth.se
+Hemsida: https://www.lth.se/chemeng/ketf35/
+
+
+

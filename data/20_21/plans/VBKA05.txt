@@ -1,0 +1,92 @@
+
+Kursplan 2020/21 VBKA05
+
+
+
+
+
+Kursplan för
+Arkitekturteknik 1: Arkitektur och bärverk
+Architectural Design
+VBKA05, 3 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning V
+Beslutsdatum: 2020-03-23
+Allmänna uppgifter
+Huvudområde: Arkitektur. 
+Obligatorisk för: A1
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursens syfte är att visa hur konstruktion och valt stomsystem
+påverkar arkitektens möjligheter till att skapa god
+arkitektur.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+förstå vilka laster som verkar på en byggnad
+kunna beskriva funktionen hos de vanligaste stomsystemen
+kunna beskriva de viktigaste konstruktionselementens funktion
+och verkningssätt
+förstå hur stomsystemens utformning och dimensioner påverkas
+av de använda stommaterialens hållfasthets- och
+deformationsegenskaper
+kunna beskriva uppbyggnaden hos normalt förekommande
+grundläggningstyper
+förstå hur olika stomstabiliseringsmetoder fungerar
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna beskriva hur kraftsystemen ser ut i olika typer av
+stomsystem och byggnadselement
+för en godtyckligt vald byggnad kunna beskriva hur lasterna
+förs ned till grunden
+kunna ge exempel på hur stommar av trä, betong, stål och
+murverk kan vara utformade
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+kunna bedöma hur teknikens möjligheter kan samverka med god
+arkitektonisk utformning.
+
+Kursinnehåll
+
+Laster, systemtänkande, konstruktionens uttryck
+Stomsystem, konstruktionselementens form och funktion
+Kraftsystem, stabilitet, deformation
+Begreppen hållfasthet, styvhet, spänning och töjning
+Stommar av trä, betong, stål och murverk
+Grundläggning
+
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: Godkända projekt- och övningsuppgifter samt skriftlig tentamen.
+Slutbetyget i kursen bestäms utifrån resultatet på projekt- och övningsuppgifter och tentamen.
+
+
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0114. Benämning: Skriftlig tentamen. 
+Antal högskolepoäng: 2. Betygsskala: UG.  Prestationsbedömning: Individuell skriftlig tentamen.  Delmomentet omfattar: Hela kursinnehållet. 
+Kod: 0214. Benämning: Projektuppgifter. 
+Antal högskolepoäng: 1. Betygsskala: UG.  Prestationsbedömning: Godkänd projektrapport och projektpresentation. Kraven på rapporten är sådana att inte bara innehållet bedöms utan även kvaliteten på presentationen bedöms, dvs rapporten ska vara av beskrivande karaktär och inte bara innehålla modell, beräkningsgång och resultat.  Delmomentet omfattar: Hela kursinnehållet. 
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: VBMA01
+Kurslitteratur
+
+Eva Frühwald Hansson, Annika Mårtensson: Arkitektur och bärverk. 2018. Kompendiet säljs vid kursstarten.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Annika Mårtensson, annika.martensson@kstr.lth.se
+Övrig information: Kurshemsidan finns på Canvas. Kort info finns under www.kstr.lth.se/utbildning
+
+
+

@@ -1,0 +1,106 @@
+
+Kursplan 2020/21 KOKN01
+
+
+
+
+
+Kursplan för
+Läkemedelskemi
+Medicinal Chemistry
+KOKN01, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning B/K
+Beslutsdatum: 2020-03-27
+Allmänna uppgifter
+Obligatorisk för: B4-l, K4-l, MLAK1
+Valfri för: N4-nbm
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Kursens syfte är att ge grundläggande kunskaper och bred
+förståelse för läkemedelskemi och farmakologiska principer ur
+det molekylärt perspektiv.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+beskriva vanliga strategier for läkemedelsupptäckt och
+utveckling
+beskriva de vanligaste målmolekylerna för
+läkemedelsutveckling.
+beskriva grundläggande farmakokinetiska och farmakodynamiska
+koncept ur ett molekylärt strukturperspektiv.
+förklara samband mellan kemisk struktur och biologisk
+aktivitet.
+beskriva kemiska principer för design och utveckling av
+läkemedelsmolekyler.
+namnge de vanligaste läkemedelssubstanserna och dess
+användningsområden
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna diskutera kemiska, fysikaliska och farmakokinetiska
+egenskaper hos en given läkemedelsmolekyl
+kunna beskriva och diskutera läkemedelsmekanismer ur ett
+molekylärt perspektiv baserat på konformationsanalys, stereokemi,
+syra-bas reaktioner och ligand-makromolekyl-interaktioner.
+kunna analysera en given molekylstrukturs potential som
+läkemedelskandidat.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna analysera och värdera en given molekylstruktur som
+potentiell läkemedelsmolekyl
+analysera sitt ställningstagande och argumentera för
+bedömningen av en given molekylstruktur som potentiell
+lälemedelsmolekyl
+
+
+Kursinnehåll
+Kursen diskuterar de vanligaste målmolekylerna för
+läkemedelsutveckling, grundläggande farmakologi, generella
+farmakokinetiska/farmakodynamiska principer och strategier för
+läkemedelsupptäckt och utveckling. Den integrerar organisk,
+fysikalisk, teoretisk och biokemi, cellbiologi och fysiologi för
+att beskriva hur en given läkemedelsmolekyl kan interagera med
+sjukdomsrelevanta målmolekyler, samt hur läkemedelsmolekyler kan
+kemiskt optimeras med avseende på farmakokinetiska och
+farmakodynamiska egenskaper. Samband mellan kemisk struktur och
+biologisk aktivitet är centralt i undervisningen. Detta
+exemplifieras i kursen med antivirala läkemedel, antibiotika,
+cancerläkemedel, läkemedel som påverkar nervsystem (adrenerga,
+kolinerga och opiat-receptorer) och magsårsläkemedel. Biologiska
+läkemedel beskrivs, diskuteras och jämförs med små organiska
+molekyler ur läkemedelssynpunkt. Metoder för upptäckt av nya
+läkemedelsmolekyler, datorbaserade metoder för att förstå och
+förutsäga farmakologiska egenskaper och struktur-aktivitet
+samband diskuteras.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig examination.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: KOOA15 Allmän kemi eller KOKA30 Allmän, oorganisk och organisk kemi
+ eller KOKA05 Organisk kemi.
+KFKA05 Molekylära drivkrafter 1: Termodynamik eller FAFAA05 Fysik – Våglära, termodynamik och atomfysik. 
+KBKA10 Biokemi, KBKA05 Teknisk biologi eller EXTA70 Cellens biologi. 
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: KOK085
+Kurslitteratur
+
+Graham L P: An introduction to Medicinal Chemistry. Oxford University Press, 2017, ISBN: 9780198749691. 6:e uppl.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Professor Ulf Nilsson, ulf.nilsson@chem.lu.se
+Hemsida: http://canvas.education.lu.se
+
+
+

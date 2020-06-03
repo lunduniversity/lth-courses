@@ -1,0 +1,74 @@
+
+Kursplan 2020/21 FMSF35
+
+
+
+
+
+Kursplan för
+Grundläggande sannolikhetsteori
+Basic Probability Theory
+FMSF35, 4 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning I
+Beslutsdatum: 2020-04-03
+Allmänna uppgifter
+Obligatorisk för: IEA3
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+att ge en introduktion till de allmänna grunderna för
+sannolikhetsteorin.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+ 
+
+i praktiska situationer kunna identifiera och räkna på olika
+kombinatoriska urvalssätt
+ha god förståelse för de grundläggande begreppen inom
+sannolikhetsläran: oberoende händelser, sannolikhet, diskret och
+kontinuerlig fördelning, väntevärde och varians
+ha kunskap om hur man beräknar sannolikheten för en händelse
+samt väntevärde och varians, utifrån en given fördelning, och
+kunna visa förmåga att utföra beräkningen i huvudsak
+korrekt.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna visa god räkneförmåga inom kursens ram.
+i samband med problemlösning kunna visa förmåga att
+integrera metoder från kursens olika delar
+kunna visa förmåga att redogöra för ett matematiskt
+resonemang på ett strukturerat och logiskt sammanhängande
+sätt.
+
+
+Kursinnehåll
+Sannolikhetsaxiomen. Betingad sannolikhet. Oberoende händelser.
+Stokastiska variabler. Väntevärde och varians. Normalfördelning,
+binomialfördelning och andra viktiga fördelningar. Funktioner av
+stokastiska variabler.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftligt prov omfattande teori och problemlösning.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: FMAA50/FMA645 Matematisk analys, FMAA55/FMA656 Linjär algebra.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FMSF20, FMSF30, FMSF40, FMSF45, FMSF50, FMSF55, FMSF70, FMSF75, FMAF20, MASB02, MASB03, FMAA25, MASA01
+Kurslitteratur
+
+Vännman, K: Matematisk statistik. Studentlitteratur, 2002, ISBN: 9789144016900.
+
+
+Kontaktinfo och övrigt
+Studierektor: Johan Lindström, studierektor@matstat.lu.se
+Hemsida: http://www.lth.se/matematik_lth_helsingborg
+
+
+

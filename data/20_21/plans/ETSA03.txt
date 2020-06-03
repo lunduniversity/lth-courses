@@ -1,0 +1,117 @@
+
+Kursplan 2020/21 ETSA03
+
+
+
+
+
+Kursplan för
+Programvaruutveckling - metodik
+Software Engineering - Methodology
+ETSA03, 6 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning C/D
+Beslutsdatum: 2020-03-30
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: C1
+Alternativobligatorisk för: I3
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursens syfte är att ge studenten grundläggande kunskap om hur
+utveckling av stora programvarusystem går till. Vidare syftar
+kursen till att ge praktisk erfarenhet av att utveckla programvara
+i ett team. Kursen bygger vidare på studentens förmåga att
+programmera genom att utveckla källkod som en del i arbetet med
+att ta fram en programvaruprodukt. Ytterligare ett syfte är att ge
+studenten sådan kunskap att han/hon kan delta i planeringen av ett
+mindre projekt.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna definiera grundläggande begrepp inom utveckling av stora
+programvarusystem,
+kunna beskriva de vanligaste processerna för utveckling av
+stora programvarusystem,
+kunna förklara de viktigaste momenten i
+kravhanteringsprocessen,
+kunna förklara hur programvarutestning går till,
+kunna beskriva vad en arkitekturdesign är,
+kunna beskriva de viktigaste stegen i projektplanering och
+projektuppföljning,
+kunna diskutera programvaruprodukter ur ett
+livscykelperspektiv,
+kunna förklara de viktigaste delarna i en affärsplan för
+programvaruprodukter,
+kunna redogöra för vikten av att kunna uttrycka sig korrekt i
+teknisk dokumentation.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+utveckla en enkel affärsplan för en programvaruprodukt,
+marknadsföra en programvaruprodukt,
+identifiera, analysera och specificera krav för en
+programvaruprodukt,
+hantera en utvecklingsmiljö för programmerare,
+bidra till ett utvecklingsteams gemensamma källkod,
+utveckla enkla automatiserade testfall,
+skriftligen formulera text i teknisk dokumentation,
+genomföra granskning av både teknisk dokumentation och
+källkod,
+samverka i ett utvecklingsteam.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+förstå komplexiteten i uppgiften att utveckla ett
+programvarusystem,
+ha förståelse för ingenjörens yrkesroll.
+
+
+Kursinnehåll
+
+Utvecklingsprocesser
+Affärsplan
+Kravhantering
+Programvaruutveckling i team
+Software testning
+Arkitekturdesign
+Projektstyrning och projektuppföljning
+Teknisk dokumentation
+Granskningar
+
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: För godkänt krävs fullgjorda laborationer och godkänt deltagande i projektarbetet.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0120. Benämning: Projekt. 
+Antal högskolepoäng: 4. Betygsskala: UG.  Prestationsbedömning: Kvalitet på inlämnat material från gruppen. 
+Kod: 0220. Benämning: Laborationer. 
+Antal högskolepoäng: 2. Betygsskala: UG.  Prestationsbedömning: Fullgjorda laborationer  Delmomentet omfattar: Laborationer 
+Antagningsuppgifter
+Förkunskapskrav:
+Godkänd på delmoment 0317 Datorlaborationer och inlämningsuppgifter i EDAA55 Programmeringsteknik
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: ETS140, ETS141, ETS160, ETS180, ETSA01, EDAF45, ETSA02, EDAG05
+Kurslitteratur
+
+Stephens, Rod: Beginning Software Engineering. Wiley, 2015, ISBN: 978-1-118-96914-4.
+Example and Exercises in the Software Engineering Process. Kompendium som revideras inför varje kurstillfälle - säljs av institutionen för datavetenskap.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Markus Borg, markus.borg@cs.lth.se
+Hemsida: http://cs.lth.se/etsa03
+
+
+

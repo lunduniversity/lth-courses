@@ -1,0 +1,92 @@
+
+Kursplan 2020/21 KMBF10
+
+
+
+
+
+Kursplan för
+Kvalitet och produktsäkerhet
+Quality and Product Safety
+KMBF10, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning B/K
+Beslutsdatum: 2020-03-27
+Allmänna uppgifter
+Alternativobligatorisk för: MLIV1, MLAK1
+Valfri för: B4-l, B4-mb, B4-lm, B4-pt, K4-l, MBIO1
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursen syftar till att introducera och träna studenterna i
+olika kvalitetssäkringsverktyg såsom HACCP, GMP och hygienisk
+processdesign samt standardiserade ledningssystem som ISO 9000,
+ISO 14000 och FSSC 22000.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+förstå principerna för industriell kvalitetssäkring och
+produktsäkerhet
+känna till de vanligaste kvalitetssäkringsverktygen och
+kvalitetsledningssystemen
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna skriftligt och muntligt presentera en risk- och
+kvalitetsbedömning av en process i enlighet med riktlinjerna för
+olika kvalitetssäkringsverktyg och kvalitetsledningssystem
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+visa insikt i behovet av kvalitetssäkringsverktyg och
+kvalitetsledningssystem för att säkerställa att processer och
+produkter uppfyller mydigheters, samhällets och företagens krav
+på produktkvalitet, säkerhet, effektivitet och miljöhänsyn
+
+
+Kursinnehåll
+
+verktyg för kvalitetsäkring och produktsäkerhet inom
+främst läkemedels- och livsmedelsindustri, men
+även förpacknings- och medicinteknisk industri behandlas
+kursen genomförs i nära samarbete med representanter för
+industrin. Föreläsningarna omfattar hygienisk process design,
+aseptik, renrum, rengöring i livs- och läkemedelsproduktion, CIP
+och SIP tekniker, good hygienic practice (GHP), HACCP, good
+manufacturing practice (GMP) och validering, lagstiftning, ISO 9000
+(kvalitetsledning), ISO 14000 (miljöledning), ISO 22000/FSSC
+22000 (livsmedelshantering), ISO14971 (riskhantering) och ISO13485
+(medicinteknik).
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig rapport och muntlig presentation samt opposition på projektuppgift. Skriftlig tentamen. Slutbetyget baseras på sammanlagda poäng från skriftlig rapport, muntlig presentation, muntlig opposition på projektuppgift samt skriftlig tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0119. Benämning: Projekt. 
+Antal högskolepoäng: 5. Betygsskala: UG.  Prestationsbedömning: Skriftlig rapport, muntlig presentation och opposition. Bedömning godkänd eller underkänd. 
+Kod: 0219. Benämning: Tentamen. 
+Antal högskolepoäng: 2,5. Betygsskala: UG.  Prestationsbedömning: Skriftlig tentamen med bedömningen godkänd eller underkänd. 
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: KMB031
+Kurslitteratur
+
+Adams, M.R., Moss, M.O. and McClure P.J.: Food Microbiology, Fourth Edition. The Royal Society of Chemistry, 2016, ISBN: 978-1-84973-960-3.
+Kompendium.
+Hand-outs från föreläsningar.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Jenny Schelin, jenny.schelin@tmb.lth.se
+Hemsida: http://www.tmb.lth.se
+
+
+

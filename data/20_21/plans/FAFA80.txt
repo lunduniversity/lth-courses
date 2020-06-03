@@ -1,0 +1,104 @@
+
+Kursplan 2020/21 FAFA80
+
+
+
+
+
+Kursplan för
+Tillämpad vågrörelselära
+Applied Optics and Waves
+FAFA80, 6 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning N
+Beslutsdatum: 2020-03-27
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: M1
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Syftet med kursen är att studenten ska tillägna sig
+grundläggande kunskaper i tillämpad vågrörelselära och optik.
+Förståelse inom dessa områden är central för
+begreppsbildningen inom starkt expanderande teknikområden. Kursen
+ska också ge träning i problemlösning, modelltänkande,
+experimentellt arbete samt skriftlig och muntlig kommunikation.
+Kursen avser även att stimulera studenten till reflektion över
+hur kursinnehållet relaterar till fysikaliska vardagsfenomen.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna analysera problemställningar samt utföra och tolka
+beräkningar inom ämnesområdet.
+förstå hur ett abstrakt modelltänkande i form av matematiska
+modeller, analogier och bilder växelverkar med experiment och den
+fysikaliska verkligheten.
+förklara vardagliga fysikaliska fenomen med hjälp av korrekta
+fysikaliska begrepp inom ämnesområdet.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna utnyttja och tolka fysikaliska modeller.
+kunna tillämpa de experimentella metoder som används i
+kursen.
+kunna skriva en strukturerad laborations- eller projektrapport
+i vilken t.ex. experimentella data presenteras och analyseras.
+ha utvecklat sin studiestrategi
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna värdera de experimentella metoder som används i
+kursen.
+kunna utvärdera utfall av olika experimentella metoder.
+på egen hand, t.ex. på internet, kunna söka och använda
+relevant information inom kunskapsområdet.
+
+
+Kursinnehåll
+Stor vikt läggs vid begreppsförståelse samt vid hur kursens
+olika delar relaterar till varandra och till aktuell
+teknikutveckling. Kursens laborativa del används för att
+visualisera viktiga fysikaliska begrepp. Vissa laborationer kan
+komma att ges på engelska.
+Kursen behandlar följande områden: Mekaniska svängningar,
+vågutbredning, interferens och dopplereffekt. Ljudtryck och
+ljudintensitetsnivå. Akustisk impedans, reflektion av ljudvågor,
+ultraljudsundersökningar. Elektromagnetiska vågor och Huygens
+princip. Avbildning med linser och speglar, optiska instrument.
+Interferens, böjning och upplösning. Polarisation, optisk
+aktivitet och spänningsoptik.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftligt prov och godkänd laborationskurs.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Laborationer. 
+Antal högskolepoäng: 2. Betygsskala: UG.  Prestationsbedömning: Obligatoriskt, aktivt deltagande vid laborationer samt godkända laborationsrapporter och redovisningar.  Delmomentet omfattar: Laborationer: Svängningar, Geometrisk optik och Ljusets böjning och interferens 
+Kod: 0217. Benämning: Tillämpad vågrörelselära (teori). 
+Antal högskolepoäng: 4. Betygsskala: TH.  Prestationsbedömning: Skriftligt prov som avgör det graderade slutbetyget på kursen.  Delmomentet omfattar: Kursen behandlar följande områden: Mekaniska svängningar, vågutbredning, interferens och dopplereffekt. Ljudtryck och ljudintensitetsnivå. Akustisk impedans, reflektion av ljudvågor, ultraljudsundersökningar. Elektromagnetiska vågor och Huygens princip. Avbildning med linser och speglar, optiska instrument. Interferens, böjning och upplösning. Polarisation, optisk aktivitet och spänningsoptik. 
+Antagningsuppgifter
+Förutsatta förkunskaper: Grundläggande kurser i matematik.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FAF260, FAFA01, FAFA05, FAFA50, FAFF25, FAFA65, FAFA60, FAFF30, FAFF40
+Kurslitteratur
+
+Jönsson, G.: Våglära och optik. Teach Support 2011. ISBN: 9789163389573.
+Laborationshandledning för M.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Andreas Walther, andreas.walther@fysik.lth.se
+Hemsida: http://www.atomic.physics.lu.se/education/mandatory_courses/faf260
+Övrig information: Närvaro vid första föreläsningen är obligatoriskt för att få tillträde till kursen.
+
+
+
+

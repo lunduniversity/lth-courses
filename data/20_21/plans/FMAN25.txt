@@ -1,0 +1,82 @@
+
+Kursplan 2020/21 FMAN25
+
+
+
+
+
+Kursplan för
+Variationskalkyl
+Calculus of Variations
+FMAN25, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning F/Pi
+Beslutsdatum: 2020-04-01
+Allmänna uppgifter
+Valfri för: D4, E4, F4, F4-bg, Pi4-bs, Pi4-fm, Pi4-bem
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Kursen syftar till att presentera grundläggande teori för, och
+användning av, variationskalkyl, dvs. optimeringsproblem för
+''funktioner av funktioner''. Ett klassiskt exempel är det
+isoperimetriska problemet: att bestämma den
+slutna kurva av given längd som innesluter maximal area. Många
+fysikaliska lagar kan formuleras som variationsprinciper,
+t ex lagen om ljusbrytning. Variationskalkylen är också en av
+hörnstenarna i den klassiska mekaniken och har många andra
+tekniska tillämpningar, t ex inom systemteori och optimal
+reglering.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+kunna redogöra för grunderna i teorin i samband med ett
+muntligt förhör.
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna visa förmåga att identifiera problem som kan
+modelleras med de införda begreppen.
+kunna integrera metoder och synsätt från de olika delarna i
+kursen för att lösa problem och besvara frågeställningar inom
+kursens ram.
+i tal och i skrift, logiskt sammanhängande och med
+adekvat terminologi kunna redogöra för lösningen till ett
+matematiskt problem inom kursens ram.
+
+
+Kursinnehåll
+
+Variationsproblem utan och med bivillkor. Eulers ekvationer med
+och utan bivillkor. Legendres, Jacobis och Weierstrass nödvändiga
+villkor för lokalt minimum.
+Hilberts invarianta integral och Weierstrass tillräckliga
+villkor för starkt lokalt minimum.
+Hamiltons princip och Hamiltons ekvationer. Lagranges och
+Mayers problem.
+
+ 
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Inlämningsuppgifter och muntlig tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: FMAB30 Flerdimensionell analys.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FMA200, MATC25
+Kurslitteratur
+
+Kot, M: A First Course in the Calculus of Variations. American Mathematical Society, 2014, ISBN: 978-1-4704-1495-5.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Anders Holst, studierektor@math.lth.se
+Kursadministratör: Studerandeexpeditionen, expedition@math.lth.se
+Lärare: Andrey Ghulchak, andrey.ghulchak@math.lth.se
+Hemsida: http://www.maths.lth.se/course/newcalcvar/
+
+
+

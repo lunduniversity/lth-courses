@@ -1,0 +1,95 @@
+
+Kursplan 2020/21 EXTN75
+
+
+
+
+
+Kursplan för
+Rumslig analys
+Spatial Analysis
+EXTN75, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning L
+Beslutsdatum: 2020-03-27
+Allmänna uppgifter
+Valfri för: L4-gi
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Kursen syftar till att ge grundläggande kunskaper och praktisk
+färdighet inom rumsliga analytiska metoder.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+förklara korrelationer mellan geografisk data,
+tolka, diskutera och tillämpa regression av geografiska
+data,
+förklara och tillämpa geostatistik,
+ingående förklara skalproblematiken inom rumslig analys och
+geografiska data,
+översiktligt beskriva analysmetoder för stora geografiska
+datamängder, och
+förklara grundläggande uppbyggnad av geografiska
+beslutstödssystem.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+självständigt genomföra analyser och tolka resultat från
+regressionsanalyser, och
+förstå och tillämpa speciella rumsliga analytiska metoder
+på geografisk data.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+självständigt förhålla sig till såväl rumsliga som
+vanliga statistiska mått och metoder,
+kritiskt förhålla sig till geografiska data och olika
+analytiska tekniker, och
+utvärdera tillförlitligheten i analyser genomförda med olika
+metoder.
+
+
+Kursinnehåll
+Kursen består av fem delmoment:
+
+regression och andra grundläggande modelleringsmetoder,
+geostatistik,
+skalproblem,
+analys av stora datamängder, och
+rumsliga beslutstödstekniker.
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig examen. Godkänd på alla inlämningsuppgifter samt deltagande på obligatoriska moment.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+FMSF50 Matematisk statistik, allmän kurs
+EDAA20 Programmering och databaser eller EDAA65 Programmering
+EXTF01 Geografiska informationssystem för landskapsstudier eller EXTF80 Geografisk informationsteknik eller EXTG75 GIS för samhällsbyggnad och miljö
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: GISN01, NGEN11
+Kurslitteratur
+
+Vetenskapliga artiklar.
+Peter A. Rogerson: Statistical Methods for Geography. 2001, ISBN: Print ISBN: 9780761962885 Online ISBN: 978184920. Online access for Lund University SAGE Research Methods Online.
+Turner, M. et al.: Landscape ecology in theory and practice : pattern and process. Springer-Verlag, 2001, ISBN: 978-0-387-95122-5. Online access for Lund University via LUB.
+Clark, I.: Practical Geostatistics. Geostokos Ltd., 2001. Contact course coordinator for advise before purchase.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Jonathan Seaquist, jonathan.seaquist@nateko.lu.se
+Hemsida: http://www.nateko.lu.se/sv/extn75
+
+
+

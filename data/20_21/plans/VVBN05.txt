@@ -1,0 +1,126 @@
+
+Kursplan 2020/21 VVBN05
+
+
+
+
+
+Kursplan för
+Drift och underhåll av vägar
+Highway Maintenance
+VVBN05, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning V
+Beslutsdatum: 2020-03-23
+Allmänna uppgifter
+Obligatorisk för: IBYV3
+Valfri för: V5-at, V5-bf, V5-tv
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Syftet med kursen är att förmedla nationella och
+internationella kunskaper i drift och underhåll av vägar och
+gator. Tyngdpunkten har lagts på några drift- och
+underhållsfrågor som utvärdering av bärighet, olika typer av
+materialkontroller samt mätmetoder för dokumentation av
+nedbrytning av vägar. Dessa områden behandlas därför mera
+ingående. Syftet är vidare att fördjupningar görs i ämnet
+Pavement Management Systems (PMS). Frågeställningar kring
+återanvändning av vägöverbyggnadsmaterial, vinterväghållning
+och miljöfrågor vid underhåll av vägar redovisas och
+diskuteras.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+Redogöra för hur olika hjälpmedel för att bestämma vägens
+tillstånd (lasermätbil, fallvikt och georadar) kan användas för
+underhållsplanering
+Förklara principerna för hur vinterväghållning prioriteras
+mellan olika objekt
+Förstå vattnets inverkan på nedbrytning av vägar
+Analysera och förstå mekanismen bakom nedbrytning av
+vägar
+Förstå trafikens effekter på olika typer av vägslitage
+Redogöra för skillnader mellan drift och underhåll av gator
+och vägar
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+Utveckla och använda ett PM-system på objektsnivå för att
+välja optimal, kostnadseffektiv underhållsstrategi baserat på
+samhällsekonomiska grunder
+Utföra en bärighetsutredning inklusive utvärdering av
+resultat från fallviktsmätningar
+Motivera och argumentera för olika underhållstrategier och
+deras samhällsekonomiska konsekvenser för både experter och
+lekmän
+Utföra en skadekartering på belagda vägar och föreslå
+lämpliga åtgärdsplaner
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+Förstå betydelsen av systematiskt underhåll och analysera
+information som används i underhållsplaneringssystem och värdera
+resultatens reliabilitet utifrån tillgänglig information
+
+Kursinnehåll
+Nationella och internationella kunskaper i drift och underhåll
+av vägar och gator med tyngdpunkten på några drift- och
+underhållsfrågor som utvärdering av bärighet och
+bärighetsurtedningar
+Olika typer av materialkontroller samt mätmetoder för
+dokumentation av nedbrytning av vägar och gator
+Fördjupningar görs även i ämnen nedbrytningsmodeller och
+Pavement Management Systems (PMS). Jämförelse av utdata från
+olika nedbrytningsmodeller
+Insamling av basdata till PMS samt simulering av effekter av
+olika valda underhållsåtgärder kommer att tas upp i en
+cost/benefit modell
+Mekanismen och bakomliggande orsaker till olika
+beläggningsskador diskuteras i teori och praktik
+Klimatfaktorers inverkan på vägslitage och nedbrytning
+Skadekartering av asfaltbeläggningar. Okulär besiktning av
+skador på belagda vägar
+Frågeställningar kring återanvändning av
+asfaltbeläggningar, metoder och analyser behandlas i kursen
+Alternativa vägöverbyggnadsmaterial
+Drift och underhåll i Sverige på enskilda objekt och på
+nätverksnivå
+Vinterväghållning inom kommuner och på landsbygden
+Olika upphandlingsformer för drift och underhåll.
+Funktionskrav på vägar
+Miljöfrågor vid underhåll av vägar redovisas och
+diskuteras.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: För godkänt betyg på kursen krävs godkända inlämningar av tre projektuppgifter samt en rapport. Muntlig redovisning av delar av uppgifterna. En skriftlig tentamen ingår i kursen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+VTVA45 Väg- och järnvägsteknik eller VVBF20 Vägbyggnad
+
+
+Förutsatta förkunskaper: VVBF20 Vägbyggnad eller VVBF Vägkonstruktion och produktionsplanering, VVBN10 Vägbyggnadsteknik, VGTF05 Geoteknik och VTVN01 Utformning av vägar.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: VTVF55
+Kurslitteratur
+
+Lars-Göran Wågberg: I valet & kvalet: handbok för val av beläggningsåtgärd. Svenska kommunförbundet, 2001, ISBN: 9172890096.
+Lars-Göran Wågberg: Bära eller brista. Handbok i tillståndsbedömning av belagda gator och vägar, Handbok i tillståndsbedömning av belagda gator och vägar. Svenska kommunförbundet, 2003, ISBN: 9172891726.
+Trafikverket: Försträkningsåtgärder. 2009.
+
+
+Kontaktinfo och övrigt
+Examinator: Ebrahim Parhamifar, Ebrahim.Parhamifar@tft.lth.se
+Kursansvarig: Sven Agardh, Sven.Agardh@tft.lth.se
+Hemsida: http://www.tft.lth.se
+Övrig information: Kursen ges i Lund. I kursen ingår inslag av ingenjörsfärdigheter i form av skriftligt och muntligt redovisning av en fördjupningsrapport inom ett för vägbyggnad relevant ämne.
+
+
+

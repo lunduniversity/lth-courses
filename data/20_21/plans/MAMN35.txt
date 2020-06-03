@@ -1,0 +1,106 @@
+
+Kursplan 2020/21 MAMN35
+
+
+
+
+
+Kursplan för
+Riskanalysmetoder för hälsa- och miljöområdet
+Risk Analysis Methods for Health and Environment 
+MAMN35, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning C/D
+Beslutsdatum: 2020-03-30
+Allmänna uppgifter
+Obligatorisk för: RH4-rh
+Valfri för: BME4, Pi4, W4
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursen syftar, tillsammans med tidigare kurser, till att
+studenten skall få möjlighet att tillgodogöra sig grunderna för
+och metoder för genomförande av riskanalys inom områdena Hälsa
+och Miljö. Vidare syftar kursen till att utgöra en bas för
+fortsatta studier inom riskhanteringsområdet.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+• Kunna förklara olika begrepp som används för
+riskanalyser inom hälsa och miljö.
+• Kunna beskriva hur osäkerhet i en riskanalys påverkar hur
+risken uppfattas och bedöms.
+• Kunna identifiera risker inom system relaterade till hälsa
+och miljö.
+• Kunna beskriva riskanalysmetoder för system relaterade till
+hälsa och miljö.
+• Kunna analysera sådana system och kunna beräkna relevanta
+riskmått.
+• Ha kännedom om aktuellt forsknings- och utvecklingsarbete
+inom riskanalysområdet med koppling till hälsa och miljö.
+• Ha kännedom om aktuell lagstiftning inom hälsa och miljö
+kopplat till riskanalyser.
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+• Kunna använda metoder och verktyg för osäkerhetsanalys
+så som Monte Carlo simulering och känslighetsanalys samt kunna
+tillämpa dem vid riskanalys i en ny situation.
+• Kunna värdera innehåll i existerande riskanalyser.
+• Kunna bedöma rimligheten i indata och beräknat resultat när
+kunskapsläget är osäkert.
+• Skriftligen och muntligen kunna redogöra för och diskutera
+innebörden av en genomförd riskanalys.
+• Kunna tillgodogöra sig material i vetenskapliga publikationer
+som är relevanta för riskanalys inom områdena hälsa och
+miljö.
+• Visa förmåga till lagarbete och samverkan i grupparbete.
+• Visa förmåga att planera och med adekvata metoder genomföra
+projektuppgifter med fokus på bedömning av risker.
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+• kunna bedöma lämpligheten för olika riskanalysmetoder
+beroende på problemets art och inom ramen för områdena hälsa
+och miljö.
+• kunna genomföra analyser på ett sätt som beaktar såväl
+vetenskapliga som samhälleliga och etiska aspekter.
+
+Kursinnehåll
+De övergripande momenten i kursen riskanalysmetoder utgörs av
+introduktion till området med en översikt av riskanalysområdet
+för hälsa och miljö samt olika begrepp och metoder för att
+kunna bedöma och utföra riskanalys inom områdena hälsa och
+miljö.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examinationen är en sammanvägning mellan resultat på ingående duggor, en skriftlig tentamen och de projektuppgifter som ingår. Tentamen består av både teorifrågor och frågor av problemlösningskaraktär. Godkända seminarium och laborationer krävs för godkänt.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0118. Benämning: Riskanalysmetoder. 
+Antal högskolepoäng: 4,5. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen  Delmomentet omfattar: De övergripande momenten i kursen utgörs av introduktion till området med en översikt av riskanalysområdet för hälsa och miljö, osäkerhetsanalys, samt riskanalysmetodik inom områdena Hälsa och Miljö.  
+Kod: 0218. Benämning: Projektuppgifter samt seminarium. 
+Antal högskolepoäng: 3. Betygsskala: UG.  Prestationsbedömning: Godkända projektuppgifter som utförs i grupp  Delmomentet omfattar: Godkända projektuppgifter som utförs i grupp. Delmomentet omfattar: Under kursens gång skall två projektuppgifter genomföras. Dessa uppgifter löses i grupp. Till projektuppgifterna finns handledning tillgänglig för konsultation. Projektuppgifterna innehåller relevanta frågeställningar inom områdena Hälsa och Miljö. Projektuppgifterna redovisas skriftligt och muntligt. Deltagande i seminarium. 
+Antagningsuppgifter
+Förkunskapskrav:
+Grundkurs i statistik om minst 7,5hp 
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: VBR180
+Kurslitteratur
+
+Kompendium i miljötoxikologi för miljötoxikologikurs på kemitekniklinjen. Avd för yrkes- och  miljömedicin. Universitetssjukhuset i Lund, 2002. Version 1.12.2002. sid 3-12, 21-40 och 123-127.
+Vetenskaplig artikel. Künzli, N. m fl: Public-health impact of outdoor and traffic-related air pollution: a European assessment. 2000. The Lancet, Vol 356, pp 795-783, 2000.
+Öberg, T.: Miljöriskanalys. Studentlitteratur, 2009.
+Utdelat material under kursen.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Anders Gudmundsson, anders.gudmundsson@design.lth.se
+Övrig information: I grupparbeten förutsätts aktivt deltagande. Varje gruppmedlem skall enskilt kunna redovisa och svara för innehållet. Uppfyller inte en medlem övrigas krav på aktiv medverkan, eller åsidosätter sina åtaganden, kan beslut av examinator om omplacering till annan grupp eller underkänt betyg erhållas.
+
+
+

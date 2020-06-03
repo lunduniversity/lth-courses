@@ -1,0 +1,141 @@
+
+Kursplan 2020/21 VBRF20
+
+
+
+
+
+Kursplan för
+Brandkemi - värmetransport
+Fire Chemistry and Heat Transfer
+VBRF20, 13 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning BI/RH
+Beslutsdatum: 2020-03-16
+Allmänna uppgifter
+Obligatorisk för: BI2
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursens syfte är att ge studenten baskunskaper inom
+värmetransport och förbränning. Kursen syftar också till att
+öka ingenjörsmässigheten och förmågan att bygga och analysera
+modeller.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna förklara och använda grundbegreppen värmeledning,
+konvektion och strålning.
+kunna förklara numeriska metoder för värmeledning.
+kunna beräkna konvektiva värmeövergångstal.
+kunna beräkna synfaktorer.
+kunna beräkna ångtryck för olika bränslen och
+bränsleblandningar.
+kunna beskriva entalpidiagram och beräkna förbränningsvärme
+för olika bränslen och reaktioner.
+kunna beräkna flamtemperaturer.
+kunna beskriva olika antändningsteorier och beräkna
+självantändningstemperaturer.
+kunna beräkna brännbarhetsgränser för olika bränslen och
+bränsleblandningar.
+kunna beskriva strukturen för en förblandad flamma och
+beräkna minsta kvävningsdiametern.
+kunna förklara skillnaden mellan detonation och
+deflagration.
+kunna förklara antändning hos fasta material.
+kunna formulera en energibalans för en brinnande vätskeyta
+och beskriva avbrinningshastighetens diameterberoende.
+kunna identifiera olika zoner i en glödbrand.
+kunna beskriva koncentrationsprofiler vid gasläckage i ett
+rum.
+kunna beräkna tryckstegringen vid en gasexplosion i ett
+rum.
+kunna beskriva sotbildningsprocessen och sotets inverkan på
+siktbarheten.
+kunna beräkna siktsträckan i brandgaser.
+ha kännedom om aktuellt forsknings- och utvecklingsarbete inom
+det brandtekniska området.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna tillämpa allmänna värmeledningsekvationen och Fouriers
+lag.
+kunna lösa numeriskt enkla värmeledningsproblem.
+kunna uppskatta olika materials värmeledningsförmåga.
+kunna tillämpa olika randvillkor vid transient
+värmeledning.
+kunna värdera effekten av värmestrålning på människor och
+bränslen.
+kunna uppskatta olika bränslens
+förbränningseffektivitet.
+kunna bedöma olika byggnadsdelars förmåga att stå emot en
+explosion samt designa tryckavlastningsytor.
+kunna muntligen och skriftligen argumentera för sina val av
+modeller och antaganden för värmetransportberäkningar och
+beräkningar kring grundläggande förbränningsfysik.
+kunna presentera resultat från brandtekniska experiment i en
+teknisk rapport.
+kunna planera och ställa upp brandtekniska experiment samt ha
+kännedom om mätmetoder och mätmetodik.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+visa förmåga att göra bedömningar av olika
+beräkningsmodellers lämplighet för olika typer av problem.
+visa insikt i vilket ansvar man har som brandingenjör att
+välja och redovisa parametrar så att modellerna nyttjas på ett
+korrekt och etiskt sätt.
+
+
+Kursinnehåll
+
+Värmetransport: Ledning, konvektion och strålning
+Brandkemi: Ångtryck, entalpidiagram, standardbildningsentalpi,
+förbränningsvärme, förbränningseffektivitet, adiabatisk
+flamtemperatur, ekvivalenskvot, kemiska reaktioner vid
+förbränning.
+Antändningsförlopp: Semenovs antändningsteori,
+Frank-Kameneskiis antändningsteori, minsta antändningsenergi,
+självantändningstemperatur, brännbarhetsgränser,
+explosionsgränser,
+Flamutbredning: Förblandade flammor, detonation, deflagration,
+diffusionsflammor, vätskebränder, fasta material, glödbränder,
+gasexplosioner och dammexplosioner
+Brandgaser: Sotkoncentration och sikt
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Slutbetyget baseras på skriftlig tentamen, hemuppgifter (enskilt arbete), datorlaboration (enskilt arbete) och laborationsrapporter (arbete i grupp) samt deltagande vid obligatoriska seminarier och laborationer.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0116. Benämning: Brandkemi - värmetransport. 
+Antal högskolepoäng: 6,5. Betygsskala: TH.  Prestationsbedömning: Examinationen kommer att ske både enskilt och baserat på arbete i grupp. Under kursens gång erbjuds två deltentamina. Under kursens gång ska studenten lösa tre stycken obligatoriska hemuppgifter samt en datorlaboration. Redovisning av hemuppgifter och datorlaboration sker på seminarier med obligatorisk närvaro. Kursen avslutas med en skriftlig tentamen.  Delmomentet omfattar: Föreläsningar och övningar behandlar värmetransport, brandkemi, antändningsförlopp, flamutbredning och brandgaser. Kursens olika moment belyses med övningsuppgifter. Eget arbete med problemlösning har därför stor betydelse för inlärning av kursen. 
+Kod: 0216. Benämning: Laborationer och hemuppgift. 
+Antal högskolepoäng: 6,5. Betygsskala: UG.  Prestationsbedömning: Kursen baseras delvis på fyra stycken laborationer. Godkända laborationsrapporter och närvaro på laborationerna krävs för slutbetyg.  Delmomentet omfattar: I laborationerna ingår: 1) Syrgasindex 2) Brännbarhetsgränser. 3) Antändlighet 4) Effekt, rök- och gasalstring från poolflammor. 
+Antagningsuppgifter
+Förutsatta förkunskaper: FAFA30 Fysik - Elektricitetslära, gaser och vätskor, FMAA05 Endimensionell analys eller FMAB65 Endimensionell analys B1 tillsammans med FMAB70 Endimensionell analys B2, FMAB20 Linjär algebra, KOOA05 Allmän kemi, MMVA01 Termodynamik med strömningslära.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: VBR021, VBR121, VBR022
+Kurslitteratur
+
+Drysdale, D: An introduction to fire dynamics. John Wiley & Sons , 2011, ISBN: 978-0-470-31903-1.
+Analytisk lösning av värmeledningsekvationen. Stencil, 1990.
+Självantändning. Stencil.
+Harris: Gasexplosions, Utdrag ur.
+Ann-Ida Petterson, Patrick van Hees: Kurslitteratur  - Brandkemi. Brandteknik och riskhantering, 2014.
+
+
+Kontaktinfo och övrigt
+Examinator: Margaret McNamee, margaret.mcnamee@brand.lth.se
+Övrig information: I grupparbeten förutsätts aktivt deltagande. Varje gruppmedlem skall enskilt kunna redovisa och svara för innehållet. Uppfyller inte en medlem övrigas krav på aktiv medverkan, eller åsidosätter sina åtaganden, kan beslut av examinator om omplacering till annan grupp eller underkänt betyg erhållas.
+Några föreläsningar kan komma att ges på engelska,
+
+
+

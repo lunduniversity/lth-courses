@@ -1,0 +1,133 @@
+
+Kursplan 2020/21 VTVA05
+
+
+
+
+
+Kursplan för
+Hållbart byggande
+Sustainable Construction
+VTVA05, 12 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning W
+Beslutsdatum: 2020-03-23
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: L1
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Husbyggnadsteknik: grundläggande kunskaper om byggnadsteknik
+och installationsteknik med beaktande av ett energieffektivt,
+fuktsäkert och sunt byggande.
+Miljökunskap: grundläggande naturvetenskaplig kunskap om
+viktiga miljöproblem. De studerande skall även få en orientering
+om hur miljöproblemen definieras och behandlas i samhället.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+Ha god kunskap om de vanligaste byggnadstekniska
+konstruktionerna och installationstekniska systemen från olika
+tidsepoker.
+Förstå grundläggande byggnadsfysikaliska fenomen.
+Ha grundläggande kunskap i tolkning av konstruktionstekniska
+ritningar.
+Ha grundläggande kunskap om de naturvetenskapliga mekanismerna
+bakom viktiga miljöproblem som t ex växthuseffekt, försurning
+och marknära ozon.
+Ha översiktliga kunskaper om viktiga "miljöverktyg", som
+t.ex. LCA och MKB, och kunna relatera dessa till verkliga
+projekt
+Ha översiktlig kunskap om hur samhället reglerar
+miljöproblem; d.v.s. principerna bakom lagstiftning,
+tillstånd/övervakning och styrmedel.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+Kunna läsa och förstå konstruktionstekniska ritningar samt
+själv via enkla ritningar kommunicera
+konstruktionslösningar.
+Kunna tillämpa kunskaperna för att identifiera och lösa
+enklare byggnadsfysikaliska frågeställningar
+Kunna bedöma en byggnad avseende energieffektivitet,
+fuktsäkerhet, inneklimat och uthållighet.
+Kunna identifiera vilka miljöfrågor som är relevanta i
+samband med projekt som rör markanvändning i vid mening.
+Kunna genomföra en översiktlig analys av miljökonsekvenser i
+samband med sådana projekt, samt därmed kunna identifiera vilken
+ytterligare kompetens som behöver tillkallas.
+Självständigt kunna inhämta information för att lösa
+specifika uppgifter inom ämnesområdet.
+I rapportform kunna redogöra för de viktigare
+miljöaspekterna på ett givet markanvändningsprojekt samt
+muntligt kunna kommunicera innehållet i en sådan rapport.
+I en formell rapport kunna redogöra för viktiga miljö- och
+byggnadstekniska aspekter på ett givet markanvändningsprojekt,
+särskilt husbyggnad. Rapporten skall uppfylla grundläggande krav
+på struktur och referenshantering.
+Kunna muntligt kommunicera innehållet i en sådan rapport,
+samt kritiskt granska och kommentera andras arbeten.
+
+
+Kursinnehåll
+Kursen är uppdelad i två delar.
+Husbyggnadsteknik: Grundläggande byggnadsfysik samt byggnads-
+och installationsteknik samt de vanligaste byggnadsdelarnas
+konstruktion belyses. Speciell vikt läggs vid
+energieffektiviserande åtgärder, fuktsäkerhet, skador samt
+inneklimat. Projektarbetet, som är integrerat med kursens
+miljödel, behandlar exploatering av ett markområde, där
+lämpliga hustyper och konstruktioner ska föreslås med hänsyn
+till markbeskaffenhet, energiförbrukning, materialval,
+fuktsäkerhet och livscykelanalys.
+Miljökunskap: Viktiga miljöproblem med anknytning till de
+nationella miljömålen och deras betydelse inom olika
+samhällssektorer såsom areella näringar, energiförsörjningen,
+transportsystem och avfallsbehandling behandlas. Samhällets och
+företagens miljöarbete behandlas och relateras till
+verktyg/metoder bland annat med förankring i lagstiftningen. Det
+integrerade projektarbetet utnyttjar ett livscykelperspektiv i
+analysen av ett byggprojekt, och skall omfatta miljökonsekvenser
+såväl i byggnads- som i driftsskedet.
+I kursen varvas föreläsningar, övningar och mindre
+projektuppgifter. I den större integrerade projektuppgiften, som
+redovisas i en skriftlig rapport samt vid särskilda seminarier,
+läggs vikt vid strukturell utformning och korrekt
+rapportskrivningsteknik inklusive källhantering och källkritik.
+Projektuppgiften genomförs i grupper med 3-4 studenter.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Godkänd skriftlig tentamen i de båda delarna miljökunskap och husbyggnadsteknik. Tentamen i husbyggnadsteknik består av två delar: byggnadsfysik/byggnadsteknik och installationsteknik. Båda delarna av husbyggnadstekniken måste godkännas vid samma tentamenstillfälle. Godkända projektuppgifter, som ska presenteras skriftligt och muntligt vid ett seminarium. Vid detta seminarium ska även muntlig opposition utföras. Deltagande i studiebesök. Obligatoriska föreläsningar kan förekomma. Betyget grundar sig på resultatet på tentamina.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0114. Benämning: Miljökunskap. 
+Antal högskolepoäng: 3. Betygsskala: UG.  Prestationsbedömning: Godkänd skriftlig tentamen.  Delmomentet omfattar: Examinationen omfattar de delar av kursen som behandlar miljö- och hållbarhetsaspekter vid byggande och exploatering för byggande och anläggning. 
+Kod: 0214. Benämning: Husbyggnadsteknik. 
+Antal högskolepoäng: 3. Betygsskala: UG.  Prestationsbedömning: Godkänd skriftlig tentamen i både byggnadsfysik/byggnadsteknik och installationsteknik från samma tentamenstillfälle.  Delmomentet omfattar: Examinationen innefattar en skriftlig tentamen med ett antal frågor på innehållet i kurslitteraturen. 
+Kod: 0314. Benämning: Projektarbete. 
+Antal högskolepoäng: 6. Betygsskala: UG.  Prestationsbedömning: Godkänd skriftlig projektrapport och godkänd muntlig redovisning. 
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: VTT090, VTT091
+Kurslitteratur
+
+Gröndahl F & Svanström M: Hållbar utveckling - en introduktion för ingenjörer och andra problemlösare. Liber. Senaste upplagan.
+Warfvinge, Dahlblom: Installationsteknik för fastighetsmäklare. Finns på KFS.
+ Bengt Strandberg, Fredrik Lavén, Anders Bodin: Bygga hus: illustrerad bygglära. Studentlitteratur AB, ISBN: 9789144125138. Senaste upplagan.
+Föreläsningsanteckningar. Dessutom ingår några rapporter från myndigheter och företag.
+Övningsmaterial till Husbyggnadsteknik.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Per Svenningsson, per.svenningsson@miljo.lth.se
+Kursansvarig: Akram Abdul Hamid , akram.abdul_hamid@byggtek.lth.se
+Kursansvarig: Astrid Byrman, astrid.byrman@miljo.lth.se
+
+
+

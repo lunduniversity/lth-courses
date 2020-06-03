@@ -1,0 +1,89 @@
+
+Kursplan 2020/21 VBMA25
+
+
+
+
+
+Kursplan för
+Byggnadsmaterial
+Building Materials
+VBMA25, 5 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning V
+Beslutsdatum: 2020-03-23
+Allmänna uppgifter
+Obligatorisk för: BI1
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursens syfte är att ge grundläggande kunskaper om de
+vanligaste byggnadsmaterialens uppbyggnad och viktigaste
+egenskaper.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna identifiera de vanligaste byggnadsmaterialen
+känna till de traditionella byggnadsmaterialens uppbyggnad,
+tillverkning och funktionssätt
+förstå hur materialens egenskaper kan påverkas i samband med
+tillverkning och förädling
+kunna förstå grundläggande mekanismer avseende
+värmetransport, fuktegenskaper, mekaniska egenskaper,
+beständighet samt materialens beetende vid höga temperaturer
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna identifiera viktiga krav som olika miljöer ställer på
+byggnadsmaterialen
+kunna göra rimliga materialval och bedöma konsekvenserna av
+dessa val i olika miljöer och konstruktioner
+
+ 
+
+Kursinnehåll
+Kursen behandlar de vanligaste byggnadsmaterialens
+
+strukturell uppbyggnad på submikro-, mikro- och makronivå
+samt vissa grundläggande kemiska begrepp
+densitet och porositet och deras betydelse för
+egenskaperna
+värme- och fuktbetingade egenskaper
+hållfasthets- och deformationsegenskaper
+beständighet samt egenskaper i samband med höga
+temperaturer
+
+ 
+De tre laborationerna utförs i grupper om maximalt fyra
+studenter och behandlar bla gjutning av betong, fukt- och
+temperaturbetingade rörelser samt hållfasthet och krypning.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Kursen avslutas med en skriftlig tentamen som består av en teoridel och en räknedel. I kursen ingår även tre obligatoriska laborationer som skall genomföras och godkännas.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0115. Benämning: Laboration. 
+Antal högskolepoäng: 1. Betygsskala: UG.  Prestationsbedömning: Laboration 
+Kod: 0215. Benämning: Skriftlig examination. 
+Antal högskolepoäng: 4. Betygsskala: TH.  Prestationsbedömning: Skriftlig examination 
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: VBM011, VBM611, VBMA05, VBM012, VBMA30, VBMA35
+Kurslitteratur
+
+Burström, P.G., Nilvér K.: Byggnadsmaterial, 3:e upplagan. Studentlitteratur, 2018, ISBN: 978-91-44-05755-2.
+Burström, P.G.: Byggnadsmaterial – övningsbok, 3:e upplagan. Studentlitteratur, 2018, ISBN: 978-91-44-05756-9.
+Utdelat material som görs tillgängligt på kurshemsidan.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Peter.johansson@byggtek.lth.se, 
+Hemsida: http://www.byggnadsmaterial.lth.se/utbildning/vbma25
+
+
+

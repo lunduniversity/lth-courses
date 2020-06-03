@@ -1,0 +1,108 @@
+
+Kursplan 2020/21 BMEN01
+
+
+
+
+
+Kursplan för
+Medicinsk signalbehandling
+Biomedical Signal Processing
+BMEN01, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning BME
+Beslutsdatum: 2020-03-24
+Allmänna uppgifter
+Valfri för: BME4-sbh, C4, D4, E4-mt, F4, F4-mt, F4-bm, F4-ss, Pi4-biek
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Kursen ger en översikt av metoder som är lämpliga för att
+lösa problem inom medicinsk signalbehandling. Studenten skall ges
+tillräckliga insikter om medicinska signalers ursprung och
+lämpliga analysmetoder för att självständigt kunna bedöma
+vilken metod som är lämplig att använda.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+känna till olika medicinska signaler liksom de metoder som är
+speciellt lämpade för deras behandling.
+kunna tillämpa de vanligaste metoderna på kliniska problem
+(MATLAB-nivå).
+kunna formulera enkla matematiska modeller och bestämma
+relaterade optimala metoder för skattning av relevant
+information.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna förstå bioelektriska signalers ursprung och hur dessa
+manifesterar sig på kroppsytan.
+kunna beskriva de vanligaste kliniska applikationerna där
+sådana signaler används.
+kunna beskriva de vanligaste metoderna för analys av såväl
+periodiska som aperiodiska medicinska signaler. Beskrivningen ska
+kunna göras i såväl övergripande form, dvs. blockdiagram och
+text, som med hjälp av ekvationer.
+kunna formulera och beskriva statistiska modeller som är
+lämpliga för att modellera specifika signalegenskaper.
+kunna implementera en metod och värdera dess prestanda i
+kliniskt relevant termer.
+kunna analysera och lösa ett specifikt
+signalbehandlingsproblem inom ramen för ett projektarbete.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+ha förmåga att analysera, värdera, och implementera
+algoritmer, samt tolka och beskriva deras inneboende
+principer.
+ha insikt om att till synes skilda tekniska problem kan lösas
+med samma metoder.
+
+
+Kursinnehåll
+Bioelektriska signaler
+ 
+
+Ursprung
+Komponenter
+Tillämpningar
+
+Signaler i hjärnan
+ 
+
+Aktivitetsanalys
+Spektralanalys
+Tids och frekvensanalys
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Tentamen i slutet av kursen. En omfattande, obligatorisk projektuppgift som bedrivs ur ett problembaserat perspektiv där studenten får ta ett betydande ansvar för att formulera och lösa uppgiften.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0118. Benämning: Tentamen. 
+Antal högskolepoäng: 5,5. Betygsskala: TH.  Prestationsbedömning: Godkänd examen  Delmomentet omfattar: Skriftlig examen 
+Kod: 0218. Benämning: Projekt. 
+Antal högskolepoäng: 2. Betygsskala: UG.  Prestationsbedömning: Godkänt projekt  Delmomentet omfattar: Projekt för max två studenter 
+Antagningsuppgifter
+Förutsatta förkunskaper: ESS040 /EITF75 Digital signalbehandling, ETI265 /EITA50 Digital signalbehandling i multimedia eller EITF15 Signalbehandling - teori och tillämpningar.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: ETI160, ETIF15
+Kurslitteratur
+
+Sörnmo L, Laguna P: Biomedical Signal Processing in Cardiac and Neurological Applications. Elsevier , 2005, ISBN: 0-12-437552-9.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Professor Leif Sörnmo, leif.sornmo@bme.lth.se
+Hemsida: http://bme.lth.se/course-pages/medicinsk-signalbehandling/medicinsk-signalbehandling-bmen01/
+Övrig information: Vid färre än 16 deltagare kan kursen komma att ges med reducerad undervisning och större inslag av självstudier.
+
+
+

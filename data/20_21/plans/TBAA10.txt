@@ -1,0 +1,107 @@
+
+Kursplan 2020/21 TBAA10
+
+
+
+
+
+Kursplan för
+Tekniskt basår: Matematik 4
+Pre-University Course in Technical Sciences: Mathematics 4
+TBAA10, 9 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning TB
+Beslutsdatum: 2020-04-03
+Allmänna uppgifter
+Obligatorisk för: TB1
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Syftet är att studenten ska uppnå kunskaper motsvarande
+gymnasieskolans Matematik 4.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+Lärandemål förekommer inte i denna form.
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+Lärandemål förekommer inte i denna form.
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+Lärandemål förekommer inte i denna form.
+
+Kursinnehåll
+Matematik 4, Del a
+•    Hantering av trigonometriska uttryck samt bevis och
+användning av trigonometriska formler inklusive trigonometriska
+ettan och additionsformler.
+•    Algebraiska och grafiska metoder för att lösa
+trigonometriska ekvationer.
+•    Olika bevismetoder inom matematiken med exempel från
+områdena aritmetik, algebra eller geometri.
+•    Egenskaper hos trigonometriska funktioner,
+logaritmfunktioner, sammansatta funktioner och absolutbeloppet som
+funktion.
+•    Skissning av grafer och tillhörande asymptoter.
+•    Härledning och användning av deriveringsregler för
+trigonometriska, logaritm-, exponential- och sammansatta funktioner
+samt produkt och kvot av funktioner.
+•    Strategier för matematisk problemlösning inklusive
+användning av digitala verktyg och programmering.
+•    Matematiska problem av betydelse för samhällsliv och
+tillämpningar i andra ämnen.
+•    Matematiska problem med anknytning till matematikens
+historia.
+Matematik 4, Del b
+•    Metoder för beräkningar med komplexa tal skrivna på
+olika former inklusive rektangulär och polär form.
+•    Komplexa talplanet, representation av komplext tal som
+punkt och vektor.
+•    Konjugat och absolutbelopp av ett komplext tal.
+•    Användning och bevis av de Moivres formel.
+•    Algebraiska och grafiska metoder för att lösa enkla
+polynomekvationer med komplexa rötter och reella polynomekvationer
+av högre grad, även med hjälp av faktorsatsen.
+•    Egenskaper hos trigonometriska funktioner,
+logaritmfunktioner, sammansatta funktioner och absolutbeloppet som
+funktion.
+•    Skissning av grafer och tillhörande asymptoter.
+•    Algebraiska och grafiska metoder för bestämning av
+integraler med och utan digitala verktyg, inklusive beräkningar av
+storheter.
+•    Begreppet differentialekvation och dess egenskaper i
+enkla tillämpningar som är relevanta för karaktärsämnena.
+•    Strategier för matematisk problemlösning inklusive
+användning av digitala verktyg och programmering.
+•    Matematiska problem av betydelse för samhällsliv och
+tillämpningar i andra ämnen.
+•    Matematiska problem med anknytning till matematikens
+historia.
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: Godkänd tentamen på båda delarna
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0120. Benämning: Skriftlig tentamen, del a. 
+Antal högskolepoäng: 4,5. Betygsskala: UG.  Prestationsbedömning: Skriftlig tentamen. 
+Kod: 0220. Benämning: Skriftlig tentamen, del b. 
+Antal högskolepoäng: 4,5. Betygsskala: UG.  Prestationsbedömning: Skriftlig tentamen. 
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Alfredsson m fl: Matematik 5000+, kurs 4, Lärobok. Natur&Kultur, 2020, ISBN: 9789127455771.
+Alfredsson m fl: Matematik 5000+, kurs 4, Lärobok, Digital. Natur&Kultur, 2020, ISBN: 9789127458239. Kan användas som alternativ till den tryckta boken.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Håkan Linder, hakan.linder@hbg.lth.se
+Hemsida: http://www.lth.se/utbildning/tekniskt-basaar/
+Övrig information: Poängskalan för kursen är förutbildningspoäng (fup).
+
+
+

@@ -1,0 +1,96 @@
+
+Kursplan 2020/21 MMTF15
+
+
+
+
+
+Kursplan för
+Verkstadsteknik
+Workshop Practice
+MMTF15, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning M
+Beslutsdatum: 2020-03-26
+Allmänna uppgifter
+Valfri för: M4-prr, MD4, MPRR2
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Att ge kursdeltagaren kunskaper och skicklighet kring praktiskt
+handhavande av olika verkstadsmaskiner och processer samt att ge
+möjlighet att kombinera detta med teoretiska kunskaper. Efter
+genomgången kurs ska studenterna självständigt kunna använda
+sina kunskaper inom andra verksamheter och kurser inom sin
+utbildning.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+Känna till maskinsäkerhet för verkstadsarbete
+Kunna genomföra ritningsläsning med förståelse för den
+information som har betydelse för bearbetningen av detaljen samt
+kunna utföra en tillverkningsberedning av detaljen
+Kunna beskriva och värdera faktorer som avgör kvalitet och
+produktivitet vid i kursen ingående tillverkningsprocesser
+Kunna skapa ett NC-program för numerisk svarv och för numerisk
+fräs, utgående från givna ritningsdata samt att kunna simulera
+och korrigera den skrivna koden.
+Förklara effekterna av olika värmebehandlingsoperationer samt
+utgående från materialprover och materialmodeller i grupp
+muntligt och skriftligt, kunna analysera erhållna resultat.
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+Kunna arbeta säkert och självständigt med maskiner för
+skärande bearbetning, inklusive val av korrekta skärdata och
+verktygsuppsättningar
+Kunna arbeta självständigt med olika svetsprocesser samt
+behärska olika svetslägen
+Kunna programmera en numeriskt styrd maskin samt kunna genomföra
+simulering och felsökning vid maskinpanelen.
+Kunna genomföra värmebehandling av material samt kunna genomföra
+analys och testning av effekten av denna.
+
+Kursinnehåll
+Kursen omfattar ett antal praktiska kursmoment där olika typer
+av maskiner och processer introduceras varefter självständigt
+arbete vidtar för att öva den individuella färdigheten. Till
+varje praktiskt moment kopplas uppgifter som anknyter till
+teoretiska kursmoment, t.ex. inom materialteknik. Kursen genomförs
+till huvuddelen i M-husets utbildningsverkstad, den utrustning som
+finns installerad där utgör huvudlinjen i kursen. Efter
+genomgången kurs ska varje godkänd student erhålla ett körkort
+som gör det möjligt att utnyttja utbildningsverkstaden i andra
+kurser vid LTH och examensarbete. Kursen innefattar utbildning inom
+skärande bearbetning (svarvning, borrning, fräsning, sågning
+etc), plåtbearbetning, svetsning (MAG, TIG, MMA), NC-bearbetning,
+verktygsteknologi samt ett större avsnitt inom tillämpad
+materialteknik och värmebehandling. Värmebehandlingsdelen
+omfattar olika typer av materialstrukturer för olika
+materialgrupper, proceser för att uppnå önskade egenskaper samt
+provberedning och analys av struktur och egenskaper.  Teoretiska
+modeller utnyttjas för att förstå de erhållna resultaten.
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: Praktiska färdighetsprover för varje maskin eller grupp av maskiner, som kan bestå av en fysisk detalj som skall tillverkas efter maskinritning, alternativt skicklighetsövningar kopplade till en process som kräver individuell färdighetsträning, t.ex. svetsning. 
+Individuella skriftliga rapporter som komplement till de praktiska övningarna, där olika aspekter av beredning och processutfall skall diskuteras. 
+Gruppvis skriftlig rapport på värmebehandlings- och materialavsnittet, inkluderande muntlig redovisning.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: MMT012 Tillverkningsmetoder, FKM015 Konstruktionsmaterial AK
+Begränsat antal platser: 20
+Urvalskriterier: Avklarade högskolepoäng inom programmet. Förtur ges till studenter vars program har kursen listad i läro- och timplanen.
+Kurslitteratur
+
+B. Zakharov: Heat Treatment of Metals. University Press of the Pacific, ISBN: 10: 1410203050.
+Utbildningsmaterial sammanställt av institutionen.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Mats Andersson, mats.andersson@iprod.lth.se
+Övrig information: Deltagande vid första undervisningstillfället är obligatoriskt. 
+
+
+

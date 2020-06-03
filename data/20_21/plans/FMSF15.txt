@@ -1,0 +1,116 @@
+
+Kursplan 2020/21 FMSF15
+
+
+
+
+
+Kursplan för
+Markovprocesser
+Markov Processes
+FMSF15, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning I
+Beslutsdatum: 2020-04-03
+Allmänna uppgifter
+Valfri för: BME4, C4, D4-ns, E4, F4, F4-bg, F4-bm, I4, Pi4-ssr, MMSR2
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Markovkedjor och -processer är en klass av modeller som
+förutom en rik matematisk struktur också har tillämpningar inom
+många discipliner som t.ex. telekommunikation och produktion (kö-
+och lagerteori), tillförlitlighetsanalys, finansmatematik (t.ex.
+dolda Markovmodeller), reglerteori och bildbehandling
+(Markovfält).
+Syftet med kursen är att studenten skall tillägna sig de
+grundläggande begreppen och metoderna för Poissonprocesser,
+diskreta Markovkedjor och -processer, och också lära sig att
+tillämpa dessa. Inom kursen ges exempel på tillämpningar från
+olika fält, för att underlätta för studenten att använda
+kunskaperna inom andra kurser där Markovmodeller förekommer.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+förklara Markovbegreppet och intensitetsbegreppet, samt
+förklara begreppen beständighet, kommunikation, stationär
+fördelning, och hur de relaterar till varandra
+genomföra beräkningar av stationära fördelningar
+och absorptionstider för diskreta Markovkedjor och
+-processer
+förklara Poissonprocessens lämplighet som modell för
+sällsynta händelser, och genomföra beräkningar av
+sannolikheter med hjälp av Poissonprocessens egenskaper i en och
+flera dimensioner.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+konstruera en modellgraf för en Markovkedja eller
+-process som beskriver ett givet system, och använda modellen
+för att studera systemet
+i samband med problemlösning visa förmåga att
+integrera kunskaper från de olika delarna av kursen
+läsa och tolka enklare litteratur med inslag av
+Markovmodeller och tillämpningar av dessa
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+identifiera problem som kan lösas med Markovmodeller, och
+välja lämplig metod
+använda kunskaper om Markovmodeller i andra kurser,
+samt överföra begrepp, verktyg och kunskaper mellan olika
+kurser där Markovmodeller används
+
+
+Kursinnehåll
+Markovkedjor: modellgrafer, Markovbegreppet,
+övergångssannolikheter, beständiga och transienta tillstånd,
+positivt och nollbeständiga tillstånd, kommunikation, existens
+och unikhet av stationär fördelning samt beräkning av densamma,
+absorptionstider.
+Poissonprocessen: små talens lag, räkneprocessen,
+händelseavstånd, icke-homogena processer, uttunning och
+superposition, processer på generella rum.
+Markovprocesser: övergångsintensiteter, tidsdynamik, existens
+och unikhet av stationär fördelning samt beräkning av densamma,
+födelsedöds-processer, absorptionstider.
+Introduktion till förnyelseteori och regenerativa
+processer.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen samt obligatorisk närvaro på laborationerna
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0115. Benämning: Tentamen. 
+Antal högskolepoäng: 6,5. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen. 
+Kod: 0215. Benämning: Laborationsdel 1. 
+Antal högskolepoäng: 0,5. Betygsskala: UG.  Prestationsbedömning: Första datorlaborationen 
+Kod: 0315. Benämning: Laborationsdel 2. 
+Antal högskolepoäng: 0,5. Betygsskala: UG.  Prestationsbedömning: Övriga datorlaborationer 
+Antagningsuppgifter
+Förkunskapskrav:
+FMAA20 Linjär algebra med introduktion till datorhjälpmedel eller FMAB20 Linjär algebra eller FMSF20 Matematisk statistik, allmän kurs eller FMSF25 Matematisk statistik - kompletterande projekt eller FMSF45 Matematisk statistik, allmän kurs eller FMSF50 Matematisk statistik, allmän kurs eller FMSF55 Matematisk statistik, allmän kurs eller FMSF70 Matematisk statistik eller FMSF75 Matematisk statistik, allmän kurs
+FMAB30 Flerdimensionell analys eller FMAB35 Flerdimensionell analys med vektoranalys eller FMSF20 Matematisk statistik, allmän kurs eller FMSF25 Matematisk statistik - kompletterande projekt eller FMSF45 Matematisk statistik, allmän kurs eller FMSF50 Matematisk statistik, allmän kurs eller FMSF55 Matematisk statistik, allmän kurs eller FMSF70 Matematisk statistik eller FMSF75 Matematisk statistik, allmän kurs
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FMS180, MASC03
+Kurslitteratur
+
+Lindgren, G. & Rydén, T.: Markovprocesser. KFS, 2002.
+
+
+Kontaktinfo och övrigt
+Studierektor: Johan Lindström, studierektor@matstat.lu.se
+Hemsida: http://www.maths.lth.se/matstat/kurser/masc03/
+Övrig information: Kursen ges även på naturvetenskaplig fakultet med koden MASC03.
+
+
+

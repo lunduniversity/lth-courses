@@ -1,0 +1,111 @@
+
+Kursplan 2020/21 EITF90
+
+
+
+
+
+Kursplan för
+Ellära och elektronik
+Electromagnetics and Electronics
+EITF90, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning E
+Beslutsdatum: 2020-03-19
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: BME2, F2, N2
+Alternativobligatorisk för: W3
+Valfri för: Pi4
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+I princip alla tekniska system har en eller flera viktiga delar
+som kan klassas som elektroniska, många är till och med helt
+elektroniska. Särskilt medför de flesta mätsituationer att en
+fysikalisk storhet omvandlas till en elektrisk signal. Detta har
+medfört en världsomfattande industri och arbetsmarknad, och de
+flesta civilingenjörer förutsätts ha grundläggande kunskaper i
+elektronik.
+Kursen är en grundläggande modelleringskurs avseende
+elektroniska system. Särskilt betonas modelleringskedjan 1)
+bestäm kretsmodeller för de fysikaliska processerna i de olika
+komponenterna såsom motstånd, transistorer etc, 2) utför
+matematisk analys av kretsmodellen och 3) tolka resultaten i form
+av systemparametrar som förluster och förstärkning.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna använda begrepp såsom elektriska och magnetiska fält,
+ström, spänning, effekt, impedans, överföringsfunktion,
+förstärkning och bandbredd för att beskriva och diskutera ideer,
+problem och lösningar rörande grundläggande komponenter och
+enkla elektroniska system för sakkunniga inom ellära och
+elektronik.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna skapa kretsmodeller för enkla elektriska system.
+kunna beräkna resistans och kapacitans för givna
+geometrier.
+kunna analysera givna linjära och olinjära kretsar med ett
+fåtal noder för hand.
+kunna designa kretsar som uppnår givna specifikationer, till
+exempel enkla passiva filter och förstärkare.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+utgående från en given frågeställning för ett
+system kunna välja modelleringsnivå och analysmetod för att på
+ett effektivt sätt besvara frågan.
+
+
+Kursinnehåll
+Kursen består av kretsteori, elektromagnetisk fältteori och
+elektronik. I kretsteorin och fältteorin behandlas elektriska
+storheter, grundläggande analysverktyg samt verkliga kretselement
+och motsvarande ideala kretsmodeller. Kretsteorin används
+därefter inom elektroniken för att studera halvledarkomponenter
+och elektriska system.
+Grundläggande elektriska storheter: Ström, spänning,
+potential, motstånd, ledningsförmåga, permittivitet, impedans,
+admittans och effekt.
+Grundläggande analysverktyg: Maxwells ekvationer, elstatik,
+magnetostatik, randvillkor, Kirchhoffs lagar, räkneregler för
+linjära tidsinvarianta kretsar, nodanalys och
+tvåpolsekvivalenter.
+Grundläggande kretselement: motstånd, spolar, kondensatorer,
+spänningskällor, strömkällor, förstärkare och
+transmissionsledningar. Modellering: verkliga kretsar med ideala
+kretselement, överföringsfunktion och filter.
+Halvledarkomponenter och elektriska system:
+operationsförstärkare, förstärkarkopplingar, dioder,
+transistorer, integrerade kretsar och digitala system.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen. Frivilliga uppgifter under kursens gång kan ge bonus på tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: För N: FMFF20 Nanoteknikens matematiska metoder. För F: FMAF05 Matematik - System och transformer. För BME: samtidigt deltagande i ETI265/EITA50 Signalbehandling i multimedia.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: ETE115, EITA35, ESS010, ETE022, ETIA01
+Kurslitteratur
+
+Sjöberg D, Gustafsson M: Kompendium i Kretsteori, ellära och elektronik.
+Gustafsson M, Karlsson A, Sjöberg D: Exempelsamling i Kretsteori, ellära och elektronik.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Daniel Sjöberg, daniel.sjoberg@eit.lth.se
+Kursansvarig: Mats Gustafsson, mats.gustafsson@eit.lth.se
+Hemsida: http://www.eit.lth.se/kurs/eitf90
+
+
+

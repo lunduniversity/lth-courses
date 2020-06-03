@@ -1,0 +1,124 @@
+
+Kursplan 2020/21 FMSF55
+
+
+
+
+
+Kursplan för
+Matematisk statistik, allmän kurs
+Mathematical Statistics, Basic Course
+FMSF55, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning I
+Beslutsdatum: 2020-04-03
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: C2, M3
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursen ska ge studenten grunderna i matematisk modellering av
+slumpmässig variation och förståelse för
+principerna bakom statistiska analyser. Den ska också ge
+studenterna en verktygslåda med de vanligaste modellerna och
+metoderna samt förmågan att använda dessa i olika praktiska
+situationer.
+Kursen fyller två syften. Dels är den en allmänbildningskurs
+i matematisk statistik, dels ska den ge en grund för vidare
+studier.
+Allmänbildningen behövs för den som i sitt yrkesliv inte
+nödvändigtvis kommer att syssla med statistiska
+analyser dagligen men som kan förväntas behöva genomföra
+enklare statistiska tester ibland och presentera resultatet för
+sina kollegor. Man förväntas då också kunna läsa och
+värdera andras analyser.
+Kursen ska också ge en grund för vidare studier, både i
+sannolikhetsteori, inferensteori och i tillämpningsämnen som,
+t.ex. försöksplanering, reglerteknik, processreglering och
+logistik.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna relatera frågeställningar om slumpmässig variation och
+observerade data, så som de uppträder i tillämpningar, till
+begreppen slumpvariabler, fördelningar och samband mellan
+variabler,
+kunna förklara begreppen oberoende, sannolikhet, fördelning,
+väntevärde och varians,
+kunna beräkna sannolikheten för en händelse samt
+väntevärde och varians utifrån en given fördelning,
+kunna beskriva grundläggande tekniker för statistisk
+slutledning och kunna använda dem på enklare statistiska
+modeller,
+förstå att ett statistiskt samband mellan två variabler inte
+nödvändigtvis betyder orsak-verkan.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna konstruera en enkel statistisk modell utifrån ett
+problem hämtat ut verkligheten eller från ett insamlat
+datamaterial,
+kunna använda ett beräkningsprogram för simulering och
+tolkning av statistiska modeller samt för analys av data,
+kunna välja, modifiera, utföra och tolka en statistik
+procedur som besvarar en given statistisk frågeställning,
+kunna använda statistiska termer inom området i skrift.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna granska en statistisk modell och dess förmåga att
+beskriva verkligheten,
+kunna granska en enkel mätsituation och bedömma om data
+samlas in på ett sätt som gör vidare analys möjlig.
+
+
+Kursinnehåll
+Väntevärde och varians, normalfördelning, binomialfördelning
+och andra viktiga fördelningar för mätningar och frekvenser.
+Dataanalys. Statistisk inferens: punktskattning, intervallskattning
+och hypotesprövning. Metoder för normalfördelade observationer.
+Approximativa metoder grundade på normalfördelning. Jämförelser
+mellan väntevärden, spridningar och fördelningar. Skattning av
+felkvot. Sambandsanalys och kalibrering. Korrelation mellan två
+förklarande variabler.Exempel väljes med hänsyn till
+studenternas programtillhörighet.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen, obligatorisk närvaro på laborationerna, godkänd projektrapport och godkänt färdighetsprov.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Tentamen. 
+Antal högskolepoäng: 5,5. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen. 
+Kod: 0217. Benämning: Laborationer. 
+Antal högskolepoäng: 1,5. Betygsskala: UG.  Prestationsbedömning: Datorlaborationer och skriftlig projektrapport. 
+Kod: 0317. Benämning: Färdighetsprov. 
+Antal högskolepoäng: 0,5. Betygsskala: UG.  Prestationsbedömning: Datorbaserat test 
+Antagningsuppgifter
+Förkunskapskrav:
+Minst 6 högskolepoäng inom kurserna FMAA01/FMAA05 Endimensionell analys, FMAB30/FMAB35 Flerdimensionell analys
+
+
+Förutsatta förkunskaper: Endimensionell analys, Linjär algebra och Flerdimensionell analys.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FMSF20, FMSF25, FMSF30, FMSF35, FMSF40, FMSF45, FMSF50, FMSF70, MASB02, FMSF75, MASB03, MASA01, FMS035
+Kurslitteratur
+
+Lena Zetterqvist och Johan Lindström: Räkna med variation - Ett arbetsmaterial i sannolikhetslära och statistisk inferens. Studentlitteratur, 2017.
+Blom G, Enger J, Englund G, Grandell J, Holst L: Sannolikhetsteori och statistikteori med tillämpningar. Studentlitteratur, 2005, ISBN: 91-44-02442-8.
+
+
+Kontaktinfo och övrigt
+Studierektor: Johan Lindström, studierektor@matstat.lu.se
+Hemsida: http://www.maths.lth.se/matstat/kurser/fmsf55/
+Övrig information: Bytt kurskod från FMS035. Kursen får inte ingå i examen tillsammans med FMSF25 Matematisk statistik - kompletterande projekt.
+
+
+

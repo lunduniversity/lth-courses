@@ -1,0 +1,101 @@
+
+Kursplan 2020/21 EXTA50
+
+
+
+
+
+Kursplan för
+Samhällsmätning
+Surveying
+EXTA50, 9 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning L
+Beslutsdatum: 2020-03-27
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: L2
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursens syfte är att ge grundläggande kunskaper om begrepp
+och metoder inom geodesi, geodetisk mätningsteknik, fotogrammetri
+och fjärranalys.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna förklara teori om geodetiska referenssystem och
+kartprojektioner,
+kunna förklara grundläggande begrepp inom geodesi och
+satellitgeodesi (GPS),
+kunna förklara hur man samlar in geografisk information med
+hjälp av fjärranalys, fotogrammertri och laserskanning, och
+kunna beskriva hur geodetisk och fotogrammetrisk mätning
+används inom lantmäteriverksamhet och inom
+samhällsbyggnadsprocesser.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna tillämpa den metodik som används vid lösning av
+geodetiska problemställningar inom plan och höjdmätning,
+kunna utföra matematiska och statistiska beräkningar inom
+geodesin som t.ex. utjämningsberäkningar med hjälp av
+minsta-kvadratmetoden,
+kunna tillämpa geodetiska kunskaper inom lantmäteri- och
+samhälllsbyggnadsområdet, och
+kunna programmera enklare tillämpningsprogram.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kritiskt kunna bedöma kvalitet hos geografiska data som
+samlats in med geodetiska och fotogrammetriska metoder.
+
+
+Kursinnehåll
+Kursen omfattar geodesins grundbegrepp och definitioner,
+geodetiska referenssystem, kartprojektioner, transformationer,
+plan- och höjdmätning, beräkningsteori samt introduktion till
+fotogrammetri , fjärranalys och laserskanning. Kursmomenten
+förutsätter kunkskaper från tidigare eller parallella kurser
+inom matematik och matematisk statistik.
+Vidare behandlas tillämpningar av geodetisk och
+fotogrammetrisk mätningsteknik inom lantmäteri- och
+samhällsbyggnadsområdet.
+Kursen innehåller flera laborationer med obligatoriska
+inlämningar samt flertalet övningar, där de senare inte kräver
+inlämningar.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen och godkända laborationer samt deltagande i obligatoriska moment.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0113. Benämning: Skriftlig tentamen. 
+Antal högskolepoäng: 6. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen 
+Kod: 0213. Benämning: Laborationer. 
+Antal högskolepoäng: 3. Betygsskala: UG.  Prestationsbedömning: Godkända laborationer. 
+Antagningsuppgifter
+Förutsatta förkunskaper: FMA420 Linjär algebra ELLER FMAB20 Linjär algebra OCH
+FMA430 Flerdimensionell analys ELLER FMAB30 Flerdimensionell analys OCH EDAA20 Programmering och databaser.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: EXTA45, VGMA01
+Kurslitteratur
+
+Geodetisk och fotogrammetrisk mätnings- och beräkningsteknik. KTH/LU/LMV 2013.
+Harrie, L. (red.): Geografisk informationsbehandling – teori, metoder och tillämpningar, 6 upplagan. Studentlitteratur, 2013.
+Övningskompendium.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Lars Harrie, lars.harrie@nateko.lu.se
+Hemsida: http://web.nateko.lu.se/courses/exta50/
+Övrig information: Undervisningen omfattar föreläsningar, laborationer samt räkneövningar med och utan datorstöd.
+
+
+

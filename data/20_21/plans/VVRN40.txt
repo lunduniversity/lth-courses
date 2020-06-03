@@ -1,0 +1,111 @@
+
+Kursplan 2020/21 VVRN40
+
+
+
+
+
+Kursplan för
+Strömning i naturliga vatten
+Environmental Hydraulics
+VVRN40, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning W
+Beslutsdatum: 2020-03-23
+Allmänna uppgifter
+Huvudområde: Vattenresurshantering. 
+Valfri för: MWLU2, V5-vr, W5-vr
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursen ska förmedla en grundläggande förståelse för de
+fenomen och processer som styr strömning i naturliga ytvatten med
+syfte att ge studenterna möjlighet att
+analysera förutsättningar och konsekvenser vad gäller
+mänskliga aktiviteter i naturen. I begreppet aktiviteter
+innefattas huvudsakligen utsläpp av föroreningar men samverkan
+mellan olika typer av konstruktioner och vattenströmning behandlas
+också samt grundläggande sedimenttransport.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+ingående förstå de grundläggande processer som styr
+transport och omblandning av olika ämnen i naturen
+kunna tolka och formulera avancerade matematiska modeller för
+att beskriva hur transport av ämnen sker i naturen, både baserat
+på övergripande massbalanser och mer detaljerade beskrivningar
+med utgångspunkt från allmänna spridningsekvationen
+förstå på ett fördjupat sätt samverkan mellan strömning
+och olika konstruktioner i naturen, inkluderat effekten av
+sedimenttransport
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna analysera effekterna av mänskliga aktiviteter i naturen
+relaterat till strömmande vatten, med tyngdpunkt på utsläpp av
+olika ämnen
+kunna utforma olika tekniska lösningar för att erhålla
+tillfredställande omblandningsförhållanden vid utsläpp av
+föroreningar i olika typer av recipienter
+kunna bedöma inverkan på konstruktioner och verksamheter i
+naturen till följd av strömmande vatten
+kunna uppskatta sedimenttransporten till följd av strömmande
+vatten och effekten på vattendragsbottnar
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna redogöra för grunderna för analyser och beräkningar
+inkluderat förenklingar och antaganden gjorda vid formulering av
+matematiska modeller
+i kvantitativa termer kunna kommunicera resultatet av gjorda
+analyser till en kvalificerad avnämargrupp
+kunna kritiskt granska arbeten och utredningar som behandlar
+problem inom strömning i naturliga vatten
+
+
+Kursinnehåll
+En översikt av vattenströmning i naturen – fenomen och
+processer relaterade till strömning. Transportprocesser och
+spridning av föroreningar. Balansekvationer för vatten och
+föroreningar i vattendragssystem med total omblandning.
+Pluggflöde och nominell uppehållstid. Grundläggande
+spridningsmekanismer såsom diffusion (laminär och turbulent),
+dispersion och advektion. Allmänna spridningsekvationen –
+generell formulering och specialfall. Spridningsförlopp i floder,
+sjöar och kustområden. Strålar och plymer. När- och fjärrrzon
+samt omblandning. Utsläppsanordningar och andra tekniska
+lösningar för optimal omblandning. Recipientundersökningar.
+Exempel på praktiska fall vad gäller föroreningsutsläpp och
+miljöpåverkan. Densitetsdriven strömning inkluderat skiktning
+och inlagring av utsläpp. Temperatur- och syreförhållanden i
+vattendrag samt styrande ekvationer. Samverkan mellan
+konstruktioner och vattenströmning. Grundläggande
+sedimenttransport med gränskiktsströmning. Bottentransport och
+suspenderad transport. Några vanliga sedimenttransportformler.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen och inlämningsuppgifter.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: VVR145/VVRA05, VVR120/VVRF10 eller motsvarande inom grundläggande hydraulik/strömningslära.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: VVR176
+Kurslitteratur
+
+Jönsson, L. 2004. ”Receiving water hydraulics,” Department of Water Resources Engineering, Lund, Sweden.
+Larson, M. 2009. "Background material in environmental hydraulics," Department of Water Resources Engineering, Lund, Sweden. (en kompilation av uppsatser och utdrag från diverse böcker).
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Professor Magnus Larson, Magnus.Larson@tvrl.lth.se
+Hemsida: http://www.tvrl.lth.se/utbildning/courses/
+
+
+

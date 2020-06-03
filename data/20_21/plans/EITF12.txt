@@ -1,0 +1,86 @@
+
+Kursplan 2020/21 EITF12
+
+
+
+
+
+Kursplan för
+Digitala projekt
+Digital Systems, Project Laboratory
+EITF12, 9 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning E
+Beslutsdatum: 2020-03-19
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Alternativobligatorisk för: I3
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Syftet med kursen är att illustrera industriellt
+utvecklingsarbete.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+analysera och beskriva system av låg och medelhög
+komplexitet
+testa och felsöka en konstruktion på ett systematiskt
+sätt
+söka upp och tillgodogöra sig relevant information
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+realisera digitala system av låg och medelhög
+komplexitet
+driva ett projekt framåt till en fungerande prototyp
+formulera sig muntligt och skiftligt
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+visa prov på insikt om möjligheter och begränsningar med
+digitala projekt
+
+
+Kursinnehåll
+Boolesk algebra. Tillstånd är ett viktigt begrepp för
+konstruktion av digitala system. Synkrona sekvensnät introduceras
+för att realisera beteendet i tillståndsgraferna.
+Digitala komponenter: Avkodare, minnen, AD- och DA-omvandlare,
+processorer, parallellport och serieport, programmerbara
+kretsar.
+En förteckning med förslag till uppgifter kommer att finnas.
+Huvuddelen av kursen består i att konstruera, bygga och testa
+respektive konstruktion. Vid kursens början
+hålls föreläsningar och laborationer med genomgång
+av belysande konstruktionsuppgifter, samt allmänna praktiska
+råd. Därefter tilldelas varje grupp en arbetsplats med alla
+erforderliga verktyg och instrument, som fritt disponeras under
+hela kursen. Under kontorstid finns handledare tillgänglig för
+frågor och diskussion.
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: För betyget Godkänd krävs: Närvaro på föreläsningar och laborationer.
+ Godkänt på följande fyra moment: Slutkonstruktion. Skriftlig dokumentation. Muntlig redovisning. Fullgjord opposition.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: EITF10, EITF11
+Kurslitteratur
+
+Handböcker och komponentkataloger finns tillgängliga på institutionen.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Bertil Lindvall, bertil.lindvall@eit.lth.se
+Hemsida: http://www.eit.lth.se/kurs/eitf12
+
+
+

@@ -1,0 +1,104 @@
+
+Kursplan 2020/21 EXTN45
+
+
+
+
+
+Kursplan för
+Farmakologi
+Pharmacology
+EXTN45, 15 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning W
+Beslutsdatum: 2020-03-23
+Allmänna uppgifter
+Valfri för: N4
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Kursen skall ge kunskaper för fördjupade studier och för
+yrkesverksamhet inom framför allt det
+kemisk-biologiska-biomedicinska området.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+vara förtrogna med farmakologiska grundbegrepp
+kunna redogöra för verkningsmekanismer för de vanligaste
+läkemedelsgrupperna samt den patobiologiska grunden för deras
+användning
+vara orienterade om regulatoriska och ekonomiska villkor för
+läkemedelsutveckling
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+vara teoretiskt och praktiskt orienterade om farmakologisk och
+djurexperimentell metodik
+ha fått träning i identifiering och formulering av
+farmakologiska problemställningar
+ha fått träning i problemlösning, resultatvärdering och
+rapportering
+kunna tolka och kommunicera experimentella resultat
+
+
+Kursinnehåll
+Försöksdjurskunskap: Detta är ett grundläggande moment inom
+kursen och det behandlas både teoretiskt och praktiskt genom
+studier av djurmiljöer, djurkvalitet, handhavande av djur samt
+provtagnings- och injektionsteknik. Lagstiftning och förordningar
+inom området penetreras.
+Experimentell farmakologisk metodik: Exemplifiering sker med
+olika operationstekniker (suturering, kateterisering m.m.) och i in
+vitro försök med isolerade organ. Handhavande av
+registreringsutrustning för EKG, blodtryck m.m. demonstreras.
+Allmän farmakologi: Här behandlas receptorteori,
+struktureffekt-relationer, farmakokinetik, verkningsmekanismer,
+signaltransduktion samt dos-respons.
+Speciell farmakologi: Beroende på tillgängliga lärarresurser
+behandlas olika farmakologiska teman, t.ex. hormonfarmaka, PNS- och
+CNS-farmakologi, cytostatika, hjärta-kärlfarmaka, astmaterapi och
+farmakognosi.
+Tillämpad farmakologi: En orientering ges om principer för
+framtagning av nya läkemedel,
+t.ex. HTS, klinisk prövning och GXP, liksom om
+läkemedelshantering i ett samhälleligt perspektiv, branschens
+struktur och aktuell läkemedelsrelaterad debatt.
+Extracurrikulärt: Litteratursökning, databashantering,
+rapportskrivning och muntlig presentation.
+
+Kursens examination
+Betygsskala: UV - (U,G,VG) - (Underkänd, Godkänd, Väl godkänd)
+Prestationsbedömning: Undervisningen utgörs av föreläsningar och gruppdiskussioner över valda ämnesområden och problem. Laborationsverksamhet utgör en viktig del av arbetet. Ibland genomförs studiebesök och demonstrationer på för verksamheten adekvata industrier och institutioner. Deltagande i alla moment utom föreläsningar är obligatoriskt. Under kursen utför kursdeltagarna ett eller flera mindre projektarbeten, enskilt eller i grupp. Träning sker i informationssökande samt i identifiering och formulering av farmakologiska problem. Teman som behandlas väljs av de studerande i samråd med handledare. Examination sker dels fortlöpande under kursen och dels i form av en skriftlig tentamen vid kursens slut. För godkänt betyg på hela kursen krävs godkända tentamina, godkända laborationsrapporter, inlämningsuppgifter och projektrapporter, samt godkänt deltagande i alla obligatoriska moment. Slutbetyget avgörs genom en sammanvägning av resultaten på de moment som ingår i examinationen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0118. Benämning: Teori. 
+Antal högskolepoäng: 10. Betygsskala: UV.  Prestationsbedömning: Skriftlig tentamen. 
+Kod: 0218. Benämning: Litteraturuppgifter och seminarier. 
+Antal högskolepoäng: 3. Betygsskala: UV.  Prestationsbedömning: Godkända inlämningsuppgifter och seminarier. 
+Kod: 0318. Benämning: Laborationer. 
+Antal högskolepoäng: 2. Betygsskala: UG.  Prestationsbedömning: Godkända laborationer. 
+Antagningsuppgifter
+Förkunskapskrav:
+EXTA70 Cellens biologi
+EXTG50 Människans fysiologi
+
+
+Begränsat antal platser: 6
+Urvalskriterier: Antal poäng som har uppnåtts eller tillgodoräknats på programmet.Förtur ges till studenter vars program har kursen listad i läro- och timplanen.
+Kursen överlappar följande kurser: TEK157
+Kurslitteratur
+
+Enligt fastställd litteraturlista, vilken skall finnas tillgänglig senast fem veckor före kursstart se Biologisk grundutbildnings webbsida, http://www.biol.lu.se/biologi.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Bodil Sjögreen, bodil.sjogreen@biol.lu.se
+Hemsida: https://www.biologi.lu.se/utbildning/grund-och-avancerad-utbildning/kurser/kurser-avancerad-niva/biologiska-kurser-pa-avancerad-niva-for-teknologer
+Övrig information: Kursen samläses med BIOR14, som ges av Biologiska institutionen. Följer inte läsperiodsindelningen.   
+
+
+

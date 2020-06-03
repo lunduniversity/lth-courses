@@ -1,0 +1,121 @@
+
+Kursplan 2020/21 EXTG25
+
+
+
+
+
+Kursplan för
+Geografisk informationsteknik - avancerad kurs
+Geographic Information Technology - Advanced Course
+EXTG25, 15 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning L
+Beslutsdatum: 2020-03-27
+Allmänna uppgifter
+Huvudområde: Katastrofriskhantering och klimatanpassning. 
+Valfri för: MKAT2
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursens syfte är att ge fördjupade teoretiska och praktiska
+kunskaper inom rumslig analys och geografisk
+informationsbehandling.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+Förklara grundläggande metoder och konceptuella modeller för
+innehållet i en
+geografisk databas
+Förklara principerna för transformation mellan olika
+geodetiska referenssystem
+Förklara begrepp och beräkningsmetoder inom avancerad rumslig
+analys
+Förklara grundläggande logik inom dataprogrammering och
+beskriva hur
+programmering kan användas med geografiska data och problem
+Redogöra för effekter av dataosäkerhet vid geografisk analys
+och modellering
+Redogöra för samhällets infrastruktur för geografiska data
+ser ut
+Översiktligt beskriva vilka lagar som berör användningen av
+geografiska data
+Exemplifiera avancerad användning av GIS inom miljö och
+samhälle
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+Utföra interpolation med geografiska data
+Utföra och presentera enklare statistiska utvärderingar av
+interpolerade rumsliga
+data
+Självständigt föreslå arbetsgång och metoder för att
+lösa komplexa geografiska
+frågeställningar, samt att utföra dessa med GIS
+Presentera resultat från GIS-analyser skriftligt och i
+kartform för specialister och
+lekmän i ämnet
+Insamla kunskaper inom området på ett självständigt
+sätt
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+Sammanställa, värdera och diskutera val av analysmetod för
+att lösa ett givet
+geografiskt problem
+Kritiskt granska och diskutera tillförlitligheten av analyser
+med GIS
+Beskriva och värdera användning av GIS i samhället
+
+
+Kursinnehåll
+Kursen innehåller ett antal moment som bygger på avancerad
+användning av existerande program för databasuppbyggnad, analys
+och presentation av geografisk i nformation. Studenten tränar
+förmågan att strukturera och lösa komplexa problem.
+Kursen består av följande moment:
+
+Avancerad visualisering
+Datainsamling och format
+Databasuppbyggnad
+Rumslig autokorrelation
+Datakvalitet och felkällor
+Programmering
+
+
+Kursens genomförande
+Kursen är nätdistribuerad och ges via Internet med 50% studiefart
+förlagt över 2 läsperioder. .
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: Examination sker genom godkännande av inlämningsuppgifter under kursens gång.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+EXTG20 Geografisk informationsteknik - introduktion eller EXTG30 Geografisk informationsteknik - grundkurs
+
+
+Begränsat antal platser: Nej
+Urvalskriterier: Studenter från MKAT Masterutbildning i katastrofriskhantering och klimatanpassning är garanterade plats på kursen.
+Kursen överlappar följande kurser: NGEA12, GISA22, EXTG35
+Kurslitteratur
+
+Harrie L. (red.): Geografisk informationsbehandling - teori, metoder och tillämpningar, 6 upplagan. Studentlittertur, 2013, ISBN: 9789144088778.
+Kang-Tsung Chang: Introduction to Geographic Information Systems. 2014, ISBN: 9781259010613. Senare upplagor fungerar också bra.
+
+
+Kontaktinfo och övrigt
+Kursadministratör: Karin Larsson, karin.larsson@nateko.lu.se
+Kursansvarig: Abdulghani Hasan, abdulghani.hasan@nateko.lu.se
+Hemsida: http://www.nateko.lu.se/sv/extg25
+Övrig information: Kursen ges endast för studenter inom Masterprogrammet i katastrofriskhantering och klimatanpassning.
+
+
+

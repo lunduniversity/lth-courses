@@ -1,0 +1,115 @@
+
+Kursplan 2020/21 EEMF05
+
+
+
+
+
+Kursplan för
+Medicinsk mätteknik
+Biomedical Measurements
+EEMF05, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning BME
+Beslutsdatum: 2020-03-24
+Allmänna uppgifter
+Valfri för: BME4, D5, E4-mt, F4, F4-mt, N4, Pi4
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Syftet med kursen Medicinsk Mätteknik är att ge förståelse
+för de problem som är förknippade med den mättekniska
+processens användning i medicinsk miljö. Tillämpningar inom
+såväl hälso- och sjukvård som klinisk forskning behandlas.
+Kursen skall tillsammans med examensarbetet utgöra en grund för
+fortsatt arbete inom det medicintekniska området och för
+forskarutbildning.
+Kursen ges i form av föreläsningar med inbjudna föreläsare,
+alla med mycket hög kompetens inom sina respektive områden.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+Redogöra för förekomst och användning av medicinteknisk
+utrustning i sjukvård och medicinsk forskning.
+Relatera medicintekniska problem till sin tekniska
+kompetens.
+Utföra säkerhetsbedömning med referens till förekommande
+lagstiftning och svensk standard för elektromedicinsk
+utrustning.
+Känna till vanliga felkällor och klinisk
+mätnoggrannhet.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+Analysera verkliga mätproblem inom sjukvård och medicinsk
+forskning, och därefter
+Utveckla säkra och noggranna medicintekniska mätsystem, och
+utföra
+Riskbedömning.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+Tillägna sig och sovra i viktig information ur ett digert
+material, såsom lärobok eller manual, utan läsanvisning.
+Kunna kommunicera resultat från laborativa experiment
+muntligen.
+Ha tillägnat sig tillräckligt med begrepp och kunskaper så
+att man kan beskriva idéer, problem och lösningar för sakkunniga
+personer inom området.
+
+
+Kursinnehåll
+Kursen avser att ge en översikt över dagens medicinska teknik
+och behandlar bland annat mätning av bioelektriska signaler,
+mätning av tryck och flöde, respiratorfysiologisk mätteknik samt
+moderna bildgivande system inom medicinen. Som exempel på
+delmoment kan nämnas blodtrycksmätning, EKG, elektromedicin,
+klinisk kemi, gasteknik, nya kirurgiska metoder, dialysteknik,
+audiologi, pacemakers, laserteknik, traditionell röntgen, digital
+radiografi, datortomografi, strålningsmetoder för
+in-vivo mätningar, magnetisk resonanstomografi,
+ultraljudsteknik, dosplanering, acceleratorer, telemedicin samt
+risker, säkerhet och regler.
+Kursen innehåller tre laborationer och avslutas med
+studiebesök på universitetssjukhuset i Lund.
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: Studenten ska vara godkänd på laborationerna och tentamen, skriva och granska 1 st föreläsningssammanfattningar.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0112. Benämning: Medicinsk mätteknik. 
+Antal högskolepoäng: 7,5. Betygsskala: UG. 
+Kod: 0212. Benämning: Laboration. 
+Antal högskolepoäng: 0. Betygsskala: UG. 
+Kod: 0312. Benämning: Skriva och granska föreläsningssammanfattning . 
+Antal högskolepoäng: 0. Betygsskala: UG.  Delmomentet omfattar: Skriva och granska 1 st föreläsningssammanfattningar 
+Antagningsuppgifter
+Förutsatta förkunskaper: ESSF10 /EEM007 Mätteknik samt EEM031 /BMEF10 Sensorteknik.
+Begränsat antal platser: 32
+Urvalskriterier: Antal poäng inom programmet.
+Förtur ges till studenter vars program har kursen listad i sin läro- och timplan.
+Kursen överlappar följande kurser: EEM040
+Kurslitteratur
+
+Föreläsarnas anteckningar utgör huvudsakligt kursmaterial.
+Nedanstående litteratur behandlar olika delar av kursinnehållet men ingen täcker allt.
+Enderle J, Blanchard S and Bronzino J: Introduction to Biomedical Engineering. Elsevier, 2005, ISBN: 978-0-12-238662-6.
+Jakobsson B: Medicin och teknik, 5:e uppl. Studentlitteratur, 2006.
+Jacobsson B: Teknik i praktisk sjukvård, Studentlitteratur, 1998.
+Berglund E/Jönsson B-A: Medicinsk fysik, Studentlitteratur, 2007.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Universitetslektor Magnus Cinthio, magnus.cinthio@bme.lth.se
+Kursansvarig: Universitetslektor  Tomas Jansson, tomas.jansson@med.lu.se
+Hemsida: http://bme.lth.se/course-pages/medicinsk-maetteknik/medicinsk-maetteknik/
+
+
+

@@ -1,0 +1,139 @@
+
+Kursplan 2020/21 MMKN41
+
+
+
+
+
+Kursplan för
+Konstruktion i polymera kompositmaterial
+Design in Polymer Composite Materials
+MMKN41, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning M
+Beslutsdatum: 2020-03-26
+Allmänna uppgifter
+Valfri för: M4-pu, MD4
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursen ska med stöd av de senaste forskningsrönen ge kunskap
+och insikt gällande konstruktion och tillverkning med polymera
+kompositmaterial. Kunskapen omfattar materialkännedom, konstruktiv
+utformning, samt tillverkningsmetoder för polymera
+kompositmaterial. Kursdeltagaren ska också ges kunskaper om
+grundläggande kostnadsanalys. Inom respektive teknikområde
+behandlas såväl kvalitativa som kvantitativa metoder. Efter
+godkänd kurs ska kursdeltagaren aktivt kunna delta i utveckling
+och tillverkning av nya lättviktsprodukter baserade på polymera
+kompositmaterial.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+utifrån en given principlösning kunna föreslå lämpliga
+fiber- och matrismaterial
+utifrån en given principlösning kunna förslå lämplig
+konstruktionslösning
+utifrån vald konstruktionslösning kunna föreslå lämplig
+tillverkningsmetod
+utifrån val av material, konstruktionslösning och
+tillverkningsmetod kunna beräkna kostnader
+inför en industriell uppdragsgivare muntligen och skriftligen,
+självständigt eller i grupp, kunna redovisa resultatet från ett
+konstruktionsprojekt - i form av resultat och process
+
+ 
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+självständigt, utifrån en principlösning, med hjälp av
+publika materialdatabaser kunna ta fram och analysera olika
+materialförslag för aktuell komponent/produkt
+självständigt eller i grupp kunna utarbeta en unik
+konstruktionslösning
+självständigt eller i grupp kunna kommunicera, muntligt eller
+i skrift, framtagen konstruktionslösning för en industriell
+uppdragsgivare
+
+ 
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+med ett forskningsmässigt förhållningssätt kunna reflektera
+över framtagna material-, konstruktions- och
+tillverkningslösningar och med detta som grund kunna föreslå
+eventuella behov av ytterligare och/eller alternativa material-,
+konstruktions- och tillverkningslösningar.
+kunna identifiera eventuella behov av fördjupade analyser av
+framtagna förslag
+
+ 
+
+Kursinnehåll
+För att säkerställa att det är aktuella forskningsrön som
+presenteras i kursen inbjuds externa föreläsare med
+forskningsanknytning. Under kursen får studenterna ta del av de
+senaste nyheterna inom polymera kompositmaterial, som underlag för
+att lära sig att göra självständiga och kritiska
+bedömningar.
+Kursen består av föreläsningar, övningar och projektarbete.
+Studiebesök kommer också att arrangeras. Kursen inleds med en
+genomgång av olika typer av fiber- och matrismaterial.
+Genomgången, som utgår ifrån materialens egenskaper och pris,
+syftar till att ge en insikt om de material som idag finns
+tillgängliga på marknaden. Därefter följer en beskrivning av de
+vanligaste tillverkningsmetoderna för polymera fiberkompositer
+(vakuuminjicering, RTM, pressning, m.fl.). Efter beskrivningen av
+de vanligaste fiber- och matrismaterialen och de vanligaste
+tillverkningsmetoderna fokuserar kursen framförallt på
+konstruktionsaspekter för polymera fiberkompositer. Mekaniska och
+termiska egenskaper, samt metoder för att mäta dessa egenskaper,
+presenteras och orsaker till skador och brott i denna materialtyp
+diskuteras ingående. Den största delen av kursen ägnas åt
+kompositmekanik (laminatteori) och konstruktionsmetodik. Under
+dessa föreläsningspass presenteras beräkningsmetodik och
+konstruktionsregler för polymera fiberkompositer. Teoripassen
+varvas med övningar i form av beräknings- och
+konstruktionsuppgifter. Teoridelen av kursen avslutas med en
+presentation av state-of-the-art gällande nya typer av
+kompositmaterial såsom nanokompositer och biokompositer. En kort
+introduktion till sandwichkonstruktion ingår även på slutet.
+Parallellt med teoridelen genomförs ett industrinära
+produktutvecklingsprojekt. Utgångspunkten är att även praktiska
+moment ska ingå. Projektet utförs i grupp om 3-5 studenter.
+Projektet följer momenten: produktanalys och upprättande av
+kravspecifikation, val av lämpligt material och lämplig
+tillverkningsmetod, samt framtagning av konstruktiv utformning och
+kostnadsanalys. Efter varje delmoment i projektet görs en
+avstämning med handledaren.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: För erhållande av slutbetyg krävs godkänd tentamen och godkänt projektarbete. Projektet genomförs i form av ett grupparbete om 3 - 5 studenter och omfattar momenten: problemanalys och upprättande av kravspecifikation, val av lämpligt material och lämplig tillverkningsmetod, samt framtagning av konstruktiv utformning och kostnadsanalys. I projektarbetet ingår även en avslutande presentation av resultat vid en gemensam redovisning av projekten. Varje delmoment, inkluderande den gemensamma redovisningen, avrapporteras separat och bedöms i poängskalan 0 – 10 poäng. För godkänt delmoment krävs minimum 5 poäng. För godkänt projektarbete krävs att alla delmoment godkänts. Maximalt kan 40 poäng erhållas för projektarbetet. Varje medlem i projektgruppen erhåller den för projektresultatet uppnådda poängen. Den skriftliga tentamen behandlar genomgången teori och ger maximalt 60 poäng. För godkänd tentamen krävs minimum 30 poäng. Slutbetyget baseras på summan av poängen från de båda kursmomenten. 
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Projektarbete. 
+Antal högskolepoäng: 2,5. Betygsskala: UG.  Prestationsbedömning: Projektet omfattar momenten: analys och upprättande av kravspecifikation, val av lämpligt material och lämplig tillverkningsmetod, samt framtagning av konstruktiv utformning och kostnadsanalys. I projektarbetet ingår även en avslutande presentation av resultat vid en gemensam redovisning av alla projekten. Varje delmoment, inkluderande den gemensamma redovisningen, avrapporteras separat och bedöms i poängskalan 0 – 10 poäng. För godkänt delmoment krävs minimum 5 poäng. För godkänt projektarbete krävs att alla delmoment godkänts. Maximalt kan 40 poäng erhållas på projektarbetet. Projektet genomförs i form av ett grupparbete med 3 - 5 studenter per grupp. Varje gruppmedlem erhåller den för projektresultatet gemensamt uppnådda poängen.  Delmomentet omfattar: Projektet omfattar momenten: analys och upprättande av kravspecifikation, val av lämpligt material och lämplig tillverkningsmetod, samt framtagning av konstruktiv utformning och kostnadsanalys. I projektarbetet ingår också en avslutande presentation av respektive projektarbete vid en gemensam redovisning av alla projekten.
+ 
+Kod: 0217. Benämning: Tentamen. 
+Antal högskolepoäng: 5. Betygsskala: UG.  Prestationsbedömning: Tentamen ger maximalt 60 poäng. För godkänd tentamen krävs minst 30 poäng.   Delmomentet omfattar: Tentamen avser att individuellt kontrollera kunskaperna i genomgången teori. 
+Antagningsuppgifter
+Förutsatta förkunskaper: FHLF15 Hållfasthetslära, allmän kurs och FKMA01 Konstruktionsmaterial, allmän kurs
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: MMKN40
+Kurslitteratur
+
+Kurslitteraturen tillhandahålls av avdelningen i form av forskningsanknutna artiklar, kompendier och referens till böcker och e-böcker.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Anders Sjögren, anders.sjogren@design.lth.se
+Kursadministratör: Cilla Perlhagen, cilla.perlhagen@design.lth.se
+Hemsida: http://www.product.lth.se/education/
+
+
+

@@ -1,0 +1,105 @@
+
+Kursplan 2020/21 FAFN10
+
+
+
+
+
+Kursplan för
+Avancerade laser- och optiksystem
+Advanced Optics and Lasers
+FAFN10, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning N
+Beslutsdatum: 2020-03-27
+Allmänna uppgifter
+Huvudområde: Fotonik. 
+Obligatorisk för: MFOT1
+Valfri för: E4-fh, F4, F4-f
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursen syftar till att ge kunskaper om såväl grundläggande
+som avancerade metoder för att manipulera och kontrollera
+laserpulsers intensitet, frekvens och tidsstruktur. Detta ska i sin
+tur leda till kunskap i att designa avancerade system för
+kontroll och manipulation av laserstrålning för tillämpningar
+inom forskning och industri.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna redogöra för principerna för akusto-optiska &
+elektro-optiska effekter och hur de kan användas för att
+modifiera utbredningen av laserpulser
+kunna beskriva de grundläggande principerna för icke-linjär
+växelverkan mellan ljus och materia
+kunna genomföra teoretiska beräkningar av effektivitet och
+verkningsgrad för icke-linjära processer.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kvalitativt och kvantitativt kunna analysera avancerade
+optiska system baserade på akusto-optiska, elektro-optiska och
+icke-linjära optiska effekter
+kunna designa optiska system för specifika uppgifter baserade
+på akusto-optiska, elektro-optiska och icke-linjära optiska
+effekter
+kunna beräkna pulsformer efter utbredning
+kunna angripa och lösa mer omfattande och komplexa teoretiska
+problemställningar
+kunna söka efter och integrera kunskaper från litteratur inom
+området.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+bättre kunna bedöma och finna optiska metoder för att
+utveckla nya teknologiska tillämpningar, metoder och system.
+
+Kursinnehåll
+
+Ljusutbredning i anisotropa material
+Akusto-optiska effekter & modulatorer
+Elektro-optiska effekter & modulatorer
+Icke linjära växelverkan mellan ljus och materia
+Koherens (statistisk optik)
+Ultrasnabb optik, utbredning av korta laserpulser i dispersiva
+icke-linjära media
+
+Två laborationer: Icke-linjär optik, Ultrasnabb optik.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen (muntlig eller skriftlig omtentamen). Obligatoriska laborationer med skriftlig rapport. Projekt.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0115. Benämning: Skriftlig tentamen. 
+Antal högskolepoäng: 4,5. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen. 
+Kod: 0215. Benämning: Projekt. 
+Antal högskolepoäng: 1. Betygsskala: UG.  Prestationsbedömning: Godkänt projekt. 
+Kod: 0315. Benämning: Laborationer. 
+Antal högskolepoäng: 2. Betygsskala: UG.  Prestationsbedömning: Godkända laborationer. 
+Antagningsuppgifter
+Förutsatta förkunskaper: Grundkurser i fysik och matematik. Grundkunskaper i optik.
+Begränsat antal platser: Nej
+Kurslitteratur
+
+B. E. A. Saleh and M. C. Teich,.
+Fundamental of Photonics.
+Wiley Series in Pure and Applied Optics, John Wiley & sons, inc. 1991, ISBN 0-471-83965-5.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Jörgen Larsson, jorgen.larsson@fysik.lth.se
+Hemsida: http://www.atomic.physics.lu.se/education/elective-courses/fafn10-fyst32-advanced-optics-and-lasers/
+Övrig information: Kursen är en del i en serie av tre kurser om optik och lasrar som består av FAFF01, FAFN01 och FAFN10. Det går att läsa denna kurs (FAFN10) först men det är en fördel att först läsa kursen FAFF01 Optik och optisk design.
+
+Närvaro vid första föreläsningen är obligatoriskt för att få tillträde till kursen.
+
+
+
+

@@ -1,0 +1,97 @@
+
+Kursplan 2020/21 FKFF05
+
+
+
+
+
+Kursplan för
+Atmosfärskemi och -fysik
+Atmospheric Chemistry and Physics
+FKFF05, 5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning N
+Beslutsdatum: 2020-03-27
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: W2
+Valfri för: F4, F4-es
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursen ska ge förståelse av fysikaliska, kemiska och
+meteorologiska processer i atmosfären samt ge insikter i
+människans påverkan på atmosfärens sammansättning och därmed
+miljön, t.ex. klimat och stratosfäriskt ozon. Kursen syftar även
+till att ge förmåga att värdera miljöfrågeställningar från
+ett naturvetenskapligt betraktelsesätt i arbetsliv och
+samhällsdebatt.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna genomföra fysikaliska och kemiska beräkningar för
+atmosfären, baserat på presenterad metodik och modellverktyg,
+t.ex. meteorologiska boxmodeller och enklare klimatmodeller samt
+tolka resultaten i atmosfärs- och miljöperspektiv
+från ett naturvetenskapligt perspektiv kunna beskriva och
+förstå atmosfärens funktion inom viktiga
+miljöfrågeställningar
+kunna kvalitativt och ibland kvantitativt förklara hur
+människors aktiviteter påverkar atmosfären och, i ett vidare
+perspektiv, livsbetingelserna på jorden.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna integrera kunskaper om atmosfären från olika
+ämnesområden
+kunna integrera kunskaper från kurslitteratur och enklare
+vetenskaplig litteratur
+kunna genomföra projekt och planera presentation utifrån
+givna ramar
+ha ökad förmåga att presentera projekt som genomförts samt
+vid presentation diskutera resultaten med kursledning och
+kursdeltagare.
+
+
+Kursinnehåll
+Atmosfärens sammansättning och termodynamiska egenskaper,
+meteorologi, meteorologiska modeller, geokemiska kretslopp, klimat,
+växthusgaser, aerosoler, kemisk reaktionskinetik, stratosfäriskt
+ozon, atmosfärens oxiderande förmåga, marknära ozon och surt
+regn. Projektarbetet omfattar studier av vetenskaplig
+litteratur, uppföljning samt redovisning av projektarbetet vid
+minisymposium.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examinationen består av dels en skriftlig tentamen där studenten individuellt besvarar frågor av både redogörande och beräkningskaraktär, dels ett projektarbete i grupp. Betyg bestäms av tentamen. Det ges även möjlighet att skriva en dugga som kan generera extra poäng som tillgodoräknas vid betygsättningen av tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0118. Benämning: Projekt. 
+Antal högskolepoäng: 1. Betygsskala: UG.  Prestationsbedömning: Examination vid muntlig redovisning av projekt 
+Kod: 0218. Benämning: Skriftlig tentamen. 
+Antal högskolepoäng: 4. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen 
+Antagningsuppgifter
+Förutsatta förkunskaper: FMAA05 Endimensionell analys.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FKFF01
+Kurslitteratur
+
+Jacob, D.J.: Introduction to Atmospheric Chemistry.
+Princeton University Press 1999. ISBN: 0-691-00185-5.
+Dessutom ingår kompletterande material utdelat under kursen.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Professor Bengt Martinsson, bengt.martinsson@nuclear.lu.se
+Kursansvarig: Johan Friberg, johan.friberg@nuclear.lu.se
+Kursansvarig: Pontus Roldin, pontus.roldin@nuclear.lu.se
+Hemsida: http://www.nuclear.lu.se/utbildning/obligatoriska_kurser/atmospheric_chemistry_and_physics/
+Övrig information: Närvaro vid första föreläsningen är obligatoriskt för att få tillträde till kursen.
+
+
+

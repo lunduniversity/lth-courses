@@ -1,0 +1,96 @@
+
+Kursplan 2020/21 VBFA01
+
+
+
+
+
+Kursplan för
+Husbyggnads- och installationsteknik
+Building Technology and Building Services
+VBFA01, 10 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning V
+Beslutsdatum: 2020-03-23
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: V1
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Att ge baskunskaper i husbyggnadsteknik, byggnadsfysik,
+inomhusklimat och installationsteknik.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna beskriva och förklara olika byggnadsdelar
+kunna analysera och beräkna enkla byggnadsfysikaliska
+förlopp
+kunna identifiera och beskriva fuktpåverkan på olika
+byggnadsdelar
+ha elementär kunskap om inomhusmiljö och vilka krav som
+ställs på denna
+ha kunskap om hur system för ventilation, värme, tappvatten
+och spillvatten fungerar
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna utnyttja facktermer både i tal och skrift.
+kunna diskutera olika byggnadstekniska lösningar med aktörer
+inom byggbranschen.
+kunna föreslå väl fungerande byggnadsdelar och
+detaljlösningar.
+ha utvecklat förmåga till vidare studier med viss
+självständighet.
+kunna utforma och dimensionera VVS-tekniska system för
+bostäder, samordna dessa med planlösning och stomme samt
+upprätta enklare ritningar
+kunna identifiera och lösa enklare installationstekniska
+problem
+
+
+Kursinnehåll
+Kursen behandlar allmän byggnads- och installationsteknik.
+Olika byggnadsdelars konstruktion och deras sammanfogning till en
+hel byggnad. Värme- och fukttekniska aspekter. Komfortkrav och
+hälsokriterier för inomhusmiljö. Dimensionering av olika system
+för ventilation, värme samt tapp- och spillvatten. Samordning av
+installationer med planlösning och stomme.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examinationen sker genom två skriftliga tentor för husbyggnadsteknik respektive för installationsteknik, obligatoriska konstruktionsuppgifter och kursen startar med en obligatorisk workshop. Båda tentorna består av en teoridel och en beräkningsdel som båda måste godkännas vid samma tentamenstillfälle. Slutbetyget viktas samman av de båda tentorna. I kursen ingår ett obligatoriskt moment om gruppdynamik.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0108. Benämning: Husbyggnadsteknik. 
+Antal högskolepoäng: 4. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen bestående av en teoridel och en räknedel. Båda delarna ska godkännas vid samma tillfälle.  Delmomentet omfattar: Teori och beräkningsuppgifter baserade på litteratur och föreläsningsanteckningar i husbyggnadsteknik och byggnadsfysik. 
+Kod: 0208. Benämning: Installationsteknik. 
+Antal högskolepoäng: 3. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen bestående av en teoridel och en räknedel. Båda delarna ska godkännas vid samma tillfälle.  Delmomentet omfattar: Teori- och beräkningsuppgifter baserade på litteratur och föreläsningsanteckningar i installationsteknik. 
+Kod: 0308. Benämning: Inlämningsuppgifter. 
+Antal högskolepoäng: 3. Betygsskala: UG.  Prestationsbedömning: För godkända inlämningsuppgifter krävs att de är kompletta och håller nivå II gällande redovisning. Väl genomförd uppgift kan höja slutbetyget för kursen med ett steg.  Delmomentet omfattar: Konstruktionsuppgift, kallad "huset Huset", omfattande projektering av byggnadstekniska detaljer och VVS-system för ett småhus. 
+Antagningsuppgifter
+Förutsatta förkunskaper: FAFA45 Termodynamik med tillämpningar.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: VBM060, ABK140, VBF012, VBF017
+Kurslitteratur
+
+Sandin, K: Praktisk husbyggnadsteknik. Studentlitteratur, 2007, ISBN: 9789144048796.
+Sandin, K: Praktisk byggnadsfysik. Studentlitteratur, 2010, ISBN: 9789144059914.
+Sandin, K: Praktisk byggnadsfysik: övningsbok. Studentlitteratur , 2010, ISBN: 9789144059891.
+Warfvinge, C & Dahlblom, M: Projektering av VVS-installationer. Studentlitteratur , 2010, ISBN: 9789144055619.
+Dahlblom, M: Övningsuppgifter installationsteknik. LTH, 2016.
+Svenska Språknämnden: Svenska skrivregler. Liber , 2005, ISBN: 91-47-05271-6. Referenslitteratur.
+Strömquist, S: Skrivboken. Gleerups, 2005, ISBN: 91-40-64513-4. Referenslitteratur.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Hans Bagge, hans.bagge@byggtek.lth.se
+Kursansvarig: Victor Fransson, victor.fransson@hvac.lth.se
+Hemsida: http://liveatlund.lu.se
+
+
+

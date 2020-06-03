@@ -1,0 +1,126 @@
+
+Kursplan 2020/21 VVRN30
+
+
+
+
+
+Kursplan för
+Kusthydraulik
+Coastal Hydraulics
+VVRN30, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning W
+Beslutsdatum: 2020-03-23
+Allmänna uppgifter
+Huvudområde: Vattenresurshantering. 
+Valfri för: MWLU2, V5-vr, W5-vr
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursen avser att förmedla kunskaper inom områdena
+kusthydraulik, kustnära sedimenttransport och kustförvaltning.
+Inom kusthydrauliken ligger tonvikten på vindgenererade vågor och
+de krafter som dessa vågor åstadkommer i den kustnära zonen.
+Avsnittet om kustnära sedimenttransport behandlar
+transportprocesser under inverkan av vågor och strömmar.
+Kustförvaltning behandlar dels olika metoder för att skydda
+kuster mot erosion, dels strategier för att planera och förvalta
+kusten i ett bredare samhällsperspektiv. Kursen har som
+målsättning att förmedla såväl grundläggande kunskap om de
+styrande fysikaliska processerna som övergripande strategier där
+kustprocesser ses som en del av samhället. Kursen utgör en av
+kurserna vid en avslutande specialisering inom vattenområdet för
+V och W och inom internationella mastersprogrammet
+Vattenresurser.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+ha fördjupade kunskaper och kunna förklara och använda
+grundbegrepp inom kusthydraulik, kustnära sedimenttransport och
+kustförvaltning.
+ingående kunna beskriva processen för bildandet av
+vindgenererade vågor och de krafter som dessa vågor åstadkommer
+i den kustnära zonen.
+kunna beräkna effekter av vågverkan, sedimenttransport och
+vattenstånd och förutsäga deras inverkan på konstruktioner och
+naturliga formationer i kustzonen, på säväl kort som lång
+sikt.
+kunna relatera problem med kusterosion och översvämningsrisk
+till kustplaneringsprocessen.
+kunna sätta in ett ingenjörsmässigt kustproblem i ett
+bredare samhällsperspektiv.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna genomföra tekniska utredningar och utvärderingar om
+frågeställningar rörande vågmekanik,
+sedimenttransport, kusterosion och översvämningar.
+kunna sätta in tekniska frågeställningar kring
+kusthydrauliska problem i ett bredare sammanhang om
+kustzonsförvaltning
+kunna bedöma och muntligt och skriftligt presentera
+kusthydrauliskt utredningsmaterial för såväl tekniker som
+ekonomer, samhällsvetare, jurister och politiker.
+visa förmåga att självständigt söka och värdera relevant
+information och data rörande kusthydrauliska problem.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+ha tillägnat sig ett mångfacetterat förhållningssätt där
+lösningen på kusthydrauliska problem ingår som en del i en
+integrerad samhällsprocess tillsammans med en
+rad frågeställningar rörande ekonomi, juridik, politik och
+sociala förhållanden.
+ha tillägnat sig förmågan att kunna kommunicera tolkningar
+och lösningar av olika ingenjörsmässiga kustproblem muntligt
+och skriftligt för olika samhällsgrupper.
+
+
+Kursinnehåll
+
+kusthydrauliska problem: Vågteori inklusive fenomen såsom
+uppgrundning, refraktion, diffraktion, reflektion och vågbrott.
+Statistisk vågteori och beräkning av vågor genererade av vind.
+Kustnära strömmar samt vattenståndsvariationer och dess orsaker.
+Krafter på konstruktioner till följd av brytande och
+icke-brytande vågor. Dimensionering och utformning av kustnära
+konstruktioner.
+kustnära sedimenttransport: Grundläggande
+sedimenttransportprocesser, morfologiska respons, kustparallell
+transport, transport vinkelrätt mot kusten, modellering av
+kustutveckling.
+kustförvaltning: Integrerad kustzonsförvaltning, GIS,
+klassificering av kuster, kustskyddsstrategier,
+utformningsaspekter, kustskyddsteknik.
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Inlämningsuppgifter och skriftlig tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: VVR090/VVRN35 Hydromekanik. (Kan läsas parallellt).
+Begränsat antal platser: 35
+Urvalskriterier: Antal poäng som återstår till civilingenjörsexamen.Förtur ges till studenter vars program har kursen listad i läro- och timplanen.
+Kursen överlappar följande kurser: VVR040
+Kurslitteratur
+
+US Army Corps of Engineers: Shore Protection Manual.
+Hanson, H.: Coastal Engineering Issues in Coastal Zone Management.
+Hanson, H.: Sediment Transport and Coastal Protection.
+Hanson, H.: Exempelsamling.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Professor Hans Hanson, Hans.Hanson@tvrl.lth.se
+Hemsida: http://www.tvrl.lth.se/utbildning/courses/
+
+
+

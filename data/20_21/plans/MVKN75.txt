@@ -1,0 +1,98 @@
+
+Kursplan 2020/21 MVKN75
+
+
+
+
+
+Kursplan för
+Ång- och gasturbinteknik
+Steam and Gas Turbine Engineering
+MVKN75, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning M
+Beslutsdatum: 2020-03-26
+Allmänna uppgifter
+Valfri för: M4-en
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Att ge en grundläggande förståelse för uppbyggnad och
+funktionssätt hos komponenterna i en enkel gasturbincykel, samt
+ångturbiner där fokus ligger på gasturbindelen. Att ge
+grundläggande färdighet i problemlösning avseende energibalans
+på komponent och systemnivå, enkla förbränningsanalyser,
+beräkning av verkningsgrader och förluster, strömning kring
+skovlar.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna beskriva gasturbincykelns olika komponenter d.v.s.
+kompressor, brännkammare och expandrar och deras funktionssätt
+och utformning på en översiktlig nivå.
+kunna beskriva funktionssätt för olika ångturbiner och deras
+utformning på en översiktlig nivå.
+kunna skriftligt redogöra för skovelströmning och
+energiutbyte mellan arbetsmedia och skovelkanaler på detaljerad
+nivå.
+kunna skriftligt och muntligt redogöra för vilka drifts- och
+designparametrar påverkar val av maskintyp och deras
+prestanda.
+kunna beräkna och skriftligt redogöra för komponent- och
+systemprestanda för en given systemlayout.
+kunna skriftligt redogöra designprocessen för
+gasturbinkomponenterna på en översiktlig nivå.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna använda verkningsgradsbegreppet för att analysera och
+jämföra olika komponentutformningar och systemlösningar.
+kunna beräkna stegprestanda utgående från
+hastighetstrianglar och energibalanser, samt designa komponenter
+för givna kravspecifikationer.
+kunna beräkna luftbehov och rökgassammansättning för
+fullständig förbränning av givet kolvätebränsle samt beräkna
+entalpin för rökgaserna.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna aktivt deltaga i diskussioner kring relevanta problem
+inom ämnesområdet.
+i skrift kunna presentera analys av utförda
+komponent- och systemberäkningar.
+
+
+Kursinnehåll
+Analys av gasturbincyklers uppbyggnad och prestanda.
+Förluster och verkningsgradsbegrepp.
+Fördjupande komponentstudier om kompressorer, brännkammare och
+expandrar.
+Metoder för dimensionering, off-design beräkning och
+prestanda.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examination sker både individuellt och i grupp. För att erhålla rätten att deltaga i skriftlig tentamen måste alla obligatoriska moment d v s inlämningsuppgifter vara godkända.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: MVKN60 Turbomaskinernas teori eller motsvarande kunskaper.
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Cohen, H; Rogers, G F C; Saravanamuttoo, H I H: Gas Turbine Theory, 5:e uppl. Pearson Education 2001. ISBN:0-13-015847-X samt utdelat material om förbränning.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Magnus Genrup, Magnus.Genrup@energy.lth.se
+Examinator: Magnus Genrup, Magnus.Genrup@energy.lth.se
+Kursansvarig: Marcus Thern, marcus.thern@energy.lth.se
+Hemsida: http://www.tpe.energy.lth.se/utbildning/mvkn75-aang-och-gasturbinteknik/
+
+
+

@@ -1,0 +1,99 @@
+
+Kursplan 2020/21 EXTN10
+
+
+
+
+
+Kursplan för
+Webb-GIS
+Web GIS
+EXTN10, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning L
+Beslutsdatum: 2020-03-27
+Allmänna uppgifter
+Valfri för: L4-fr, L4-gi
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+I grundkurserna har studenterna bekantat sig med GIS som ett
+informationssystem som används på en fristående dator. Syftet
+med denna kurs är att studera tekniker for klient-server miljör
+för webb-GIS och infrastrukturer för geografiska data. En del av
+kursen behandlar även webbkartografi.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+analysera möjligheterna och begränsningarna att hantera
+geografisk information via Internet
+förklara teorin för webb kartografi
+redogöra för tekniker för att distribuera geografisk
+information via Internet, samt för- och nackdelar med dessa
+tekniker
+redogöra för användningsområden för geografiska
+informationsbehandling via Internet
+beskriva grundläggande programmeringsmetoder och märkspråk
+för GIS-tjänster på Internet
+ingående beskriva standardiserade karttjänster på
+Internet
+beskriva geodataporatler och infrastrukturer av geografiska
+data
+exemplifiera några viktiga aspekter vid införande av
+karttjänster i en organisation.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+självständigt utveckla webb-GIS tjänster
+skapa en karttjänst med goda kartografiska egenskaper,
+och
+ha grundläggande färdigheter i att anpassa en webb-GIS
+tjänst med hjälp av märkspråk och skript-programmering.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+se helheten i hur Internet kan påverka användningen av
+geografiska data, och
+tänka på vilka lagar, och etiska regler, som måste beaktas
+vid användning av geografiska data.
+
+
+Kursinnehåll
+Föreläsningarna behandlar ingående de viktigaste teknikerna
+för överföring av geografiska data via Internet. Övningar är
+främst inriktade på att skapa GIS-tjänster på Internet utifrån
+standarder med egen kodning i märkspråk och skriptspråk. En del
+av kursen behandlar regler för kartografisk presentation
+på datorskärmar. Kursen avslutas med ett större projektarbete
+där studenten själv får skapa en GIS-tjänst på Internet.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig examen och betygsatt projektarbete. Godkänd på alla inlämningsuppgifter samt deltagande på obligatoriska moment.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+L: EXTF80 Geografisk informationsteknik och EDAA20 Programmering och databaser; Övriga LTH: EDAA01 Programmeringsteknik - fördjupningskurs
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: GISN09, TEK240
+Kurslitteratur
+
+Kurskompendium och artiklar.
+Stefanakis, Emmanuel: Web Mapping and Geospatial Web Services: An introduction. North Charleston : CreateSpace Independent Publishing Platform, 2015, ISBN: 1514757559.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Ali Mansourian, ali.mansourian@nateko.lu.se
+Hemsida: http://www.nateko.lu.se/sv/extn10
+Övrig information: Kursen är även en magisterkurs (NGEN07) i ämnesområdet naturgeografi vid Naturvetenskapliga fakulteten.
+
+
+

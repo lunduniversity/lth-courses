@@ -1,0 +1,116 @@
+
+Kursplan 2020/21 EDAP20
+
+
+
+
+
+Kursplan för
+Intelligenta autonoma system
+Intelligent Autonomous Systems
+EDAP20, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning C/D
+Beslutsdatum: 2020-03-30
+Allmänna uppgifter
+Valfri för: BME4, C4, D4-mai, E4, F4, M4, Pi4-pv, MMSR2
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Att ge en introduktion till flera delområden inom intelligenta
+autonoma system och robotik, och att orientera om grundläggande
+metoder och algoritmer tillgängliga inom dessa områden. Att
+förmedla bredd och djup inom ämnet.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+visa grundläggande kunskaper om teori och metoder relaterade
+till följande underdomäner:
+
+robotarkitekturer för autonoma system som stöder intelligent
+beslutsfattande
+integration av kunskap på hög nivå med avkänning,
+resonemang och manövrering
+robotplanering på beteendemässig nivå och på
+aktiveringsnivå
+robotinlärning och kalibrering
+robotseende
+robot skills
+människa-robot-interaktion, etiska överväganden
+
+ 
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+genomföra ett antal uppdrag baserat på problem relaterade till
+några av de tidigare nämnda underdomänerna och demonstrera
+förmågan att
+
+förbereda relevanta metoder som modellerar robot-skills
+utvärdera tillvägagångssätten i relevanta scenarier
+se över metoderna för att förbättra robot-skills i relevant
+scenario
+
+ 
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna bedöma lämpligheten för en given metod för
+intelligent robotik för ett givet problem,
+förstå begränsningarna i tillämpningen av metoder för
+intelligent robotik
+
+ 
+
+Kursinnehåll
+
+Trelagersarkitektur, Perception Action Cycle,
+Robotarkitekturer, omvärldsmodeller
+Robot Perception: Robot vision, 3D perception, sensorer, 3D
+pose estimation
+SLAM, resonemang under osäkerhet, MAP-Slam
+Manövrering: generiskt problem, navigering för mobila
+robotar, banplanering för armen, parkering, autonom bil
+(icke-holonomiska begränsningar för komplicerad
+rörelseplanering), flyger drönare, plockning + placering som två
+exempel
+Plockning: segmentering av bordet, objekt poserar + grepp
+poser, gripdon
+Placering: Kraftbaserad interaktion, styrning under osäkerhet,
+visual servering, iTasC, compliance
+Färdigheter, resonemang och planering: Färdigheter,
+världskunskap, planering
+
+ 
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: För godkänt betyg (3) krävs fullgjorda laborationer. Godkända laborationer berättigar till deltagande i skriftlig tentamen, som ger möjlighet att få högre betyg, dvs vid betyg 4 eller 5 i tentamen blir detta kursens slutbetyg.
+
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+EDAA01 Programmeringsteknik - fördjupningskurs eller EDAA30 Programmering i Java - fortsättningskurs
+
+
+Begränsat antal platser: 30
+Urvalskriterier: Avklarade högskolepoäng inom programmet. Förtur ges till studenter vars program har kursen listad i läro- och timplanen.
+Kursen kan ställas in: Om färre än 12 anmälda.
+Kurslitteratur
+
+Peter Corke: Robotics, Vision and Control, Fundamental Algorithms in MATLAB. Springer, 2011, ISBN: 9783319544120. Referenstext om ämnet.
+Sebastian Thrun, Wolfram Burgard, Dieter Fox: Probabilistic Robotics. MIT Press, 2005, ISBN: 9780262201629. Referenstext om djupinlärning.
+
+
+Kontaktinfo och övrigt
+Lärare: Jacek Malec, jacek.malec@cs.lth.se
+Lärare: Elin Anna Topp, elin_anna.topp@cs.lth.se
+Kursansvarig: Volker Krueger, volker.krueger@cs.lth.se
+Hemsida: http://cs.lth.se/EDAP20
+Övrig information: Detaljerade föreskrifter för fullgörande av inlämningsuppgifterna kommer att finnas på kurswebben.
+
+
+
+

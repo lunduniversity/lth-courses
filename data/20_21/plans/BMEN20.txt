@@ -1,0 +1,86 @@
+
+Kursplan 2020/21 BMEN20
+
+
+
+
+
+Kursplan för
+Projektkurs i signalbehandling – från idé till app
+Project Course in Signal Processing – from Idea to App
+BMEN20, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning BME
+Beslutsdatum: 2020-03-24
+Allmänna uppgifter
+Valfri för: BME4, C4, D4-ssr, D4-is, D4-hs, E4-ss, F4, MSOC1, MWIR2, Pi4, MMSR1
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Kursen syftar till att ge kunskap om implementering av
+signalbehandlingsalgoritmer i mobila plattformar. Vidare syftar
+kursen till att belysa de problem som uppstår vid implementering i
+realtid och att utvärdera de prestanda som uppnås med
+implementeringarna.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna formulera en specifikation för det valda projektet
+kunna planera genomförandet under den tidsperiod som projektet
+löper
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna implementera vanligt förekommande
+signalbehandlingsmetoder
+testa olika delar i implementeringen och verifiera
+lösningen
+redogöra muntligt och skriftligt för den valda lösningen på
+uppgiften
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+ha förmåga att analysera och värdera olika delar i den valda
+implementeringen och hur dessa fungerar tillsammans.
+
+
+Kursinnehåll
+Signalbehandling har tillämpningar inom vitt skilda områden,
+t.ex. ljud, video, hälsa och kommunikation, vilket avspeglas i de
+projekt som kan genomföras inom kursens ramar.
+Kursen inleds med exempel och laborationer på
+signalbehandlingstillämpningar i app-miljö. Varje grupp väljer
+sedan en tillämpning och implementerar och utvärderar lämpliga
+signalbehandlingsmetoder i app-miljö. Rapportering och
+demonstration utgör en viktig del i projektarbetet och påbörjas
+redan på ett tidigt stadium i kursen. Handledarna finns
+tillgängliga för frågor och diskussion vid förutbestämda
+tider.
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: Skriftlig och muntlig redovisning av projektarbetet.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: Grundkurs i signalbehandling (EITF75 Digital signalbehandling eller EITA50 Signalbehandling i multimedia eller EITF15 Signalbehandling - teori och tillämpningar eller motsvarande). Grundkurs i programmering.
+Begränsat antal platser: 36
+Urvalskriterier: Avklarade högskolepoäng inom programmet. Förtur ges till studenter vars program har kursen listad i läro- och timplanen.
+Kursen överlappar följande kurser: ETI121
+Kurslitteratur
+
+Artiklar och material från institutionen.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Frida Sandberg, frida.sandberg@bme.lth.se
+Kursansvarig: Martin Stridh, martin.stridh@bme.lth.se
+Hemsida: http://bme.lth.se/education/courses/
+
+
+

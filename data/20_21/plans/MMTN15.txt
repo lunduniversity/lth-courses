@@ -1,0 +1,90 @@
+
+Kursplan 2020/21 MMTN15
+
+
+
+
+
+Kursplan för
+Projekt - Industriell produktion
+Project - Production and Materials Engineering
+MMTN15, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning M
+Beslutsdatum: 2020-03-26
+Allmänna uppgifter
+Valfri för: I5, M5, MD5, MPRR2
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Syftet är att självständigt arbeta med en större uppgift
+för att erhålla fördjupade kunskaper inom ett specialområde
+inom ämnet produktionsteknik med angränsande ämnesområden, som
+studenten själv väljer och därför är intresserad av.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+visa fördjupade kunskaper inom det ämnesområde som han/hon
+valt att arbeta med.
+självständigt kunna dokumentera och beskriva ett valt ämne i
+en teknisk rapport.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+visa förmåga att självständigt planera och genomföra en
+större projektuppgift.
+muntligt inför en tekniskt kunnig publik presentera det valda
+ämnet.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+visa förmåga att identifiera och tillgodogöra sig ett
+ytterligare behov av kunskap inom det valda ämnesområdet.
+
+
+Kursinnehåll
+En praktisk eller teoretisk studie inom ett ämnesområde som
+studenten själv valt att fördjupa sig inom. Fördjupningsämnet
+skall ligga inom något av ämnesområdena tillverkningsmetoder,
+produktionsteknik, CADCAMCAE, kompositteknik, tillämpad
+materialteknik, tillämpad FEM, skärande bearbetning,
+tillverkningssystem och tillverkningsekonomi. Arbetet kan
+exempelvis utgöra ett projektarbete, utvecklingsprojekt eller
+förstudie till examensarbete och motsvara 200 arbetstimmar.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig rapport samt muntlig redovisning.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+MMT012/MMTF20 Tillverkningsmetoder eller MMTA05 Industriella produktionssystem
+
+
+Förutsatta förkunskaper: Någon av fördjupningskurserna MMT160/MMTF25 CAD/CAM/CAE, MMT031/MMTN25 Produktionsteknik, MMT045/MMTN30 Tillverkningssystem, MMT125/MMTN35 Tillämpad FEM och MMT015/MMTN20 Material- och Metodval.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: MMTN01
+Kurslitteratur
+
+Fastställs i samråd med examinator.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Jan-Eric Ståhl, jan-eric.stahl@iprod.lth.se
+Kursansvarig: Carin Andersson, carin.andersson@iprod.lth.se
+Kursansvarig: Mats Andersson, mats.andersson@iprod.lth.se
+Kursansvarig: Hans Walter, hans.walter@iprod.lth.se
+Kursansvarig: Fredrik Schultheiss, fredrik.schultheiss@iprod.lth.se
+Kursansvarig: Volodymyr Bushlya, volodymyr.bushlya@iprod.lth.se
+Kursansvarig: Jinming Zhou, jinming.zhou@iprod.lth.se
+Hemsida: http://www.iprod.lth.se
+Övrig information: Studenten ska själv komma med förslag till projekt. Arbetet kan utföras närsomhelst under läsåret.
+
+
+

@@ -1,0 +1,91 @@
+
+Kursplan 2020/21 VVRN10
+
+
+
+
+
+Kursplan för
+Avrinnings-modellering
+Rainfall Runoff Modelling
+VVRN10, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning W
+Beslutsdatum: 2020-03-23
+Allmänna uppgifter
+Huvudområde: Vattenresurshantering. 
+Valfri för: MWLU2, V5-vr, W5-vr
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursen ges för studenter vid Internationella Mastersprogrammet
+Vattenresurser (WaterLU) och för studenter vid
+civilingenjörsprogrammen Voch W med specialisering inom
+vattenområdet samt för studenter vid civilingenjörsprogrammet
+Pi, inriktningen miljö, risk och klimat . Den ger fördjupade
+kunskaper i de hydrologiska processerna. Studenterna får också
+färdigheter i avrinningsmodellering och insikter o färdigheter av
+mer generell karaktär avseende modellering och projektarbete.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+med djup förståelse kunna redogöra för komponenterna i den
+hydrologiska cykeln och deras relation till
+avrinningsprocessen,
+ingående kunna beskriva och diskutera principerna och tekniken
+för konceptuella avrinningsmodeller och förstå modellernas
+begränsningar.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+med god förståelse för metoden kunna anpassa och tillämpa
+en avrinningsmodell för ett område som ej modellerats
+tidigare,
+på ett vetenskapligt sätt kunna presentera projektresultat i
+rapportform på engelska,
+visa god förmåga att muntligen, på engelska, presentera
+hydrologiska resultat och resonemang för tekniker.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+visa förmåga att kritiskt kunna utvärdera avrinningsmodeller
+och resultat baserade på modeller,
+uppvisa stor förståelse för vikten av att tydligt presentera
+osäkerhet i resultat och begränsningar hos metoder i samband med
+resultat baserade på hydrologiska modeller.
+
+
+Kursinnehåll
+De hydrologiska processerna: regn, avdunstning, rörelse i
+omättad zon, grundvattenströmning, avrinning. Specialhydrologi:
+snö, is, sjöar. Modellbegreppet, numeriska avrinningsmodeller.
+Inlämningsuppgifter omfattar seminarieuppsats, arbete med rural
+avrinningsmodell och routing genom sjö/reservoar.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examinationen består av tre betygsatta inlämningsuppgifter (projekt utförda i grupp), och en skriftlig sluttentamen. Bedömning av inlämningsuppgifter baseras både på form och innehåll i rapport, dessutom krävs godkänd muntlig presentation. Den skriftliga tentamen består av i huvudsak öppna frågor som ska besvaras utan hjälpmedel. Betyget utgörs av viktat medelvärde av de fyra betygsatta momenten.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: Hydrologi genom VVR111/VVRA01 eller VVR145/VVRA05.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: VVR140
+Kurslitteratur
+
+Ward & Robinson: Principles of Hydrology (4th ed.). McGrawHill 1990. ISBN 0 07 709502 2. (rekommenderad).
+Bengtsson, Lars Excerpt from Lars ”Hydrology – Theory and processes”, Dept of Water Resources Engineering Lund University. Translated from Swedish by Rolf Larsson Sept 2004 (available on course web site).
+Studenterna förväntas också själva söka referenser för sina projektarbeten (inlämningsuppgifter).
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Magnus Persson, magnus.persson@tvrl.lth.se
+Hemsida: http://www.tvrl.lth.se/utbildning/courses/
+
+
+

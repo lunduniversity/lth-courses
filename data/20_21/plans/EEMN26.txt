@@ -1,0 +1,91 @@
+
+Kursplan 2020/21 EEMN26
+
+
+
+
+
+Kursplan för
+Lab-on-a-chip i biomedicinska tillämpningar
+Lab-on-a-chip in Biomedical Applications
+EEMN26, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning BME
+Beslutsdatum: 2020-03-24
+Allmänna uppgifter
+Valfri för: B4, BME4-bf, E4, F4, F4-mt, N4-nbm
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Kursen avser att ge en detaljerad teknisk inblick i
+miniatyriserad bioanalys och belysa några av de lab-on-a-chip
+tekniker som används idag inom klinisk medicin såväl som
+biomedicinsk forskning. Grundläggande principer för bioanalys
+integrerad i mikrofluidiksystem där bl a provhantering och
+detektionsprinciper är centrala teman kommer belysas via
+föreläsningar och laborationer.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna redogöra för grundläggande Lab-on-a-chip begrepp
+ha förståelse för skalningseffekter inom bioanalys och
+mikrofluidik
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna analysera och beskriva funktionen av mikrofluidikbaserade
+bioanalyssystem
+kunna ge exempel på miniatyriserade tekniker som idag används
+inom biomedicinsk analys
+kunna rekommendera och motivera val av material för
+konstruktion av ett lab-on-a-chip system
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna analysera och peka på fördelar och nackdelar med att
+miniatyrisera en given bioanalytisk frågeställning
+
+
+Kursinnehåll
+Kursen bygger på en föreläsningsserie som förmedlar både
+basal lab-on-a-chip teknik och även som visar på hur denna
+tillämpas inom modern bioanalys idag. Gästföreläsare från
+framträdande bioanalysföretag i regionen kommer ytterligare visa
+på vikten och värdet av miniatyriserad och automatiserad
+bioanalys inom sjukvårdssektorn och medicinsk forskning. Kursen
+kommer även omfatta en serie laborationer som bl a belyser
+kliniskt relevanta analystekniker, som bygger på mikrofluidik och
+lab-on-a-chip teknik som skall ge en handgriplig förstående för
+grundläggande steg i konstruktion av mikrofluidikbaserade
+analyssystem och därmed ge en helhetsbild och djupare försåelse
+kring lab-on-a-chip teknologin.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: För godkänt betyg krävs godkänt på laborationsrapporter och tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0118. Benämning: Tentamen. 
+Antal högskolepoäng: 6. Betygsskala: TH.  Prestationsbedömning: Godkänd skriftlig tentamen 
+Kod: 0218. Benämning: Labrapporter . 
+Antal högskolepoäng: 1,5. Betygsskala: UG.  Prestationsbedömning: Godkända laborationer 
+Antagningsuppgifter
+Förutsatta förkunskaper: 3 års studier på civilingenjörsutbildning.
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Studiematerial kommer att delas ut löpande under kursen.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Thomas Laurell, thomas.laurell@bme.lth.se
+Hemsida: http://bme.lth.se/utbildning/kurser/
+
+
+

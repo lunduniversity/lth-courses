@@ -1,0 +1,118 @@
+
+Kursplan 2020/21 VSMN10
+
+
+
+
+
+Kursplan för
+Strukturdynamiska beräkningar
+Structural Dynamic Computing
+VSMN10, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning V
+Beslutsdatum: 2020-03-23
+Allmänna uppgifter
+Valfri för: F4, F4-bem, M4, Pi4-bem, V4-ko
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Kursen syftar till att ge kunskaper om teori, beräkning och
+mätmetoder inom området strukturdynamik. Den skall också
+utveckla förmågan att i projektarbeten utvärdera modeller med
+hjälp av beräkningsprogram i förhållande till laborativa
+resultat. Kursen syftar också till att ge färdigheter i skriftlig
+och muntlig presentation.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+Kunna lösa konceptuella konstruktionsuppgifter baserade på
+några verkliga strukturproblem.
+Kunna mäta och diskutera fysikaliska egenskaper på dessa
+konstruktioner.
+Kunna verifiera egna beräkningar mot uppmätta värden.
+Kunna identifiera och hantera de fysikaliska begreppen och
+deras matematiska syntax.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+Kunna analysera generella enfrihetsgradsproblem.
+Kunna definiera, beräkna och
+analysera flerfrihetsgradsproblem inom strukturdynamik, baserade
+på finit elementformulering.
+Kunna använda och värdera olika lösningstrategier för
+strukturdynamiska problem.
+Kunna omsätta avancerade beräkningsmetoder inom
+strukturdynamik för att lösa problem där det finns flera olika
+lösningsalternativ och kunna värdera skillnaden i metod och
+resultat.
+Kunna presentera och argumentera för vald lösningsmetod i
+slutseminarium.
+Kunna använda avancerade beräkningsprogram.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+Kunna värdera olika lösningsförslag och förslagens
+noggrannhet.
+Kritiskt granska både egna och andras förslag i en öppen
+diskussion.
+Föreslå lösningar på basen av otydliga förutsättningar,
+se deras räckvidd och föreslå förändringar i
+förutsättningarna.
+Sammanfatta resultat i beräkningsrapport och värdera
+kollegors rapporter i relation till egna resultat.
+
+
+Kursinnehåll
+
+Enfrihetsgradsmodeller. Generaliserade
+enfrihetsgradsmodeller.
+Tidsintegration; Newmarks metod, implicit metod, explicit
+metod.
+Flerfrihetsgradsmodeller; finita element, direkt integration,
+modal syntes, egenvärdesanalys, responsdiagram.
+Jordbävningsanalys.
+
+Föreläsningarna beskriver de teoretiska begreppen i anslutning
+till tillämpningen, med konceptuella konstruktionsuppgifter som
+visar hur de realistiska frågeställningarna nyanserar de
+matematiska och numeriska beskrivningarna. Konstruktionsuppgifter
+hämtas i ett första hand inom området tillämpad mekanik med
+finita elementmetoden som bas för arbetet.
+Utöver detta presenteras moment som berör generella
+programsystem för finita elementberäkningar, till exempel Abaqus,
+Nastran eller LS-Dyna. Även Calfem och Matlab används. Sådana
+programsystem kan användas inom en bred uppsättning
+fysikaliska/ingenjörsproblem. Konstruktionsuppgift 2 utformas så
+att det är naturligt att använda något av dessa
+programsystem.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Bedömningen sker med utgångspunkt från inlämnade övningsuppgifter, två beräkningsrapporter, teoriskrivning och en slutlig muntlig diskussion.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+VSMN30 Finita elementmetoden - konstruktionsberäkningar: delprov Konstruktionsuppgifter 2.5 hp ELLER FHLF01 Finita elementmetoden ELLER FHLF10 Finita elementmetoden och introduktion till materialmekanik ELLER FHLF20 Finita elementmetoden
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: VSM045, VSM051
+Kurslitteratur
+
+Chopra, A. K.: Dynamics of Structures, Prentice Hall, 1995 eller alt. litt. ("Structural Dynamics", rapport som ges ut på avdelningen).
+CALFEM ver 3.4 – A finite element toolbox to MATLAB. Byggnadsmekanik och Hållfasthetslära. Lund, 2004.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Peter Persson, peter.persson@construction.lth.se
+Hemsida: http://www.byggmek.lth.se
+
+
+

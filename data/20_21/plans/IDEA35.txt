@@ -1,0 +1,88 @@
+
+Kursplan 2020/21 IDEA35
+
+
+
+
+
+Kursplan för
+Designerns verktyg
+Designer Tools
+IDEA35, 6 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning ID
+Beslutsdatum: 2020-02-18
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: MD2
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursens syfte är att träna de väsentliga teknikerna för
+designprocessen samt förmågan att kunna presentera ett
+designkoncept.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+• visa på en handfast förståelse för relationen
+form/teknik/material.
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+• presentera ett designkoncept av en mindre produkt med
+hjälp av skisser på fri hand samt med hjälp av 2D tekniker
+• bygga en sammansatt skissmodell avseende motsvarande
+designkoncept
+• datorgenerera en artefakt för numeriskt styrd tillverkning
+och/eller 3D utskrift.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+vara lyhörd för adekvat precisionsnivå och uppmärksamhet
+på detaljer.
+reflektera över det kulturella uppdraget, designers etiska
+ansvar och en hållbar samhällsutveckling.
+
+
+Kursinnehåll
+Kursen startar med en översiktlig genomgång av modern
+industridesignhistoria.
+Skiss- och 2D tekniker introduceras och övas.
+Träningen i verkstadsteknik utökas med tekniker speciella för
+modellbyggeri. Grafisk formgivning introduceras med inriktning på
+produktgrafik.
+Efter översiktliga teori- och kunskapsgenomgångar bygger
+kursen på att studenten under handledning själv tränar olika
+arbetsmoment.
+Undervisning och praktisk tillämpning ges i CAD-verktyget för
+att visa på möjligheterna till prototypgenerering i form av
+3D-utskrift eller med hjälp av övriga numeriskt styrda
+maskiner.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examinationen sker enskilt i form av inlämning av övningsuppgifter. För betyget 3 krävs godkänt på alla uppgifter.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: IDE180, IDEA01
+Kurslitteratur
+
+Wim Muller: Order and meaning in Design. Lemma, ISBN: 90 5189 6298.
+Andersson, N: Skissteknik, En Handbok i visualisering av designförslag. Umeå.
+Andersson, N: Perspektivlära. Umeå.
+Scott Robertson: How to Draw, Drawing and Sketching Objects and Environments from Your Imagination. 2013, ISBN: 9781933492759.
+Scott Robertson: How To Render, Communicating Form and Rendering a Wide Range of Materials. ISBN: 9781933492834.
+John Montague: Basic Perspective Drawing. John Wiley And Sons Ltd. Sverige., 2004, ISBN: 9780471472742. Paperback.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Karl-Axel Andersson, Karl-Axel.Andersson@design.lth.se
+Hemsida: http://www.industridesign.lth.se
+
+
+

@@ -1,0 +1,176 @@
+<!DOCTYPE HTML>
+<html lang="sv">
+<head>
+<title>Kursplan 2020/21 MMVN05</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<style type="text/css">
+body {
+    margin: auto;
+    margin: 30px;
+    font-family: times, sans-serif;
+}
+h1 {
+    font-family: Arial, Verdana, Geneva, Helvetica, sans-serif;
+    font-size: 150%;
+    font-style: normal;
+    font-weight: bold;
+    color: rgb(77,76,68);
+}
+h2 {
+    font-family: Arial, Verdana, Geneva, Helvetica, sans-serif;
+    font-size: 114%;
+    font-style: normal;
+    font-weight: bold;
+    color: rgb(77,76,68);
+}
+p {
+    font-size: 100%;
+    font-style: normal;
+    font-weight: normal;
+}
+.small {
+    font-size: 80%;
+}
+.bold {
+    font-weight: bold;
+}
+.italic {
+    font-style: italic;
+}
+@media print {
+    html {
+        font-size: 10pt;
+    }
+    a {
+        text-decoration: none;
+        color: #000;
+    }
+}
+</style>
+</head>
+<body>
+<div class="pdfbody">
+<span class="italic">Kursplan för</span><br />
+<h1>Numerisk strömningsmekanik och värmeöverföring<br />
+Numerical Fluid Dynamics and Heat Transfer</h1>
+<h2>MMVN05, 7,5 högskolepoäng, A (Avancerad nivå)</h2>
+<p><span class="bold">Gäller för: </span>Läsåret 2020/21<br />
+<span class="bold">Beslutad av: </span>Programledning M<br />
+<span class="bold">Beslutsdatum: </span>2020-03-26</p>
+<h2>Allmänna uppgifter</h2>
+<p><span class="bold">Valfri för: </span>F4, F4-bem, M4-bem, Pi4-bem<br />
+<span class="bold">Undervisningsspråk: </span>Kursen ges på begäran på engelska</p>
+
+<h2>Syfte</h2>
+<p>Kursen syftar till att ge grundläggande kunskap om moderna
+numeriska beräkningsmetoder som används rutinmässigt för analys
+av strömning och värmeöverföring det som med ett samlingsnamn
+brukar kallas CFD. Tonvikten läggs på inkompressibel strömning
+och konvektiv värmeöverföring Dessutom diskuteras de vanligaste
+turbulensmodellerna och hur dessa påverkar lösningen. Kursen
+avser att ge färdigheter i att genomföra denna typ av
+simuleringar i någon kommersiell programvara. Vidare avser kursen
+ge färdigheter i att analysera och bedöma resultat från dylika
+numeriska simuleringar. Dessa kunskaper skall vara tillräckliga
+för att för en given ingenjörsmässig problemställning kunna
+välja lämplig lösningsstrategi och kunna bedöma noggrannheten i
+resultatet.</p>
+
+<h2>Mål</h2>
+<p><span class="italic">Kunskap och förståelse</span><br />
+För godkänd kurs skall studenten</p>
+<p> </p>
+<ul>
+<li>kunna redogöra för potentialer och begränsningarna i de
+metoder som behandlas i kursen</li>
+<li>kunna redogöra för de vanligaste RANS-baserade
+turbulensmodellernas uppbyggnad och hur dessa kan påverka den
+numeriska lösningen av strömningar</li>
+<li>kunna redogöra för processen från matematisk beskrivning
+till numerisk lösning av ett strömnings- och
+värmeöverföringsproblem, samt vilka krav som ställs för att
+systemet skall vara lösbart</li>
+<li>kunna beskriva de olika felkällor som finns i processen från
+matematisk beskrivning till numerisk lösning av strömnings- och
+värmeöverföringsproblem och hur dessa påverkar resultatet</li>
+<li>kunna redogöra för olika metoder att behandla s k
+konvektions-diffusionstermer, och algoritmer för
+tryck-hastighetskopplingen (t ex SIMPLE, SIMPLEC, SIMPLEX, PISO
+etc)</li>
+<li>kunna förklara några för ämnet viktiga och grundläggande
+begrepp</li>
+</ul>
+<p> </p>
+
+<p><span class="italic">Färdighet och förmåga</span><br />
+För godkänd kurs skall studenten</p>
+<p> </p>
+<ul>
+<li>kunna genomföra simuleringar i någon kommersiell
+CFD-programvara</li>
+<li>kunna analysera ett strömnings- eller värmeöverföringsfall
+och föreslå en strategi för lösning av detsamma med avseende
+på ingående ekvationer, möjliga förenklingar, val av lämplig
+numerisk metod och turbulensmodell samt jämföra med en
+alternativa metoder och modeller</li>
+<li>kunna kritiskt granska och utifrån givna kriterier bedöma
+noggrannhet och rimlighet hos resultat från simulering av
+strömningar</li>
+</ul>
+<p> </p>
+
+<p><span class="italic">Värderingsförmåga och förhållningssätt</span><br />
+För godkänd kurs skall studenten</p>
+<p> </p>
+<ul>
+<li>kunna aktivt deltaga i diskussioner kring inom ämnet relevanta
+problem</li>
+<li>kunna i tal och skrift presentera i en teknisk rapport
+innehållande analyser och val av numerisk lösningsmetod och
+turbulensmodell</li>
+</ul>
+<p> </p>
+
+<h2>Kursinnehåll</h2>
+<p>Kursen behandlar metoder för att numeriskt lösa
+ingenjörsmässiga strömnings- och värmeöverföringsproblem.
+Hanteringen av s k konvektions-diffusionstermer behandlas.
+Begreppet numerisk diffusion införs. Algoritmer för
+tryck-hastighetskopplingen presenteras (t ex SIMPLE, SIMPLEC,
+SIMPLEX, PISO etc). I kursen behandlas diskretisering med finita
+volymmetoder, samt hur dessa påverkar noggrannhet och stabilitet
+hos lösningen. Olika typer av beräkningsnät, hur de genereras
+och hur de påverkar felet i lösningen ingår. Dessutom diskuteras
+de vanligast förekommande turbulensmodellerna baserade på
+Reynolds medelvärderade Navier-Stokes ekvationer (RANS) och hur
+dessa kan påverka lösningen. Datorlaborationer och projektarbete
+kommer att utföras i kommersiell CFD programvara.</p>
+
+<h2>Kursens examination</h2>
+<p><span class="bold">Betygsskala: </span>TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)<br />
+<span class="bold">Prestationsbedömning: </span>Examinationen sker både enskilt och baserat på arbete i grupp. De obligatoriska inlämningsuppgifterna och datorlaborationerna redovisas skriftligt enskilt.  Närvaro vid är obligatorisk datorlaborationerna. Projektuppgift redovisas i grupp både skriftligt i form av en rapport och muntligt vid ett seminarium, där alla gruppmedlemmar skall deltaga aktivt. Examinationen innefattar även ett skriftligt teoriprov. För att få godkänt på denna kurs måste alla obligatoriska moment dvs. inlämningsuppgifter, laobrationsrapporter, projektuppgift samt den skriftliga teoriprovet vara godkända. Betyg sätts baserat projektuppgift och teoriprov.</p>
+<p>Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.</p>
+<h2>Antagningsuppgifter</h2>
+<span class="bold">Förkunskapskrav:</span><ul>
+<li><a href="/kursplaner/16_17/FMA430.html">FMA430</a> Flerdimensionell analys eller <a href="/kursplaner/16_17/FMA435.html">FMA435</a> Flerdimensionell analys med vektoranalys eller <a href="/kursplaner/20_21/FMAB30.html">FMAB30</a> Flerdimensionell analys eller <a href="/kursplaner/20_21/FMAB35.html">FMAB35</a> Flerdimensionell analys med vektoranalys</li>
+<li><a href="/kursplaner/16_17/FMA420.html">FMA420</a> Linjär algebra eller <a href="/kursplaner/20_21/FMAB20.html">FMAB20</a> Linjär algebra</li>
+<li><a href="/kursplaner/20_21/KETF01.html">KETF01</a> Transportprocesser eller <a href="/kursplaner/20_21/MMVF01.html">MMVF01</a> Termodynamik och strömningslära eller <a href="/kursplaner/19_20/MMVF10.html">MMVF10</a> Strömningslära eller <a href="/kursplaner/20_21/MMVF15.html">MMVF15</a> Strömningslära</li>
+
+</ul>
+<p><span class="bold">Förutsatta förkunskaper: </span><a href="/kursplaner/20_21/MMVF05.html">MMVF05</a> Värmeöverföring<br />
+<span class="bold">Begränsat antal platser: </span>Nej<br />
+<span class="bold">Kursen överlappar följande kurser: </span><a href="/kursplaner/15_16/MVKN45.html">MVKN45</a>, <a href="/kursplaner/15_16/MMV042.html">MMV042</a></p>
+<h2>Kurslitteratur</h2>
+<ul>
+<li>H K Versteeg &amp; M W Malalasekera: An Introduction to Computational Fluid Dynamics-The Finite Volume Method 2nd ed. Pearson Education Limited, 2007.</li>
+
+</ul>
+<h2>Kontaktinfo och övrigt</h2>
+<p><span class="bold">Kursansvarig: </span>Hesameddin Fatehi, <a href="mailto:hesameddin.fatehi@energy.lth.se">hesameddin.fatehi@energy.lth.se</a><br />
+<span class="bold">Examinator: </span>Hesameddin Fatehi, <a href="mailto:hesameddin.fatehi@energy.lth.se">hesameddin.fatehi@energy.lth.se</a><br />
+<span class="bold">Kursansvarig: </span>Christer Fureby, <a href="mailto:christer.fureby@energy.lth.se">christer.fureby@energy.lth.se</a><br />
+<span class="bold">Hemsida: </span><a href="http://www.fm.energy.lth.se/english/education/courses/numerical-fluid-dynamics-and-heat-transfer-mmvn05/">http://www.fm.energy.lth.se/english/education/courses/numerical-fluid-dynamics-and-heat-transfer-mmvn05/</a></p>
+
+</div>
+</body>
+</html>

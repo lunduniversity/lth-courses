@@ -1,0 +1,138 @@
+
+Kursplan 2020/21 VTGN05
+
+
+
+
+
+Kursplan för
+Grundvattenmodellering och föroreningstransport
+Groundwater Modelling and Contaminant Transport
+VTGN05, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning V
+Beslutsdatum: 2020-03-23
+Allmänna uppgifter
+Huvudområde: Vattenresurshantering. 
+Obligatorisk för: MWLU1
+Valfri för: V4-vr, W4-vr
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursen syftar till att tillämpa och fördjupa kunskaper,
+färdigheter och förhållningssätt inom det breda fältet
+hydrogeologi som stöd för att hantera komplexa
+vattenförsörjnings-, avfallshanterings- och andra
+samhällsbyggnadsfrågor på ett sätt som beaktar människors
+behov och övergripande mål för utveckling av ett hållbart
+samhälle. Grundvattenmodellering och föroreningstransport utgör
+en av huvudkurserna vid en avslutande specialisering och
+masterutbildning inom vattenresurshantering.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+ingående kunna utnyttja kunskaper om grundvattens och
+markvattens uppträdande, förekomst, bildning och rörelse
+samt kemiska och fysikaliska egenskaper vid analys av komplexa
+hydrogeologiska problemställningar.
+känna till principerna för några vanligt förekommande
+utvärderings- och simuleringsprogram för grundvattenflöde,
+akvifersegenskaper, hydrogeokemiska processer och
+föroreningstransport.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna genomföra tekniska utredningar och utvärderingar kring
+frågeställningar omfattande hydrogeologi, grundvattenhydraulik,
+grundvattenkemi, föroreningstransport och grundvattenskydd.
+kunna använda utvärderings- och simuleringsprogram för
+grundvattenflöde, akvifersegenskaper, hydrogeokemiska processer
+och föroreningstransport.
+kunna bedöma och muntligt och skriftligt presentera
+hydrogeologiskt och hydrogeokemiskt relaterat utredningsmaterial
+för tekniker, politiker och allmänhet.
+visa förmåga att söka och värdera information med relevans
+för grundvatten- och miljöfrågeställningar på ett självstyrt
+och självständigt sätt.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+visa prov på att ha antagit ett förhållningssätt som
+betonar samverkan mellan olika fackmänniskor vid planering och
+genomförande av projekt som berör grundvatten och förorening av
+mark och grundvatten.
+visa prov på att ha antagit ett förhållningssätt som
+främjar samverkan mellan människor med olika bakgrund och
+kompetens inom en projektgrupp.
+visa tecken på att inse behovet av ett multidisciplinärt
+förhållningssätt och samtidig värdering av geologiska,
+hydrologiska, hydrauliska, kemiska, ekologiska, mänskliga och
+andra förutsättningar vid behandling av problemställningar kring
+grundvatten och miljö.
+
+
+Kursinnehåll
+Hydrogeologi. Grundvattnets uppträdande och rörelse i olika
+akviferstyper. Flöden och flödesstyrande egenskaper.
+Grundvattnets kvalitet. Kemiska jämvikter i grundvattnet.
+Förorening av grundvatten och föroreningstransport.
+Kvalitetsproblemområden, grundvattenförsurning.
+Två mindre och två större obligatoriska
+tillämpningsuppgifter/projektuppgifter efterliknande kvalificerade
+konsultuppdrag. Inom uppgifterna får studenterna använda sina
+teoretiska och praktiska kunskaper på komplexa grundvattenproblem
+där grundvattentillgång, grundvattenkvalitet,
+föroreningstransport och föroreningsrisk är huvudtema. Med
+hjälp av modellerings- och simuleringsverktygen MODFLOW, SEEP2D
+och MT3DMS inom GMS och PHREEQC får de modellera och beskriva
+exempelvis natureffekter av förändrade grundvattenuttag i
+kommunala vattentäkter, grundvattenavsänkningar i samband med
+anläggningsarbeten, grundvattenkemiska effekter av läckage från
+gruvavfallsupplag och infiltration av nederbörd med lågt pH.
+Arbetet sker i grupper om två studenter med täta möjligheter
+till lärarkonsultation, minst fyra timmar per enskild liten grupp
+utöver åtta timmars schemalagd rådfrågning i större grupp.
+Varje student ska arbeta med minst tre olika studenter vid de fyra
+uppgifterna. Kamratgranskning vid två av uppgifterna. Skriftlig
+redovisning av alla uppgifter och muntlig redovisning av minst en
+uppgift samt opposition och diskussion
+vid presentationsseminarier. Detaljerad skriftlig och muntlig
+återkoppling från lärarna till varje grupp om två
+studenter.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Två mindre och två större obligatoriska projektuppgifter med skriftlig och muntlig redovisning. För godkända projektuppgifter krävs att de uppfyller ställda minimikrav vad avser såväl utformning och presentation som innehåll och bearbetning, hantering och värdering av information relaterad till hydrogeologi, hydrogeokemi, grundvattenmodellering och föroreningstransport. Prestationerna på projektuppgifterna viktas i förhållande till deras omfattning vid sättande av slutbetyg.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0115. Benämning: Projektuppgifter grundvattenströmning. 
+Antal högskolepoäng: 4. Betygsskala: TH.  Prestationsbedömning: Bedömning av skriftlig rapport och muntlig presentation och opposition vid seminarium. 
+Kod: 0215. Benämning: Projektuppgifter grundvattentransport och grundvattenkemi. 
+Antal högskolepoäng: 3,5. Betygsskala: TH.  Prestationsbedömning: Bedömning av skriftlig rapport och muntlig presentation och opposition vid seminarium. 
+Antagningsuppgifter
+Förkunskapskrav:
+VTGN10 Grundvattenteknik (alternativt minst 80% dokumenterad aktiv närvaro vid övningarna i VTGN10 Grundvattenteknik)
+
+
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Fetter, C W: Applied Hydrogeology, Fourth edition. Prentice Hall , 2001, ISBN: 0130882399 or 0131226878.
+Svensson, C: Groundwater chemistry, Compendium. Teknisk geologi, LTH , 2016.
+Uppdragsbeskrivningar för projektuppgifter. Utdrag ur böcker och särtryck.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Universitetslektor Gerhard Barmen, Gerhard.Barmen@tg.lth.se
+Lärare: Universitetslektor Jan-Erik Rosberg, Jan-Erik.Rosberg@tg.lth.se
+Hemsida: http://www.tg.lth.se/grundutbildning/kurser/
+Övrig information: Kursen ges på engelska.
+
+
+

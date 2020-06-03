@@ -1,0 +1,111 @@
+
+Kursplan 2020/21 FMSF30
+
+
+
+
+
+Kursplan för
+Matematisk statistik
+Mathematical Statistics
+FMSF30, 5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning I
+Beslutsdatum: 2020-04-03
+Allmänna uppgifter
+Obligatorisk för: IBYA2, IBYI2, IBYV2
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursen ska ge studenten grunderna i matematisk modellering av
+slumpmässig variation och förståelse för principerna bakom
+statistiska analyser. Den ska också ge studenterna en
+verktygslåda med de vanligaste modellerna och metoderna samt
+förmågan att använda dessa i olika praktiska situationer.
+Kursen fyller två syften. Dels är den en allmänbildningskurs
+i matematisk statistik, dels ska den ge en grund för vidare
+studier.
+Allmänbildningen behövs för den som i sitt yrkesliv inte
+nödvändigtvis kommer att syssla med statistiska analyser dagligen
+men som kan förväntas behöva genomföra enklare statistiska
+tester ibland och presentera resultatet för sina kollegor. Man
+förväntas då också kunna läsa och värdera andras
+analyser.
+Kursen ska också ge en grund för vidare studier, främst inom
+försöksplanering.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+ 
+
+kunna relatera frågeställningar om slumpmässig variation och
+observerade data, så som de uppträder i tillämpningar, till
+begreppen slumpvariabler, fördelningar och samband mellan
+variabler,
+kunna förklara begreppen oberoende, sannolikhet, fördelning,
+väntevärde och varians,
+kunna beräkna sannolikheten för en händelse samt
+väntevärde och varians utifrån en given fördelning,
+kunna beskriva grundläggande tekniker för statistisk
+slutledning och kunna använda dem på enklare statistiska
+modeller.
+
+ 
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+ 
+
+kunna konstruera en enkel statistisk modell utifrån ett
+problem hämtat ut verkligheten eller från ett insamlat
+datamaterial,
+kunna välja, utföra och tolka en statistik procedur som
+besvarar en given statistisk frågeställning,
+kunna använda statistiska termer inom området i skrift.
+
+ 
+
+Kursinnehåll
+Kursen innehåller grundläggande begrepp inom
+sannolikhetsteori, statistikteori och sambandsanalys.
+I momentet sannolikhetsteori introduceras begreppen
+slumpvariabler och fördelningar för att beskriva variation och
+slumpmässiga fenomen vilka ofta är relaterade till
+ingenjörstillämpningar. Olika fördelningar, såsom binomial-,
+poisson-, normal-, exponential- och lognormalfördelningen,
+studeras och begreppen väntevärde och varians för en fördelning
+introduceras. Speciell vikt läggs vid normalfördelningen och dess
+egenskap som gränsfördelning.
+I statistikteorin utgår vi från observerade data och skattar
+parametrar i enkla sannolikhetsmodeller samt beskriver
+skattningarnas osäkerhet. Stor vikt läggs vid kopplingen mellan
+modell och verklighetsrelaterad frågeställning samt vilka
+slutsatser som kan dras från observerade data. I denna analys
+används grundläggande tekniker som konfidensintervall och
+hypotesprövning. Exempel på tillämpningar inom t ex
+trafikteknik.
+I sambandsanalys (regression) studerar vi hur samband mellan
+två eller flera variabler kan beskrivas, oftast är sambandet
+linjärt.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: FMAA50 Matematisk analys och FMAA55 Matematik, linjär algebra.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: MASB02, MASB03, FMS601, FMSF35, FMSF40, FMAF30, VTAV30, FMSF20, FMSF45, FMSF50, FMSF55, FMSF70, FMSF75, MASA01
+Kurslitteratur
+
+Vännman, K: Matematisk statistik, 2:a upplagan. Studentlitteratur, 2002, ISBN: 978-91-44-01690-0.
+
+
+Kontaktinfo och övrigt
+Studierektor: Johan Lindström, studierektor@matstat.lu.se
+Hemsida: http://www.lth.se/matematik_lth_helsingborg/
+Övrig information: Kursen får inte ingå i examen tillsammans med kursen VTVA30 Grundläggande statistik.
+
+
+

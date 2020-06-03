@@ -1,0 +1,134 @@
+
+Kursplan 2020/21 VBKF10
+
+
+
+
+
+Kursplan för
+Konstruktionsteknik
+Structural Engineering
+VBKF10, 6 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning V
+Beslutsdatum: 2020-03-23
+Allmänna uppgifter
+Obligatorisk för: BI2
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursen syftar till att ge en introduktion till byggnadsmekanik
+och konstruktionsteknik tillämpad på konstruktionstyper som är
+vanliga i byggnader. Kursen ska ge teknologen en insikt och
+förståelse för de krav som ställs på bärande konstruktioners
+bärförmåga och säkerhet. Vidare ska studenten efter genomförd
+kurs kunna analysera och dimensionera enklare bärande
+konstruktionselement samt förstå hur en byggnad fungerar utifrån
+de ställda kraven. Kursen riktar sig till studenter på
+Brandingenjörsutbildningen och är förberedande för kursen i
+Brandskyddssystem där konstruktioner dimensioneras med avseende
+på brand.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+Kunna förklara grundläggande begrepp och samband inom
+området.
+Kunna beskriva principerna för hur olika strukturelement
+fungerar.
+Kunna beskriva det principiella utseendet av
+spänningsfördelningen orsakad av axiell belastning eller böjning
+i en balk.
+Kunna analysera en byggnads bärande funktion samt de olika
+konstruktionselementens funktion.
+Kunna beskriva översiktligt hur byggnadsmaterial och bärande
+konstruktioner påverkas av brand.
+Kunna identifiera relevanta yttre laster som kan påverka en
+byggnads bärande funktion.
+Visa förståelse för att utformningen av konstruktionselement
+och byggnader sker i samverkan mellan konstruktiva krav och andra
+aspekter, exempelvis ekonomi, estetik, innemiljö samt aktivt och
+passivt brandskydd.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+Kunna välja en lämplig modell för att analysera en enkel
+konstruktion.
+Kunna beräkna snittkrafter, spänningar och deformationer för
+olika bärande element.
+Kunna analysera pelare med hänsyn till knäckning.
+Kunna dimensionera enklare bärande element med hänsyn till
+yttre laster och materialegenskaper.
+Kunna utforma konstruktionslösningar för enklare byggnader
+med hänsyn till elementens egenskaper.
+Kunna utforma byggnader med hänsyn till
+stomstabilisering.
+Uppvisa förmåga att skriftligt redogöra för
+förutsättningarna som använts vid dimensioneringen av en byggnad
+samt skriftligt redovisa resultaten av dimensioneringen.
+Kunna kommunicera med konstruktörer och andra aktörer i
+byggprocessen
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+Kunna värdera de förutsättningar som använts i
+dimensioneringsprocessen och bedöma relevansen av dessa.
+Kunna söka och värdera information baserat på uppnådda
+kunskaper.
+
+
+Kursinnehåll
+
+Repetition av kraft- och momentverkan, friläggning och
+jämvikt samt begreppen spänning och töjning.
+Bernoullis balkteori: Snittkrafter vid balkböjning.
+Normalspänning och skjuvspänning vid elastisk böjning av balk.
+Statiskt obestämda balkar (balktabeller).
+Pelarknäckning.
+Dimensioneringsprinciper, säkerhetsprinciper och laster som
+påverkar byggnads- och anläggningskonstruktioner.
+Konstruktionsmaterialen stål, trä och betong.
+Element i den bärande stommen (balkar, pelare, ramar, analys
+av upplagssätt).
+Stomstabilisering.
+Dimensionering för böjande moment, normalkraft och
+tvärkraft.
+
+I kursen ingår moment som ger träning i redovisningsteknik och
+CAD.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig dugga samt inlämningsuppgifter som bedöms och poängsättes. Deltagande i obligatorisk laboration. Slutbetyg i kursen bestäms utifrån resultaten på duggan och inlämningsuppgiften.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0119. Benämning: Inlämningsuppgifter. 
+Antal högskolepoäng: 1. Betygsskala: UG.  Prestationsbedömning: Inlämningsuppgifter  Delmomentet omfattar: Hela kursinnehållet 
+Kod: 0219. Benämning: Dugga. 
+Antal högskolepoäng: 5. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen  Delmomentet omfattar: Hela kursinnehållet 
+Kod: 0319. Benämning: CAD. 
+Antal högskolepoäng: 0. Betygsskala: UG. 
+Antagningsuppgifter
+Förutsatta förkunskaper: VSMA15 Mekanik,
+VBMA25 Byggnadsmaterial,
+VBFA05 Husbyggnadsteknik
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: VBK013, VSMA05
+Kurslitteratur
+
+Avd. för Konstruktionsteknik: Kompendium Konstruktionsteknik för Brandingenjörer. 2019. Kompendiet kan köpas vid kursstart vid avdelningen för Konstruktionsteknik.
+Isaksson et al: Byggkonstruktion. Studentlitteratur, 2017, ISBN: 9789144118369. Utgåva 3.
+Avd. för Konstruktionsteknik: Regel- och formelsamling för kursen VBKF10. 2019. Tillhandahålls kostnadsfritt.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Miklos Molnar, miklos.molnar@kstr.lth.se
+Övrig information: Kurshemsidan finns på canvas.education.lu.se. Registrerade studenter får inloggning till kurshemsidan. Kort info finns på www.kstr.lth.se/utbildning.
+
+
+

@@ -1,0 +1,91 @@
+
+Kursplan 2020/21 EDAF60
+
+
+
+
+
+Kursplan för
+Objektorienterad modellering och design
+Object-oriented Modelling and Design
+EDAF60, 4,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning C/D
+Beslutsdatum: 2020-03-30
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: C3, D2
+Valfri för: E4-pv, F4, F4-pv, I4-pvs, L5-gi, Pi4
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursen ger förmåga till hållbar och resursmedveten utveckling
+av program som kan återanvändas och modifieras med hänsyn till
+förändrade krav i ett industriellt sammanhang.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna lokalisera och känna igen användning av gängse
+designprinciper och designmönster i givna program. Detta och alla
+övriga mål är relaterade till små program med några hundra
+eller tusen rader.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna utforma och implementera objektorienterade program med
+många klasser och några paket,
+kunna välja och implementera lämpliga designmönster i
+typiska problem,
+kunna använda centrala delar av en integrerad
+utvecklingsmiljö för design, implementering och omstrukturering
+av program,
+kunna beskriva programdesign med UML (Unified Modeling
+Language).
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna utvärdera en programdesign med avseende på
+designprinciper,
+kunna skriva program som är lätta att förstå för den som
+behöver göra modifieringar.
+
+
+Kursinnehåll
+Principer för utformning av objektorienterade program.
+Designmönster och ramverk. Utvecklingsmiljö för objektorienterad
+modellering, implementering och restrukturering. Projekt med design
+och implementering.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Kursen examineras genom skriftlig tentamen samt två mindre projekt som utföres i grupp.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Projekt. 
+Antal högskolepoäng: 2. Betygsskala: UG.  Prestationsbedömning: För godkänt betyg krävs fullgjorda projekt. 
+Kod: 0217. Benämning: Tentamen i objektorienterad modellering och design. 
+Antal högskolepoäng: 2,5. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen. Slutbetyg på kursen baseras på resultatet av den skriftliga tentamen. 
+Antagningsuppgifter
+Förkunskapskrav:
+EDAA01 Programmeringsteknik - fördjupningskurs eller EDAA30 Programmering i Java - fortsättningskurs
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: EDA060, EDA065, EDA666, EDAF10, EDA061
+Kurslitteratur
+
+Material som tillhandahålls av institutionen.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Christian Söderberg, christian.soderberg@cs.lth.se
+Hemsida: http://cs.lth.se/edaf60
+
+
+

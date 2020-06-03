@@ -1,0 +1,78 @@
+
+Kursplan 2020/21 EXTP45
+
+
+
+
+
+Kursplan för
+Strålterapifysik
+Radiation Therapy Physics
+EXTP45, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning BME
+Beslutsdatum: 2020-03-24
+Allmänna uppgifter
+Valfri för: BME4-bf
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursen ska ge blivande ingenjörer en introduktion till
+strålterapiverksamheten, som en grund för att kunna kommunicera
+med andra yrkeskategorier involverade i vårdkedjan och arbeta för
+en effektiv och säker användning av utrustning för
+strålterapi.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+ha god kännedom om medicinska linjära acceleratorer och kunna
+förklara deras uppbyggnad och funktion
+ha god kännedom om efterladdningsutrustning och strålkällor
+inom brachyterapi
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna beskriva strålfält med avseende på absolut och relativ
+dosfördelning såväl för externa strålkällor som kring
+radioaktiva källor för brachyterapi
+vara förtrogen med behandlingsprocessen från diagnostisering
+till avslutad behandling
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+kunna diskutera och utarbeta program för kvalitetssäkring,
+innefattande kontroll av såväl utrustning som arbetsmetoder så
+att varje patient tillförsäkras att den absorberade dosen i
+målvolymen överensstämmer med den ordinerade stråldosen inom
+accepterade gränser.
+
+Kursinnehåll
+Översiktlig historik. Översiktlig klinisk extern strålterapi
+och brachyterapi. Medicinska linjäracceleratorer och strålkällor
+inom strålterapi. Strålfältskarakteristik. Dosplanering och
+dosberäkning, intensitetsmodulerad strålterapi och
+optimeringsteori, gating och IGRT. Strålterapi med protoner,
+lätta joner och neutroner. Dosimetriprotokoll (IAEA) och
+strålkvalitetsbegrepp. Kvalitetssäkring och kvalitetskontroller,
+acceptanstestning/idriftsättning och periodiska kontroller av
+strålbehandlingsapparater. Olyckor och tillbud inom
+strålterapi.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: För betyget 3 krävs godkänt på skriftlig tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: Genomgånget grundblock på BME-programmet
+Begränsat antal platser: Nej
+Kontaktinfo och övrigt
+Kursansvarig: Crister Ceberg, crister.ceberg@med.lu.se
+Hemsida: http:// http://www.msf.lu.se/extp45-stralterapifysik
+
+
+

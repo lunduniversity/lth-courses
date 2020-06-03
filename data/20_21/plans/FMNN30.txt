@@ -1,0 +1,104 @@
+
+Kursplan 2020/21 FMNN30
+
+
+
+
+
+Kursplan för
+Iterativ lösning av storskaliga system i beräkningsteknik
+Iterative Solution of Large Scale Systems in Scientific Computing
+FMNN30, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning F/Pi
+Beslutsdatum: 2020-04-01
+Allmänna uppgifter
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Ett centralt problem i beräkningsvetenskap är lösning av
+ickelinjära och linjära ekvationssystem. De uppstår när man
+löser randvärdesproblem, styva ordinära differentialekvationer
+och i optimering. Särskilda svårigheter uppstår när systemen
+är stora, med miljontals obekanta. Så är ofta fallet när man
+diskretiserar partiella differentialekvationer som modellerar
+viktiga fenomen i naturvetenskap och teknik.  På grund av
+systemens storlek blir det nödvändigt att använda iterativa
+metoder.
+Syftet med denna kurs är att lära ut moderna metoder för
+lösning av sådana system.
+Kursen utgör en direkt fortsättning på FMNN10
+Numeriska  metoder för differentialekvationer, och utvidgar
+studentens verktygslåda för att beräkna approximativa lösningar
+till partiella differentialekvationer.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+förstå grundläggande iterativa metoder för linjära och
+ickelinjära ekvationer, och de matematiska skillnaderna mellan
+dem
+förstå strukturen av Jacobianfria Newton-Krylov-metoder
+förstå multigridmetoder och deras användning på några
+modellproblem.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna implementera en icke-exakt Jacobianfri
+Newton-Krylov-metod
+kunna implementera en multigridmetod och tillämpa den på
+modellproblem.
+kunna implementera grundläggande iterativa
+lösningsmetoder.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+kunna bedöma, för ett givet linjärt eller ickelinjärt
+system, vilken lösningsmetod som är lämplig.
+
+Kursinnehåll
+
+Hur storskaliga linjära och ickelinjära system uppstår inom
+beräkningsteknik
+Konvergenshastighet
+Stoppkriteria
+Fixpunktsmetoder och deras konvergensegenskaper
+Newtons metod, dess konvergensegenskaper och svagheter
+Icke-exakta Newtonmetoder och deras konvergensegenskaper
+Metoder av Newtontyp och deras konvergensegenskaper
+Linjära system
+Krylov-underrum och GMRES
+GMRES med prekonditionering
+Jacobianfria Newton-Krylov-metoder
+Multigridmetoder i en och två dimensioner
+Multigridmetoder för ickestandardekvationer och för
+ickelinjära system
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Beräkningsprojekt med skriftlig rapport. Hemtentamen och/eller muntlig tentamen efter beslut av examinator.
+
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: FMNN10 Numeriska metoder för differentialekvationer
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: NUMN30, FMNN15
+Kurslitteratur
+
+Kelley, C.T.: Iterative Methods for Linear and Nonlinear Equations. SIAM, 1995, ISBN: 9780898713527. Täcker första delen av kursen.
+Wesseling, P.: An Introduction to Multigrid Methods. R T Edwards, 2004, ISBN: 9781930217089. Täcker andra delen av kursen.
+
+
+Kontaktinfo och övrigt
+Lärare: Philipp Birken, philipp.birken@na.lu.se
+Kursansvarig: Anders Holst, studierektor@math.lth.se
+Kursadministratör: Student Office, expedition@math.lth.se
+Hemsida: http://www.maths.lu.se/utbildning/numerisk-analys/courses-in-numerical-analysis/
+
+
+

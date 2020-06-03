@@ -1,0 +1,100 @@
+
+Kursplan 2020/21 EITF80
+
+
+
+
+
+Kursplan för
+Elektromagnetisk fältteori
+Electromagnetic Fields
+EITF80, 9 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning E
+Beslutsdatum: 2020-03-19
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: E3
+Valfri för: D4
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Teknologen skall tillägna sig grundläggande kunskaper i
+vektoranalys och elektromagnetisk fältteori. Teknologen skall
+träna upp en god förmåga att utföra beräkningar på givna
+problem.
+Teknologen skall erhålla god kännedom om de begrepp som kommer
+till användning inom elektrotekniska tillämpningar såsom
+exempelvis elektronik, mätteknik och elenergiteknik.
+Elektromagnetisk fältteori är grundläggande för all teknik och
+all vetenskap som har samband med elektriska, magnetiska och
+elektromagnetiska fält.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+förklara hur elektrisk laddning och elektrisk ström alstrar
+och påverkas av elektriska och magnetiska fält,
+använda cylindriska koordinater, sfäriska koordinater,
+nablaoperatorn, Stokes sats och Gauss sats,
+använda samband såsom Coulombs lag, Biot-Savarts lag,
+induktionslagen och Maxwells fältekvationer,
+förklara begrepp såsom kapacitans, induktans, induktion,
+retardation, vågutbredning och antenn.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+utföra beräkningar på givna problem inom elektrostatik,
+magnetostatik, kvasistationär och allmän elektromagnetisk
+fältteori,
+redogöra för hur givna problem inom elektromagnetisk
+fältteori kan lösas.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+beskriva styrkan hos och möjligheterna med en matematisk
+modell av den typ som elektromagnetisk fältteori utgör.
+
+
+Kursinnehåll
+Kursinnehållet är vektoranalys, elstatik, magnetostatik,
+induktion och allmänt tidsberoende. Exempel på sådant som
+behandlas i kursen är divergens, rotation, elektriska fält i
+vakuum och material, kondensatorer, ledarsystem, spegling,
+Biot-Savarts lag, kraft, induktans, induktionslagen, Maxwells
+fältekvationer, plana vågor och antenner.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Obligatorisk kontrollskrivning. Skriftlig tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Skriftlig tentamen. 
+Antal högskolepoäng: 6. Betygsskala: TH.  Prestationsbedömning: Skriftligt prov.  Delmomentet omfattar: Vektoranalys och elektromagnetisk fältteori. 
+Kod: 0217. Benämning: Kontrollskrivning. 
+Antal högskolepoäng: 3. Betygsskala: UG.  Prestationsbedömning: Skriftligt prov.  Delmomentet omfattar: Vektoranalys och elektromagnetisk fältteori. 
+Antagningsuppgifter
+Förkunskapskrav:
+FMAB30 Flerdimensionell analys
+
+
+Förutsatta förkunskaper: FMAA01 eller FMAA05 Endimensionell analys, FMA420/FMAB20 Linjär algebra.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: ESS050, ETE055, ETEF01, FMFF01, EITF85
+Kurslitteratur
+
+David K. Cheng: Field and Wave Electromagnetics (2nd Edition, Pearson New International Edition). Pearson, 2013, ISBN: 1292026561, ISBN: 978-1292026565.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Buon Kiong Lau, buon_kiong.lau@eit.lth.se
+Hemsida: http://www.eit.lth.se/kurs/eitf80
+Övrig information: Kursen ingår som en del av ett större block av kurser (E-spåret). Se E-programmets hemsida för en detaljerad beskrivning av hela blocket.
+
+
+

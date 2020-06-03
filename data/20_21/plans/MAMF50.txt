@@ -1,0 +1,100 @@
+
+Kursplan 2020/21 MAMF50
+
+
+
+
+
+Kursplan för
+Användbarhetsutvärdering
+Usability Evaluation
+MAMF50, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning C/D
+Beslutsdatum: 2020-03-30
+Allmänna uppgifter
+Valfri för: C4-da, D5-se, MD4
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+
+Studenten skall tillägna sig praktiska och teoretiska
+kunskaper om utvärderingsmetoder med avseende på
+användbarhet.
+Studenten skall få färdighet i att planera, utföra och
+rapportera ett användartest.
+
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+Förklara fördelar och nackdelar med olika typer av
+utvärderingsmetoder med avseende på användbarhet.
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+Ha fått en praktisk erfarenhet om hur man planerar, genomför
+och rapporterar ett användartest.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+Relatera metoderna/teknikerna till olika
+användbarhetsmål.
+Reflektera över olika metoders för- och nackdelar.
+
+
+Kursinnehåll
+Kursen byggs kring ett centralt projekt, där studenterna
+arbetar med utvalda metoder/tekniker för att få praktisk
+erfarenhet av proceduren kring utvärderingar.
+
+Genomgång av begreppen användarstudier respektive
+utvärderingsmetodik.
+Behovet och nyttan med användarstudier och
+utvärderingsmetodik.
+Genomgång av övergripande begrepp: Usability engineering och
+kontextuell design, Formativ resp. summativ utvärdering, Analytisk
+resp. empirisk utvärdering, Direkta (etnografiska) och indirekta
+metoder.
+Genomgång av metoder och tekniker.
+Användarstudier: enkäter, intervjuer, observationer,
+uppgiftsanalys, framtidsverkstad med mera.
+Utvärderingsmetodik: konceptuella tester, heuristiska
+utvärderingar, checklistor, strukturerad genomgång, empiriska
+tester, fältförsök, uppföljningsstudier, fältstudier,
+tänka-högt-protokoll, aktivitetsloggning, attitydundersökningar
+med mera.
+Analys av resultat från studier och utvärderingar.
+Praktiska moment och projektuppgifter där studenterna
+planerar, genomför och analyserar olika studier och
+utvärderingar.
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen. För slutbetyg krävs: godkänd tentamen, godkänt projektarbete samt fullgjorda obligatoriska moment. För slutbetyg sammanräknas resultaten från tentamen och projektarbete.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0118. Benämning: Användbarhetsutvärdering. 
+Antal högskolepoäng: 7,5. Betygsskala: TH. 
+Kod: 0218. Benämning: Projektarbete. 
+Antal högskolepoäng: 0. Betygsskala: TH. 
+Antagningsuppgifter
+Förutsatta förkunskaper: MAMN25 Interaktionsdesign alt. MAMA15 Interaktionsdesign grundkurs
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: MAM120
+Kurslitteratur
+
+Rubin, Jeffrey & Chisnell, Dana: “Handbook of Usability Testing” (2nd edition), John Wiley & Sons Inc (2008).
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Forskarassistent Joakim Eriksson, Joakim.Eriksson@design.lth.se
+Hemsida: http://www.design.lth.se
+Övrig information: Obligatoriska moment: Introduktionsförläsning, laborationer/övningar, inlämningsuppgifter, projektredovisning.
+
+
+

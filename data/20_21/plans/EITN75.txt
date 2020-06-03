@@ -1,0 +1,110 @@
+
+Kursplan 2020/21 EITN75
+
+
+
+
+
+Kursplan för
+Design av trådlösa system
+Wireless System Design Principles
+EITN75, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning E
+Beslutsdatum: 2020-03-19
+Allmänna uppgifter
+Huvudområde: Kommunikationssystem. 
+Obligatorisk för: MWIR1
+Valfri för: C4-ks, D4, E4-ks, MSOC2
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursens syfte kan delas upp i tre komponenter:
+ 
+
+Knyta ihop olika delteknologier inom teletransmissionsområdet
+till ett radiosystem optimerat till en realistisk, komplicerad
+transmissionskanal.
+Speciellt ta hänsyn till de totala kostnaderna, både för
+komponenter, komplexitet och energi, för system med stora antal
+noder såsom i IOT-nät
+Belysa olika system- och dimensionsmässiga kompromisser,
+såsom avvägningen mellan spektrumeffektivitet, systemprestanda,
+systemkostnad och energiörbrukning samt kopplingen till det
+praktiska utförandet.
+Introducera modeller och visa användningen av olika
+kombinationer av teoretisk analys, datorsimuleringar och
+utnyttjande av empiriska mätresultat.
+
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+ha kunskaper om den grundläggande uppbyggnaden av ett helt
+radiosystem på blockschemanivå, såväl i det allmäna fallet som
+i fallet med existerande system
+ha förståelse för funktionen hos olika byggblock och deras
+påverkan av ett radiosystems prestanda och energiförbrukning
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna genomföra grundläggande dimensionering av ett
+radiosystem
+kunna analysera tillförlitligheten hos uppnådda resultat för
+ett sådant radiosystem
+kunna utvärdera ett systems totala komplexitet, kostnad och
+energi-prestanda
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+känna sig familjär med den terminologi som används i
+området och kunna diskutera systemförslag och lösningar med
+andra ingenjörer i området
+kunna tillgodogöra sig nya resultat i området och i viss mån
+värdera deras tillämplighet i en given situation
+
+
+Kursinnehåll
+Kursen behandlar moderna radiosystem, deras principiella
+uppbyggnad, prestandaanalys och övergripande dimensionering av
+såväl hela system som viktiga delsystem. Utgående från
+radiokanalens egenskaper diskuteras radiokommunikationens
+möjligheter och begränsningar. Genomgång av fundamentala
+byggblock som krävs för att kunna uppfylla olika krav på
+egenskaper hos ett radiosystem samt deras dimensionering.
+Kravbegrepp inkluderar datahastighet, bitfelshalt,
+tillförlitlighet, kostnad, komplexitet, energiförbrukning m.m.
+Såväl traditionella system för mobil telefoni som moderna system
+för trådlösa datanätverk, multimediakommunikation och Internet
+of Things (IoT) diskuteras i kursen. Nya resultat inom området
+introduceras i form av artiklar som kompletterar kursboken.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Studentens prestation bedöms på två sätt. Studenten skall dels klara av kursens laborativa moment, vilket består av en serie inlämningsuppgifter. Det andra och betygssättande momentet är en fem timmar lång skriftlig tentamen bestående av såväl teoretiska frågor som problemlösning.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0118. Benämning: Tentamen. 
+Antal högskolepoäng: 6,5. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen 
+Kod: 0218. Benämning: Laborationer. 
+Antal högskolepoäng: 1. Betygsskala: UG.  Prestationsbedömning: Godkända inlämningsuppgifter 
+Antagningsuppgifter
+Förutsatta förkunskaper: ETT051/EITG05 Digital kommunikation.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: ETIN15
+Kurslitteratur
+
+Andreas Molisch: Wireless Communications. John Wiley & Sons Ltd, 2011, ISBN: 978-0-470-74186-3. Andra upplagan.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Anders J. Johansson, anders_j.johansson@eit.lth.se
+Hemsida: http://www.eit.lth.se/kurs/eitn75
+
+
+

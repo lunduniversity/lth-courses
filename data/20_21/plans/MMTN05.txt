@@ -1,0 +1,99 @@
+
+Kursplan 2020/21 MMTN05
+
+
+
+
+
+Kursplan för
+Tillverkningssystem, fortsättningskurs
+Flexible Manufacturing Systems, Advanced Course
+MMTN05, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning M
+Beslutsdatum: 2020-03-26
+Allmänna uppgifter
+Obligatorisk för: MPRR1
+Valfri för: I4-pr, M4-prr
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursen skall stärka förståelsen för den viktiga länk som
+finns mellan teknik och ekonomi, ge kunskap för att tillämpa
+ekonomiska villkor som ett styrmedel för produktionsutveckling och
+formulera en produktionsutvecklingsstrategi för ett givet
+produktionsavsnitt. Vidare skall kursen tydliggöra det ömsesidiga
+beroendet mellan produktutveckling inklusive materialval,
+tillverkningsprocess och hållbara tillverkningssystem.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+• Behärska och tillämpa den grundläggande ekonomiska
+teorin för framtagning av produktionsutvecklingsstrategier.
+• Behärska beräkningsprinciper för tillverkningskostnaden i
+ett produktionsavsnitt där alla väsentliga faktorer beaktas samt
+ha kännedom om olika nyckeltal som beskriver ett
+produktionssystems prestanda.
+• Behärska hanteringen och anpassningen av insamlade
+produktionsdata för ekonomiska modeller.
+• Kunna redogöra för verktyg och principer för en
+fortlöpande produktionsutveckling bl.a. baserat på konceptet Lean
+Production och Next Step.
+• Ha insikt om de krav som måste ställas på ett hållbart
+tillverkningssystem.
+• Ha insikt och förståelse för hur man utvärderar olika
+tillverkningssystem bl.a. knutet till området industriellt
+inköp.
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+• Kunna ekonomiskt analysera och föreslå vägar för olika
+produktionsutvecklingsscenarier.
+• Praktiskt kunna planera, sätta upp och genomföra en
+systematisk produktionsanalys inklusive statistisk analys av
+erhållet resultat.
+• Kunna bedöma olika typer av produktionssystem i ett tekniskt
+och ekonomiskt perspektiv samt ur ett totalt
+hållbarhetsperspektiv.
+
+Kursinnehåll
+Kursen tydliggör ytterligare den viktiga länken som finns
+mellan ekonomi och teknik. Kursen har fokus på att tillämpa de
+kunskaper som erhållits från tidigare kurs bl.a.
+Tillverkningssystem (MMT 045). Ett större projektarbete görs i
+samarbete med närliggande industri. Vidare ger kursen fördjupade
+kunskaper om nyckeltal (KPI:er), ekonomisk analys av
+balanseringsförluster, optimal bemanning och optimal automation.
+Fördjupade studier görs även av hela samspelet mellan
+produktutveckling och produktion, sambanden mellan
+produktutvecklingsstrategi och investeringsstrategi, omvärldens
+produktionsförutsättningar särskilt tillväxtländernas,
+teknologiöverföring mellan produktägare och underleverantörer,
+bedömning av olika tillverkningssystem ur
+produktionssäkerhetssynpunkt då främst avseende kvalité och
+leveranssäkerhet samt en introduktion till flödessimulering med
+tillhörande analyshjälpmedel.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig hemtentamen samt löpande examination under kursens gång i form av inlämningsuppgifter.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+MMT045 Tillverkningssystem eller MMTN30 Tillverkningssystem
+
+
+Förutsatta förkunskaper: MMT012/MMTF20 Tillverkningsmetoder eller MMTA05 Industriella produktionssystem.
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Ståhl, Jan-Eric: Industriella tillverkningssystem del II. KFS i Lund AB.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Professor Jan-Eric Ståhl, jan-eric.stahl@iprod.lth.se
+Hemsida: http://www.iprod.lth.se
+
+
+

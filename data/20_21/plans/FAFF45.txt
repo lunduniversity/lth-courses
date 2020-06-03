@@ -1,0 +1,115 @@
+
+Kursplan 2020/21 FAFF45
+
+
+
+
+
+Kursplan för
+Medicinsk fysik
+Physics for Biomedicine
+FAFF45, 8 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning N
+Beslutsdatum: 2020-03-27
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: BME2
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Studenten ska utveckla förståelse för grundläggande begrepp
+och samband inom fysiken vilka har betydelse för en civilingenjör
+i Medicin och teknik. Stuenten ska fördjupa sin förståelse av de
+viktigaste fysikaliska begreppen, erfarenhetslagarna och teorierna
+av särskild relevans för medicin och teknik. Kursen syftar vidare
+till att träna problemlösning, experimentellt arbete och
+modelltänkande.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+förstå kopplingen mellan experiment, modeller och
+teorier
+förstå de fysikaliska principer som ligger till grund för de
+viktigaste biomedicinska mätsystemen
+kunna beskriva dessa principer och analysera olika
+medicinsk-tekniska mätsystem med
+utgångspunkt från fysikaliska begrepp
+ha kännedom om den grundläggande fysik som krävs för att
+kunna kommunicera med experter i ett tvärdisciplinärt
+teknikområde och kunna bidra i utveckling av morgondagens
+medicinska teknik.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna använda grundläggande färdigheter i fysik och med
+olika grad av approximation tillämpa
+modeller för att kunna analysera, förstå och beskriva olika
+tekniska problem
+visa förmåga att använda grundläggande fysik för att
+identifiera, formulera, lösa och analysera
+ingenjörsuppgifter
+kunna använda datorer för beräkningar och analys
+kunna kommunicera och presentera tekniska problem och uppnådda
+resultat för människor med olika utbildningsbakgrund.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+visa insikt i den naturvetenskapliga metoden och fysikens
+möjligheter och begränsningar
+visa förmåga att identifiera sitt behov av ytterligare
+kunskaper, även inom andra områden
+vara medveten om såväl möjligheter som begränsningar för
+att utveckla sjukvården med bästa resultat för patient, och med
+minimal påverkan på personal och miljö.
+
+
+Kursinnehåll
+Fördjupning av grundläggande fysik. Problemlösningsmetodik:
+hantering, analys och presentation av mätdata. Grundläggande
+atom- och kärnfysik: Elektronens laddning och vågegenskap.
+Atomens storlek och massa. Temperaturstrålare och fotoelektrisk
+effekt. Modeller av atomen. Uppbyggnad av det periodiska systemet.
+Energinivåer. Stimulerad emission. Generering och absorption av
+röntgenstrålning. Radioaktivitet. Joniserande strålning:
+sönderfall, aktivitet, kärnreaktioner, växelverkan med materia,
+strålningsbiologi, dosimetri, strålskydd, acceleratorfysik,
+detektorer. Medicinsk laserfysik: Vågekvationen, laser,  ljusets
+växelverkan med vävnad, Introduktion till MatLab.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen, avklarad laborationsdel, genomfört och redovisat projekt samt aktivt deltagande i obligatoriska moment.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Laborationer. 
+Antal högskolepoäng: 2. Betygsskala: UG.  Prestationsbedömning: Avklarad laborationsdel. 
+Kod: 0217. Benämning: Skriftlig tentamen. 
+Antal högskolepoäng: 4. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen. 
+Kod: 0317. Benämning: Introduktion till Matlab. 
+Antal högskolepoäng: 0,5. Betygsskala: UG.  Prestationsbedömning: Obligatorisk närvaro vid föreläsningar samt vid datorövningar.  Delmomentet omfattar: Introduktion till Matlab. 
+Kod: 0417. Benämning: Projekt i dosimetriberäkning. 
+Antal högskolepoäng: 1,5. Betygsskala: UG.  Prestationsbedömning: Projekt i dosimetriberäkning redovisas i form av muntlig presentation och obligatorisk närvaro vid redovisning. 
+Antagningsuppgifter
+Förutsatta förkunskaper: FAFA65 Termodynamik, våglära och optik
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FAFF35, FAFF36
+Kurslitteratur
+
+Hänvisning till litteratur kommer på hemsidan minst 5 veckor före kursstart.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Jörgen Larsson, jorgen.larsson@fysik.lth.se
+Hemsida: http://www.atomic.physics.lu.se/education/mandatory-courses/faff45-medicinsk-fysik-foer-bme/
+Övrig information: Närvaro vid första föreläsningen är obligatoriskt för att få tillträde till kursen.
+
+
+
+

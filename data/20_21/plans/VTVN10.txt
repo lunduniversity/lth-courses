@@ -1,0 +1,96 @@
+
+Kursplan 2020/21 VTVN10
+
+
+
+
+
+Kursplan för
+Trafiksimulering
+Traffic Simulation
+VTVN10, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning V
+Beslutsdatum: 2020-03-23
+Allmänna uppgifter
+Valfri för: V4-tv
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Kursens syfte är att ge en fördjupning inom trafiksimulering
+och trafikmodellering, både beträffande de bakomliggande
+teorierna och hur man praktiskt tillämpar dem för att
+skapa modeller som är anpassad efter aktuella behov.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+värdera för vilka typer av frågeställningar som
+trafiksimulering är ett lämpligt verktyg att använda
+värdera vilka som är de viktigaste indata till
+simuleringsmodeller, beroende av användningsområde
+bedöma vilka utdata som är relevanta att studera för olika
+tillämpningsområden, samt analysera utdata
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+planera och genomföra trafiksimuleringsstudier på olika
+nivåer
+utforma trafikmodeller
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+Förstå värdet av systematiskt utredningsarbete,
+trafikmodellering och trafiksimulering.
+
+
+Kursinnehåll
+Kursen innefattar en introduktion, och teoretisk bakgrund, till
+olika typer av modeller (angreppssätt, principer,
+tillämpningsområden). Kursen tar även upp vanliga
+tillämpningar, väsentliga skillnader mellan olika teorier och
+begränsningar hos olika modeller såväl som hantering av
+stokasticitet och osäkerhet i simuleringsmodellerna. Studenterna
+tillägnar sig alla delarna genom ett trafiksimuleringsprojekt där
+de också använder de vanligaste programvarorna för modellering
+och simulering. Projektet inkluderar insamling och bearbetning av
+data, kalibrering, validering, analys av utdata, jämförelse av
+olika alternativ samt presentation av resultat.
+Undervisningen genomförs i flera olika former såsom
+föreläsningar, övningar och datorlaborationer. Examniation
+sker i form av muntlig och skriftlig presentation.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Godkända övningar, Godkänt projektarbete. Slutbetyget bestäms av delbetyg på inlämnade övningar, inlämnad slutredovisning i form av en projektrapport samt en muntlig presentation. För att bli godkänd på kursen måste alla moment vara godkända.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+VTTF01 Trafikteknik
+VTVN15 Trafikteknisk analys
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: VTTN01
+Kurslitteratur
+
+Immers L.H. & Logghe S: Traffic Flow Theory. Katholieke Universiteit Leuven, Faculty of Engineering, Department of civil engineering, section Traffic and infrastructure,. Nedladdningsbar: http://www.kuleuven.be/traffic/dwn/H111part3.pdf.
+Ortuzar J & Willumsen L: Modelling Transport, 4th ed. Wiley, 2011, ISBN: 978-0-470-76039-0.
+Handbok för kapacitetsanalys med hjälp av simulering. Trafikverket TRV2013/7994, 2013, ISBN: TRV2013/7994. Nedladdningsbar: http://vti.diva-portal.org/smash/get/diva2:760688/FULLTEXT01.pdf.
+Valda delar av VGU, TRAST, Effektkatalog.
+Ett kursbibliotek står till studenternas förfogande.
+
+
+Kontaktinfo och övrigt
+Examinator: Andreas Persson, andreas.persson@tft.lth.se
+Lärare: Carl Johnsson, carl.johnsson@tft.lth.se
+Kursansvarig: Hampus Ekblad, hampus.ekblad@tft.lth.se
+Hemsida: http://www.tft.lth.se
+
+
+

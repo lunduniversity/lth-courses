@@ -1,0 +1,158 @@
+
+Kursplan 2020/21 KFKF01
+
+
+
+
+
+Kursplan för
+Molekylära drivkrafter 2: Växelverkan och dynamik
+Molecular Driving Forces 2: Interactions and Dynamics
+KFKF01, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning B/K
+Beslutsdatum: 2020-03-27
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: B2, K2
+Valfri för: N4-nbm, N4-m
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursen avser att ge studenten en god grund för fortsatta
+studier inon kemisk separation och analys, reaktionsteknik,
+läkemedelskemi, molekylär bioteknik och nanovetenskap genom att
+ge insikter i hur intermolekylära interaktioner styr makroskopiska
+systems statiska och dynamiska egenskaper.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+visa insikt i hur olika molekylära egenskaper ger upphov till
+den intermolekylära interaktionen och hur dessa
+styr makroskopiska beteenden, som t.ex. fasseparation,
+icke-idealitet och lösningsmedelsegenskaper.
+visa insikt i den molekylära bakgrunden till dynamik i kemiska
+system, som diffusion och reaktionskinetik.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna analysera en frågeställning och utföra relevanta
+beräkningar med hjälp av de modeller och ekvationer som
+presenteras i kursen.
+med hjälp av miniräknare och dator kunna utföra vanliga
+numeriska operationer.
+kunna utföra kemiska laborationer på ett noggrant och säkert
+sätt samt handha vanlig laborativ utrustning.
+kunna skriva enkla och fullständiga laborationsredogörelser
+enligt givna instruktioner med korrekt presentation av data och
+feluppskattningar.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna diskutera vardagsfenomen, så som fasseparation mellan
+olja och vatten, utifrån kursens innehåll.
+kunna diskutera biologiskt relevanta frågeställningar
+utifrån de grundläggande modeller som ges på kursen.
+kunna värdera giltigheten hos de modeller som ges på
+kursen.
+
+
+Kursinnehåll
+Kursen visar hur intermolekylär växelverkan ger upphov till
+struktur på mikroskopisk och mesoskopisk nivå samt hur den
+kvalitativt kan förklara och förutsäga materiens makroskopiska
+egenskaper. Detta ger en molekylär förklaring till stora delar av
+termodynamiken och makroskopiska transportprocesser samt ger de
+verktyg som behövs för att man skall kunna förutsäga hur
+molekylära manipulationer påverkar ett (bio)materials
+makroskopiska egenskaper.
+Särskild vikt läggs vid egenskaper hos biopolymerer, så som
+proteiner och DNA-molekyler. Två hela föreläsningar ägnas åt
+vattens egenskaper och unika betydelse för solvatisering av och
+interaktionen mellan såväl små som stora (bio)molekyler.
+Vidare behandlar kursen molekylers rörelse i vätskor
+(diffusion) och ger därmed den molekylära grunden för
+makroskopiska transportprocesser och reaktionskinetiken för
+enzymer.
+Innehållsmässigt består kursen av följande moment:
+
+Beskrivning av fas- och fördelningsjämvikter samt
+icke-idealitet med Bragg-Williamsmodellen, däribland destillation,
+blandningsluckor och fördelningsjämvikter. Specifikt beskrivs
+även Henrys konstant, aktivitetskoefficienter och
+fördelningskoefficienter med denna modell.
+Beskrivning av kooperativa processer, t.ex. helixbildning i
+polymerer.
+Ligandbidningsformalism för kopplade jämvikter och
+beskrivning av hämning och kooperativitet i t.ex.
+biomolekyler.
+Klassisk elektrostatik och intermolekylär växelverkan mellan
+molekyler i dielektriska media, inklusive Gauss lag, Coulombs lag,
+dipolmoment och dispersionskrafter. Jonsolvatisering
+(Bornekvationen) beräkningar med Poisson-Boltzmanns ekvation och
+Debye-Hückelteori. Kursen behandlar även effekten av dielektriska
+gränsytor. Detta tillämpas på bl.a. adsorption, vätskor,
+elektrolytlösningar och elektrokemiska jämvikter.
+Beskrivning av egenskaper hos flytande vatten och vatten som
+lösningsmedel, inklusive den hydrofoba effekten.
+Mikroskopisk beskrivning av diffusion, inkluderande bl.a.
+Brownsk rörelse och kinetisk gasteori. Detta inkluderar effekten
+av diffusion i biokemiskt relevanta problemställningar, såsom
+diffusion genom geler och diffusionskontrollerad
+reaktionskinetik.
+Fundamental beskrivning av reaktionskinetik:
+aktiveringstillsånd, Eyrings- och Arrhenius ekvationer samt
+diffusionskontrollerade hastighetskonstanter.
+Numeriska beräknings- och simuleringsmetoder: finita
+elementmetoden, molekyldynamik-, stokastisk- och Monte
+Carlosimuleringar.
+Tre laborationer som behandlar (1) fördelningsjämvikt och
+jonsolvatisering, (2) molekylära egenskaper, som volym,
+dipolmoment, laddning och polariserbarhet samt (3) gasdiffusion.
+Minst en fullständlig laborationsrapport inklusive statistisk
+analys och felfortplantning med hjälp av Monte Carlometoden.
+Vid laborationerna tränas spektrofotometrisk
+absorbansmätning, konduktansmätning, arbete med gastuber samt
+användning av densiometer och refraktometer.
+En datorlaboration behandlar modellering av destillation och
+aktivitetsfaktorer med Bragg-Williamsmodellen.
+Numeriska problem, såsom integrering, derivering,
+ekvationslösning samt passning till räta linjens ekvation löses
+både med räknare och dator.
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen, laborationer och en inlämningsuppgift. Slutbetyget baseras på den skriftliga tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0116. Benämning: Tentamen. 
+Antal högskolepoäng: 6,5. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen. 
+Kod: 0216. Benämning: Laborationer och inlämningsuppgift. 
+Antal högskolepoäng: 1. Betygsskala: UG.  Prestationsbedömning: För betyg G skall varje laboration utföras och redovisas enligt anvisningarna, vilket kan innebära skriftligt eller muntligt, på svenska eller engelska. För godkänt skall de skriftliga rapporterna vara enkla men korrekta och koncisa, ha lämplig struktur samt innehålla en relevant diskussion av resultaten.  Delmomentet omfattar: I kursen ingår tre "våta" laborationer, en demonstrationslaboration i datorsimulering samt en obligatorisk inlämningsuppgift. 
+Antagningsuppgifter
+Förkunskapskrav:
+Minst 5 högskolepoäng inom kurserna FMAA05 Endimensionell analys
+
+
+Förutsatta förkunskaper: FMAB30 Flerdimensionell analys, FMAA20 Linjär algebra med introduktion till datorhjälpmedel, KFKA05 Molekylära drivkrafter 1: Termodynamik
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: KFK080, KFK090
+Kurslitteratur
+
+Dill, K and Bromberg, S: Molecular Driving Forces, Statistical Thermodynamics in Chemistry, Physics, Biology and Nanoscience. 2nd edition. Garland Science, 2010, ISBN: 9780815344308.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Kristofer Modig, kristofer.modig@bpc.lu.se
+Hemsida: http://www.cmps.lu.se/bpc/education/
+Övrig information: Viss undervisning kan komma att ske på engelska. Viss rapportering kan krävas på engelska.
+
+
+

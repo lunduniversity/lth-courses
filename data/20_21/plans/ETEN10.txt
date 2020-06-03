@@ -1,0 +1,95 @@
+
+Kursplan 2020/21 ETEN10
+
+
+
+
+
+Kursplan för
+Antennteknik
+Antenna Technology
+ETEN10, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning E
+Beslutsdatum: 2020-03-19
+Allmänna uppgifter
+Huvudområde: Kommunikationssystem. 
+Obligatorisk för: MWIR1
+Valfri för: E4-fh, F4, F4-hn, MFOT1, N4-hn, Pi4
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Teknologen skall tillägna sig grundläggande kunskaper inom
+antennteknik. Teknologen ska erhålla god förmåga att analysera
+och dimensionera antenner. Teknologen ska erhålla god kännedom om
+olika antennparametrar såsom direktivitet och
+strålningsdiagram.
+Teknologen ska genomföra och dokumentera ett projekt där en
+antenn beräknas, simuleras, tillverkas och slutligen mäts
+upp.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna beskriva fjärrfältets egenskaper,
+känna till sambandet mellan direktivitet och effektiv
+antennyta
+kunna förklara Friis transmissionsformel och
+radarekvationen
+kunna redogöra för egenskaperna för några olika typer av
+antenner
+känna till teorin för gruppantenner
+kunna tolka antennproblem som integralekvationer och känna
+till grunderna för numerisk lösning av dessa
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna beräkna fjärrfältet för en given antennström
+kunna beräkna från sändarantenn till mottagarantenn
+överförd effekt
+kunna beräkna strålningsdiagrammet för en gruppantenn
+kunna utföra diagramsyntes
+kunna beräkna, simulera och mäta upp en patchantenn
+redogöra skriftligt för ett projekt inom antennteknik
+
+
+Kursinnehåll
+Repetition av Maxwells fältekvationer och randvillkor.
+Antennparametrar, fundamentala samband, strålningsintegraler.
+Rundstrålande och direktiva antenner. Resonanta och icke-resonanta
+antennelement. Olika antenntyper såsom: trådantenner,
+mikrostripantenner, aperturantenner, gruppantenner inklusive
+diagramsyntes och reflektorantenner samt mätteknik. Numeriska
+metoder för antennproblem, t.ex. momentmetoden.
+En laborationsdel inom vilken en patchantenn dimensioneras,
+tillverkas och mäts upp.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen och skriftlig laborationsrapport.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0110. Benämning: Skriftlig tentamen. 
+Antal högskolepoäng: 6. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen.  Delmomentet omfattar: Antennteori. 
+Kod: 0210. Benämning: Laborationsdel. 
+Antal högskolepoäng: 1,5. Betygsskala: UG.  Prestationsbedömning: Skriftlig laborationsrapport.  Delmomentet omfattar: Laborationer. 
+Antagningsuppgifter
+Förutsatta förkunskaper: Elektromagnetisk fältteori (F) ETE055, EITF85 (Pi) ETEF01 eller (E) ESS050, EITF80.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: ETE100
+Kurslitteratur
+
+Kraus J D: Antennas For All Applications.
+Orfanidis S J: Electromagnetic Waves and Antennas.
+Warren L. Stutzman, Gary A. Thiele: Antenna Theory and Design. 2012.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Universitetslektor Mats Gustafsson, mats.gustafsson@eit.lth.se
+Hemsida: http://www.eit.lth.se/kurs/eten10
+
+
+

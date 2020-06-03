@@ -1,0 +1,92 @@
+
+Kursplan 2020/21 KETN30
+
+
+
+
+
+Kursplan för
+Biokemisk reaktionsteknik
+Biochemical Reaction Engineering
+KETN30, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning B/K
+Beslutsdatum: 2020-03-27
+Allmänna uppgifter
+Huvudområde: Bioteknik. 
+Obligatorisk för: B4-pt
+Alternativobligatorisk för: MBIO2
+Valfri för: K4-p, W4-p
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Utveckling av nya biotekniska processer kräver analys av
+såväl cellmetabolismen som bioreaktorn. Syfte med denna kurs är
+att ge de studerande förståelse och färdigheter så att de på
+ett kvantitativt sätt kan göra denna analys av en bioteknisk
+process. Detta utgör grunden för utformning och uppskalning av
+biotekniska processer.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna redogöra för principerna bakom global analys av
+metabola nätverk och dess tillämpning vid utformning av genetiskt
+modifierade produktionsorganismer
+kunna redogöra för kopplingen mellan fysikaliska
+transportfenomen i en bioreaktor och den mikrobiella
+metabolismen
+kunna identifiera kritiska faktorer vid uppskalning av
+biotekniska processer och kvalitativt jämföra olika
+processlösningar
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kvantitativt kunna analysera biotekniska försöksresultat på
+makronivå, t.ex. genom att utföra kol- och
+reduktionsgradsbalanser
+kunna sätta upp modeller för stökiometrisk analys av
+metabola nätverk.
+kunna modellera kinetik i mikrobiella reaktionssystem
+kunna utföra reaktionstekniska beräkningar för
+dimensionering av bioreaktorer m.a.p. storlek, omrörareffekt,
+massöverföringskapacitet, kylbehov
+kunna göra en bedömning av val av reaktor, råvara, och
+produktionsorganism för en bioteknisk process
+
+
+Kursinnehåll
+Kursen behandlar på ett kvantitativt sätt biotekniska
+processer på såväl reaktor som cellnivå. Följande moment
+ingår: Metabola reaktioner, stökiometri, C-mol konceptet,
+reduktionsgrader, termodynamik i mikrobiella system, modellering av
+metabola nätverk, reaktionskinetik, utformning av biotekniska
+processer, massöverföring, uppskalning av bioreaktorer.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen. Beräkningsuppgifter.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Teori. 
+Antal högskolepoäng: 7,5. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen 
+Kod: 0217. Benämning: Beräkningsuppgift. 
+Antal högskolepoäng: 0. Betygsskala: UG.  Prestationsbedömning: Skriftlig rapport 
+Antagningsuppgifter
+Förutsatta förkunskaper: Grundläggande biokemi (t.ex. KBKA10/KBK011), Reaktionsteknik (t.ex. KETF25 eller KETF40/KTE170) och linjär algebra (t.ex. FMAA20)
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: KTE071
+Kurslitteratur
+
+John Villadsen, Jens Nielsen and Gunnar Lidén: Bioreaction Engineering Principles, 3rd ed. Springer, 2011, ISBN: 978-1-4419-9687-9.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Professor Gunnar Lidén, Gunnar.Liden@chemeng.lth.se
+Hemsida: https://www.lth.se/chemeng/ketn30/
+
+
+

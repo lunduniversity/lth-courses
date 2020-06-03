@@ -1,0 +1,117 @@
+
+Kursplan 2020/21 FMSN15
+
+
+
+
+
+Kursplan för
+Statistisk modellering av multivariata extremvärden
+Statistical Modelling of Multivariate Extreme Values
+FMSN15, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning I
+Beslutsdatum: 2020-04-03
+Allmänna uppgifter
+Valfri för: F5, F5-fm, I5-fir, Pi5
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Multivariata extremvärden förekommer inom bl.a. ekonomi,
+säkerhets- och tillförlighetsteknik, försäkringsmatematik,
+hydrologi, meteorologi, miljövetenskap och oceanografi. De
+uppvisar ofta besvärliga beroenden mellan flera variabler, t.ex.
+mellan vindriktning och -styrka, våghöjd och havsströmmar.
+Detta kräver speciella metoder som bl.a. kan användas för att
+analysera trender, beräkna översvämningsrisker och modellera
+stormskador, korrosionshastighet eller finansiella risker. Klimat-
+och miljöförändringar och en alltmer komplicerad
+finansmarknad ställer nya krav på fördjupade kunskaper inom
+dessa områden. Denna kurs är en fortsättning på FMSN55
+Statistisk modellering av extremvärden, och lär ut metoder för
+analys av multivariata och spatiala extremvärden.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+beskriva hur man definierar extrema värden för multivariata
+stickprov,
+beskriva olika karakteriseringar av multivariata
+extremvärdesfördelningar och sambandet mellan dem,
+förklara hur man kan generalisera "peaks over
+threshold"-modellen till högre dimensioner och vilka asymptotiska
+fördelningar som uppstår,
+förklara vilka statistiska metoder kan användas för analysen
+av extremvärden.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+behandla multivariata data för extremvärdesanalys,
+anpassa extremvärdesfördelningar med olika metoder,
+validera extremvärdesmodellens giltighet och göra
+lämpliga modifieringar av modellen,
+använda den framtagna modellen för prediktion,
+använda något statistiskt datorprogram för att analysera
+data,
+redovisa analys av och slutsatser från ett praktiskt problem
+i en skriftlig rapport.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+alltid kontrollera förutsättningarna innan han/hon ansätter
+en extremvärdesmodell,
+värdera rimligheten i en genomförd studie,
+reflektera över den valda modellens och skattningsmetodens
+begränsningar samt möjliga alternativa lösningsmetoder.
+
+
+Kursinnehåll
+Svag konvergens för normaliserade extremvärden av stokastiska
+vektorer, olika karakteriseringar av multivariata
+extremvärdesfördelningar, "peaks over threshold"-modellen i
+multivariata fallet, olika definitioner av multivariata
+generaliserade Pareto-fördelningar, statistisk inferens för
+multivariata extremvärden, parametriska och semi-parametriska
+metoder för multivariata extremvärden, användning av kopula i
+modellering av extremvärden, punktprocess-karakterisering av
+extremvärden, prediktion av extremvärden, exempel på
+tillämpningar av teorin, bland annat i skattning av "operational
+risk", klimatförändringar och vindförsäkringar.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen och godkända inlämningsuppgifter.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0118. Benämning: Tentamen. 
+Antal högskolepoäng: 6. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen. 
+Kod: 0218. Benämning: Laborationsdel 1. 
+Antal högskolepoäng: 0,5. Betygsskala: UG.  Prestationsbedömning: Datorlaboration 1 med inlämningsuppgift. 
+Kod: 0318. Benämning: Laborationsdel 2. 
+Antal högskolepoäng: 1. Betygsskala: UG.  Prestationsbedömning: Datorlaboration 2 och 3 med inlämningsuppgifter 
+Antagningsuppgifter
+Förkunskapskrav:
+FMSN55 Statistisk modellering av extremvärden
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: MASM23
+Kurslitteratur
+
+Jan Beirlant, Yuri Goegebeur, Johan Segers, Jozef Teugels: Statistics of Extremes: Theory and Applications. Wiley, 2004, ISBN: 978-0471976479.
+Roger B. Nelson: An Introduction to Copulas. Springer, 2006, ISBN: 978-0387286594. E-book.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Docent Nader Tajvidi, nader@maths.lth.se
+Studierektor: Johan Lindström, studierektor@matstat.lu.se
+Hemsida: http://www.maths.lth.se/matstat/kurser/fmsn15/
+Övrig information: Kursen ges även på naturvetenskaplig fakultet med kurskoden MASM23.
+
+
+

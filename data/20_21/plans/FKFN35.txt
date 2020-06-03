@@ -1,0 +1,116 @@
+
+Kursplan 2020/21 FKFN35
+
+
+
+
+
+Kursplan för
+Miljömätteknik
+Methods for Environmental Monitoring
+FKFN35, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning F/Pi
+Beslutsdatum: 2020-04-01
+Allmänna uppgifter
+Valfri för: E4, F4, F4-es, W4-ms
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursen ska ge förståelse för avancerad mätteknik speciellt
+applicerad på luftmiljön, samt hur dessa tekniker kan användas
+för att ge underlag för bedömningar av miljö- och hälsorisker
+orsakade av människans aktiviteter. Kursen syftar även till att
+stimulera till ett tänkande rörande hur olika vardagliga
+mänskliga aktiviteter påverkar vår miljö och hälsa, samt att
+ge förmåga att värdera miljöfrågeställningar från ett
+naturvetenskapligt betraktelsesätt i arbetsliv och
+samhällsdebatt.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna beskriva och förstå olika miljöproblem med tonvikt på
+luftkvalitet från ett naturvetenskapligt perspektiv,
+kunna formulera frågeställningar som syftar till att
+klargöra risker för människans miljö och hälsa som är
+kopplade till luftkvaliteten,
+kunna planera en miljömätning på ett övergripande sätt och
+välja lämpligt mättekniskt hjälpmedel,
+kunna göra en översiktlig utvärdering av miljömätdata som
+syftar till att besvara den uppställda
+miljöfrågeställningen.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna integrera kunskaper om miljömätteknik och
+frågeställningar rörande luftkvalitet,
+ha förmåga att presentera projekt som de genomfört samt
+diskutera resultaten med kursledning och kursdeltagare vid en
+muntlig presentation,
+kunna genomföra projekt som syftar till att klargöra eller
+att lösa ett miljöproblem och planera presentation utifrån givna
+ramar,
+kunna integrera kunskaper från ett omfattande material samt
+från projektarbetet för problemlösning,
+kunna presentera resultatet av utvärderingen muntligt och
+skriftligt.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+ha stimulerats till ett tänkande rörande hur olika vardagliga
+mänskliga aktiviteter påverkar vår miljö och hälsa.
+
+
+Kursinnehåll
+Presentation av olika luftkvalitetsproblem och deras miljö- och
+hälsoeffekter. Genomgång av olika typiska mätsituationer.
+Flerfasproblematik speciellt vid luftföroreningsstudier.
+Fysikaliska och kemiska processer vid luftföroreningar. Genomgång
+av olika fysikaliska och kemiska mät- och analysmetoder för
+miljöfrågeställningar.
+Kursen omfattar föreläsningar, em laboration, demonstrationer
+samt ett projektarbete (gruppstorlek: 2-4). Föreläsarna hämtas
+från olika vetenskapliga discipliner och har stark
+forskningsförankring. Projektarbetet i grupp innefattar en
+utvärdering av miljömätdata och en muntlig och skriftlig
+presentation av utvärderingen. Laborations- och
+demonstrationsdelarna innebär att de studerande bereds tillfälle
+att direkt arbeta med högteknologisk forskningsutrustning eller
+få den demonstrerad.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examinationen består av två delar, dels en skriftlig tentamen där studenten individuellt besvarar frågor främst av redogörande karaktär, dels ett projektarbete i grupp. För godkänt krävs även att studenten deltagit i laboration och fått laborationsredogörelsen godkänd. Betyg bestäms av tentamen och projektarbete, där tentamen ger 75 % av betyget och projektarbetet 25 % av betyget. Närvaro vid första föreläsningen är obligatoriskt för att få tillträde till kursen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: Grundläggande fysik. Poäng från studier motsvarande ungefär kandidatexamen.
+Begränsat antal platser: Nej
+Kursen kan ställas in: Om färre än 25 anmälda.
+Kursen överlappar följande kurser: FYST38, FKF100
+Kurslitteratur
+
+Bokkapitel och föreläsningsanteckningar från lärare.
+
+
+Kontaktinfo och övrigt
+Kursadministratör: Adam Kristensson, adam.kristensson@nuclear.lu.se
+Lärare: Mårten Spanne, marten.spanne@malmo.se
+Lärare: Kristina Stenström, kristina.stenstrom@nuclear.lu.se
+Lärare: Jan Pallon, jan.pallon@nuclear.lu.se
+Lärare: Mikkel Brydegaard Sörensen, mikkel.brydegaard@forbrf.lth.se
+Lärare: Joakim Bood, joakim.bood@forbrf.lth.se
+Lärare: Axel Eriksson, axel.eriksson@nuclear.lu.se
+Kursadministratör: Pontus Roldin, pontus.rolding@nuclear.lu.se
+Lärare: Elin Malmqvist, elin.malmqvist@forbrf.lth.se
+Lärare: Jakob Riddar, jakob.riddar@med.lu.se
+Hemsida: http://www.nuclear.lu.se/english/teaching/valfria_kurser/miljoemaetteknik/
+Övrig information: Kursen ges i samarbete mellan avdelningarna för kärnfysik, förbränningsfysik, ergonomi och aerosolteknologi, Malmö miljöförvaltning samt avdelningen för arbets- och miljömedicin vid medicinska fakulteten. Närvaro vid första föreläsningen är obligatoriskt för att få tillträde till kursen.
+
+
+

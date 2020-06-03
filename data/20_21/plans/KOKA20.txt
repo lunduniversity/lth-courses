@@ -1,0 +1,115 @@
+
+Kursplan 2020/21 KOKA20
+
+
+
+
+
+Kursplan för
+Allmän och organisk kemi
+General and Organic Chemistry
+KOKA20, 7,5 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning B/K
+Beslutsdatum: 2020-03-27
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: BME1
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Att ge grundläggande förståelse för och kunskap om kemiska
+processer och förlopp. Grundläggande förståelse för organiska
+och oorganiska kemiska föreningars struktur och reaktivitet samt
+kunskap om det kemiska formelspråket och viktiga kemiska begrepp
+på såväl svenska som engelska.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+förstå innebörden av det kemiska formelspråket och av
+reaktionsformler för såväl organiska som oorganiska
+föreningar.
+inneha kännedom om de vanligaste organiska
+ämnesklasserna.
+känna till, kunna beskriva, förklara och använda
+grundläggande kemiska begrepp och termer.
+känna till, beskriva kvalitativt och använda enklare begrepp
+inom kemisk bindning.
+kunna förklara innebörden av termodynamiska storheter och
+enkla termodynamiska samband.
+inneha kännedom om polymerers och biomolekylers struktur.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+ha förmåga att teckna och praktiskt använda reaktionsformler
+för att beskriva kemiska förlopp.
+ha förmåga att kvalitativt beskriva inter- och
+intramolekylära krafter hos kemiska substanser.
+ha förmåga att formulera och att lösa jämviktsproblem.
+ha förmåga att teckna elektrokemiska celler och analysera
+förloppen för elektrokemiska processer samt beräkna
+cellpotentialer
+ha förmåga använda enklare integrerade hastighetslagar och
+beräkna storheter relaterade till dessa
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+ha förmåga att redovisa kemiska beräkningar med korrekta
+enheter och siffernoggrannhet på ett logiskt och relevant
+sätt.
+ha förmåga att ta upp, korrekt redovisa och utvärdera
+resultat från laborationsförsök.
+
+
+Kursinnehåll
+
+Grundläggande kemiska begrepp.
+Atomers uppbyggnad och det periodiska systemet.
+Kemiska formler, reaktioner och stökiometri.
+Kemisk bindning och molekylgeometrier.
+Intermolekylära krafter: dispersionskrafter, vätebindningar,
+dipol-dipol och jon-dipol.
+Grundläggande organsik kemi med fokus på struktur.
+Termodynamik: begreppen entalpi, entropi, inre energi och fri
+energi, enkla samband mellan dessa begrepp.Standardbildnings- och
+reaktionsentalpier.
+Kemisk jämviktslära med enklare beräkningar.
+Elektrokemi: redox-processer och elektrokemiska celler.
+Kemisk kinetik: hastighetskonstanten och dess
+temperaturberoende, integrerade hastighetslagar.
+
+Praktisk problemlösning inom ovanstående områden spelar en
+stor roll för att uppnå lärandemålen. Kurslitteraturen ger de
+studerande färdighet i naturvetenskaplig och kemisk
+vokabulär och fackterminologi på engelska.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen, deltagande i laborationsseminarium. Tentamensresultat ger slutbetyg.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0115. Benämning: Allmän och organisk kemi. 
+Antal högskolepoäng: 7,5. Betygsskala: TH.  Prestationsbedömning: Skriftligt prov. 
+Kod: 0215. Benämning: Laboration. 
+Antal högskolepoäng: 0. Betygsskala: UG.  Prestationsbedömning: Obligatorisk närvaro, godkänd skriftlig rapport. 
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: TEK285, KOKA01
+Kurslitteratur
+
+Atkins P., Jones, L. and Laverman, L.: Chemical Principles, The Quest for Insight, 7:th ed. Freeman, 2016, ISBN: 9781319154196.
+Ellervik, U.; Sterner, O; och Kann, N.: Organisk kemi - tredje upplagan. Studentlitteratur, 2014, ISBN: 9789144099910.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Martin Ek, martin.ek@chem.lu.se
+Hemsida: http://www.kilu.lu.se/cas/education/undergraduate_education/
+
+
+

@@ -1,0 +1,107 @@
+
+Kursplan 2020/21 KBTN10
+
+
+
+
+
+Kursplan för
+Bioteknik, projektering
+Biotechnology, Process and Plant Design
+KBTN10, 15 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning B/K
+Beslutsdatum: 2020-03-27
+Allmänna uppgifter
+Huvudområde: Bioteknik. 
+Alternativobligatorisk för: MBIO1
+Valfri för: B4-pt
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Kursen förmedlar tekniken för projektering av biotekniska
+produktionsprocesser och praktisk tillämpning av förprojektering,
+färdigheter i projektledning samt kunskap om
+affärsutveckling.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+ha kunskap om ett anläggningsprojekts utvecklingsfaser från
+idé till färdig fabrik.
+förstå hur teknik, ekonomi, marknad och normer (risker och
+miljö) samverkar vid ett anläggningsprojekt.
+ha insikt i arbetsgången vid förprojekteringar av
+processanläggningar.
+ha insikt i hur en projektgrupp arbetar inklusive kunskap kring
+vanliga verktyg som används vid projektledning.
+förstå de förutsättningar som ligger bakom
+kommersialiseringen av affärsidéer såsom t ex
+marknadsvärdering, tillgång till IP samt finansiering.
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+ha förmåga att söka, utvärdera och använda för projektet
+relevant information från biblioteksresurser och öppna
+källor
+kunna uppskatta drifts- och kapitalkostnader, samt genomföra
+investeringskalkyl och ekonomisk känslighetsanalys för ett
+anläggningsprojekt.
+kunna genomföra processdesign med flow sheeting.
+kunna skriva en marknadsplan för en affärsidé
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+i en projektgrupp genomföra en industriellt relaterad
+förprojektering.
+delta i muntlig och skriftlig redovisning av en
+förprojektering.
+kunna reflektera kring den egna rollen i en projektgrupp
+
+Kursinnehåll
+teknisk och ekonomisk bearbetning av projekt inom den
+biotekniska industrin.
+teknikvärdering: flödesbalanser, samt utformning och
+dimensionering av processer.
+ekonomisk analys: uppskattning av kapital- och driftkostnader.
+Investerings- och betalningsflödeskalkyler.
+projektvärdering. Projekt genomförs vanligen i samarbete med
+bioteknisk industri eller kemisk och livsmedelsteknisk industri som
+utnyttjar biotekniska processteg.
+projektledning
+affärsmässiga bedömningskriterier, utarbetande av
+marknadsplan
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: Muntlig och skriftlig rapportering av förprojekteringsuppgift inkl. marknadsplan och projektbeskrivning. Aktivt deltagande i gruppövningar. Skriftlig reflektion.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Projektering. 
+Antal högskolepoäng: 10. Betygsskala: UG.  Prestationsbedömning: Skriftlig och muntlig rapport. Aktivt deltagande.  Delmomentet omfattar: Förprojektering av bioteknisk process. 
+Kod: 0217. Benämning: Affärsutveckling. 
+Antal högskolepoäng: 4. Betygsskala: UG.  Prestationsbedömning: Skriftlig rapport.  Delmomentet omfattar: En affärsidé bedöms utifrån kommersialiserbarhet, marknadsvärde, IP samt finansiella resurser. En marknadsplan skall skrivas. 
+Kod: 0317. Benämning: Projektledning. 
+Antal högskolepoäng: 1. Betygsskala: UG.  Prestationsbedömning: Aktivt deltagande, skriftlig projektbeskrivning samt reflektion.  Delmomentet omfattar: Grunderna i projektledning. 
+Antagningsuppgifter
+Förkunskapskrav:
+KBT115 Bioprocessteknik eller KBTF15 Bioprocessteknik
+
+
+Förutsatta förkunskaper: MIOA12/MIO012 Industriell ekonomi.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: KBT042, KAT070, KBT041, KET050, KTE110, KTE120
+Kurslitteratur
+
+Material som delas ut i anslutning till föreläsningar. Referenslitteratur som tillhandahålles av avdelningen.
+Petrides, D.: Bioprocess Design and Economics. Finns på:  http://www.intelligen.com/.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Tekn. Dr. Carl Grey, Carl.Grey@biotek.lu.se
+Kursansvarig: Professor Patrick Adlercreutz, patrick.adlercreutz@biotek.lu.se
+Hemsida: http://www.biotek.lu.se/education/undergraduate-courses/
+Övrig information: Kursen kan komma att ges på engelska.
+
+
+

@@ -1,0 +1,87 @@
+
+Kursplan 2020/21 VGTA01
+
+
+
+
+
+Kursplan för
+Geologi och geoteknik
+Engineering Geology and Soil Mechanics
+VGTA01, 6 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning V
+Beslutsdatum: 2020-03-23
+Allmänna uppgifter
+Obligatorisk för: IBYA2, IBYI2, IBYV2
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursen skall ge grundkunskaper inom geologi och geoteknik.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna redogöra för de vanligaste geologiska materialen,
+speciellt i Sverige förekommande jordarter, dessas
+uppbyggnad och hur de har bildats.
+kunna förklara grundläggande begrepp och samband inom
+geoteknik inklusive jordmateriallära och jordmekanik.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna läsa en geologisk karta och upprätta en geologisk
+sektion med lagerföljder och ha synpunkter på
+markanvändningen.
+kunna genomföra och redovisa geotekniska beräkningar av
+grundläggande typ.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna redogöra för geomaterialens och geomiljöns roll i
+olika byggnadstekniska frågeställningar .
+kunna redogöra för vilka geologiska företeelser som kan
+utgöra riskmoment vid olika typer av markanvändning.
+med hjälp av beräkningar och givna fältprovningsresultat
+kunna bedöma en jords bärförmåga och sättning vid elementära
+belastningstyper.
+
+
+Kursinnehåll
+Geologidelen ska ge studenten kunskap om vår planets uppkomst
+och geologiska utveckling, samt hur olika berg- och jordarter
+bildas och klassificeras. Geologidelen behandlar också
+grundvattens förekomst och användning.
+I geoteknikdelen får studenten kunskaper om jordmateriallära
+(jordars uppbyggnad och sammansättning). Jordmekanik
+(brottkriterium, deformationsegenskaper, inverkan av porvatten).
+Geotekniska fält- och laboratorieprovmetoder. Geotekniska
+beräkningar (spänningar i jord, bärförmåga under platta,
+sättning, jordtryck, släntstabilitet).
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examinationen består av skriftlig tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: FME602 Strukturmekanik eller VSMA20 Strukturmekanik eller VSMA10 Materialmekanik.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: VGT601, VTGA01, VTGA05, VTGF05, VTVA01
+Kurslitteratur
+
+Svensson, C. Kompendium i Teknisk Geologi. KFS 2012.
+Kompendium i geoteknik, Institutionen för byggvetenskaper, LTH.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Peter Persson, peter.persson@construction.lth.se
+Hemsida: http://www.geoteknik.lth.se
+Övrig information: Kursen kan komma att delvis ges på engelska.
+
+
+

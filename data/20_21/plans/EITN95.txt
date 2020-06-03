@@ -1,0 +1,126 @@
+
+Kursplan 2020/21 EITN95
+
+
+
+
+
+Kursplan för
+Simulering
+Simulation
+EITN95, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning C/D
+Beslutsdatum: 2020-03-30
+Allmänna uppgifter
+Valfri för: C4-ks, D4-ns, E4-ks, I4, M4, Pi4
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Kursens syfte är att ge en introduktion till diskret
+händelsesimulering, grundläggande optimering och heuristiska
+metoder som simulated annealing, tabu-sökning och evolutionära
+algoritmer.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+Ha kunskap om olika sorters dynamiska modeller som används
+inom tekniken
+Kunna beskriva hur simuleringsprogram som använder händelse-
+eller processimulering är uppbyggda
+Kunna uppskatta noggrannheten hos simuleringsresultat
+Känna till de grundläggande begreppen inom
+optimeringsläran
+Känna till hur man löser linjära optimeringsproblem
+Känna till hur man löser problem inom heltalsoptimering
+Känna till de mest grundläggande heuristiska algoritmerna
+för optimering
+
+ 
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+Skriva välstrukturerade simuleringsprogram i ett generellt
+programspråk
+Uppskatta noggrannheten hos simuleringsresultat
+Kunna verifiera och validera simuleringsprogram
+Känna till de grundläggande begreppen inom linjär
+programmering, konvexitet och dualitet
+Kunna tillämpa simplexalgoritmen på ett linjärt
+optimeringsproblem
+Känna till grundbegreppen inom heltalsprogrammering, några
+tillämpningar och sambandet mellan heltalsprogrammering och
+linjär programmering.
+Kunna använda branch-and-bound-metoder vid
+heltalsprogrammering
+Ha en grundlig förståelse för de vanligaste heuristiska och
+meta-heuristiska metoderna, bland annat local search och dess
+varianter, simulated annealing, taboo search och evolutionary
+algorithms
+Kunna implementera heuristiska och meta-heuristiska metoder och
+ge värden på dessa metoders parametrar
+Vara bekant med Monte Carlo-tekniker
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+Visa kunskaper om möjligheterna och begränsningarna med
+simulering
+Kunna modellera problem. implementera simuleringar samt
+uppskatta tillförlitlighet på resultat från simuleringar.
+Självständigt kunna ställa upp modeller för
+optimeringsproblem och kunna använda ett optimeringspaket (till
+exempel från MATLAB) för att lösa dem och därvid visa full
+förståelse för lösningsprocessen och resultaten
+Kunna välja och tillämpa en heuristisk metod för att lösa
+ett optimeringsproblem
+
+
+Kursinnehåll
+I kursen börjar vi med att studera diskret händelsesimulering.
+Studenterna lär sig att skriva händelse- och
+processimuleringsprogram i generella programspråk som Java.
+Uppskattning av noggrannhet, generering av slumptal, metoder för
+att studera sällsynta händelser, verifiering och validering
+studeras också.
+Sedan fortsätter vi med optimeringslära. Vi studerar linjära
+optimeringsproblem och simplexmetoden. Därefter fortsätter vi med
+heltalsprogrammering, mixed integer programming, sambandet mellan
+heltalsprogrammering och linjär programmering samt
+branch-and-bound-metoden för heltalsprogrammering.
+Slutligen betraktar vi heuristiska metoder för kombinatoriska
+optimeringsproblem varvid vi betraktar dem som en metod att
+optimera via simulering. Lokal sökning och hur slumpmässighet
+förklaras. Grundläggande meta-heuristiska metoder som simulated
+annealing, evolutionära algoritmer och GRASP förklaras. Vi
+illustrerar också Monte Carlo-metoder.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Godkända hemuppgifter och laborationer ger betyget tre. För betyg fyra eller fem krävs dessutom godkänd hemtentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0119. Benämning: Hemuppgifter . 
+Antal högskolepoäng: 6,5. Betygsskala: TH.  Prestationsbedömning: För betyg 3 krävs godkända hemuppgifter. Hemtentamen krävs för betyg 4 och 5.  Delmomentet omfattar: Hemuppgifter 
+Kod: 0219. Benämning: Laborationer. 
+Antal högskolepoäng: 1. Betygsskala: UG.  Prestationsbedömning: För godkänd kurs, krävs godkända laborationer.  Delmomentet omfattar: Laborationer 
+Antagningsuppgifter
+Förutsatta förkunskaper: Programmering, grundläggande matematisk statistik, statistiska metoder, matematisk analys.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: ETS060, ETS120, ETS061
+Kurslitteratur
+
+Nyberg, C, Kompendium i simulering.
+Michal Pioro: Network Optimization Techniques, Chapter 18 in E. Serpedin, E., Chen, T., and Rajan, D. (eds.): Signal Processing, Communications, and Networking,. CRC Press, 2012, ISBN: 978-1-4398-5513-3.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Björn Landfeldt, bjorn.landfeldt@eit.lth.se
+Hemsida: http://www.eit.lth.se/kurs/eitn95
+
+
+

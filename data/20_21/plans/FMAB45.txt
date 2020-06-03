@@ -1,0 +1,88 @@
+
+Kursplan 2020/21 FMAB45
+
+
+
+
+
+Kursplan för
+Endimensionell analys A1
+Calculus in One Variable A1
+FMAB45, 5 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning F/Pi
+Beslutsdatum: 2020-04-01
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: BME1, M1, MD1
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursens syfte är att ge en grundläggande introduktion till den
+endimensionella analysen.  Syftet är vidare att utveckla
+studenternas förmåga att lösa problem, att tillgodogöra sig
+matematisk text och att kommunicera matematik.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+inom ramen för kursens innehåll med säkerhet kunna hantera
+elementära funktioner av en variabel.
+vara välbekant med matematikens logiska struktur så som den
+framgår till exempel inom den plana geometrin.
+kunna redogöra för innehållet i definitioner, satser och
+bevis.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna demonstrera god algebraisk räkneförmåga.
+kunna visa förmåga att redogöra för ett matematiskt
+resonemang på ett strukturerat och logiskt sammanhängande
+sätt.
+
+
+Kursinnehåll
+Talbegreppet. Räkning med bråk. Olikheter. Kvadratrötter.
+Andragradskurvor, andragradsekvationen. Plan geometri. Analytisk
+geometri. Cirkeln, ellipsen, hyperbeln. Aritmetisk och geometrisk
+summa. Binomialsatsen. Absolutbelopp. Trigonometri. Potenser och
+logaritmer. Funktionsbegreppet. De elementära funktionernas
+egenskaper: grafer, formler. Talföljder.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftligt prov omfattande teori och problem. 
+
+Färdighetsprov. Muntlig redovisningsuppgift. FÖR ATT MAN SKALL FÅ GÖRA DEN SKRIFTLIGA TENTAMEN KRÄVS ATT MAN KLARAT FÄRDIGHETSPROVEN OCH REDOVISNINGEN. 
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0120. Benämning: Skriftlig tentamen. 
+Antal högskolepoäng: 5. Betygsskala: TH.  Prestationsbedömning: Skriftligt prov omfattande teori och problem. Färdighetsprov (test på elementär räknefärdighet) skall vara godkända före tentamen. En redovisningsuppgift (muntlig och skriftlig) skall vara godkänd före tentamen. 
+Kod: 0220. Benämning: Färdighetsprov 1. 
+Antal högskolepoäng: 0. Betygsskala: UG. 
+Kod: 0320. Benämning: Redovisningsuppgift. 
+Antal högskolepoäng: 0. Betygsskala: UG. 
+Kod: 0420. Benämning: Färdighetsprov 2. 
+Antal högskolepoäng: 0. Betygsskala: UG. 
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FMA410, FMA415, FMA645, FMAA05, FMAA50, FMAA01
+Kurslitteratur
+
+Diehl, S: Inledande geometri för högskolestudier. Studentlitteratur, 2015. Kapitel P,T, A.
+Övningar i Inledande geometri för högskolestudier. Studentlitteratur, 2015, ISBN: 9789144067865.
+Månsson, J. och Nordbeck, P.: Endimensionell analys. Studentlitteratur, 2011, ISBN: 9789144056104.
+Övningar i endimensionell analys. Studentlitteratur, 2018, ISBN: 9789144127187.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Studierektor Anders Holst, Studierektor@math.lth.se
+Kursadministratör: Studerandeexpeditionen, expedition@math.lth.se
+Hemsida: http://www.maths.lth.se/course/endimA1ny/
+Övrig information: Endimensionell analys undervisas och examineras i två olika varianter, spår A (kurserna Endimensionell analys A1-A3) resp B (kurserna Endimensionell analys B1-B2), beroende på program. Målen är desamma. Denna kurs hör till spår A. Den som en gång blivit registrerad på denna kurs får inte senare registreras på spår B. I god tid före skriftliga omprov kommer det att ges tillfälle att göra resterande färdighetsprov eller redovisningar.
+
+
+

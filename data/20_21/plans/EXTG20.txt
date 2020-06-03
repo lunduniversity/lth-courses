@@ -1,0 +1,117 @@
+
+Kursplan 2020/21 EXTG20
+
+
+
+
+
+Kursplan för
+Geografisk informationsteknik - introduktion
+Geographic Information Technology - Introduction
+EXTG20, 15 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning L
+Beslutsdatum: 2020-03-27
+Allmänna uppgifter
+Huvudområde: Katastrofriskhantering och klimatanpassning. 
+Valfri för: MKAT2
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursens syfte är att ge grundläggande teoretiska och praktiska
+kunskaper om begrepp och metoder för behandling och analys av
+geografiska data med Geografiska Informationssystem, (GIS), samt en
+introduktion till kartografi och geodesi.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+Beskriva olika konceptuella modeller för rumsliga fenomen
+Beskriva olika datamodeller för digitala rumsliga data
+(raster- vektor), samt
+beskriva hur dessa lagras digitalt och fördelar och nackdelar med
+respektive
+datamodell
+Redogöra för grundläggande rumsliga analysmetoder
+Redogöra för grundläggande kartografiska metoder
+Förklara innebörden av olika kartprojektioner, geodetiska
+referenssystem och
+koordinatsystem
+Beskriva grundläggande strukturer för relevanta
+databaser
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+Organisera och hantera digitala geografiska data
+Självständigt genomföra grundläggande analyser av
+geografiska data i raster och
+vektorformat med hjälp av standardprogramvara för GIS
+Presentera arbetsgång och resultat från insamling och analys
+av geografiska data i
+skriftlig och i kartform för specialister och lekmän
+Utföra och presentera enklare statistiska utvärderingar av
+rumsliga data
+Använda enklare databashanterare (grundläggande SQL)
+Söka och hämta allmänt tillgänglig geografiska data
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+Vara medveten om betydelsen av att använda geografisk
+information och analys
+inom naturvetenskap och andra tillämpningsområden
+Förstå vikten av och ha uppnått ett kritiskt
+förhållningssätt till geografisk data och analysresultat
+
+
+Kursinnehåll
+Kursen ger en bred teoretisk grund till vidare arbete med
+digitala geografiska data. Förståelse för representation och
+analys av rumsliga element poängteras. Kursen belyser också
+generella geografiska problemställningar inom miljö och samhälle
+genom praktiska GIS-tillämpningar. Dessa behandlar såväl svenska
+som internationell förhållanden och varierar i skala från det
+lokala till det regionala. De moment inom GIS-tekniken som på
+detta sätt behandlas omfattar grundläggande kartografi, inklusive
+projektioner och referenssystem, geografiska data i digital form
+(kartor, bilder och tabeller), grundläggande analys av geografiska
+data i raster- och vektorform samt kartografisk och grafisk
+presentation av digitalt kartmaterial. I kursen ingår även
+kommunikationsträning. Särskild tonvikt läggs på kartografisk
+presentation av digitala geografiska data.
+
+Kursens genomförande
+Kursen är nätbaserad. Den är flexibelt utformad vilket
+möjliggör för studenten att genomföra kursen på hel-, halv-,
+eller kvartstid.
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: Examination sker genom skriftlig hemtentamen vid kursens slut i kombination med godkända rapporter och inlämningsuppgifter under kursens gång. För studerande som inte godkänts vid ordinarie tentamenstillfälle erbjuds ytterligare tillfälle i nära anslutning härtill.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+För tillträde till kursen krävs grundläggande högskolebehörighet samt Engelska B
+
+
+Begränsat antal platser: Nej
+Urvalskriterier: Studenter från MKAT Masterutbildning i katastrofriskhantering och klimatanpassning är garanterade plats på kursen. 
+Kursen överlappar följande kurser: EXTG30, NGEA11, GISA21
+Kurslitteratur
+
+Harrie L. (red.): Geografisk informationsbehandling - teori, metoder och tillämpningar, 6 upplagan. Studentlittertur, 2013, ISBN: 9789144088778.
+Kang-Tsung Chang: Introduction to Geographic Information Systems. 2014, ISBN: 9781259010613. Senare upplagor fungerar också bra.
+
+
+Kontaktinfo och övrigt
+Kursadministratör: Karin Larsson, karin.larsson@nateko.lu.se
+Kursansvarig: David Tenenbaum, david.tenenbaum@nateko.lu.se
+Hemsida: http://www.nateko.lu.se/sv/extg20
+Övrig information: Kursen ges endast för studenter inom Masterprogrammet i katastrofriskhantering och klimatanpassning.
+
+
+

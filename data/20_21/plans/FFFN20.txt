@@ -1,0 +1,146 @@
+
+Kursplan 2020/21 FFFN20
+
+
+
+
+
+Kursplan för
+Experimentell biofysik
+Experimental Biophysics
+FFFN20, 15 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning F/Pi
+Beslutsdatum: 2020-04-01
+Allmänna uppgifter
+Huvudområde: Nanovetenskap. 
+Valfri för: BME4-bf, F4, F4-nf, MFOT1, MNAV1, N4-nf, N4-nbm
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursen ger en fördjupning i tvärvetenskapligt arbete med fokus
+på experimentella metoder inom biofysiken. Kursen avser specifikt
+att ge en introduktion till gränslandet mellan modern fysik,
+nanoteknologi, biomolekylär kemi och biologi. Genom att grunda sig
+på aktuella vetenskapliga artiklar är kursen
+forskningsförberedande.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna problematisera kopplingen mellan storleksordningar i
+biologi och mikroelektroniska komponenters storleksordningar och
+hur detta är till fördel vid skapande av nya verktyg för
+biomedicinsk analys.
+kunna förklara grundläggande begrepp och problem inom mikro-
+och nanofluidik.
+kunna beskriva avancerade avbildningsmetoder.
+kunna förklara grundläggande tekniker för studier av enstaka
+molekyler.
+kunna förklara grundläggande mekanismer inom molekylära
+motorer.
+kunna beskriva cellers växelverkan med nanostrukturerade
+partiklar inklusive nanotoxicitet
+kunna beskriva system - lab on a chip, integration.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+självständigt kunna söka information utöver
+kurslitteraturen.
+kunna tillgodogöra sig och sammanfatta vetenskapliga
+artiklar.
+kunna utveckla enkla experiment, dvs utvärdera och välja
+lämplig experimentell teknik för en specifik
+frågeställning.
+kunna planera ett vetenskapligt projekt.
+kunna skriva välstrukturerade projektrapporter som
+sammanfattar, förklarar och analyserar experimentellt och/eller
+teoretiskt arbete.
+kunna presentera egna resultat i ett muntligt föredrag och
+aktivt delta i argumenterande vetenskapliga diskussioner.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+ha fått erfara arbete inom forskningsnära projekt.
+förstå begränsningar och möjligheter av miniatyrisering av
+bioanalytiska verktyg.
+
+
+Kursinnehåll
+Kursen innehåller tre huvudmoment. Första delen av kursen
+består av föreläsningar och diskussionsseminarier. Under detta
+moment går man igenom relevanta huvudämnen enligt lista nedan och
+diskuterar aktuella artiklar. Speciellt under seminarieövningarna
+krävs det att studenterna tar aktiv del i diskussionen. En viktig
+del av detta moment är att träna sig i effektiv läsning av och
+informationsextraktion från vetenskapliga artiklar. Ett
+genomgående tema inom kursen är mikro och nanostrukturer inom
+biologi och teknologi och den ömsesidiga kopplingen
+däremellan.
+Specifika ämnen som ingår i kursen:
+
+Storleksordningar i biologi och fysik.
+Avbildning av biologiska strukturer : optisk mikroskopi
+inklusive superupplösningsmikroskopi (STED, STORM mfl).
+Mikro- & nanofluidik: Separation och analys av molekyler
+och celler, mjuk litografi.
+Proteiners och cellers växelverkan med nanostrukturerade ytor:
+kontroll och styrning av motorproteiner, utväxt av axoner,
+antikropp-antigen reaktioner för proteinchip-tillämpningar.
+Växelverkan av lågdimensionella material med individuella
+celler och organismer.
+Systemaspekter: lab-on-a-chip tillämpningar, studier av
+enstaka celler.
+
+Den andra delen består av laborativa övningar, främst i våra
+forskningslaboratorier. Studenterna får tillfälle att stifta
+bekantskap med utrustning som aktivt används inom avdelningens
+forskning inom biofysik.
+Specifika laborativa moment som ingår:
+
+Grundläggande fluoroscensmikroskopi inklusive optisk
+pincett
+Mjuk litografi och mikrofluidik
+Tillämpning av mikrofluidik
+Flödessimulering
+Optisk pincett
+
+Den sista delen av kursen är ett projektarbete där studenterna
+arbetar individuellt eller i små grupper och får göra, helst
+innovativa men samtidigt enkla, experiment i forskningsmiljö på
+valfria plats inom eller utom universitetet. Projekten definieras i
+samverkan med kursansvarig, handledare och student.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftliga tentamina och skriftlig rapport. Betyget sätts som en avvägning mellan första teoridelen (30%), laborationsdelen (30%) och projektrapporten (40%).
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0113. Benämning: Teori. 
+Antal högskolepoäng: 4,5. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen. 
+Kod: 0213. Benämning: Laboratoriedel. 
+Antal högskolepoäng: 4,5. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen. 
+Kod: 0313. Benämning: Projekt. 
+Antal högskolepoäng: 6. Betygsskala: TH.  Prestationsbedömning: Skriftlig rapport och muntlig redovisning. 
+Antagningsuppgifter
+Förutsatta förkunskaper: Obligatoriska kurser inom civilingenjörsprogrammet teknisk nanovetenskap eller motsvarande.
+Begränsat antal platser: 30
+Urvalskriterier: Avklarade högskolepoäng inom programmet. Förtur ges till studenter vars program har kursen listad i läro- och timplanen.
+Kursen överlappar följande kurser: TEK265
+Kurslitteratur
+
+Kursen saknar kursbok. Istället bygger kursen på aktuella vetenskapliga artiklar, varav av en del är av typen översiktsartiklar.
+Laborationshandledningar och instuderingsfrågor finns på kursens hemsida. Likaså finns samtliga projektrapporter tillgängliga som pdf filer på kursens hemsida.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Prof Jonas Tegenfeldt, jonas.tegenfeldt@ftf.lth.se
+Hemsida: https://biokurs.ftf.lth.se/
+
+
+

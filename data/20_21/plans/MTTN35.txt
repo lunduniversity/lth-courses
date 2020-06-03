@@ -1,0 +1,123 @@
+
+Kursplan 2020/21 MTTN35
+
+
+
+
+
+Kursplan för
+Förpackningslogistik
+Packaging Logistics
+MTTN35, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning I
+Beslutsdatum: 2020-04-03
+Allmänna uppgifter
+Huvudområde: Livsmedelsprodukt- och förpackningsutveckling. 
+Obligatorisk för: MFIPDES2
+Alternativobligatorisk för: MLOG2
+Valfri för: I5-lf, M4-lp, MD4, MLIV1
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursen ger studenten kunskaper och djup förståelse i hur
+förpackade produkter påverkar försörjningskedjan. Den skall
+även ge förståelse om förpackningssystemets delkomponenter och
+dess betydelse i försörjningskedjor. Vidare ger den färdighet i
+att analysera, utforma och välja förpackningssystem baserat på
+behov och krav från företag och andra organisationer i
+försörjningskedjan. Kursen utvecklar studentens helhetssyn och
+system tänkande på förpackningssystem i försörjningskedjor,
+och bidrar till en syntes av förpacknings och logistik
+kunskaper.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+förklara förpackningssystemets olika delsystem och
+funktioner
+definiera och beskriva förpackningssystemets roll och
+gränssnitt mot logistiksystemet
+analysera inverkan av ny förpackningsteknik på
+logistiksystemet
+beskriva vilka förpackningsfaktorer som påverkar
+försörjningskedjans effektivitet
+identifiera försörjningskedjans krav och behov på
+förpackningssystemet
+analysera förpackningssystem utifrån behov och krav från
+försörjningskedjan
+problematisera och förklara potentiella konflikter mellan
+logistik, marknad and miljö krav på förpackningssystemet
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+tillämpa verktyget Packaging Scorecard för att analysera ett
+förpackningssystem
+använda mjukvaran Cape för att analysera optimal utnyttjning
+av enhetslast
+utvärdera och förbättra ett befintligt förpackningssystem
+utifrån ett förpackningslogistiskt perspektiv
+designa och utveckla olika förpackningssystem för att möta
+olika logistikkrav längs försörjningskedjan
+värdera olika förpackningssystem utifrån behov och krav
+från försörjningskedjan
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+redovisa både muntligt och skriftligt lämpligaste
+förpackningslösning utifrån en presenterad
+problemställning
+diskutera med olika målgrupper förpackningens roll i
+försörjningskedjan
+
+
+Kursinnehåll
+Inom förpackningslogistiken arbetar man med förpackningsteknik
+och logistik för att förbättra effektiviteten i
+försörjningskedjan. Förpackningslogistiken utgår från
+kunskaper inom logistik avseende både teknik och ekonomi samt
+förpackningens funktion i olika industriella tillämpningar.
+Kursen består främst av ett projekt med syftet att förbättra
+ett befintligt förpackningssystem utifrån ett
+förpackningslogistiskt perspektiv. Projektet stöds av
+föreläsningar, fallstudier och återkopplingsseminarier, där
+olika förpackningslogistiska analyser och synteser genomförs.
+Analysmetoder, dimensioneringsmetoder och styrfilosofier för
+retursystem kommer att behandlas liksom aktuella
+förpackningslogistiska frågeställningar.
+Relevans för en miljömässigt hållbar utveckling
+Förpackningar och transporter är identifierade av samhället som
+väsentliga vid utveckling av ett uthålligt kretsloppssamhälle.
+Miljöaspekterna löper därför som en röd tråd genom
+kursen.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examination kommer att ske både enskilt genom skriftlig tentamen och baserat på ett projektarbete i grupp. Under kursens gång skall projektet redovisas i form av teknisk rapport och muntlig presentation.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0119. Benämning: Projekt. 
+Antal högskolepoäng: 4. Betygsskala: TH.  Prestationsbedömning: Examination kommer att ske både enskilt genom skriftlig tentamen och baserat på ett projektarbete i grupp. Under kursens gång skall projektet redovisas i form av teknisk rapport och muntlig presentation. 
+Kod: 0219. Benämning: Skriftlig examen. 
+Antal högskolepoäng: 3,5. Betygsskala: TH.  Prestationsbedömning: Examination kommer att ske både enskilt genom skriftlig tentamen och baserat på ett projektarbete i grupp. Under kursens gång skall projektet redovisas i form av teknisk rapport och muntlig presentation. 
+Antagningsuppgifter
+Förutsatta förkunskaper: MTTF01 Logistik
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: MTT215
+Kurslitteratur
+
+Henrik Pålsson: Packaging Logistics, Understanding and managing the economic and environmental impacts of packaging in supply chains. Kogan Page, 2018, ISBN: 978-0-7494-8170-4.
+Artikelsamling.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Henrik Pålsson, henrik.palsson@plog.lth.se
+Hemsida: http://www.plog.lth.se/education/master-courses/
+
+
+

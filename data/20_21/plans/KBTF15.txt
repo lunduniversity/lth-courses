@@ -1,0 +1,92 @@
+
+Kursplan 2020/21 KBTF15
+
+
+
+
+
+Kursplan för
+Bioprocessteknik
+Bioprocess Technology
+KBTF15, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning B/K
+Beslutsdatum: 2020-03-27
+Allmänna uppgifter
+Huvudområde: Bioteknik. 
+Huvudområde: Teknik. 
+Obligatorisk för: B3, MBIO1
+Valfri för: K5-p, W4-p
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Kursen syftar till att ge en grundläggande förståelse för
+hur biokatalysatorer kan användas i processtekniska
+sammanhang.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+förstå samspelet mellan mikrobiell tillväxt och
+produktbildning och masstransport.
+förstå samspelet mellan mikrobiell tillväxt och
+produktbildning och den omgivande miljön.
+förstå olika "mode of operation" för odling av
+mikroorganismer och deras för och nackdelar.
+ha övergripande kunskap om bioprocessen från råvara till
+produkt.
+ha grundläggande kunskap i användning av enzymer.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna genomföra, utvärdera och rapportera en bioteknisk
+process i laboratorieskala.
+kunna göra massbalansberäkningar över bioreaktorer.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+ha grundläggande insikt i biosäkerhetsfrågor.
+
+
+Kursinnehåll
+Mikrobiell kinetik, odlingsteknik, enzymteknologi, industriella
+mikroorganismer, mätning och styrning, råvaror för
+bioteknikindustrin, sterilisering och biosäkerhet,
+bioreaktorer, masstransport, enzymteknologi,
+nedströmsoperationer. Laboration i odlingsteknik.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen. Laborationsrapport.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Bioprocessteknik. 
+Antal högskolepoäng: 6. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen. 
+Kod: 0217. Benämning: Laboration. 
+Antal högskolepoäng: 1,5. Betygsskala: UG.  Prestationsbedömning: Laborationsrapport. 
+Antagningsuppgifter
+Förkunskapskrav:
+KBKA05 Teknisk biologi eller KMBA01 Mikrobiologi eller KMBF01 Molekylär cellbiologi
+
+
+Förutsatta förkunskaper: KETF25 Reaktionsteknik
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: KBT115, BLT010, KBT070
+Kurslitteratur
+
+Larsson, G.: Cultivation Technology. KTH. Kompendium.
+Stenciler.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Carl Grey, Carl.Grey@biotek.lu.se
+Kursansvarig: Javier Linares-Pastén , javier.linares-pasten@biotek.lu.se
+Hemsida: http://www.biotek.lu.se/KBTF15
+
+
+

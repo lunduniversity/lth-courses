@@ -1,0 +1,139 @@
+
+Kursplan 2020/21 MIOF10
+
+
+
+
+
+Kursplan för
+Material- och produktionsstyrning
+Production and Inventory Control
+MIOF10, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning I
+Beslutsdatum: 2020-04-03
+Allmänna uppgifter
+Obligatorisk för: MLOG1
+Valfri för: E4-pla, I4-pr, I4-lf, M4-lp
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursen avser att ge grundläggande kunskaper beträffande
+styrning och utformning av produktions- och lagersystem. Kursen
+presenterar både kvantitativa och icke-kvantitativa metoder för
+effektiv produktion och lagerstyrning.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+- kunna använda grundläggande kvantitativa metoder för
+styrning och utvärdering av produktionssystem och
+materialflöden.
+- ha visat prov på att självständigt kunna strukturera och lösa
+mindre projektarbeten.
+
+Vidare ställs krav på studenten:
+- att kunna redogöra för och tillämpa deterministisk
+nätverksplanering.
+- att kunna redogöra för och tillämpa linjebalansering.
+- att förstå de grundläggande principerna för Just-in-time
+produktion.
+- att studenten förväntas kunna redogöra för övergripande
+styrkor och svagheter med ”Pull” orienterade system kontra
+”Push” orienterade system av MRP karaktär.
+- att förstå grundläggande problem kring detaljplanering och
+körplanering samt att kunna använda dessa metoder i enklare
+fall.
+- att kunna redogöra för och tillämpa huvudplanering.
+- att kunna redogöra för, tillämpa och utvärdera olika typer av
+prognosmetoder.
+- att kunna redogöra för och tillämpa enkla lagersystem med
+deterministisk efterfrågan. Detta involverar framför allt
+EOQ-modellen och några varianter av denna.
+- att kunna redogöra för och tillämpa kvantitativa modeller för
+styrning av enkla lagersystem med osäkerhet i efterfrågan
+(företrädesvis då efterfrågan antas vara normalfördelad).
+Detta involverar beräkning av olika typer av servicemått och
+förväntade kostnader samt optimering av beslutsvariabler i form
+av beställningspunkter och orderkvantiteter.
+- att kunna redogöra för och tillämpa kvantitativa modeller för
+koordinerad beordring i ett urval av enkla lagersystem
+- att kunna redogöra för och tillämpa kvantitativa modeller för
+styrning av kopplade lagersystem av olika struktur då efterfrågan
+är deterministisk (fallet med slumpmässig efterfrågan behandlas
+i MION01).
+- att kunna redogöra för kvantitativa modeller för analys av
+beslutsregler baserade på echelon- och
+installationslagerinformation.
+- att kunna redogöra för och använda heuristiker för cyklisk
+planering.
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+ha förmåga och färdighet att självständigt lösa och
+använda relevanta kvantitativa modeller för analys och styrning.
+Konkreta områden och modelltyper som studenten ska bemästra
+inkluderar:
+- Linjebalanseringsmetoder baserade på ”längsta operationstid
+först” och ”positionsvikt”.
+- Prognosmetoder i form av enkel exponentiell utjämning, glidande
+medelvärde, exponentiell utjämning med trend, MAD,
+standardavvikelse för prognosfel. Även prognosuppföljning
+ingår.
+- Huvudplanering (LP, MIP modeller)
+- Grundläggande detalj- och körplanering med fokus på
+deterministiska modeller.
+- Stokastiska modeller för utvärdering och optimering av enkla
+lagersystem (single-echelon systems) under olika antaganden:
+kontinuerlig inspektion, normalfördelad efterfrågan, Poisson
+efterfrågan, lagerhållning över en och flera perioder,
+fullständig bristnotering av restorder, servicenivåkrav (S1, S2)
+och bristkostnader, (R,Q) och (S-1,S) system, deterministiska
+ledtider, koordinerad beordring.
+- Lagerstyrningsmodeller med varierande deterministisk efterfrågan
+i olika perioder. Fokus är på den exakta metoden: ”Wagner
+Whitin”, och den approximativa metoden: ”Silver-Meal”.
+- Metoder för cyklisk planering i form av heuristiska metoder som
+”gemensam cykeltid”, ”den oberoende lösningen” och
+”Doll-Whybark”.
+Studenten förväntas kunna använda etablerade facktermer och på
+ett tydligt sätt kommunicera lösning och tolkning av kvantitativa
+modeller (och i viss mån problemformulering). Efter genomgången
+kurs ska studenten självständigt kunna använda enkla lager- och
+produktionsstyrningsmetoder för att lösa och analysera verkliga
+industrinära problem.
+
+Kursinnehåll
+Kursen syftar till att ge grundkunskaper i kvantitativ
+modellering av produktions- och lagersystem både ur ett teoretiskt
+och praktiskt perspektiv. Kursen använder teorier och metoder som
+studerats i de grundläggande kurserna i sannolikhetslära och
+industriell ekonomi AK. Kursen diskuterar utmaningar med att
+applicera teorier om lager- och produktionssystem i praktiken, t
+ex. vad gäller optimering av beställningspunkter och
+orderkvantiteter och användning av prognosmetoder.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examinationen består av tentamen i sal samt inlämningsuppgifter. Slutbetyget avgörs från tentamensresultatet.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0110. Benämning: Material- och produktionsstyrning. 
+Antal högskolepoäng: 7,5. Betygsskala: TH. 
+Kod: 0210. Benämning: Praktik. 
+Antal högskolepoäng: 0. Betygsskala: UG. 
+Antagningsuppgifter
+Förutsatta förkunskaper: MIO012/MIOA01/MIOA12/MIOA15 Industriell ekonomi AK, FMS012/FMSF45 Matematisk statistik AK (eller motsvarande).
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: MIO030
+Kurslitteratur
+
+Axsäter, S., Inventory Control, Springer, 2006 (e-book för LTH studenter).
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Peter Berling, peter.berling@iml.lth.se
+Hemsida: http://www.pm.lth.se
+
+
+

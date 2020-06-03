@@ -1,0 +1,183 @@
+
+Kursplan 2020/21 MVKN95
+
+
+
+
+
+Kursplan för
+Miljövänlig elproduktion
+Environmentally Friendly Power Generation
+MVKN95, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning M
+Beslutsdatum: 2020-03-26
+Allmänna uppgifter
+Valfri för: E4-em, M5-en
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Mycket av dagens diskussion om kraftverksteknik fokuserar kring
+koldioxidemissioner och deras koppling till klimatförändringarna.
+I Sverige produceras idag största delen av elektriciteten med
+kärnkraft och vattenkraft som kännetecknas av mycket låga CO2
+emissioner. Detta gör att Sverige har låga koldioxidutsläpp
+från kraftproduktion i jämförelse med andra länder. Globalt är
+dock fossila kraftverk dominerande (ca 40 % av världen el
+produceras med kolkraftverk).
+Globalt ökar energianvändning och elektricitet har en ökande
+andel av denna. De flesta prognoser pekar på kraftigt ökad
+konsumtion av el de kommande decennierna. Detta betyder att nya
+kraftproduktionsenheter kommer att behöva installeras runt om i
+världen samtidigt som äldre kraftverk kommer att fasas ut då de
+nått sin tekniska livslängd. Utöver detta pågår diskussionen
+kring kärnkraften som är kontroversiell, både politiskt och
+ekonomiskt, och därför har en osäker framtid.
+
+Kursen syfte är att ge en fördjupad förståelse för olika typer
+av kraftverksprocesser, deras funktionssätt, miljökonsekvenser
+och lämplighet för dagens elförsörjning. Tonvikten ligger på
+utsläpp av CO2, men även andra miljöaspekter behandlas. Kursen
+belyser olika kraftverksprocessers svagheter och styrkor och hur
+dessa kombineras för att skapa förutsättningar för stabil
+energiproduktion.
+
+De processer som berörs är förnyelsebara (solkraft, vindkraft
+och bio-eldade termiska kraftverk) men även kärnkraft och
+fossileldade kraftverk med CO2 avskiljning.
+En väsentlig del av kursen handlar om svårigheter med
+introduktion av elproduktion från sol och vind som är beroende av
+väder. Här diskuteras problematiken kring matchning av produktion
+och konsumtion.
+
+En mindre del av kursen tar upp ekonomiska förutsättningar för
+olika kraftslag och de styrmedel som finns.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna beskriva de i kursen behandlade kraftverksprocesserna och
+deras miljöpåverkan
+kunna redogöra för möjligheter och begränsningar för
+flyktig elproduktion
+kunna ge en termodynamisk beskrivning av tekniker för
+koldioxidavskiljning och deras inverkan på kraftverkets
+verkningsgrad
+vara bekant med dagens kärnkraftsverks konstruktion och tankar
+kring nya konstruktioner
+ha en fördjupad kunskap inom det området uppsatsen
+väljs
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna göra tekniska överslagsberäkningar för de i kursen
+behandlade kraftverksprocesserna
+aktivt kunna delta i diskussioner kring relevanta problem för
+elproduktion
+kunna göra en kunskapssammanställning inom för ämnet
+relevanta tekniker
+muntligt och skriftligt kunna redovisa potential och problem
+för de behandlade kraftverksprocesserna
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna värdera miljömässiga och andra konsekvenser av olika
+elproduktionsmetoder
+kunna utvärdera och förhålla sig till de begränsningar som
+varje enskild kraftverksprocess har
+kunna diskutera och bedöma hur olika kraftsystem samspelar
+inom ett elsystem och i begränsad omfattning kopplingen mot andra
+energisystem
+
+
+Kursinnehåll
+28 h föreläsningar
+14 h Seminarier
+14 h (Schemalagd) handledning av uppsats
+144 h Självstudier
+Ett eller två studiebesök planeras.
+
+Kursen kan delas in i tre delar där den första behandlar
+produktionsmetoder. Detta är också den största delen.
+Perspektivet kan sägas vara tekniskt, men ur användarens (inte
+tillverkarens) perspektiv. Den andra delen behandlar svårigheten
+med flyktig elproduktion, sådan som styrs av väder och därför
+inte kan regleras. Detta kan skapa en obalans mellan produktion och
+konsumtion. Här ingår även översiktligt olika
+konsumtions-mönster, hur de ser ut idag och hur de kan
+förändras. Den sista och minsta delen handlar om ekonomiska
+aspekter.
+Produktion inkluderar följande kraftslag/tekniker:
+ 
+
+Vattenkraft
+Vindkraft
+PV Sol och termisk solkraft. Solinstrålning
+Biokraft och bränsleomformning: biobränslen för externt och
+internt eldade cykler, omvandling av bränslen
+CO2-avskiljning: Fysikaliska och kemiska processer för
+CO2-avskiljning, cykler för CCS, komprimering och lagring av
+CO2
+Kärnkraft: befintliga kraftverk, tänkta framtida kraftverk
+(4G)
+
+ 
+Matchning av produktion och konsumtion:
+
+Över- och underskott av el: backup i bristsituationer,
+alternativ elanvändning vid överskott (Power 2 heat,
+elektrobränslen)
+Lagring av el: fokus på längre lagring; pumpkraftverk
+mm.
+Demand respons och "smarta" nät: översikt
+
+ 
+Ekonomiska aspekter
+
+Levelised cost of electricity (LCOE)
+Skatter och andra styrmekanismer
+Kostnader för infrastruktur; nät och lager
+
+ 
+Den större delen av ovan beskrivna innehåll behandlas i
+föreläsningarna. Seminarierna är av beräkningskaraktär och
+syftar till att ge konkreta exempel på möjliga val en ingenjör
+kan möta. 
+Slutligen skall studenterna att skriva en uppsats med ett ämne
+från en given lista för att få en djupare förståelse i ett mer
+avgränsat område. Uppsatsen skall presenteras muntligt vid ett
+seminarium.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Tentamen samt en uppsats som ska redovisas muntligt
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0118. Benämning: Skriftlig tentamen. 
+Antal högskolepoäng: 5. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen. 
+Kod: 0218. Benämning: Uppsats. 
+Antal högskolepoäng: 2,5. Betygsskala: UG.  Prestationsbedömning: Uppsats med muntlig redovisning samt kamratgranskning av annan uppsats. 
+Antagningsuppgifter
+Förutsatta förkunskaper: MMVF01 Termodynamik och strömningslära, MVKF01 Miljö och energi i hållbar utveckling eller motsvarande.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: MVKN25
+Kurslitteratur
+
+Material från VGB.
+Material från avdelningens egen forskning.
+Vetenskapliga artiklar för uppsatser.
+Klimstra & Hottakainen "Smart Power generation".
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Jens Klingmann, Jens.Klingmann@energy.lth.se
+Examinator: Jens Klingmann, Jens.Klingmann@energy.lth.se
+Hemsida: http://www.tpe.energy.lth.se/utbildning/mvkn95-environmentally-friendly-power-generation/
+
+
+

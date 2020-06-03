@@ -1,0 +1,84 @@
+
+Kursplan 2020/21 MAMF40
+
+
+
+
+
+Kursplan för
+Projekt årskurs 3
+Project Year 3
+MAMF40, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning C/D
+Beslutsdatum: 2020-03-30
+Allmänna uppgifter
+Obligatorisk för: IDA3
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursens syfte är att vidareutveckla och fördjupa studentens
+erfarenheter från tidigare projektkurser och därmed förbereda
+studenten för industriella projekt i sin kommande yrkesverksamhet.
+Studenterna arbetar i verklighetsnära projekt under kursens
+gång.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+kunna förklara och använda centrala begrepp som rör
+projektbaserad utveckling inom datateknikområdet.
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna formulera en problemställning inom datateknikområdet
+och kunna bryta ned problemställningen i delproblem
+kunna välja och argumentera för en projektmodell
+kunna designa, testa, bygga och utvärdera ett system inom
+datateknikområdet, utifrån en projektuppgift
+kunna göra en bedömning av projektprocessen samt samarbetet
+inom projektgruppen
+kunna beskriva och utvärdera ett utfört projekt i en
+skriftlig rapport och en muntlig presentation
+kunna inhämta och värdera information för att kunna lösa
+problem inom datateknikområdet.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+kunna arbeta och visa samarbetsförmåga i gruppsammanhang.
+
+Kursinnehåll
+Kursen innehåller inledande föreläsningar och seminarier om
+projekthantering och processmodeller. Baserat på dessa kunskaper
+och erfarenheter från tidigare kurser ska studenterna välja
+lämplig projektmodell för det valda projektet. Större delen av
+kursen består av arbete med projektet där studenterna ska
+designa, bygga och testa ett system inom datateknikområdet.
+Processen sammanfattas och utvärderas i en skriftlig rapport och
+muntlig presentation. Inlärningen sker genom en blandning av
+föreläsningar, handledning och projektarbete i grupp.
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: Examinationen består av en skriftlig rapport och muntlig gruppvis examination. För godkänd kurs krävs även godkänt på ett individuellt, skriftligt moment. Deltagande i gruppbildningen vid kursens start är obligatorisk. Under kursens gång är det obligatoriskt att delta aktivt i övningar och vid handledningstillfällen samt delta aktivt i och ta ansvar för projektarbetet.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+ETS032 Programvaruutveckling för stora system eller ETSF20 Programvaruutveckling för stora projekt
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: EDT655
+Kurslitteratur
+
+Kompendium tillhandahålls av institutionen.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Lise Jensen, Ingenjörshögskolan i Helsingborg, lise.jensen@hbg.lth.se
+Övrig information: Observera att på grund av projektets karaktär krävs närvaro alla kursveckor
+
+
+

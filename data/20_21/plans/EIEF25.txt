@@ -1,0 +1,88 @@
+
+Kursplan 2020/21 EIEF25
+
+
+
+
+
+Kursplan för
+Projekt i Automation
+Project in Automation
+EIEF25, 11 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning E
+Beslutsdatum: 2020-03-19
+Allmänna uppgifter
+Obligatorisk för: IEA3
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursen är uppdelad på en projektförberedande del och en
+projektdel. Den förberedande delen på 3.5 hp innehåller dels
+inslag av projektmetodik och dels tekniska inslag avsedda som
+komplettering av tidigare kurser. Projektdelen på 7.5 hp syftar
+till att ge en erfarenhet att arbeta i smärre projektgrupper (2-4
+studenter) inom automation. I första hand är det tänkt att denna
+del skall utföras på ett företag med verksamhet inom
+automation/elkraft. Som alternativ erbjuds inhouse-projekt med
+konstruktion som har inriktning mot automation och
+reglerteknik.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+kunna tolka och analysera elscheman framför allt med inriktning
+mot automation,
+kunna redogöra för de vanligaste metoderna för projektmetodik
+inom industrin,
+kunna redogöra för olika aspekter av säkerhet inom
+installation.
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+kunna arbeta i projekt med inriktning mot automation och
+reglerteknik samt praktiskt kunna tillämpa kunskaper från denna
+och tidigare kurser,
+kunna utföra konstruktionsritningar med CAD,
+kunna välja materiel till ett automationssystem utifrån en
+given specifikation,
+kunna använda elmateriel enligt föreskrifter avseende
+säkerhet.
+
+Kursinnehåll
+Projekthantering i industriella automationsprojekt,
+Val av komponenter i ett automationssystem utifrån given
+specifikation,
+Utförande av konstruktionsritningar med bl a CAD,
+Dokumentation av automationssystem,
+Specifikation av reservdelslistor,
+Installationsteknik.
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: Godkänt projekt samt godkända laborationsuppgifter och godkända inlämningsuppgifter.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0113. Benämning: Projekt . 
+Antal högskolepoäng: 7,5. Betygsskala: UG.  Prestationsbedömning: Godkänt projekt  Delmomentet omfattar: Projekt 
+Kod: 0213. Benämning: Laborationer och inlämningsuppgifter. 
+Antal högskolepoäng: 3,5. Betygsskala: UG.  Prestationsbedömning: Godkända laborationsredovisningar.  Delmomentet omfattar: Laborationer 
+Antagningsuppgifter
+Förkunskapskrav:
+Obligatoriska moment (laborationer) i EIEF06 eller EIEF05 Automationsteknik
+
+
+Förutsatta förkunskaper: ETEF15 Krets- och mätteknik, fortsättningskurs, EIEF06 eller EIEF05 Automationsteknik
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: EIEF15
+Kurslitteratur
+
+K.L.S. Sharma: Overview of Industrial Process Automation. Elsevier, 2011, ISBN: 978-0-12-415779-8.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Mats Lilja, Mats.Lilja@hbg.lth.se
+Hemsida: http://rauni.iea.lth.se:8074/eief25/projautom.htm
+
+
+

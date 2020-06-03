@@ -1,0 +1,89 @@
+
+Kursplan 2020/21 ETSF15
+
+
+
+
+
+Kursplan för
+Kommunikationssystem och nätverk
+Communication Systems and Networks
+ETSF15, 5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning C/D
+Beslutsdatum: 2020-03-30
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: E3
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursen ger en introduktion till kommunikationsområdet och
+syftar till att studenten ska förstå behoven och principerna för
+ett kommunikationssystem på olika nivåer, inkluderande det
+fysiska lagret.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna redogöra för behovet av protokoll i ett
+kommunikationssystem
+kunna redovisa motiv för och konsekvenser av att använda
+hierarkiska referensmodeller
+förstå möjligheter och begränsningar i olika lager av ett
+kommunikationssystem
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna syntetisera och praktiskt implementera
+protokollfunktioner utifrån krav och begränsningar
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna jämföra och bedöma för- och nackdelar med olika
+strategier för att realisera delfunktioner i
+kommunikationssystem
+
+
+Kursinnehåll
+Kursen ger en bred översikt över de principer och tekniker som
+utgör grunden för dagens kommunikationssystem. Kunskaperna byggs
+upp genom att studenterna aktivt undersöker hur enkla plattformar
+kan fås att kommunicera med varandra under varierande grader av
+svårigheter (val av transmissionsmedium och modulation, brutna
+länkar, resursdelning, överbelastning etc). Därefter ges en
+teoretisk förklaring och utvidgad lösning för allmännare fall.
+Ett återkommande inslag i kursen är hur samma principer kan
+användas för att lösa problem på flera olika nivåer i
+kommunikationssystemet, och behovet av protokoll för
+kommunikationen.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen. Laborationer.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0118. Benämning: Kommunikationssystem och nätverk. 
+Antal högskolepoäng: 3. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen. 
+Kod: 0218. Benämning: Laborationer. 
+Antal högskolepoäng: 2. Betygsskala: UG.  Prestationsbedömning: Laborationer. 
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: ETS052, EITA55, EITF45, EITF25, ETS130
+Kurslitteratur
+
+Maria Kihl & Jens A. Andersson: Datakommunikation och Nätverk, upplaga 1:2. Studentlitteratur, 2013, ISBN: 9789144083063.
+William Stallings: Data and Computer Communications, 10th edition. Pearson, ISBN: 9781292014388.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Kaan Bür, kaan.bur@eit.lth.se
+Hemsida: http://www.eit.lth.se/kurs/etsf15
+
+
+

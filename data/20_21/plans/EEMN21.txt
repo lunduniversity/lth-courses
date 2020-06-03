@@ -1,0 +1,103 @@
+
+Kursplan 2020/21 EEMN21
+
+
+
+
+
+Kursplan för
+Introduktion till mikrofluidik och lab-on-a-chip system
+Introduction to Microfluidics and Lab-on-a-chip Systems
+EEMN21, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning BME
+Beslutsdatum: 2020-03-24
+Allmänna uppgifter
+Valfri för: BME4-bf, E4-mt, F4, F4-mt, F4-nf, N4-nbm
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Kursen ska ge en bred introduktion till mikrofluidik-området
+med en särskild inriktning mot lab-on-a-chip-system. Mikrofluidik
+och lab-on-a-chip-system hanterar vätske- och gasflöden i
+mikrometerstora kanaler, ofta för kemisk och biokemisk analys.
+Området är tvärvetenskapligt där miko- och nanoteknologi
+utnyttjas för integration av t. ex. elektriska, mekaniska, kemiska
+och optiska funktioner på ett chip. System som baseras på
+mikrofluidik har viktiga tillämpningar inom områden som kemi,
+biologi och medicin.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+Förstå för hur designgeometrier och fysikaliska parametrar
+påverkar mikrofluidiksystemens egenskaper och funktion.
+Beskriva metoder som finns för tillverkning av
+mikrofluidiksystem, samt generering och styrning av
+mikroflöden.
+Beskriva vanligt förekommande komponenter och funktioner i ett
+mikrofluidikssystem.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+Experimentellt kunna koppla upp och hantera mikrofluidiksystem
+samt instrumentering och metoder för undersökning av dessa.
+Kunna designa ett enklare mikrofluidiksystem.
+Kunna läsa, sammanfatta och diskutera vetenskapliga artiklar
+om mikrofluidik och lab-on-a-chip-system.
+Kunna sammanfatta och diskutera experimentella resultat
+muntligen och skriftligen.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+Kunna analysera fördelar och begränsningar med
+miniatyrisering av fluidiksystem.
+Ha insett vikten av ett analytiskt och vetenskapligt
+arbetsätt.
+
+
+Kursinnehåll
+Flödesmekanik i mikrosystem, material och tillverkningsmetoder
+för mikrofluidiksystem, ytspänning, viskositet, diffusion,
+dimensionslösa parametrar (t.ex. Reynolds tal),
+flödeskarakterisering, ventiler, mekaniska och elektrokinetiska
+pumpmetoder, blandning, dropp-baserade mikrofluidiksystem, kemisk
+separation, cellseparation, detektion, tillämpningar inom kemi,
+biologi och medicin samt akustik på chip.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: För godkänd kurs krävs att man är godkänd på följande moment: laborationer med tillhörande rapporter, artikelpresentationen, genomförande och redovisning av projekt samt skriftlig tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0120. Benämning: Tentamen. 
+Antal högskolepoäng: 4. Betygsskala: TH.  Prestationsbedömning: Betygsättning av tentamen.  
+Kod: 0220. Benämning: Labb 1-3, artikelpresentation, projektrapport & presentation. 
+Antal högskolepoäng: 3,5. Betygsskala: UG.  Prestationsbedömning: Godkända laborationer
+Godkänd artikelpresentation
+Godkänd projektrapport och presentation 
+Antagningsuppgifter
+Förutsatta förkunskaper: Grundläggande kurser i fysik, kemi eller biologi.
+Begränsat antal platser: 32
+Urvalskriterier: Antal poäng på programmet.
+Förtur ges till studenter vars program har kursen listad i sin lär- och timplan.
+Kursen kan ställas in: Om färre än 8 anmälda.
+Kursen överlappar följande kurser: EEMN20, EEM055
+Kurslitteratur
+
+Albert Folch: Introductin to BioMEMS. ISBN: 978-1-4398-1839-8.
+Föreläsningsmaterial, övningar och laborationshandledningar.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Pelle Ohlsson, pelle.ohlsson@bme.lth.se
+Kursansvarig: Per Augustsson, per.augustsson@bme.lth.se
+Hemsida: http://bme.lth.se/course-pages/introduktion-till-mikrofluidik-och-lab-on-a-chip-system
+
+
+

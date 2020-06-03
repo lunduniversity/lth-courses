@@ -1,0 +1,141 @@
+
+Kursplan 2020/21 MIOA12
+
+
+
+
+
+Kursplan för
+Industriell ekonomi, allmän kurs
+Managerial Economics, Basic Course
+MIOA12, 6 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning I
+Beslutsdatum: 2020-04-03
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: E2, MD1, V2, W3
+Alternativobligatorisk för: F3
+Valfri för: BI4, C4, D4-se, IBYA3, IBYI3, IBYV3, IDA3, IEA3, N3, Pi4, RH4
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursens syfte är att ge en allmän ekonomisk översikt.
+Studenterna ska utgående från ett ekonomiskt perspektiv få
+förståelse för hur olika delsystem i företaget samverkar.
+Kursen avser att ge grundläggande förmåga att förstå och
+använda de ekonomiska och affärsmässiga begreppen. Även de
+grundläggande modellerna som används i dessa sammanhang ingår i
+kursen. Utgående från dessa baskunskaper ska studenterna göra
+bedömningar med hänsyn till den helhet företaget utgör.
+Speciellt betonas de baskunskaper i industriell ekonomi som kommer
+att vara nödvändiga i en civilingenjörs yrkesverksamhet.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+förklara och förstå den grundläggande företagsekonomiska
+begreppsapparaten.
+beskriva grundläggande begrepp och modeller inom följande
+områden: affärsidé, strategi samt organisation och
+marknadsföring.
+förstå och beskriva modeller och nyckelbegrepp inom produkt-
+och investeringskalkylering.
+beskriva och ha förståelse för grundläggande extern
+affärsredovisning.
+formulera kapitalbehovsberäkningar på detaljnivå i
+tillverkande företag.
+ha inblick i möjliga finansieringsalternativ.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+använda och syntetisera grundläggande företagsekonomiska
+modeller och begrepp inom produktkalkylering och
+investeringsbedömning.
+övergripande tillämpa löpande extern redovisning och göra
+bokslut samt med hjälp av nyckeltal utvärdera ett företags
+årsredovisning.
+använda kapitalbehovsberäkningar på detaljnivå i
+tillverkande företag.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+visa insikt i teknikens möjligheter och begränsningar, dess
+roll i samhället och människors ansvar för hur den används,
+inbegripet sociala och ekonomiska aspekter samt miljö- och
+arbetsmiljöaspekter.
+
+
+Kursinnehåll
+Efter en allmän introduktion om företaget som studieobjekt
+introduceras ett antal ekonomiska grundbegrepp och modeller. Först
+belyses områdena affärsidé, strategi, organisation och
+marknadsföring. Därefter beskrivs kostnads- och intäktsanalysens
+grundbegrepp följt av resultatplaneringsmodeller som beskriver hur
+dessa grundläggande ekonomiska begrepp påverkas av volymen.
+Produktkalkylering behandlas ingående. Både
+självkostnadskalkyler och bidragskalkyler beskrivs med syftet att
+studenterna ska kunna tillämpa modellerna och förstå deras
+starka och svaga sidor.
+När man ska inhämta data till olika kalkyler och modeller
+behöver man ha översiktlig förståelse för hur den ekonomiska
+informationen lagras i ett företag. Denna kunskap förmedlas genom
+att bokföringslagens innehåll översiktligt beskrivs, med bland
+annat övningar där studenterna praktiskt får pröva på att
+tillämpa löpande redovisning och göra bokslut. Tonvikten ligger
+på extern redovisning. En översiktlig genomgång av basplanen
+ingår i kursen. Även innehållet i årsredovisningslagen beskrivs
+översiktligt. Fokus ligger här mer på förståelse av
+företagets årsredovisning och att kunna genomföra en
+räkenskapsanalys. Dessa grundläggande färdigheter inom
+affärsredovisning erbjuds studenterna att tillämpa på en
+laboration där man i grupper om två får möjlighet att simulera
+affärshändelser i ett aktiebolag. Varje affärshändelse
+bokförs, och under spelets gång görs ett antal bokslut samt
+uppföljning av hur det går för företaget med hjälp av
+nyckeltal.
+Genom hela kursen gäller att de baskunskaper i industriell
+ekonomi som kommer att vara nödvändiga i en civilingenjörs
+yrkesverksamhet speciellt betonas. Det märks extra tydligt då
+investeringsbedömning behandlas. Här beskrivs de grundläggande
+statiska modellerna för investeringsbedömning ingående då det
+är viktigt att en civilingenjör kan ta fram riktiga
+lönsamhetsbedömningar som beslutsunderlag vid
+investeringssituationer. Om detta investeringsunderlag ska vara
+komplett för ett tillverkande företag krävs ofta att
+kapitalbehovsberäkningar görs. Detaljanalys för att bestämma
+behovet av kapital behandlas ingående i kursen. Hur man kan
+finansiera ett företags verksamhet beskrivs därefter
+översiktligt.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Godkänt praktikfall och skriftlig examination. Tentamen består av både teorifrågor och problemlösning. För godkänt resultat på kursen krävs totalt 30 poäng varav 5 poäng kommer från godkänt praktikfall.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0118. Benämning: Industriell ekonomi, allmän kurs. 
+Antal högskolepoäng: 6. Betygsskala: TH. 
+Kod: 0218. Benämning: Praktikfall. 
+Antal högskolepoäng: 0. Betygsskala: UG.  Prestationsbedömning: Förberedd inlämningsuppgift och aktivt medverkan vid casediskussionen. 
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: MIO012, MIO080, MIOA01
+Kurslitteratur
+
+Möller, J (red): Övningar i Industriell ekonomi, Liber-Hermods, senaste versionen.
+Olsson, J & Skärvad, P-H: Företagsekonomi 100 Faktabok, Liber-Hermods, senaste versionen.
+Becker,M (red): Kompendium i Industriell ekonomi AK.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Universitetsadjunkt Mona Becker, Mona.Becker@iml.lth.se
+Hemsida: http://www.pm.lth.se
+Övrig information: Endast en av kurserna MIOA12, MIOA15, MIO012 eller MIOA01 får ingå i examen.
+
+
+

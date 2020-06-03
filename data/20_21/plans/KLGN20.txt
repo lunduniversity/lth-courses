@@ -1,0 +1,120 @@
+
+Kursplan 2020/21 KLGN20
+
+
+
+
+
+Kursplan för
+Livsmedelsteknik
+Food Engineering
+KLGN20, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning B/K
+Beslutsdatum: 2020-03-27
+Allmänna uppgifter
+Huvudområde: Livsmedelsteknik och nutrition. 
+Obligatorisk för: MLIV1
+Valfri för: B4-lm, K5-p
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Syftet med kursen är att ge fördjupade kunskaper i de
+fundamentala principer som styr livsmedelstekniska processer, med
+utgångspunkt i mass- och energitransport i livsmedelsindustrins
+enhetsoperationer.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+ 
+
+Beskriva och diskutera produktion av livsmedel utifrån
+enhetsoperationer.
+Tillämpa fördjupad kunskap om principer från
+transportprocesser samt mass- och energibalanser för att analysera
+livsmedelsprocesser.
+Ha grundläggande kunskaper om vanligen förekommande
+enhetsoperation inom livsmedelsindustrin.
+
+ 
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+ 
+
+Kunna dimensionera processutrustning för livsmedelsindustrin
+utifrån principer från grundläggande transportprocesser.
+Kunna formulera mass- och energibalanser som beskriver
+livsmedelstekniska enhetsoperationer i form av
+differentialekvationer, samt lösa dessa med matematiska
+verktyg.
+Kunna använda kalkylbladsmjukvara för livsmedelstekniska
+beräkningar.
+Kunna uppskatta och mäta termofysikaliska egenskaper av
+relevans för livsmedelstekniska processer.
+Kunna beräkna icke stationär värmeöverföring i
+livsmedel.
+Kunna utföra processberäkningar med hänsyn till mikrobiella
+och kemiska kvalitetsparametrar.
+Kunna beräkna fryshastigheter givet kända egenskaper
+uppgifter om livsmedlet och frysutrustningen.
+Kunna beräkna dehydreringshastigheter för livsmedel med
+hjälp av mass- och energibalanser och Mollierdiagram.
+
+ 
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+ 
+
+Ha grundläggande kunskaper i säkerhetsfrågor som rör
+livsmedelsförädling.
+Kunna kritiskt utvärdera samt jämföra modelskattningar och
+experimentellt framtagen data för livsmedelstekniska
+tillämpningar.
+Kunna kritiskt utvärdera mätosäkerhet och förutsäga hur
+osäkerhet fortplantas i livsmedelstekniska beräkningar.
+
+ 
+
+Kursinnehåll
+A) Livsmedelsteknikens fundamenta: Numeracitet, termofysikaliska
+egenskaper och osäkerhetsfortplantning. B) Värmeöverföring och
+livsmedel: Översikt av värmeöverföring, konvektiva
+värmeöverföringskoefficienter i livsmedelstillämpningar,
+värmeväxling och instationär värmetransport. C) Kinetik:
+Översikt av reaktionskinetik, konserveringstekniker,
+värmebehandlingsberäkningar för livsmedelsberedning, letalitet.
+D) Frysteknik och livsmedel: Frysmekanismer, utrustning,
+kvalitetspåverkan och infrysningshastighet. E) Massöverföring
+och dehydrering: Översikt av masstransport i livsmedelsprocesser,
+konvektiv och diffusiv masstransport vid livsmedelsberedning,
+torkhastighet och torkutrustning. Lärandeaktiviteter såsom
+föreläsningar, seminarier, problemlösning, datorlaborationer och
+praktiska pilotskaleförsök ingår i kursen.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Inlämningsuppgifter, laborationer och tentamen. Slutbetygets TH-skala baseras på tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0119. Benämning: Tentamen. 
+Antal högskolepoäng: 7,5. Betygsskala: TH.  Delmomentet omfattar: Tentamen 
+Kod: 0219. Benämning: Laborationer. 
+Antal högskolepoäng: 0. Betygsskala: UG.  Prestationsbedömning: Rapportering  Övrig information: Laborationsdelen av kursen innehåller både "våta" laborativa moment och datorlaborationer. 
+Antagningsuppgifter
+Förutsatta förkunskaper: KETF01 Transportprocesser
+Begränsat antal platser: Nej
+Kurslitteratur
+
+R. Paul Singh and Dennis R. Heldman : Introduction to Food Engineering - 5th Edition. Academic Press. , ISBN: 978-0-12-398530-9.
+Handouts.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Andreas Håkansson, andreas.hakansson@food.lth.se
+Hemsida: http://www.food.lth.se
+
+
+

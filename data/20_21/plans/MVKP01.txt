@@ -1,0 +1,186 @@
+
+Kursplan 2020/21 MVKP01
+
+
+
+
+
+Kursplan för
+Fjärrvärme och fjärrkyla
+District Heating and Cooling
+MVKP01, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning M
+Beslutsdatum: 2020-03-26
+Allmänna uppgifter
+Valfri för: F4, F4-es, I4, M5-en, W4-es
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursens syfte är att ge en god överblick av ämnet
+fjärrvärme och fjärrkyla och att förmedla kunskaper om
+fjärrvärmens och fjärrkylans teknik och dess roll på
+energimarknaden och i energisystemet. Huvudsakliga ämnen som
+behandlas i kursen är följande: Introduktion – historia,
+koncept, värme- och kylmarknader. Värme- och kylbehov. Produktion
+av värme och kyla. Miljöbelastning och -fördelar.
+Distributionsteknik. Kundanläggningar. Ekonomi och framtida
+utmaningar.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna förstå de viktigaste parametrarna som påverkar värme-
+och kylbehovet i en byggnad, samt väsentliga begrepp som såsom
+graddagar och kapacitetsfaktor och hur dessa begrepp påverkar
+fjärrvärmen och fjärrkylans förutsättningar
+kunna förstå hur värmen i ett fjärrvärmenät och kylan i
+ett fjärrkylenät kan produceras med avseende på olika typer av
+produktionsanläggningar, bränslen och överskottsvärme från
+annan verksamhet
+kunna förstå hur ledningstekniken och fjärrvärmenäten ser
+ut och har utvecklats över tid
+kunna förstå hur en fjärrvärmecentral fungerar på ett
+övergripligt plan
+kunna förstå hur driften i fjärrvärmenätet styrs med
+utgångspunkt från tryck, temperatur och värmebehov
+kunna förstå vad som är specifikt för fjärrvärme och
+fjärrkyla i ett affärshänseende, samt ha fått insikt i
+fjärrvärmens och fjärrkylans marknadsförutsättningar
+kunna förstå fjärrvärmens roll i det övergripande
+energisystemet
+kunna förstå hur forskning inom fjärrvärme och fjärrkyla
+utförs samt ha fått en överblick över några aktuella
+forskningsfält där fjärrvärme och fjärrkyla berörs.
+
+ 
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+redovisa att denne har uppnått en god grund för att kunna
+arbeta med fjärrvärme och fjärrkyla inom ett yrkesval där
+ämnet ingår
+redovisa och kommunicera de övergripande perspektiv som
+behandlas inom kursen
+sammanställa och ta ut essensen i vetenskapliga publikationer
+inom området fjärrvärme och fjärrkyla
+visa förmåga till lagarbete och samverkan i
+arbetsgrupper
+påbörja examensarbete med inriktning inom fjärrvärme och
+fjärrkyla
+
+ 
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+visa insikt i fjärrvärme- och fjärrkylateknikens
+möjligheter och begränsningar, dess roll i energisystemet och
+samhället i stort.
+använda ett vetenskapligt förhållningsätt som innebär att
+kunna söka, kritiskt bedöma och tillämpa akademisk såväl som
+professionell kunskap inom området
+kunna delta i kvalificerade, övergripande diskussioner om
+fjärrvärme och fjärrkyla
+på ett kvalificerat sätt kunna ingå i arbetsgrupper inom
+företag som arbetar med fjärrvärme och fjärrkyla
+
+ 
+
+Kursinnehåll
+I kursen ingår föreläsningar, duggor, seminarier, övningar
+som utförs i grupp, samt en frivillig tenta för överbetyg.
+Kursen innefattar teknikhistoria ur ett fjärrvärmeperspektiv,
+en översikt över värme- och kylmarknader, hur värme- och
+kylbehov ser ut i olika verksamheter och vilka parametrar som
+påverkar värme- och kyllasternas profil (säsong, väder,
+brukarbeteende, isoleringsgrad och värmeförluster). Vidare
+diskuteras hur fjärrvärme och fjärrkyla produceras;
+miljöeffekter av fjärrvärme och fjärrkyla på lokal, regional
+och global nivå behandlas med avseende på vilka bränslen och
+energislag som används i produktionen. Olika ledningstekniker och
+ingående komponenter i ledningsnäten samt förläggningstekniker
+för olika typer av fjärrvärmeledningar gås igenom. Teknik för
+fjärrvärme- och fjärrkylacentraler behandlas, liksom
+debiteringssystem och mätning av energianvändning.
+Fjärrvärmenätens systemfunktion diskuteras, liksom utvecklingen
+av nätstrukturer. Vidare förklaras hur drift av fjärrvärme
+styrs genom tryck, temperatur och energibehov, samt vilka olika
+förutsättningar som påverkar driftförutsättningarna. I kursen
+ges även inblick i viktiga förutsättningar för dimensionering
+av rördiameter och val av flödeshastighet. Fjärrvärmens
+affärsidé, ekonomiska förutsättningar och grunder för
+prissättning. Vidare innefattas organisation, ägarskap och
+lagstiftning, samt fjärrvärmens roll i ett framtida
+energisystem.
+Den teoretiska grund som kursen ger fördjupas genom tre
+övningsuppgifter som utförs i grupp, samt genom tre seminarier
+med laborativa och interaktiva inslag.
+Övningar
+Den första övningen syftar till att ge studenterna ökad
+förståelse för värme- och kylalaster och lastprofiler. Den
+andra övningen syftar till att ge studenterna färdigheter inom
+nätdimensionering och förståelse för termodynamiska
+förhållanden. Den tredje övningen, som är en posterövning där
+studenterna får sätta sig in i olika forskningsrapporter och
+tillverka en egen poster utifrån en utvald rapport samt presentera
+denna vid en postersession, syftar till att bredda kursbokens
+innehåll, att ge studenterna inblick i aktuell forskning om
+fjärrvärme och fjärrkyla, samt att öva studenternas muntliga
+och skriftliga förmåga att förklara relevanta begrepp och
+teorier. Till postersessionen inbjuds representanter från
+fjärrvärmeföretag att mingla med studenterna och ställa frågor
+om forskningsprojekten och postrarna. Detta ger studenterna en
+anknytning till framtida möjliga arbetsgivare och en förankring i
+praktiken. Detta bidrar även den gästföreläsning som ges av
+representant från ett lokalt fjärrvärmeföretag till.
+För handledning i övningar finns två konsultationstillfällen
+inlagda.
+Seminarier
+De tre seminarierna innefattar fördjupning
+marknadsförhållanden, produktionsförutsättningar och reglering
+av värme och varmvatten hos kunderna. I det första seminariet om
+marknad fördjupas förståelsen om fjärrvärmeaffären och
+teorier bakom prissättningsfilosofier. I det andra seminariet
+fördjupas förståelsen av värmeproduktionens förutsättningar
+genom simulering av lastförhållanden. I det tredje seminariet
+fördjupas förståelsen för hur reglering av kundernas
+fjärrvärmecentraler sker genom simulering. Seminarierna utförs i
+formen ”flipped classroom” där studenten förväntas
+förbereda sig genom att läsa in angiven litteratur (dels i
+kursboken och dels i kompletterande litteratur som finns att hämta
+på kursplattformen).
+Duggor
+Studentens förståelse för kursens innehåll kollas av genom
+tre olika duggor (samt i den frivilliga skriftliga tentamen för
+överbetyg).
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examinationen sker både enskilt och baserat på arbete i grupp. För betyget 3 erfordras att kursens samtliga obligatoriska övningsuppgifter har genomförts (enskilt eller i grupper) med godkänt betyg på utförandet. För högre betyg tillkommer individuell skriftlig tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+Termodynamik och strömningslära exempelvis MMVA01, MMVF01 eller motsvarande
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: MVKN40, MVKN10
+Kurslitteratur
+
+Frederiksen & Werner: Fjärrvärme och fjärrkyla. 2014.
+Frederiksen & Werner: District Heating and Cooling. 2013.
+Litteratur till seminarier som finns att ladda ned från kursplattform.
+Utvalda aktuella forskningsrapporter om fjärrvärme eller fjärrkyla inom ramen för posterövningen.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Bitr.univ.lektor Kerstin Sernhed, kerstin.sernhed@energy.lth.se
+Kursansvarig: Per-Olof J Kallioniemi, per-olof.johansson_kallioniemi@energy.lth.se
+Examinator: Per-Olof J Kallioniemi, per-olof.johansson_kallioniemi@energy.lth.se
+Hemsida: http://www.ees.energy.lth.se/utbildning/mvkp01-fjaerrvaerme-och-fjaerrkyla-foere-detta-mvkn40/
+
+
+

@@ -1,0 +1,127 @@
+
+Kursplan 2020/21 FRTN05
+
+
+
+
+
+Kursplan för
+Olinjär reglering och servosystem
+Non-Linear Control and Servo Systems
+FRTN05, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning F/Pi
+Beslutsdatum: 2020-04-01
+Allmänna uppgifter
+Valfri för: D4, E4-ra, F4, F4-r, M4-me, Pi4-ssr, MMSR2
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Syftet med kursen är att lära sig känna igen viktiga
+olinjära reglerproblem, att behärska de viktigaste
+analysmetoderna för olinjära system samt att använda några
+praktiska verktyg för olinjär design.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna definiera grundläggande reglertekniska
+stabilitetsbegrepp
+ha insikt i grundläggande skillnader mellan olinjära och
+linjära dynamiska system
+kunna linjärisera olinjära dynamiska modeller kring
+jämviktspunkter och trajektorier
+kunna analysera inverkan av vanliga olinjäriteter i
+reglerkretsar (mättning, glapp, dödzon mm) samt hur man
+reglertekniskt skall kunna hantera dessa
+förstå stabilitetsanalys såsom Lyapunov teori,
+lågförstärkningssats och cirkelkriteriet och hur den tillämpas
+i reglerdesign
+kunna översiktligt redogöra för moderna riktningar inom
+olinjär reglering
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna matematiskt modellera och simulera enklare olinjära
+system.
+kunna analysera gränssvängningar med avseende på
+kvantitativa och kvalitativa egenskaper
+kunna designa regulatorer för enklare olinjära
+system utifrån modellbaserad olinjär reglering och
+reläåterkopplade system
+kunna lösa enklare optimeringsproblem och tolka lösningar i
+form av framkopplings- resp återkopplingslösningar
+praktiskt kunna tillämpa reglerdesign för verkliga olinjära
+processer under laborationer.
+kunna använda datorhjälpmedel för simulering och analys av
+olinjära system
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+förstå samband och begränsningar då enkla modeller används
+för att beskriva komplexa dynamiska system
+kunna värdera dominerande olinjäriteter och dynamik
+visa förmåga till lagarbete och samverkan i grupp vid
+laborationer.
+
+
+Kursinnehåll
+Alla verkliga reglersystem är olinjära. Ibland duger de
+linjära metoder som presenteras i våra andra kurser för att
+analysera och konstruera reglersystem även för olinjära
+processer men ofta kan man få bättre prestanda och större
+förståelse för systemet om man använder olinjära metoder.
+Kursen beskriver de vanligaste situationerna man ställs inför i
+praktiken samt de mest användbara metoderna.
+Laborationer
+Beskrivande funktionsanalys och regulatordesign med
+dödzonskompensering på en
+lufttrottel för bilmotorer.
+Energibaserad design av uppsving för en inverterad pendel.
+Trajektoriegenerering via optimal regleringsansats för pendel på
+vagn.
+Förläsningsinnehåll
+Olinjära fenomen. Matematisk modellering av olinjära system.
+Jämviktspunkter. Linjärisering kring jämviktspunkter och
+trajektorier, Fasplansanalys, Stabilitetsteori omfattande
+Lyapunovmetoder, cirkelkriteriet, lågförstärkningssatsen samt
+passivitet, Datorhjälpmedel för simulering och analys, effekter
+av mättning, friktion, glapp och kvantisering i reglerkretsar,
+Beskrivande funktioner för analys av gränssvängningar,
+Högförstärkningsmetoder och reläåterkoppling, optimal
+reglering samt olinjära syntes- och designmetoder.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen (5 tim), tre laborationer. Vid färre än fem anmälda kan omtentamina ges på muntlig form.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0114. Benämning: Tentamen. 
+Antal högskolepoäng: 6. Betygsskala: TH.  Prestationsbedömning: Godkänd tentamen 
+Kod: 0214. Benämning: Laboration 1. 
+Antal högskolepoäng: 0,5. Betygsskala: UG.  Prestationsbedömning: Godkända förberedelseuppgifter och godkänt genomförande av laborationen 
+Kod: 0314. Benämning: Laboration 2. 
+Antal högskolepoäng: 0,5. Betygsskala: UG.  Prestationsbedömning: Godkända förberedelseuppgifter och godkänt genomförande av laborationen 
+Kod: 0414. Benämning: Laboration 3. 
+Antal högskolepoäng: 0,5. Betygsskala: UG.  Prestationsbedömning: Godkända förberedelseuppgifter och godkänt genomförande av laborationen 
+Antagningsuppgifter
+Förutsatta förkunskaper: FRTF05 Reglerteknik AK.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FRT075
+Kurslitteratur
+
+Fastställs senast 1 mån innan kursstart och tillkännages på kursens hemsida: www.control.lth.se/course/FRTN05/.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Anders Rantzer, anders.rantzer@control.lth.se
+Studierektor: Anton Cervin, anton.cervin@control.lth.se
+Hemsida: http://www.control.lth.se/course/FRTN05
+
+
+

@@ -1,0 +1,82 @@
+
+Kursplan 2020/21 FMNN25
+
+
+
+
+
+Kursplan för
+Avancerad kurs i numeriska algoritmer med Python/SciPy
+Advanced Course in Numerical Algorithms with Python/SciPy
+FMNN25, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning F/Pi
+Beslutsdatum: 2020-04-01
+Allmänna uppgifter
+Valfri för: D4, E4-pv, F4, F4-bs, F4-fm, MSOC2, Pi4-bs, MMSR2
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Kursen är tänkt som ett algoritmorienterat komplement till de
+mer på metodanalys inriktade grund- och specialkurserna i
+numerisk analys. Den betonar kopplingen mellan komplexa numeriska
+algoritmer och moderna programmeringsspråk.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna redogöra för beräkningsalgoritmers
+grundprinciper.
+kunna utförligt beskriva ett antal viktiga beräkningsproblem,
+och sätt att angripa dem.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna skriva beräkningsprogram på hög nivå.
+kunna koda, testa och resultatsbedöma komplexa numeriska
+algoritmer, med utnyttjande av beprövade programbibliotek.
+kunna genomföra ett programmeringsprojekt i grupp, inklusive
+identifikation av och uppdelning i delproblem, och eget ansvar för
+lösandet av ett delproblem.
+kunna redogöra för ett beräkningsprojekt, såväl i en
+muntlig presentation som i en skriftlig rapport.
+
+
+Kursinnehåll
+Introduktion till Python utgående från programmeringskunskap i
+andra språk/verktyg. Objektorienterad programmeringsstil i
+beräkningsteknik. Scipy/Numpy datastrukturer.
+Exempel på komplexa numeriska algoritmer från olika områden
+inom numerisk analys.
+Koppling till beräkningsbibliotek i C och Fortran (Netlib).
+Automatiserade test i beräkningsprogrammering. Grafisk
+representation av numeriska resultat (animering). Python för att
+styra systemprocesser.
+Innehållet kan komma att kompletteras med specialkunskap från
+gästlärare.
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: Ett större programmeringsprojekt i grupp, med muntlig rapport inför övriga kursdeltagare. Opposition på någon annan grupps rapport. Obligatorisk närvaro vid alla redovisningar.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: Grundkurs i numerisk analys. Kunskap i några av programmeringsspråken Java, C, C++, Fortran, Python samt MATLAB.
+Begränsat antal platser: 45
+Urvalskriterier: Avklarade högskolepoäng inom programmet. Förtur ges till studenter vars program har kursen listad i läro- och timplanen.
+Kursen överlappar följande kurser: NUMN25
+Kurslitteratur
+
+Führer, C, Solem, J.E., Verdier, O:: Scientific Computing with Python 3. Packt Publishing, 2016. Kommer ut i september 2016. Både i pappers- och i e-bokversion.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Claus Führer, claus.fuhrer@na.lu.se
+Studierektor: Anders Holst, studierektor@math.lth.se
+Kursadministratör: Student Office, expedition@math.lth.se
+Hemsida: http://www.maths.lth.se/na/courses/FMNN25/
+
+
+

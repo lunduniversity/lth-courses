@@ -1,0 +1,83 @@
+
+Kursplan 2020/21 KLGN10
+
+
+
+
+
+Kursplan för
+Kemometri - försöksplanering och multivariat analys
+Chemometrics - Design of Experiments and Multivariate Analysis
+KLGN10, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning B/K
+Beslutsdatum: 2020-03-27
+Allmänna uppgifter
+Valfri för: B5-l, B5-mb, B5-lm, K5-m, K5-l, N4
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Bygga vidare på kunskaperna i försöksplanering för att kunna
+planera och genomföra mer komplicerade försök samt analysera
+datamaterial i flera dimensioner, resonera kring metodval och
+erhållna resultat.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+Kunna förklara och använda grundläggande metoder inom
+faktoriella försök.
+Kunna förklara och använda grundläggande metoder inom
+klusteranalys, diskriminantanalys, principalkomponentanalys samt
+PLS.
+Kunna värdera och diskutera resultat erhållna vid användande
+av multivariata statistiska metoder.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+Planera ett faktoriellt försök.
+Föreslå vilken multivariata statistiska metod som skall
+användas på ett givet problem.
+Strukturera och analysera flerdimensionella datamaterial med
+hjälp av datorprogram
+för multivariata metoder och kritiskt granska resultatet.
+Redogöra för lösningarna av multivariata statistiska problem
+skriftligt i rapporter och
+muntligt vid seminarier.
+Självständingt analysera ett givet problem på avancerad
+nivå med multivariata statistiska metoder för försökplanering
+och multivariat dataanalys och kunna diskutera dessa.
+
+
+Kursinnehåll
+Fullständiga och reducerade faktorförsök. Responsyteanalys.
+Klusteranalys, diskriminantanalys, principalkomponentanalys (PCA)
+och PLS.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftliga rapporter samt obligatorisk närvaro och aktivt deltagande på seminarierna.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+FMA420 Linjär algebra eller FMA421 Linjär algebra med beräkningsintroduktion eller FMA656 Matematik, linjär algebra eller FMAA20 Linjär algebra med introduktion till datorhjälpmedel eller FMAB20 Linjär algebra
+
+
+Förutsatta förkunskaper: En grundkurs i matematisk statistik, grundläggande färdigheter i MATLAB.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FMS210
+Kurslitteratur
+
+Brereton, RG: Chemometrics, Data driven extraction for science. Wiley, 2018.
+
+
+Kontaktinfo och övrigt
+Lärare: Malin Sjöö, malin.sjoo@food.lth.se
+Kursansvarig: Andreas Håkansson, andreas.hakansson@food.lth.se
+Hemsida: http://www.food.lth.se/utbildning/
+
+
+

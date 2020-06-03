@@ -1,0 +1,133 @@
+
+Kursplan 2020/21 FRTF25
+
+
+
+
+
+Kursplan för
+Introduktion till maskininlärning, system och reglering
+Introduction to Machine Learning, Systems and Control
+FRTF25, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning F/Pi
+Beslutsdatum: 2020-04-01
+Allmänna uppgifter
+Huvudområde: Maskininlärning, system och reglerteknik. 
+Obligatorisk för: MMSR1
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursen tillhandahåller en repetition av koncept och metoder som
+behövs för masterprogrammet i Maskininlärning, system och
+reglering. Fokus ligger på grundläggande reglerteknik, statistik
+och teori för linjära system. Målet är att studenterna ska
+lämna kursen med tillräckliga kunskaper för efterföljande
+kurser i programmet. Kursen syftar också till att ge studenterna
+en generell introduktion till studier i Lund, grupparbete och att
+presentera resultat muntligt och skriftligt. Studenterna ges också
+en introduktion till etiska aspekter av AI och
+maskininlärning.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+förstå att hens professionella arbete har etiska och
+samhälleliga konsekvenser.
+behärska grunderna inom reglertekniken, med fokus på
+sammankoppling och analys av linjära system.
+kunna beskriva och använda koncepten linjäritet, tids- och
+rumsinvarians, stabilitet, kausalitet, impulssvar och
+överföringsfunktion, i kontinuerlig tid.
+kunna beräkna förhållandet mellan kovariansegenskaper i
+tidsdomänen och spektralegenskaper i frekvensdomänen för
+processer.
+förstå hur man kan formulera linjära filter genom kovarians-
+och spektralegenskaper.
+
+ 
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna problematisera kring ett etiskt scenario som uppkommer
+från en tekniktillämpning.
+kunna syntetisera och utvärdera ett reglersystem både i
+simulering och på ett cyberfysiskt system.
+kunna identifiera naturliga fenomen som kan modelleras med
+deterministiska och stokastiska matematiska modeller.
+kunna kommunicera resultat och diskutera dem skriftligt.
+
+ 
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+uppvisa förmåga att fomulera dynamiska och statistiska
+modeller och använda dessa modeller både för analys och
+syntes.
+lösa matematiska och reglerrelaterade problem med hjälp av
+programmering.
+visa förmåga för grupparbete och samarbete vid
+laborationer.
+uppvisa förmåga att reflektera kring etiken hos en
+tekniktillämpning.
+i samband med problemlösning, kunna uppvisa förmåga att
+integrera kunskap från olika delar av kursen.
+
+ 
+
+Kursinnehåll
+Kursen startar med en generell och praktisk introduktion till
+studiemiljön vid LTH och till grupparbete med andra studenter.
+En stor del av kursen kretsar kring en cyberfysisk
+laborationsprocess. Studenterna arbetar i små grupper för att
+genomföra laborationer som syftar till att demonstrera länken
+mellan teori och praktik, vilket ger en möjlighet att få kunskap
+genom praktisk erfarenhet.
+Det tekniska innehållet i kursen som täcks av övningar och
+laborationer repeterar koncept och ämnen som studenterna
+förväntas ha viss bekantskap med från tidigare studier. Dessa
+omfattar: modeller för stokastiskt beroende; koncept och modeller
+för att beskriva, karaktärisera och hantera stationära
+stokastiska processer; tid- och frekvensdomänsbeskrivningar av
+stationära stokastiska processer; stokastiska processer i linjära
+filter; att beskriva dynamiska system med hjälp av tidsinvarianta
+ordinära differentialekvationer; överföringsfunktioner;
+frekvenssvar; Bode- och Nyquistdiagram; utvärdering av stabilitet
+med hjälp av poler och Nyquistkriteriet; robusthetsmarginaler;
+syntes och implementering av regulatorer.
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: Skriftlig och kamratgranskad rapport; två block med laborationer genomförda i grupper om ca 4 studenter; individuellt genomförda förberedelseuppgifter (matematik och programmering) för varje laborationsblock.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0120. Benämning: Grupparbete. 
+Antal högskolepoäng: 1,5. Betygsskala: UG.  Prestationsbedömning: Submission, peer-review and revision of report. 
+Kod: 0220. Benämning: Laborationer. 
+Antal högskolepoäng: 3. Betygsskala: UG.  Prestationsbedömning: Genomförda förberedelser och laborationer. 
+Kod: 0320. Benämning: Färdighetstest 1. 
+Antal högskolepoäng: 1,5. Betygsskala: UG.  Prestationsbedömning: Datorbaserat prov och datorövning. 
+Kod: 0420. Benämning: Färdighetsprov 2. 
+Antal högskolepoäng: 1,5. Betygsskala: UG.  Prestationsbedömning: Datorbaserat prov och datorövning. 
+Antagningsuppgifter
+Förutsatta förkunskaper: Kurser jämbördiga med förkunskapskraven för masterprogrammet i Maskininlärning, system, och reglering. 
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FRTF05, FRTN25, FRTF10
+Kurslitteratur
+
+Åström KJ, Murray RM: Feedback systems, Princeton 2008. Fritt tillgänglig: http://www.cds.caltech.edu/~murray/amwiki.
+Onlineresurser som tillhandahålls genom kurshemsidan (Canvas).
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Kristian Soltesz, kristian.soltesz@control.lth.se
+Kursansvarig: Tore Hägglund, tore.hagglund@control.lth.se
+Studierektor: Anton Cervin, anton.cervin@control.lth.se
+Hemsida: http://www.control.lth.se/course/FRTF25
+Övrig information: Kursen är öppen endast för studenter antagna till masterprogrammet i maskininlärning, system och reglerteknik.
+
+
+

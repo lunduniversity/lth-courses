@@ -1,0 +1,119 @@
+
+Kursplan 2020/21 EITN70
+
+
+
+
+
+Kursplan för
+Kanalkodning för tillförlitlig kommunikation
+Channel Coding for Reliable Communication
+EITN70, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning C/D
+Beslutsdatum: 2020-03-30
+Allmänna uppgifter
+Huvudområde: Kommunikationssystem. 
+Valfri för: C5-ks, C5-sec, D5, E4-ks, MWIR1, MMSR2
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursens syfte är att ge en överblick över
+kanalkodningsmetoder för tillförlitlig kommunikation. Efter att
+ha tagit den här kursen bör du förstå de grundläggande
+principerna om block- och faltningskoder och hur man kan
+karakterisera deras prestanda, veta vilka olika konstruktioner som
+oftast används i digitala kommunikationssystem och veta hur deras
+kodning och avkodning kan genomföras i praktiken.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna identifiera och formulera problem inom området
+felrättande koder
+kunna kritiskt analysera och beskriva felrättande system av
+låg och medelhög komplexitet
+kunna förstå fördelar och nackdelar med olika
+kodningssystem
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna implementera ett felrättande system av låg och
+medelhög komplexitet
+kunna klassificera svårighetsgraden av problem i samband med
+hans / hennes egen nivå av kunskap
+visa förmåga att självständigt och kreativt arbeta
+med avancerade projekt och motivera och diskutera sina
+slutsatser
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna visa insikt om möjligheter och begränsningar
+av felrättande system
+
+
+Kursinnehåll
+Kanalkodning är kärnan i alla moderna kommunikationssystem och
+tillförlitlig kommunikation skulle inte vara möjlig utan dess
+användning. När digital data överförs från en plats till en
+annan är den alltid utsatt för störningar som förekommer när
+signaler skickas från sändare till mottagare. Av denna anledning
+används felkorrigerande koder som en del i alla moderna
+kommunikationssystem. Dessa tillfogar redundans till den
+ursprungliga datan på ett kontrollerat sätt så att mottagaren
+kan rätta överföringsfel.
+Kursen omfattar följande ämnen:
+
+Principer för felrättande kodning: kanalmodeller,
+linjära blockkoder, syndrom avkodning, konstruera koder från
+andra koder, gränser, cykliska koder, faltningskoder
+
+
+Optimala avkodningsmetoder: MD vs BMD avkodning, ML
+avkodning, Viterbi-algoritmen, trellis diagram av blockkoder,
+felsannolikhet vid avkodning, viktsfördelning, APP avkodning, BCJR
+algoritm
+
+
+Iterativ avkodning av konkatenerade koder:
+produktkoder, parallell och seriell konkatenering, turbo koder,
+iterativ avkodning, LDPC koder, Tanner grafer, message-passing
+avkodning, LDPC faltningskoder
+
+
+Reed-Solomon-koder: icke-binära koder, frekvensdomän
+representation, kodning, algebraisk avkodning,
+viktsfördelning
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Tentamen (5 timmar) är skriftlig och omfattar normalt fem uppgifter av problemtyp. Godkänt projektarbete är ett krav för att få tentera.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0118. Benämning: Tentamen. 
+Antal högskolepoäng: 6,5. Betygsskala: TH.  Prestationsbedömning: Godkänd skriftlig tentamen  Delmomentet omfattar: Skriftlig tentamen 
+Kod: 0218. Benämning: Projekt. 
+Antal högskolepoäng: 1. Betygsskala: UG.  Prestationsbedömning: Godkänt projekt.  Delmomentet omfattar: Projekt 
+Antagningsuppgifter
+Förutsatta förkunskaper: För studenter från E, D, C eller Pi: FMSF45, FMSF20 eller FMSF55 Matematisk statistik, allmän kurs. För studenter från MWIR: EITG05 Digital kommunikation.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: EDI042
+Kurslitteratur
+
+Shu Lin, Daniel J Costello Jr: Error Control Coding, Second Edition. Pearson, 2004, ISBN: 978-0-130-42672-7.
+Martin Bossert: Channel Coding for Telecommunications. Wiley, 1999, ISBN: 978-0-471-98277-7. Alternative reading.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Michael Lentmaier, michael.lentmaier@eit.lth.se
+Hemsida: http://www.eit.lth.se/kurs/eitn70
+Övrig information: Vid färre än 16 deltagare kan kursen komma att ges med reducerad undervisning och större inslag av självstudier.
+
+
+

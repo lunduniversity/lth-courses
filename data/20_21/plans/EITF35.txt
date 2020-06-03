@@ -1,0 +1,88 @@
+
+Kursplan 2020/21 EITF35
+
+
+
+
+
+Kursplan för
+Digitala strukturer på kisel
+Introduction to Structured VLSI Design
+EITF35, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning E
+Beslutsdatum: 2020-03-19
+Allmänna uppgifter
+Huvudområde: Elektronikkonstruktion. 
+Obligatorisk för: MSOC1
+Valfri för: D4-is, D4-hs, E4-is
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+
+Allmän introduktion till storskalig ASIC design med betoning
+på FPGA implementering.
+Effektivt designflöde med användning av moderna CAD
+verktyg.
+Designmetodik för synkroniserad logik.
+Modellering med syntanpassad VHDL
+Snabbt framställande av prototyper med användning av
+FPGA.
+
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna utforma synkroniserad design.
+vara mycket skicklig i konventionell VHDL modellering
+ha skaffat sig erfarenhet i test, diagnos
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+vara skicklig i logisk syntes och fysisk kartläggning med
+användning av verktyg för ”state-of-the-art design”
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+skaffat sig erfarenhet av ”från idé till produkt”
+
+
+Kursinnehåll
+Kursen omfattar följande fyra moment: 1) Konstruktionsarbetets
+olika steg baserade på moderna konstruktionshjälpmedel, 2)
+Användning av språket VHDL som indata för automatisk syntes, 3)
+Konstruktion av synkrona system genom utveckling av
+klockcykeltrogna modeller, 4) Användning av programmerbara
+grindmatriser (FPGA) för att ta fram tidiga prototyper.
+Kursen innehåller föreläsningar,  projekt  (inklusive
+inlämningsuppgift). Projekten är utformade som praktiska
+konstruktionsövningar baserade på verktyg för simulering, syntes
+och optimering där FPGA används som målteknologi.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Muntlig examination av 3-5 projekt. Antalet projekt som fullgjorts innan deadline avgör slutbetyg. Omexamination innefattar ett extra projekt utöver de som definierats i ordinarie kursomgång. Detta projekt kommer att bli tillgängligt minst två veckor innan examinationen. Omexamination kommer alltid erbjudas efter juluppehållet.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+EIT020 Digitalteknik
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: EIT120
+Kurslitteratur
+
+Chu: Rtl Hardware Design Using Vhdl. John Wiley And Sons Ltd, 2006, ISBN: 9780471720928.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Liang Liu, liang.liu@eit.lth.se
+Hemsida: http://www.eit.lth.se/kurs/eitf35
+
+
+

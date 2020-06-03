@@ -1,0 +1,112 @@
+
+Kursplan 2020/21 ABKF15
+
+
+
+
+
+Kursplan för
+Livscykelperspektiv och miljöbedömning av byggnader
+Life Cycle Perspective and Environmental Impact of Buildings
+ABKF15, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning V
+Beslutsdatum: 2020-03-23
+Allmänna uppgifter
+Huvudområde: Energi- och miljöeffektiva byggnader. 
+Obligatorisk för: MEMB2
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+För godkänd kurs skall studenten:
+
+förstå grundläggande koncept för livscykelperspektiv samt
+miljöutvärdering och klassificering av byggnader
+ha kunskap om LCC-analyser och hur de kan användas för
+optimering
+ha förståelse för LCA som metod
+ha kunskap om några miljöklassningssystem för byggnader
+förstå och kunna diskutera olika aktörers behov och intresse
+i dessa frågor
+
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna beskriva och diskutera viktiga koncept och
+nyckelfrågeställningar relaterade till LCC-analyser, LCA och
+miljöklassning;
+kunna beskriva och diskutera indataparametrar och hur de
+förhåller sig till buslutsfattande;
+förstå inverkan av systemgränser och kostnadsallokering
+känna till typiska bra lösningar ur de olika perspektiven
+
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+utföra en LCC-analys på både ny byggnad och
+renoveringsobjekt;
+utföra en LCA på både ny byggnad och renoveringsobjekt;
+utföra en miljöklassning av en byggnad;
+kunna tolka LCC-analyser, LCA och miljöklassningar;
+kunna hålla en relevant diskussion om kostnader och
+livscykelperspektiv;
+på ett klokt sätt kunna diskutera viktiga parametrar för
+livscykelperspektivet;
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna påverka projekteringsbeslut genom fakta och
+kunskap;
+kunna formulera relevanta forsknings- och konsultfrågor
+kopplat till livscykelperspektivet och miljöfrågorna för
+byggnader
+kunna diskutera möjligheterna och problemen med att använda
+livscykelperspektivet och hållbarhetstänket
+
+
+Kursinnehåll
+Kursen ger kunskap och förståelse om hur kostnader och
+miljöaspekter påverkar val of konstruktionslösningar och
+åtgärder som behöver ett långt perspektiv för att vara
+lönsamma eller göra byggnaden hållbar. Kursen ger också kunskap
+och förståelse om olika aktörers intressen. Dessutom berörs
+aspekter som rör barriärer och möjligheter. Kursen tar upp
+metoder och verktyg för att bestämma livscykelperspektivberoende
+storheter som livscykelkostnad och miljöklassning. Dessa kan
+användas för utvärdering och systemprojektering samt för att ta
+fram övertygande argument och fakta åt beställaren.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Slutbetyg baseras till 70% på tentamensresultat och till 30% på utförande relaterat till övningar och föreläsningar.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0113. Benämning: Skriftlig tentamen. 
+Antal högskolepoäng: 4,5. Betygsskala: TH.  Prestationsbedömning: Examination baserad på den skriftliga tentamen  Delmomentet omfattar: Skriftlig examination av hela kursen. 
+Kod: 0213. Benämning: Övning. 
+Antal högskolepoäng: 3. Betygsskala: UG.  Prestationsbedömning: Examination baserad på skriftlig rapport enligt givna specifikationer  Delmomentet omfattar: LCC-analys
+Miljöklassning 
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kurslitteratur
+
+American Institute of Architects (AIA): AIA Guide to Building Life Cycle Assessment in Practice. 2010.
+Mohamad Monkiz Khasreen, Phillip F.G. Banfill and Gillian F. Menzies: Life-Cycle Assessment and the Environmental Impact of Buildings: A Review. MDPI - Open Access Publishing, 2009.
+Föreläsningsanteckningar, relevanta artiklar och annat material som delas ut på kursen eller via hemsidan.
+IVL: Economic and environmental impact assessment of very low-energy house concepts in the North European countries. 2011.
+Sartori, I.& Hestnes, A.: Energy use in the life cycle of conventional and low-energy buildings: A review article. Elsevier, 2007.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Dennis Johansson, dennis.johansson@hvac.lth.se
+Lärare: Saqib Javed, saqib.javed@hvac.lth.se
+Hemsida: https://liveatlund.lu.se
+
+
+

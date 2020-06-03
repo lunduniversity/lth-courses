@@ -1,0 +1,92 @@
+
+Kursplan 2020/21 BMEF20
+
+
+
+
+
+Kursplan för
+Neuroteknik
+Neuroengineering
+BMEF20, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning BME
+Beslutsdatum: 2020-03-24
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Valfri för: BME4-br, F4, F4-mt, N4, Pi4
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Syftet med kursen är att ge en överblick över koncept och
+principer som används inom neuroteknik för att läsa av utgående
+och generera ingående nervsignaler. Kursen kommer att ge en
+inblick i dagens och framtidens neurala gränssnitt, neurala
+proteser och neurorobotik.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+ 
+
+känna till det centrala och perifera nervsystemets anatomi och
+fysiologi
+förstå hur motoriska kommandon blir till rörelser i
+muskler
+förstå hur känsel blir till perception
+
+ 
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+ 
+
+kunna använda tekniker för mätning av
+neurofysiologiska/elektrofysiologiska signaler
+kunna tillämpa neuroteknik i olika sammanhang
+
+ 
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+ 
+
+kunna tolka och diskutera information från vetenskaplig
+litteratur angående framsteg inom neuroteknik
+reflektera över etiska konsekvenser av neroteknik
+
+ 
+
+Kursinnehåll
+Kursen behandlar neuroteknikens bakomliggande principer och
+tekniker såsom grundläggande neurofysiologi och anatomi,
+hjärnstimuleringsutrustning, ryggmärgstimulatorer, elektrisk
+stimulering, människa-maskin gränssnitt med protestillämpningar,
+konstgjorda syn och hörsel gränssnitt.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Obligatoriska laborationer med rapport, inlämningsuppgifter, uppsats, aktivt medverkande i seminarium om etik samt skriftlig tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0118. Benämning: Skriftlig tentamen. 
+Antal högskolepoäng: 5. Betygsskala: TH.  Prestationsbedömning: Godkänd tentamen  Delmomentet omfattar: Skriftlig tentamen 
+Kod: 0218. Benämning: Inlämningsuppgifter. 
+Antal högskolepoäng: 2,5. Betygsskala: UG.  Prestationsbedömning: Genomförda laborationer med godkänd laborationsrapport och godkända inlämningsuppgifter godkänd uppsats samt en reflektion som visar på aktivt deltagande i seminarium om etik.  Delmomentet omfattar: Laborationer med rapport, inlämningsuppgifter, uppsats på givet ämne samt en kort reflektion från seminarium om etik. 
+Antagningsuppgifter
+Förutsatta förkunskaper: Grundläggande matematik, fysik och fysiologi.
+Begränsat antal platser: 32
+Urvalskriterier: Antal poäng tagna på programmet.
+Förtur ges till studenter vars program har kursen listad i sin läro- och timplan.
+Kurslitteratur
+
+Föreläsningsmaterial och laborationshandledningar.
+Utdelade vetenskapliga artiklar.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Christian Antfolk, christian.antfolk@bme.lth.se
+Övrig information: Gästföreläsningar med experter från andra fakulteter och andra universitet kan även förekomma.
+
+
+

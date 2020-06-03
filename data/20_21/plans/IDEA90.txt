@@ -1,0 +1,74 @@
+
+Kursplan 2020/21 IDEA90
+
+
+
+
+
+Kursplan för
+3D-modellering och rendering, del 2
+3D Modelling and Rendering, Part 2
+IDEA90, 3 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning ID
+Beslutsdatum: 2020-02-18
+Allmänna uppgifter
+Huvudområde: Industridesign. 
+Obligatorisk för: KID2
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Efter att ha genomfört kursens andra del ska studenten ha
+utvecklat grundläggande färdigheter i att arbeta med
+3D-ytmodellering (Nurbs) som gör det möjligt att framställa egna
+modeller, skapa datorgenererade bilder (CGI/rendering) och utdata
+för prototyper (3D-utskrifter) samt göra överföringar från och
+till andra program.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna redogöra för och organisera arbetsflödet i form av
+byggsekvens, lager, konstruktionsplan, symmetri
+kunna redogöra för det direkta förhållandet mellan
+verkliga kamerabilder, belysningsförhållanden och materiella
+egenskaper och rendering
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+med handledning skapa mer komplexa Nurbsytor från Nurbskurvor
+samt åstadkomma ytkontinuitet och omsätta kurv- och
+ytegenskaper
+med handledning modellera ett exempelobjekt med kontinuerliga
+ytövergångar, radier och grundläggande friformsytor;
+modelleringsstrategi, patchlayout, detaljarbete
+med handledning genomföra fotorealistisk rendering genom scen,
+kamera, HDR-bilder/belysning, material
+
+
+Kursinnehåll
+Kursen består av gruppföreläsningar kompletterade med
+individuell handledning.
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: För betyget Godkänd ska studenten ha deltagit i 80 % av undervisningen, genomfört ett flervalsprov med godkänt resultat samt åstadkommit ett provobjekt och en rendering av det med hög kvalitet. 
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: IDEA85 eller motsvarande.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: IDEA10
+Kurslitteratur
+
+Programmanual och hjälpfiler; nätvideor, användarfora och diskussionsgrupper.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Andreas Hopf, Andreas.Hopf@design.lth.se
+Hemsida: http://www.ide.lth.se
+
+
+

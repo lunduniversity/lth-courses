@@ -1,0 +1,87 @@
+
+Kursplan 2020/21 FMFN05
+
+
+
+
+
+Kursplan för
+Kaos
+Chaos
+FMFN05, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning F/Pi
+Beslutsdatum: 2020-04-01
+Allmänna uppgifter
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Kursen syftar till att ge en introduktion till kaotiska system,
+dvs olinjära system som är deterministiska men med en
+tidsutveckling som inte är förutsägbar under längre
+tidsperioder. Kursen ska ge en möjlighet till reflektion över de
+fascinerande fenomen som kaotiska system kan uppvisa, t ex säregna
+attaktorer och i detta sammanhang en grundläggande insikt om
+betydelsen av fraktal geometri, eller möjligheten att solsystemet
+är instabilt i en längre tidsskala.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+ha en översiktlig kunskap om villkor som gör att system
+uppvisar kaotiskt respektive reguljärt uppförande.
+känna till matematiska metoder som används för att analysera
+kaotiska system
+ha en allmän förståelse varför det är lämpligt att
+införa dimensioner som inte är heltaliga
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna utnyttja matematiska metoder som används för
+beskrivning av olinjära system
+kunna analysera tidsutveckling för ett system och avgöra om
+det är kaotiskt eller reguljärt.
+kunna avgöra vilka beräkningsmodeller som är lämpliga att
+använda i olika situationer
+kunna beräkna dimensionen av enkla fraktaler.
+
+
+Kursinnehåll
+Tidsdiskreta system. Feigenbaums teori för
+förgreningar. Känsligt beroende av begynnelsevillkor. Fraktal
+geometri. Exempel på fraktala objekt. Olika dimensionsbegrepp.
+Dissipativa system. System av differentialekvationer.
+Fasrum och Poincarèsnitt. Lyapunovexponenter och säregna
+attraktorer. Kopplade svängningar och frekvenslåsning.
+Konservativa system och KAM-teoremet.
+Hamiltonformalismen. Integrabla system. Biljarder. Areabevarande
+avbildningar. Planetsystemet.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Tentamen och redovisning av projekt. En obligatorisk datorlaboration.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0109. Benämning: Kaos. 
+Antal högskolepoäng: 6. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen.  Delmomentet omfattar: Prov på kursens teoriinnehåll 
+Kod: 0209. Benämning: Projekt. 
+Antal högskolepoäng: 1,5. Betygsskala: UG.  Prestationsbedömning: Presentation av projekt.  Delmomentet omfattar: Projekt 
+Antagningsuppgifter
+Förutsatta förkunskaper: Grundläggande matematik och mekanik.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FMF090, FMF092
+Kurslitteratur
+
+Ohlén, G, Åberg, S, Östborn, P: Chaos, kompendium, Lund 2006.
+
+
+Kontaktinfo och övrigt
+Lärare: Sven Åberg, sven.aberg@matfys.lth.se
+Kursansvarig: Andrea Idini, andrea.idini@matfys.lth.se
+Hemsida: http://www.matfys.lth.se/education/FMFN05
+
+
+

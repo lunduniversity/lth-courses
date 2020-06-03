@@ -1,0 +1,116 @@
+
+Kursplan 2020/21 EIEF35
+
+
+
+
+
+Kursplan för
+Elektroteknikens grunder
+Electrical Engineering, Basic Course
+EIEF35, 9 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning E
+Beslutsdatum: 2020-03-19
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: M3, MD3
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Civilingenjörer inom maskinteknik behöver kunna mer
+elektroteknik idag än någonsin tidigare. Nästan alla produkter,
+processer och system involverar t.ex. elektrisk mätning,
+signalbehandling – analog och digital, elektrisk och
+elektromekanisk energiomvandling – kraftelektronik och elmotorer.
+För att kunna konstruera och använda sådan teknik krävs
+givetvis kunskaper i elektroteknik. Syftet med denna kurs är att
+ge en bred kunskap om alltifrån ohms lag till datorbaserad
+styrning av servomotorer.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+enskilt och skriftligt kunna
+ 
+
+använda den grundläggande teorin för lik- och
+växelströmskretsar,
+analysera grundläggande kopplingar inom analog och digital
+elektronik,
+beskriva och lösa mättekniska problemställningar, inklusive
+givare för fysikaliska signaler,
+förklara principerna för elektriska maskiner i industriella
+drivsystem och principerna för hur dessa kan styras,
+förklara och använda begreppen Boolesk algebra, digitala
+kombinatoriska system och tillståndsautomater samt tillämpa detta
+på industriella digitala styrsystem,
+förklara mikrodatorers uppbyggnad och grundprinciperna för
+deras programmering.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+kunna
+ 
+
+konstruera och implementera enklare kopplingar med
+signalelektronik, t.ex. göra en operationsförstärkarkoppling
+för anpassning av en givarsignal till en styrdator,
+implementera mätningar av icke elektriska storheter, och
+överföra dessa till elektriska signaler,
+välja och anpassa industriella drivsystem för en given
+tillämpning,
+utföra enklare automationsuppgifter med PLC-system.
+
+
+Kursinnehåll
+Likström: Ström, spänning, resistans. Ohms och
+Kirchhoffs lagar. Elektrisk energi, effekt och verkningsgrad.
+Praktiska kretsberäkningar.
+Växelström: Mätmetoder, tidsplan och frekvensplan, j
+omega-metoden. Trefas. Aktiv, reaktiv, skenbar effekt och
+effektfaktor.
+Elektronik: Diod, likriktare, transistorn som switch,
+OP-förstärkare, Bodediagram.
+Digitalteknik: Binära talsystemet, Boolesk algebra,
+tillståndsbegreppet, programmerbara kretsar. Mikrodatorn. Styrning
+med PLC.
+Elektriska maskiner och kraftelektronik: Industriella
+drivsystem: Elektromagnetisk kraftverkan, grundläggande om
+elektriska maskiner, kraftelektroniska komponenter och kopplingar,
+reglering.
+Mätteknik: Sensorer. Mätning av elektriska och
+icke-elektriska storheter.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Godkända laborationer inklusive förberedelseuppgifter samt två skriftliga deltentamina. Stoff från den första deltentamen kan förekomma även på den andra. Betyget på kursen baseras på en sammanvägning av resultatet på de två deltentamina.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Elektroteknik, deltentamen 1. 
+Antal högskolepoäng: 4. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen med tre deluppgifter. 
+Kod: 0217. Benämning: Elektroteknik, deltentamen 2. 
+Antal högskolepoäng: 5. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen med tre deluppgifter. 
+Kod: 0317. Benämning: Laboration. 
+Antal högskolepoäng: 0. Betygsskala: UG. 
+Kod: 0417. Benämning: Laborationsförberedelse. 
+Antal högskolepoäng: 0. Betygsskala: UG. 
+Antagningsuppgifter
+Förutsatta förkunskaper: FMAA01 Endimensionell analys, FAF260/FAFA80 Tillämpad vågrörelselära.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: MIE012, MIE011, MIE030
+Kurslitteratur
+
+ISBN: 978-981-4577-41-0. Rizzoni, G. 
+Principles and Applications of Electrical Engineering, 6:th edition. 
+McGraw-Hill.
+Övningskompendium. Laborationer nedladdningsbara från kursens hemsida.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Tekn dr Johan Björnstedt, Johan.Bjornstedt@iea.lth.se
+Hemsida: http://www.iea.lth.se/etg
+
+
+

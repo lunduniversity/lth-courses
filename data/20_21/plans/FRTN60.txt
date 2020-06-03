@@ -1,0 +1,123 @@
+
+Kursplan 2020/21 FRTN60
+
+
+
+
+
+Kursplan för
+Realtidssystem
+Real-Time Systems
+FRTN60, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning F/Pi
+Beslutsdatum: 2020-04-01
+Allmänna uppgifter
+Huvudområde: Maskininlärning, system och reglerteknik. 
+Alternativobligatorisk för: MMSR1
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Syftet med kursen är att teknologen skall lära sig hur man
+designar och implementerar datorbaserade reglersystem.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna definiera grundläggande begrepp för realtidsystem
+förstå för- och nackdelar med olika implementationsmetoder
+för realtidsystem
+förstå kommunikation och synkronisering med hjälp av
+semaforer, monitorer och meddelanden
+kunna redogöra för hur en realtidskärna är uppbyggd och
+fungerar
+kunna designa datorbaserade regulator genom diskretisering av
+kontinuerliga designer och genom sampling
+kunna beräkna samband mellan tidsdiskreta modeller i form av
+differensekvationer, transientsvar och
+pulsöverföringsfunktioner
+kunna beräkna datorbaserade regulatorer på
+tillståndsåterkopplingsform respektive PID form
+förstå hur tidsfördröjningar och jitter påverkar
+reglerprestanda
+vara bekant hur Grafcet, Petrinät och tillståndsmaskiner
+används för att implementera och analysera händelsestyrda
+reglersystem
+förstå problemställningar associerade med reglering över
+näterk.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna implementera mindre datorbaserade reglersystem med hjälp
+av ”concurrent programming” metoder
+kunna applicera grundläggande schemaläggningsteknik för
+realtidssystem.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+förstå betydelsen av formella metoder för säkerhetskritiska
+realtidsystem
+visa förmåga till lagarbete och samverkan vid
+laborationer.
+
+
+Kursinnehåll
+Ett realtidssystem karaktäriseras av att det inte bara är
+beräkningens resultat som är av betydelse utan också tidpunkten
+när resultatet produceras. Datorer som används för styrning och
+reglering är ett bra exempel på realtidssystem eftersom de måste
+arbeta periodiskt i en tidskala anpassad till den reglerade
+processens tidskala och samtidigt kunna reagera på yttre
+händelser, ofta inom en viss tidsrymd. Två typer av exempel
+industriella styrsystem och dedicerade inbäddade (embedded)
+styrsystem för t.ex. flygtillämpningar, autonoma farkoster eller
+industrirobotar. Kursens syfte är att studera metoder för design
+och implementering av regertekniska realtidssystem.
+Kursen innehåller följande moment: översikt av
+programmeringstekniska metoder för hantering av realtid inklusive
+realtidsprimitiver för synkronisering och för garanti av
+ömsesidig uteslutning samt realtidskärnor och
+realtidsoperativsystem, datorrealisering av enkla regulatorer,
+diskretisering av kontinuerliga regulatorer, sampling av
+kontinuerliga system, insignal-utsignal modeller för tidsdiskreta
+system, sekvensstyrning med hjälp av Grafcet, schemaläggning,
+integrerad reglering och schemaläggning, implementationsaspekter,
+reglering över nätverk.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen (5 tim), tre laborationer. Vid färre än fem anmälda kan omtentamina ges på muntlig form.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0120. Benämning: Tentamen. 
+Antal högskolepoäng: 6. Betygsskala: TH.  Prestationsbedömning: Godkänd tentamen 
+Kod: 0220. Benämning: Laboration 1. 
+Antal högskolepoäng: 0,5. Betygsskala: UG.  Prestationsbedömning: Godkända förberedelseuppgifter och godkänt genomförande av laborationen 
+Kod: 0320. Benämning: Laboration 2. 
+Antal högskolepoäng: 0,5. Betygsskala: UG.  Prestationsbedömning: Godkända förberedelseuppgifter och godkänt genomförande av laborationen 
+Kod: 0420. Benämning: Laboration 3. 
+Antal högskolepoäng: 0,5. Betygsskala: UG.  Prestationsbedömning: Godkända förberedelseuppgifter och godkänt genomförande av laborationen 
+Antagningsuppgifter
+Förutsatta förkunskaper: Grundläggande kurs i programmeringsteknik och FRTF05 Reglerteknik AK.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FRT031, FRTN01
+Kurslitteratur
+
+Årzén K-E: Real-Time Control Systems (senaste upplagan) och Wittenmark, B, K.J. Åström och K.-E- Årzén: Computer Control: An Overview" (senaste upplagan). Båda säljs av KFS + material som tillhandahålls av institutionen.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Karl-Erik Årzén, karl-erik.arzen@control.lth.se
+Studierektor: Anton Cervin, anton.cervin@control.lth.se
+Kursansvarig: Martina Maggio, martina.maggio@control.lth.se
+Hemsida: http://www.control.lth.se/course/FRTN60
+Övrig information: Kursen är öppen endast för studenter antagna till masterprogrammet i maskininlärning, system och reglerteknik. Övriga studenter hänvisas till FRTN01 Realtidssystem.
+Kursen är identisk med FRTN01 Realtidssystem förutom att det avslutande projektet (2.5 hp) saknas.
+
+
+

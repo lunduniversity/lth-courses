@@ -1,0 +1,137 @@
+
+Kursplan 2020/21 MMKF25
+
+
+
+
+
+Kursplan för
+Ytmodellering, rendering och 3D
+Surface Modelling, Rendering and 3D
+MMKF25, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning M
+Beslutsdatum: 2020-03-26
+Allmänna uppgifter
+Valfri för: M4-pu
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Kursen avser att ge grundläggande kunskaper i användningen av
+avancerade datorbaserade hjälpmedel för 3D produktmodellering.
+Produktmodelleringen avser att utifrån en framtagen produktidé
+medelst ytmodellering och 3D-skanning och utskrift av fysiskt
+objekt, skapa en datorbaserad produktmodell. Produktsimuleringen
+avser att ge en insikt i realtidssimulering (Virtual Reality, VR)
+och dess möjligheter att utifrån den framtagna produktmodellen
+simulera relationer mellan människa, produkt och miljö.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna välja lämpligt angreppssätt vid 3D-ytmodellering.
+kunna skapa datorgenererade 3D ytmodeller av begränsad
+komplexitet av produkter.
+kunna generera en digital 3D modell genom 3D skanning av en
+produkt.
+kunna generera nödvändig data för FriFormsFramställning
+utifrån given digital produktmodell.
+kunna skapa en för realtidssimulering lämplig modell utifrån
+givna produktdata (digital produktmodell).
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+utifrån givet objekt självständigt kunna skapa enkel digital
+3D-produktmodell med hjälp av ytmodelleringprogram samt
+renderingsprogram.
+självständigt kunna generera, utifrån given digital
+produktmodell, underlag för FriFormsFramställning.
+kunna skanna och skriva ut i 3D/reverse engineering.
+modellera och visualisera en ytterligare avancerad
+produkt.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+ 
+
+kunna avgöra vad som krävs av en 3D-produktmodell för att
+den ska kunna fungera som utvecklingsunderlag.
+avväga dess kvalitet i förhållande till de resurser som
+krävs för att kunna förverkliga 3D-modellen.
+bedöma vilka metoder som är bäst lämpade för reverse
+engineering samt utskrift i 3D.
+
+ 
+
+Kursinnehåll
+Kursen omfattar grundläggande delar i 3D produktmodellering
+medelst ytmodellering, 3D skanning, produktsimulering, modellering
+och friformsframställning i 3D.
+För ytmodelleringsdelen behandlas utifrån använda
+datorprogram (Rhino och Maxwell studio) följande.
+
+Introduktion 3D produktmodellering.
+Grundläggande programanvändargränssnitt. Skapa objekt
+utifrån befintliga grundobjekt, exempelvis klot, kuber och
+cylindrar. Transformera, spegla och duplicera objekt.
+NURBS-kurvor (CV-, Edit points- och Key-point-kurvor). Utifrån
+kurvor skapa olika typer av NURBS-ytor (skinnade, roterade, plana,
+extruderade och svepta).
+Editera CV-kurvor.
+Arbeta med lager.
+Trimma bort överskjutande ytdelar vid skärande ytor.
+Skapa avancerade dubbelkrökta ytor.
+Skapa STL- (Sterio Lithography) fil.
+Export av modell till CAD-program.
+Renderingsintroduktion med användande av olika renderare med
+tillhörande ljussättning, shaders och texturer.
+Animeringsintroduktion.
+
+För produktsimuleringen (VR) behandlas utifrån använt
+datorprogram följande.
+ 
+
+Introduktion Virtual Reality. Grundläggande
+programanvändargränssnitt. Import av 3D-objekt.
+Associera funktionalitet till digitalt objekt. Skapa
+interaktivitet. Simulering.
+3D skanningsdelen behandlar ett antal grundläggande 3D
+skanningsmetoder.
+Skanning av objekt och överföring till datorprogram sker i
+laborationsform.
+
+Friformsframställningsdelen behandlar 3D-utskrift av framtagen
+datorbaserad produktmodell till ett fysiskt objekt.
+
+Förberedelse före utskrift av erhållet objekt.
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examinationen kommer att ske individuellt baserat på godkända övningsuppgifter och inlämningsuppgifter. Dessutom tillkommer godkänd laboration i 3D skanning och utskrift.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+MMK010 Ritteknik/datorstödd ritning alternativt MMKA15 Ritteknik/datorstödd ritning
+MMK010 Ritteknik/datorstödd ritning eller MMKA15 Ritteknik/datorstödd ritning eller MMKA25 Ritteknik/datorstödd ritning
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: MMKF20
+Kurslitteratur
+
+Kortmanualer, introduktionsskrifter och övningsuppgifter för programmen Rhino, Maxwell studio och skanningsprogram.
+3D scanning practice document.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Per Kristav, per.kristav@design.lth.se
+Kursadministratör: Cilla Perlhagen, cilla.perlhagen@design.lth.se
+Hemsida: http://www.product.lth.se/education/
+
+
+

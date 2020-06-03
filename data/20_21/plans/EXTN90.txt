@@ -1,0 +1,100 @@
+
+Kursplan 2020/21 EXTN90
+
+
+
+
+
+Kursplan för
+Experimentella metoder och instrumentering för synkrotronljusforskning
+Experimental Methods and Instrumentation for Synchrotron Radiation Research
+EXTN90, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning N
+Beslutsdatum: 2020-03-27
+Allmänna uppgifter
+Huvudområde: Nanovetenskap. 
+Valfri för: F4, F4-aft, MNAV1, N4
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursen syftar till att ge fördjupade kunskaper kring
+synkrotronljuskällor, strålrör och experimentella metoder samt
+ge erfarenhet av beräkningar och modellering av olika ljuskällor
+och strålrör.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+ha fördjupad kunskap om synkrotronljuskällans egenskaper
+(böjmagnet, undulator, wiggler).
+ha kunskaper om optiska komponenter (fokuserande, avbildande,
+diffrakterande) för fotonenergiområden från infrarött till
+hård röntgen.
+ha kunskaper om uppbyggnaden av strålrör för spektroskopi,
+strukturbestämning, avbildning, mikroskopi och tomografi.
+ha kunskaper om experimentella tekniker och metoder för
+spektroskopi, strukturbestämning, avbildning, mikroskopi och
+tomografi.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna genomföra en simulering och därmed optimering av
+parametrar för insättningselement (undulatorer och wigglers)
+givet en kravspecifikation på fotonenergiområde, fotonflöde och
+polarisation. samt givet lagringsringens prestanda (elektronenergi,
+emittans och strålstorlek).
+kunna genomföra en simulering och därmed optimering av
+parametrar för optiska komponenter (såväl reflektiva, refraktiva
+som diffraktiva) för att optimera prestanda avseende
+fotonenergiområde, fotonflöde, energiupplösning, polarisation
+och fokusering.
+för en given vetenskaplig frågeställning kunna identifiera
+den eller de synkrotronljusbaserade och/eller
+frielektronlaserbaserade metoder som kan vara tillämpliga för
+problemets lösning.
+kunna kommunicera med strålrörsansvariga och tekniker på
+ett synkrotronljuslaboratorium.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna presentera grundläggande synkrotronljusresultat till
+allmänhet och kollegor
+kunna bedöma rimlighet och signifikans i rapporterade
+resultat.
+
+
+Kursinnehåll
+
+Egenskaper hos synkrotronljus från böjmagneter och
+insättningselement och hur dessa är kopplade till parametrar för
+lagringsringen och insättningselementet.
+Optiska komponenter för fokusering, monokromatisering och
+polarisering av synkrotronljus.
+Experimentella metoder baserade på synkrotronljus.
+
+
+Kursens examination
+Betygsskala: UV - (U,G,VG) - (Underkänd, Godkänd, Väl godkänd)
+Prestationsbedömning: Vetenskapligt föredrag, godkända laborationer och godkända inlämningsuppgifter. Deltagande i gruppövningar, demonstrationer, laborationer och därmed integrerad annan undervisning är obligatoriskt. Slutbetyget avgörs genom en sammanvägning av resultaten på de moment som ingår i examinationen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: EXTF90 Produktion av fotoner och neutroner för vetenskap.
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Enligt fastställd litteraturlista, vilken skall finnas tillgänglig senast fem veckor före kursstart. Se www.maxiv.lu.se .
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Sverker Werin, sverker.werin@maxiv.lu.se
+Hemsida: http://www.maxiv.lu.se
+Övrig information: Kursen ges av naturvetenskapliga fakulteten (MAXM16) och följer inte nödvändigtvis läsperiodsindelningen.
+
+
+

@@ -1,0 +1,84 @@
+
+Kursplan 2020/21 FMFN25
+
+
+
+
+
+Kursplan för
+Statistisk mekanik
+Statistical Mechanics
+FMFN25, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning F/Pi
+Beslutsdatum: 2020-04-01
+Allmänna uppgifter
+Huvudområde: Nanovetenskap. 
+Valfri för: F4, F4-tf, MNAV1, N4, Pi4
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursen ska ge en utökad grund i den statistika fysiken, som
+behövs både för tillämpningar och fortsatta studier i teoretisk
+fysik. Särskilt fokus ligger på att förmedla mer avancerade
+begrepp och metoder för att beskriva växelverkande system med
+många partiklar samt kritiska fenomen.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna den statistiska fysikens grunder, både matematisk
+modell och valda tillämpningar
+kunna studera teoretiska frågeställningar och
+självständigt välja matematisk analysmetod
+utifrån konkreta problemställningar inom olika delar av
+fysiken analysera och genomföra beräkningar inom
+ämnesområdet.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna använda den matematiska teorin för analys och
+beräkning av fysikaliska problemställningar
+självständigt sätta sig in i någon tillämpning av teorin
+och redogöra för denna.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+kunna avgöra när en kvantstatistisk analys är nödvändig
+och se i vilka sammanhang den statistiska fysiken är
+väsentlig.
+
+Kursinnehåll
+Statistiska metoder för makroskopiska system utgående från en
+kvantmekanisk beskrivning. Anknytning till
+termodynamik.Tillståndsumman, stora tillståndssumman, Gibbs
+entropi och fri energi. Fasövergångar och kritiska fenomen.
+Ising-modellen, transfermatrismetoden, medelfältsteori samt
+renormeringsteori. Ideala gaser: Fermi-Dirac, Bose-Einstein och
+Planck-fördelningar med tillämpningar på bl.a. elektron- och
+fotongaser.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Muntlig tentamen, skriftlig presentation av projekt och obligatorisk laboration.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: Grundläggande kunskaper i kvantmekanik, t ex från någon av kurserna FAFF10 Atom- och kärnfysik med tillämpningar, FMFF15 Kvantmekanik och matematiska metoder eller motsvarande.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FMF150, FMFN20
+Kurslitteratur
+
+David Chandler: Introduction to Modern Statistical Mechanics. Oxford University Press, 1987, ISBN: 0195042778.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Jakob Bengtsson, jakob.bengtsson@matfys.lth.se
+Kursansvarig: Anders Irbäck, anders@thep.lu.se
+Hemsida: http://www.atp.lu.se/english/education/courses/statistical-mechanics/
+
+
+

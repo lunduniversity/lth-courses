@@ -1,0 +1,127 @@
+
+Kursplan 2020/21 VBRN80
+
+
+
+
+
+Kursplan för
+Kvalificerad brandutredningsmetodik
+Advanced Fire Investigation
+VBRN80, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning BI/RH
+Beslutsdatum: 2020-03-16
+Allmänna uppgifter
+Valfri för: BI4, RH4
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Syftet är att studenterna tillsammans med en erfaren utredare
+kunna utföra en brandutredning av god kvalitet baserat på
+kunskaper erhållna under utbildningen. Studenterna ska kunna
+fastställa orsakerna till branden - både direkta och indirekta,
+såväl tekniska som mänskliga. De ska även kunna förklara
+spridningen av brand och brandgaser utifrån kunskaper från
+utbildningen och i förekommande fall belägga detta genom
+beräkningar och simuleringar. Studenterna ska även kunna
+identifiera lärdomar från branden och ge förslag på hur dessa
+kan leda till faktiska åtgärder på olika nivåer i samhället.
+Studenterna ska även kunna utföra en insatsutvärdering med fokus
+på teknik och metod.
+Kunskaperna om verkliga tändkällor och material syftar även
+till att öka studentens möjligheter till att identifiera risker
+vill tillsyner och riskanalyser.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna förklara hur man faställer brandorsaker, både direkta
+och indirekta
+kunna beskriva spridning av brand och brandgaser, både
+kvalitativt och kvantitativt, utifrån kunskaper i tidigare
+kurser.
+kunna förklara hur olika faktorer kan påverka
+intervjusvar
+förstå bakgrunden till anlagda bränder, både sociala och
+tekniska.
+förstå hur olika faktorer påverkar trovärdigheten i en
+intervju
+kunna förklara hur en insatsutvärdering utförs med fokus på
+metod och teknik.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna utföra en brandutredning av god kvalitet tillsammans med
+en erfaren utredare baserat på kunskaper från programmet
+använda etablerade metoder för brandutredning, t.ex.
+brandbildstolkning.
+fastställa om risk för antändning finns
+använda kunskaper från tidigare kurser för att förklara
+spridning av brand och brandgaser, både kvalitativt, med
+handberäkningar och med modeller (t.ex. CFD)
+använda några etablerade metoder för olycksutredning.
+identifiera relevanta lärdomar från bränder och ge förslag
+på hur de kan implementeras för ökad säkerhet.
+Kunna genomföra en intervju med god tillförlitlighet
+genomföra en enklare insatsutvärdering med fokus på metod
+och teknik.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna värdera säkerheten i slutsatser från
+brandutredningar
+visa förståelse för hur osäkerheter i bedömningarna bör
+hanteras i olika sammanhang.
+visa förståelse för möjligheter och begränsningar i att
+använda olika modeller (t.ex. CFD och 2-zon) och handberäkningar
+som verktyg i en brandutredning.
+
+
+Kursinnehåll
+
+Olyckstredningsmetoder och datainsamling
+Antändningsrisker – tändkällor, anlagda bränder,
+elrelateade bränder
+Applicering av branddynamik på faktiska bränder
+Brandutredningsmetoder
+Förhör/intervju-metodik
+Insatsutvärdering
+Användning av lärdomar från bränder för åtgärder på
+olika nivåer.
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examination sker med (1) tentamen, (2) projektarbete/hemuppgifter/labbrapporter. Samtliga examinerande moment måste vara godkända för att studenten skall få godkänt på kursen. Dessutom krävs obligatorisk närvaro på samtliga seminarier/redovisningar och laborationer/praktikdagar.
+
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0118. Benämning: Projekt/hemuppgift. 
+Antal högskolepoäng: 3,5. Betygsskala: UG.  Prestationsbedömning: Godkänt betyg på hemuppgift/projekt/labrapport 
+Kod: 0218. Benämning: Tentamen. 
+Antal högskolepoäng: 4. Betygsskala: TH.  Prestationsbedömning: Betyg på tentamen 
+Antagningsuppgifter
+Förkunskapskrav:
+VBRF10 Branddynamik
+
+
+Förutsatta förkunskaper: FAFA30 Fysik- elektricitetslära, gaser och vätskor, VBRF20 Brandkemi och värmetransport, MMVA01 Termodynamik med strömningslära, VBRN60 Brandskyddssystem, VBRN75 Människors beteende vid brand
+Begränsat antal platser: Nej
+Kurslitteratur
+
+All kurslitteratur görs tillgänglig via Luvit.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Marcus Runefors, marcus.runefors@brand.lth.se
+Övrig information: I grupparbeten och seminarier förutsätts aktivt deltagande. Varje gruppmedlem skall enskilt kunna redovisa och svara för innehållet. 
+
+
+

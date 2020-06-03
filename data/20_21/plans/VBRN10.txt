@@ -1,0 +1,118 @@
+
+Kursplan 2020/21 VBRN10
+
+
+
+
+
+Kursplan för
+Människors beteende vid brand
+Human Behaviour in Fire
+VBRN10, 8 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning BI/RH
+Beslutsdatum: 2020-03-16
+Allmänna uppgifter
+Huvudområde: Brandteknik. 
+Obligatorisk för: MFST1
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Syftet är att studenterna efter genomförd kurs ska förstå
+och kunna tillämpa teorier om människors beteende och brand, d v
+s både anläggning av bränder och utrymning. Vidare ska
+studenterna ha insikt om inverkan av kulturella och demografiska
+faktorer på utrymningsförlopp. Syftet med kursen är också att
+studenterna ska kunna förstå olika modelleringsprinciper för
+utrymning och deras begränsningar. Dessutom ska de förstå och
+kunna tillämpa relevanta handböcker, standarder och lagstiftning
+inom området.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna förklara de faktorer (psykologiska och miljörelaterade)
+som påverkar anläggning av bränder.
+kunna förklara RSET-modeller (enkla stimuliresponsmodeller)
+som vanligen används i handböcker och standarder.
+kunna beskriva olika teorier om människors beteende vid brand
+(t ex roll-regelmodell, anknytningsteori, teorin om affordances och
+hjälp i nödsituationer) i byggnadsbränder och
+skogsbränder.
+kunna ange typiska gånghastigheter vid utrymning och förklara
+hur personers förflyttning påverkas av demografiska faktorer (t
+ex ålder och rörlighet)
+kunna förklara social påverkan och ge exempel på situationer
+då social påverkan kommer att vara speciellt viktig.
+kunna beskriva hur människor påverkas av
+förbränningsprodukter, värme och strålning.
+kunna förklara de grundläggande antagandena i
+utrymningsmodeller (nätverksmodeller, rutnätsmodeller och
+kontinuerliga modeller).
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna tillämpa RSET-modeller (enkla stimuliresponsmodeller)
+för att uppskatta utrymningstid vid brand.
+kunna analysera ett brandtillbud och koppla utrymmande
+personers beteende till teorier om människors beteende vid
+brand.
+kunna analysera designen av nödutgångar med hjälp av teorin
+om affordances.
+kunna tillämpa utrymningsmodeller för att simulera
+människors förflyttning vid utrymning.
+kunna analysera resultat från simuleringar med
+utrymningsmodeller och relatera resultaten till modellernas
+antaganden.
+kunna välja lämpliga personbeteendescenarier (occupant
+behaviour scenarios) för brandteknisk dimensionering.
+kunna uppskatta effekterna av förbränningsprodukter, värme
+och strålning på människor.
+kunna förmedla teorier om människors beteende vid brand till
+lekmän och experter.
+kunna förmedla resultat från simuleringar med
+utrymningsmodeller till lekmän och experter (muntligt, skriftligt
+och grafiskt).
+kunna självständigt söka information (artiklar, rapporter,
+manualer etc.) om människors beteende vid brand.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna beakta relevanta vetenskapliga och etiska aspekter av
+experiment med människor (utrymningsförsök).
+kunna beakta relevanta etiska aspekter av utrymningssimulering
+vid brandteknisk dimensionering.
+
+
+Kursinnehåll
+I kursen behandlas teori om människors beteende vid brand, d v
+s anläggning av bränder och utrymning, samt datormodellering av
+utrymning. Under första halvan av kursen genomförs huvuddelen av
+föreläsningarna och laborationerna. Under andra halvan
+av kursen genomför studenterna ett grupparbete, vilket
+presenteras för andra studenter och lärare vid ett avslutande
+seminarium. Kursen avslutas med en tentamen.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Godkänd skriftlig tentamen, rapporter/presentationer och laborationsrapporter.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Begränsat antal platser: 35
+Urvalskriterier: Avklarade högskolepoäng inom programmet. Studenter som har kursen listad som obligatorisk har platsgaranti. Förtur ges till  studenter vars program har kursen listad i läro- och timplanen. 
+Kurslitteratur
+
+Litteraturen utgörs av vetenskapliga artiklar inom området "Människors beteende vid brand".
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Enrico Ronchi, enrico.ronchi@brand.lth.se
+Övrig information: I grupparbeten förutsätts aktivt deltagande. Varje gruppmedlem skall enskilt kunna redovisa och svara för innehållet. Uppfyller inte en medlem övrigas krav på aktiv medverkan, eller åsidosätter sina åtaganden, kan beslut av examinator om omplacering till annan grupp eller underkänt betyg erhållas.
+
+
+

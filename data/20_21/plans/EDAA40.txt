@@ -1,0 +1,100 @@
+
+Kursplan 2020/21 EDAA40
+
+
+
+
+
+Kursplan för
+Diskreta strukturer i datavetenskap
+Discrete Structures in Computer Science
+EDAA40, 5 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning C/D
+Beslutsdatum: 2020-03-30
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: D1
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Syftet med kursen är att introducera några av de mest basal
+formella koncepten och terminologin inom datavetenskapen och att ge
+ett gemensamt språkbruk, inklusive konventioner för notation och
+nomenklatur som senare kurser kan bygga på. Detta inkluderar en
+introduktion till abstrakt mängdteori, relationer, funktioner,
+ordnade mängder, boolesk algebra, logik och bevistekniker liksom
+strukturer såsom grafer och träd.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+- visa förståelse för basal notation inom mängdteori, såsom
+ekvivalens, kardinalitet, uppräknelighet och oändliga
+mängder,
+- kunna karaktärisera funktioner,
+injektiva/surjektiva/bijektiva funktioner, partial- och
+totalordningar och deras egenskaper, kompletta
+partialordningar,
+- förstå basala bevistekniker såsom induktion,
+- vara bekant med boolsk algebra och första ordningens
+logik,
+- förstå fundamentala strukturer som träd och grafer.
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+- kunna använda notationen för mängder, relationer,
+funktioner och ordningar för att definiera strukturer och
+diskutera deras egenskaper,
+- kunna använda induktion för att bevisa egenskaper hos
+oändliga mängder av objekt,
+- kunna manipulera, transformera och förenkla booleska uttryck
+enligt den booleska algebrans lagar,
+- kunna arbeta med träd och grafer och konstruera bevis för
+deras egenskaper,
+- kunna implementera enkla algoritmer och test för egenskaper
+hos diskreta strukturer.
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+- kunna använda mängder, grafer och träd för att
+representera aspekter av verkliga problem,
+- visa förmåga att ta fram en lämplig bevisstrategi för ett
+givet problem.
+
+Kursinnehåll
+Mängder, mängdekvivalenser, oändliga mängder,
+uppräkningsbarhet, funktioner, egenskaper hos funktioner
+(injektiva, surjectiva och bijektiva funktioner), relationer,
+ordningar (totala och partiella), transitivitet, (anti-) symmetri,
+reflexion, ekvivalensrelationer och klasser, kompletta
+partialordningar, boolesk algebra, predikatlogik, bevis, induktion,
+grafer, träd.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen. För godkänt betyg på kursen krävs att de obligatoriska momenten i kursen redovisats med godkänt resultat. Slutbetyg i kursen bestäms av resultatet på den skriftliga tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0116. Benämning: Tentamen. 
+Antal högskolepoäng: 3. Betygsskala: TH.  Prestationsbedömning: Resultatet på den skriftliga tentamen utgör slutbetyg i kursen. För att få slutbetyg krävs också att de obligatoriska momenten är godkända.  Delmomentet omfattar: Skriftlig tentamen. 
+Kod: 0216. Benämning: Obligatoriska moment. 
+Antal högskolepoäng: 2. Betygsskala: UG.  Prestationsbedömning: För slutbetyg på kursen krävs att de obligatoriska momenten är godkända 
+Antagningsuppgifter
+Förkunskapskrav:
+Godkänd på de obligatoriska momenten i EDAA01
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: EDAF10
+Kurslitteratur
+
+David Makinson: Sets, Logic, and Maths for Computing, 2nd ed. Springer. Boken finns också som gratis nerladdningsbar PDF/e-bok inom LTH:s nätverk: http://link.springer.com/book/10.1007%2F978-1-4471-2500-6.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Jörn Janneck, jorn.janneck@cs.lth.se
+Hemsida: http://cs.lth.se/edaa40
+
+
+

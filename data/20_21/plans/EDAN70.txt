@@ -1,0 +1,104 @@
+
+Kursplan 2020/21 EDAN70
+
+
+
+
+
+Kursplan för
+Projekt i datavetenskap
+Project in Computer Science
+EDAN70, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning C/D
+Beslutsdatum: 2020-03-30
+Allmänna uppgifter
+Valfri för: C4-pv, D4-pv, E4-bg, E4-pv, F4, I5-pvs, MSOC2, Pi4, MMSR1
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Kursens syfte är att ge fördjupade kunskaper och färdigheter
+inom något ämnesområde inom datavetenskap.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+ha fördjupade kunskaper i det aktuella ämnesområdet
+ha insikt i hur ett genomfört tekniskt arbete dokumenteras och
+presenteras på ett vetenskapligt sätt i tal och skrift
+
+ 
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+självständigt kunna planera, genomföra och rapportera avsett
+projekt
+självständigt kunna söka bearbeta och sammanställa relevant
+information
+kunna praktiskt tillämpa inhämtade kunskaper inom det
+aktuella projektområdet
+kunna presentera sina projektresultat i både skriftlig och
+muntlig form
+
+ 
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+visa förmåga till reflektion kring projektet i en kort
+rapport
+
+ 
+
+Kursinnehåll
+I kursen genomförs ett projekt inom ett underområde till
+datavetenskap med anknytning till den forskning som bedrivs vid
+institutionen och därtill kopplade kurser. Kursen utgör ett
+tillfälle att ytterligare fördjupa sig inom ett ämne som man
+redan införskaffat grunderna i genom att ha följt en av
+institutionens ordinarie kurser. Kursmoment som ingår
+inkluderar
+
+handledda självständiga litteraturstudier via databaser och
+bibliotek
+handlett självständigt arbete med anknytning till det
+aktuella ämnet
+skriftlig rapportering på svenska eller engelska enligt
+standard från internationellt granskade tidsskrifter samt muntlig
+rapportering vid offentligt seminarium på svenska eller
+engelska
+
+Möjliga projektområden kan variera från kursomgång till
+kursomgång och annonseras i god tid före kursstart och
+tillhörande kursanmälningsperiod via institutionens hemsida.
+Projektområden väljs från institutionens kurser på avancerad
+nivå.  Det garanteras dock inte att alla dessa områden är
+öppna vid varje kursomgång. I mån av tillgång till handledare
+inom institutionens forskargrupper kan även en individuell
+kursplan upprättas för ett projektarbete med särskild koppling
+till ett av institutionens forskningsprojekt.
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: För godkänt på kursen måste studenterna slutföra projektarbetet, skriva en kort rapport och presentera sitt arbete muntligt.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+EDAA01 Programmeringsteknik, fördjupningskurs samt en av institutionens fördjupningskurser på G2- eller A-nivå inom ämnet för det valda projektarbetet. Förkunskapskraven kommer tydligt att uttryckas tillsammans med information om vilka projektområden som är öppna för varje kurstillfälle via institutionens hemsida
+
+
+Begränsat antal platser: 30
+Urvalskriterier: Avklarade högskolepoäng inom programmet. Förtur ges till studenter vars program har kursen listad i läro- och timplanen.
+Kurslitteratur
+
+Vetenskapliga originalartiklar eller annan litteratur med anknytning till det valda ämnet.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Studierektor, studierektor@cs.lth.se
+Hemsida: http://cs.lth.se/edan70
+
+
+

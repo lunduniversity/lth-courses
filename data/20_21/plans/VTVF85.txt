@@ -1,0 +1,106 @@
+
+Kursplan 2020/21 VTVF85
+
+
+
+
+
+Kursplan för
+Utformning av järnvägar
+Railway Design
+VTVF85, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning V
+Beslutsdatum: 2020-03-23
+Allmänna uppgifter
+Obligatorisk för: IBYV3
+Valfri för: V4-at, V4-tv
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+I kursen behandlas metodik vid planering och projektering
+av järnvägar. Fördjupade kunskaper om geometrisk utformning av
+järnvägar förmedlas med tonvikt på metoder och modeller samt
+kvalitetskrav på underlag och hjälpmedel.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+Analysera samspelet mellan plan och profil och dess effekter
+på järnvägens linjeföring.
+Karaktärisera de miljöeffekter som kan uppstå till följd av
+inplacering av järnvägar i landskapet.
+Analysera samhällsekonomiska effekter av olika lösningar för
+ järnvägar.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+Utforma en järnvägslinje med stöd av svenska normer och
+standardkrav med hänsyn till trafikantens förmåga och behov samt
+landskapets förutsättningar.
+Tillämpa en metodik som används vid
+järnvägsutformning.
+Redovisa och motivera ett förslag till en järnvägslinje med
+planritning, profilritning och tvärsektioner
+Utföra dimensionering av en normalsektion hos en
+järnväg.
+Utföra enklare kostnadsberäkningar för järnväg.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+Värdera och genomföra en syntes av relevant information från
+olika discipliner med olika perspektiv vid projektering av en
+järnväg med ett hållbart förhållningssätt.
+
+Kursinnehåll
+Ett järnvägsprojekt på landsbygden följs från idé till
+färdig detaljutformning. Förutsättningar för utformningsarbetet
+förmedlas. Principer och grunder för gällande anvisningar och
+riktlinjer för geometrisk utformning och dimensionering av olika
+kategorier järnvägar studeras. Samspel plan och profil
+analyseras. Järnvägens påverkan på landskap och samhällets
+bebyggelse och samband analyseras. Stor vikt läggs vid
+järnvägens inpassning i terrängen. Korsningen mellan väg och
+järnväg studeras samt för- och nackdelar av olika lösningar
+diskuteras. Inledande skissingsarbete sker för hand medan
+datorhjälpmedel används i det efterföljande
+projekteringsarbetet. Järnvägens konsekvenser på miljön
+kartläggs och dess nytta för samhället värderas.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Individuell skriftlig dugga. Muntlig och skriftlig redovisning av projektarbetet som görs i grupp. Obligatorisk fältövning.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0320. Benämning: Projektarbete. 
+Antal högskolepoäng: 6. Betygsskala: TH.  Prestationsbedömning: Gruppvis muntlig och skriftlig redovisning av projektarbete.  
+Kod: 0420. Benämning: Dugga. 
+Antal högskolepoäng: 1,5. Betygsskala: UG.  Prestationsbedömning: Godkänd dugga. 
+Kod: 0520. Benämning: Fältövningar. 
+Antal högskolepoäng: 0. Betygsskala: UG.  Prestationsbedömning: Godkända fältövningar. 
+Antagningsuppgifter
+Förutsatta förkunskaper: VVBF20 Vägbyggnad eller VTVA45 Väg- och järnvägsteknik.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: VVB027, VTVF10
+Kurslitteratur
+
+Clifford F Bennett: Practical Railway Engineering. Imperical College Press, 2005, ISBN: 1-86094-515-5. REFERENSLITTERATUR Boken är tillgänglig hos kursansvarige lärare.
+Övningshandledning järnväg. Inst. för teknik och samhälle, 2012.
+Föreläsningsanteckningar.
+Sven Bårström och Pelle Granbom: Den svenska järnvägen. Trafikverket, 2012, ISBN: 978-91-7467-227-5. REFERENSLITTERATUR.
+Sven Agardh och Ebrahim Parhamifar: Vägbyggnad. 2014, ISBN: 978-91-47-09346-5.
+Trafikverket: Vägar och gators utformning. VV Publikation 2004:80, 2004. VGU finns tillgänglig på Trafikverkets hemsida och delar av den kommer att finnas på kursens hemsida.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Ebrahim Parhamifar, Ebrahim.Parhamifar@tft.lth.se
+Examinator: Carl-William Palmqvist, carl-william.palmqvist@tft.lth.se
+Hemsida: http://www.tft.lth.se
+Övrig information: Kursen ges i Lund.
+
+
+

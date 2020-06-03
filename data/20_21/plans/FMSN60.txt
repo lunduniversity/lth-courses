@@ -1,0 +1,106 @@
+
+Kursplan 2020/21 FMSN60
+
+
+
+
+
+Kursplan för
+Finansiell statistik
+Financial Statistics
+FMSN60, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning I
+Beslutsdatum: 2020-04-03
+Allmänna uppgifter
+Valfri för: F5, F5-fm, I5-fir, Pi4-fm
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursen skall ses som den statistiska delen av ett kurspaket som
+även innehåller kurserna TEK180 Värdering och hantering av
+finansiell risk och FMS170 Prissättning av derivattillgångar och
+skall ge verktyg för att från data konstruera modeller för
+riskvärdering och prissättning.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+hantera variansmodeller såsom GARCH-familjen, stokastisk
+volatilitet samt modeller som används för högfrekvent data.
+utnyttja grundläggande verktyg från stokastisk kalkyl: Itos
+formel, Girsanov transformation, Martingal, Markovprocess,
+Filtration och hur dessa kan användas.
+använda verktyg för filtrering av latenta processer såsom
+Kalmanfilter och partikelfilter.
+statistiskt validera modeller från någon av ovanstående
+modellklasser.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna hitta lämpliga stokastiska modeller för finansiell
+data.
+arbeta med stokastisk kalkyl för att prissätta finansiella
+kontrakt och för att transformera modeller så att data lämpar
+sig för statistisk modellering.
+förstå när och hur filtermetoder skall appliceras.
+validera vald modell i relativa och absoluta termer.
+lösa ett modelleringsproblems alla delar med hjälp av
+ekonomisk och statistisk teori (från kursen och från andra
+kurser) där lösningen innefattar modellspecifikation, inferens
+och modellval.
+redovisa lösningen skriftligt i en teknisk rapport samt
+muntligt.
+tillgodogöra sig forskningsartiklar inom fältet och
+närliggande fält.
+
+
+Kursinnehåll
+Kursen behandlar modellbygge och estimation i olinjära
+dynamiska stokastiska modeller för finansiella system. Modellerna
+kan ha kontinuerlig eller diskret tid och modellbygget avser
+såväl att bestämma modellernas struktur som att estimera
+eventuella parametrar. Vanliga modellklasser är t.ex.
+GARCH-modeller med diskret tid eller modeller baserade på
+stokastiska differentialekvationer med kontinuerlig tid. Deltagarna
+kommer också att möta statistiska metoder som Maximum Likelihood-
+och (generaliserade) momentmetoder för parameterestimation,
+kärnskattningsmetodik, olinjära filter för filtrering och
+prediktion samt partikelfiltermetodik.
+Kursen diskuterar också prediktion, optimering och
+riskvärdering för system baserad på sådana beskrivningar.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig rapport och muntlig redovisning av ett större projekt samt obligatorisk närvaro på laborationerna.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Projektarbete. 
+Antal högskolepoäng: 4,5. Betygsskala: TH.  Prestationsbedömning: Skriftlig och muntlig redovisning av projekt 
+Kod: 0217. Benämning: Laborationsdel 1. 
+Antal högskolepoäng: 1,5. Betygsskala: UG.  Prestationsbedömning: Datorlaboration 1 och 2 
+Kod: 0317. Benämning: Laborationsdel 2. 
+Antal högskolepoäng: 1,5. Betygsskala: UG.  Prestationsbedömning: Datorlaboration 3 och 4 
+Antagningsuppgifter
+Förkunskapskrav:
+FMSF10 Stationära stokastiska processer
+
+
+Förutsatta förkunskaper: EXTF45 Finansiell ekonomi och helst också någon/några av FMSN45 Tidsserieanalys, TEK180/EXTQ35 Värdering och hantering av finansiell risk samt FMSN25 Prissättning av derivattillgångar.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FMS161, MASM18
+Kurslitteratur
+
+Henrik Madsen, Erik Lindström and Jan Nygaard Nielsen: Statistics for Finance. Chapman and Hall/CRC , 2015, ISBN: 9781482228991.
+
+
+Kontaktinfo och övrigt
+Studierektor: Johan Lindström, studierektor@matstat.lu.se
+Hemsida: http://www.maths.lth.se/matstat/kurser/fmsn60/
+Övrig information: Bytt kurskod från FMS161. Kursen ges på naturvetenskaplig fakultet med koden MASM18.
+
+
+

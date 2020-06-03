@@ -1,0 +1,131 @@
+
+Kursplan 2020/21 FRTN35
+
+
+
+
+
+Kursplan för
+Systemidentifiering
+System Identification
+FRTN35, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning F/Pi
+Beslutsdatum: 2020-04-01
+Allmänna uppgifter
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursen syftar till att ge avancerade kunskaper och färdigheter
+i matematisk modellering utgående från mätdata med val av
+strukturell modell, parameterskattning, modellvalidering,
+prediktion, simulering och reglering.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna definiera grundläggande begrepp för system med flera
+in- och utsignaler;
+kunna översätta mellan olika flervariabla
+systembeskrivningar, särskilt tidsseriemodeller, transientsvar,
+överföringsmatriser och tillståndsbeskrivningar;
+kunna beräkna dynamisk matematiska modeller för samband
+insignaler och utsignaler jämte störningsmodeller;
+förstå experimentvillkorens betydelse för noggrannhet och
+kvalitet hos den resulterande matematiska modellen;
+kunna modellapproximera (reducera) flervariabla matematiska
+modeller med föreskriven approximationskvalitet.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna formulera reglertekniska modeller för flervariabla
+system på form av tillståndsmodell, tidsseriemodell,
+transientsvar och överföringsfunktion;
+kunna beräkna dynamiska matematiska modeller från
+experimentella data omfattande insignaler och utsignaler;
+kunna validera en matematisk modell relativt experimentdata
+genom statistisk analys, modellapproximation och simulering;
+kunna översätta reglertekniska specifikationer till
+kravspecifikation på den matematiska modellen.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+förstå samband och begränsningar, då förenklade modeller
+används för att beskriva en komplex och flervariabel
+verklighet;
+från resultatet av systemidentifiering och matematisk
+modellering kunna dra slutsatser om rimlighet och kvalietet i
+modell;
+kunna bedöma kvalitet på experimentdata;
+visa förmåga till lagarbete och samverkan i grupp vid
+laborationer.
+
+
+Kursinnehåll
+Kursen är inte specifikt reglertekniskt inriktad utan torde ha
+intresse för breda kretsar. Identifiering är av intresse för
+alla som är verksamma med analys av experimentdata och matematiskt
+modellbygge. Arbetsmomenten brukar omfatta mätdatainsamling,
+signalbehandling, modellval, parameterskattning och validering.
+Främst behandlas fysikaliskt baserade modeller och dynamiska
+modeller formulerade såsom differentialekvationer,
+överföringsfunktioner och differensekvationer. Identifiering är
+av intresse inom reglertekniken, där matematiska modeller har en
+viktig roll som underlag för beslut, prediktion, reglering,
+simulering och optimering. Många dimensioneringsmetoder grundas
+på antaganden om att det finns överföringsfunktioner, som
+beskriver den reglerade processen. Att finna processens
+överföringsfunktion är här en identifieringsuppgift.
+Föreläsningar: Transientanalys. Spektralmetoder.
+Frekvensanalys. Linjär regression. Interaktiva program.
+Modellparametriseringar. Prediktionsfelsmetoder.
+Instrumentvariabelmetoder. Realtidsidentifiering. Rekursiva
+metoder. Tidskontinuerliga modeller. Identifiering av återkopplade
+system. Identifiering för regulatordesign. Modellbygge.
+Strukturbestämning. Modellvalidering. Experimentplanering.
+Modellreduktionsmetoder. Partitionerade modeller. 2D-metoder.
+Olinjära system. Underrumsmetoder. Laborationer: Frekvensanalys.
+Interaktiv identifiering. Identifiering för regulatordesign.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen (5 tim), godkänt projekt, tre inlämningsuppgifter, tre laborationer. Vid färre än fem anmälda kan omtentamina ges på muntlig form.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Inlämningsuppgift 1. 
+Antal högskolepoäng: 0. Betygsskala: UG. 
+Kod: 0217. Benämning: Inlämningsuppgift 2. 
+Antal högskolepoäng: 0. Betygsskala: UG. 
+Kod: 0317. Benämning: Inlämningsuppgift 3. 
+Antal högskolepoäng: 0. Betygsskala: UG. 
+Kod: 0417. Benämning: Tentamen. 
+Antal högskolepoäng: 5. Betygsskala: TH.  Prestationsbedömning: Godkänd tentamen 
+Kod: 0517. Benämning: Laboration 1. 
+Antal högskolepoäng: 0,5. Betygsskala: UG.  Prestationsbedömning: Godkända förberedelseuppgifter ocg godkänt deltagande i laboration 
+Kod: 0617. Benämning: Laboration 2. 
+Antal högskolepoäng: 0,5. Betygsskala: UG.  Prestationsbedömning: Godkända förberedelseuppgifter ocg godkänt deltagande i laboration 
+Kod: 0717. Benämning: Laboration 3. 
+Antal högskolepoäng: 0,5. Betygsskala: UG.  Prestationsbedömning: Godkända förberedelseuppgifter ocg godkänt deltagande i laboration 
+Kod: 0817. Benämning: Projekt. 
+Antal högskolepoäng: 1. Betygsskala: UG.  Prestationsbedömning: Skriftlig rapport och muntlig presentation 
+Antagningsuppgifter
+Förutsatta förkunskaper: FRTF05 Reglerteknik AK, FMSF10 Stationära stokastiska processer.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FRT041
+Kurslitteratur
+
+Johansson R: System Modeling and Identification. Prentice Hall 1993.ISBN 0-13-482308-7.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Rolf Johansson, rolf.johansson@control.lth.se
+Studierektor: Anton Cervin, anton.cervin@control.lth.se
+Hemsida: http://www.control.lth.se/course/FRTN35
+
+
+

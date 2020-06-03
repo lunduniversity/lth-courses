@@ -1,0 +1,131 @@
+
+Kursplan 2020/21 EIEN50
+
+
+
+
+
+Kursplan för
+Automation
+Automation
+EIEN50, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning E
+Beslutsdatum: 2020-03-19
+Allmänna uppgifter
+Valfri för: D4, E4-ra, F4, I4-pr, M4-prr, MPRR1
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Automation är ingenjörskonsten att utnyttja mätning och
+information i realtid för att få material- och energiflöden att
+fungera på bästa sätt. Kursen ger också perspektiv på
+hållbarhet och samspelet mellan energi, vatten och livsmedel
+globalt. Syftet med kursen är att ge en överblick av de olika
+komponenter som ingår i ett industriellt styrsystem och hur dessa
+fungerar och interagerar med varandra. Kursen syftar även till att
+ge kunskap avseende de verktyg och metoder som används för att
+studenten självständigt ska inhämta information, ranalysera,
+realisera och utvärdera industriella styrsystem. I kursen
+kombineras studentens tidigare kunskaper från skilda ämnen som
+t.ex. reglerteknik, matematisk statistik, mätteknik och
+datorteknik samt visar hur automation kan se ut i olika
+industriella verksamheter.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+enskilt kunna
+ 
+
+tillämpa och integrera kunskaper från flera kurser och
+teknikområden,
+redogöra för tillståndsbegreppet i matematisk modellering av
+diskreta och kontinuerliga system,
+förklara de olika delarna i ett automationssystem för en
+enklare process och förstå hur dessa samverkar.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+enskilt kunna
+ 
+
+tillgodogöra sig vetenskapliga artiklar inom ett specifikt
+teknikområde och tillämpa metoder från dessa,
+dela upp större system i flera mindre processer och
+modularisera dessa för interation med andra processer,
+formulera en matematisk modell av en enkel process utifrån
+information om de ingående komponenterna och hur de
+interagerar,
+med matematiska och statistiska metoder analysera viktiga
+karakteristika hos en process utifrån den matematiska
+modellen,
+programmera en PLC med hjälp av lämplig mjukvara och
+standardspråk för en enklare sekventiell styruppgift,
+muntligen redogöra för funktionalitet och kvalitét på
+tekniska problemlösningar.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+enskilt kunna
+ 
+
+bedöma lämpligheten för styr-, övervaknings- och
+kommunikationsstrukturer för mindre industriella processer.
+Bedöma hur ett större problem kan delas in i väldefinierade
+delproblem för hantering av flera mindre sammanlänkade
+processer.
+
+
+Kursinnehåll
+Industriella processer: Var används automation?
+Exempel från olika industriella tillämpningar.
+Hur struktureras styrningen av industriella processer?
+Begreppen dynamiska processer och händelsestyrda system.
+Modeller: Kontinuerliga, tidsdiskreta och
+händelsestyrda system.
+Processövervakning: Mätvärdesinsamling, filtrering
+och dataanalys.
+Strukturer för industriella styrsystem:
+Sekvensstyrning, kombinatoriska nät och kontinuerliga processer.
+Realtidsprogrammering och industriell kommunikation. Exempel på
+kommersiella styrsystem.
+Styrsystemets fysikaliska delar: Mätvärdesinsamling
+och ställdon.
+Hemuppgifter: Simuleringsarbete om diskreta respektive
+dynamiska system. Dessa redovisas i två rapporter.
+Laborationer: Strukturering och programmering av ett
+enklare styrproblem på en laborationsprocess.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Bedömning sker i två moment, dels i grupp och dels individuellt:
+- För gruppmomenten gäller två godkända skriftliga rapporter från simuleringsövningar som ger ökad förståelse av grundläggande egenskaper hos olika dynamiska produktionssystem och dess stabilitet. Vidare krävs godkända arbetsmomet från tre sammanlänkande labbuppgifter som i laboratoriemiljö gradvis lär studenterna dela in större problem i mindre väldefinierade delproblem för att klara programmering och driftsättning av en produktionslinje. Avslutningsvis redovisar grupperna muntligen sina lösningar inför övriga grupper och utvärderar lösningarna därefter tillsammans. 
+- För det individuella momentet gäller en mindre litteraturstudie inom ett tekonikområde samt godkänd skriftlig tentamen.
+- För slutgiltigt godkänt betyg gäller att båda ovan moment är godkända.
+
+
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0120. Benämning: Automation. 
+Antal högskolepoäng: 5. Betygsskala: TH.  Prestationsbedömning: Tentamen 
+Kod: 0220. Benämning: Laboration och Inlämningsuppgift. 
+Antal högskolepoäng: 2,5. Betygsskala: UG.  Prestationsbedömning: Laborationsarbete, rapportskrivning 
+Antagningsuppgifter
+Förutsatta förkunskaper: FRT010/FRTF05 Reglerteknik, allmän kurs.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: MIE052, MIE062, MIE080
+Kurslitteratur
+
+Olsson G, Rosén C: Industrial Automation, Application, Structures and Systems. IEA, LTH, 2005, ISBN: Kompendium.
+Vetenskapliga artiklar inom HMI-området.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Docent Ulf Jeppsson, ulf.jeppsson@iea.lth.se
+Hemsida: http://www.iea.lth.se/aut/
+
+
+

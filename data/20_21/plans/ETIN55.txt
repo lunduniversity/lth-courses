@@ -1,0 +1,106 @@
+
+Kursplan 2020/21 ETIN55
+
+
+
+
+
+Kursplan för
+Integrerade A/D och D/A omvandlare
+Integrated A/D and D/A Converters
+ETIN55, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning E
+Beslutsdatum: 2020-03-19
+Allmänna uppgifter
+Huvudområde: Elektronikkonstruktion. 
+Obligatorisk för: MSOC1
+Valfri för: E4-is
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursen skall ge teknologen en grundläggande kunskap om två
+typer av väldigt viktiga ”mixed-signal” kretsar, dvs A/D- och
+D/A-omvandlare, som blir allt mer centrala i moderna elektroniska
+system. Medan signalbehandlingens största del utan tvekan utförs
+i den digitala domänen, väldigt ofta är systemets ingång
+och/eller utgång analog: som exempel kan nämnas
+effektförstärkare i digitalt ljud, skärmar och monitorer i
+digital video, och antennen i radiokommunikationer, alla
+tillämpningar som typiskt kräver högpresterande A/D- och
+D/A-omvandlare. Faktum är att mycket skilda områden som
+radiokommunikation, kabelkommunikation, hörapparater, och i
+allmänhet alla typer av inbyggda system, upplever ett mycket
+starkt tryck mot att förflytta omvandlarna närmare och närmare
+användargränssnittet, för att komma in i det robusta och
+konstruktörvänliga digitala området så fort som möjligt.
+Följaktligen, prestandan hos A/D- och D/A-omvandlarna, i termer av
+omvandlingshastighet, signalområde, energiförbrukning och
+kretsyta, är en mycket viktig parameter i många kommersiella
+kretsars övergripande kvalitet.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna beskriva teoretiska grunder för A/D- och D/A-omvandlare,
+i synnerhet sampling och kvantisering;
+kunna beskriva de viktigaste specifikationer för A/D- och
+D/A-omvandlare;
+kunna beskriva olika arkitekturer och deras fördelar och
+nackdelar;
+kunna beskriva kritiska komponenter och delkretsar och deras
+implementering;
+kunna beskriva de viktigaste faktorerna som begränsar en
+omvandlares prestanda, samt diskutera alternativa lösningar som
+förbättrar den.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna implementera en A/D- eller D/A-omvandlare i en praktisk
+tillämpning, samt utförligt simulera den på komponentnivå med
+hjälp av avancerade CAD-verktyg.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna muntligen redogöra för resultat erhållna på
+laborationer;
+kunna bidra med tillräckligt grundläggande information så
+att en kompetent person kan dokumentera idéer, problem och
+lösningar;
+kunna sovra i ett omfattande material, så som presenteras i
+böcker och manualer, och extrahera de mest relevanta
+uppgifterna.
+
+
+Kursinnehåll
+Teoretiska grunder till A/D- och D/A-signalomvandling;
+specifikationer för A/D- och D/A-omvandlare; vanligaste
+arkitekturer för A/D- och D/A omvandlare; ”Nyquist”-hastighet
+och översamplade A/D- och D/A omvandlare; kretslösningar till
+A/D- och D/A-omvandlare; A/D- och D/A omvandlare från aktuella
+tillämpningar.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Godkända laborationer och godkända skriftliga laborationsrapporter ger betyget 3. En framgångsrik skriven tentamen krävs för ett högre betyg (4 eller 5).
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: ESSF01 Analog elektronik eller ETIN70 Modern elektronik.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: ETI220
+Kurslitteratur
+
+Maloberti F: Data Converters. ISBN-10: 0387324852, ISBN-13: 978-0387324852.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Universitetslektor Pietro Andreani, Pietro.Andreani@eit.lth.se
+Hemsida: http://www.eit.lth.se/kurs/etin55
+
+
+

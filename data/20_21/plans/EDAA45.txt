@@ -1,0 +1,94 @@
+
+Kursplan 2020/21 EDAA45
+
+
+
+
+
+Kursplan för
+Programmering, grundkurs
+Introduction to Programming
+EDAA45, 7,5 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning C/D
+Beslutsdatum: 2020-02-24
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: D1
+Alternativobligatorisk för: W3
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Studenterna ska lära sig att skriva små och medelstora
+datorprogram och få grundläggande insikter i imperativ
+programmering, objektorientering och funktionsprogrammering.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna förklara grundläggande begrepp inom imperativ
+programmering, objektorientering och funktionsprogrammering
+kunna förklara och ge exempel på enkla algoritmer
+kunna beskriva och använda vanliga datatyper för samlingar,
+som sekvenser, mängder, och nyckel-värdetabeller
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna konstruera och implementera algoritmer för att lösa
+enkla uppgifter
+kunna implementera klasser från givna krav
+kunna strukturera program med hjälp av klasser och
+metoder
+kunna använda flera olika verktyg för att skriva in, testa
+och felsöka program
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna bedöma svårighetsgraden att skriva olika program
+kunna bedöma svårigheter och fördelar med föränderliga
+respektive oföränderliga data
+
+
+Kursinnehåll
+Grundläggande programkonstruktioner, konstruktion av enkla
+algoritmer. Användning av vanliga datatyper för samlingar:
+sekvenser, mängder, nyckel-värde-tabeller.  Grundläggande
+objektorientering: objekt, klass, inkapsling, arv, polymorfism,
+oföränderliga objekt, tillståndsförändring. Grundläggande
+funktionsprogrammering: funktioner som värden, anonyma funktioner,
+mönstermatchning, använda högre ordningens funktioner. Som
+programspråk används huvudsakligen Scala, men en introduktion ges
+även till Java.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Betyg på kursen bestäms av resultatet på skriftlig tentamen. Obligatoriska moment: datorlaborationer, projekt, diagnostiskt test.
+
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0116. Benämning: Skriftlig tentamen. 
+Antal högskolepoäng: 3. Betygsskala: TH.  Prestationsbedömning: Betyget på hela kursen bestäms av betyget på tentamen.  Delmomentet omfattar: En tentamen i tentamensperioden i januari. 
+Kod: 0216. Benämning: Datorlaborationer och inlämningsuppgifter. 
+Antal högskolepoäng: 4,5. Betygsskala: UG.  Prestationsbedömning: För godkänt krävs fullgjorda datorlaborationer och godkända inlämningsuppgifter. Detaljerade föreskrifter angående fullgörande av obligatoriska moment kommer att finnas i kursplanen.  Delmomentet omfattar: Datorlaborationer och inlämningsuppgifter. 
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Urvalskriterier: Studenter för vilka kursen är obligatorisk (D) har platsgaranti. Övriga (W) har begränsat antal platser (10). Urval till dessa platser görs på basis av flest antal tagna poäng inom programmet.
+
+Kursen överlappar följande kurser: EDA010, EDA011, EDA015, EDA017, EDA390, EDA500, EDA501, EDA616, EDA618, EDAA10, EDAA20, EDA016, EDAA50, EDAA55, EDAA65
+Kurslitteratur
+
+Kompendium, utges av inst.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Prof. Björn Regnell, bjorn.regnell@cs.lth.se
+Studierektor: Studierektor, studierektor@cs.lth.se
+Hemsida: http://cs.lth.se/edaa45
+
+
+

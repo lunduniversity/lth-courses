@@ -1,0 +1,107 @@
+
+Kursplan 2020/21 KASN25
+
+
+
+
+
+Kursplan för
+Polymerkemi
+Polymer Chemistry
+KASN25, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning B/K
+Beslutsdatum: 2020-03-27
+Allmänna uppgifter
+Valfri för: K4-m, N4-m
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursen skall ge de specialkunskaper som fordras för att
+kunna:
+
+tillgodogöra sig modern polymerkemisk litteratur
+delta i kemiskt inriktat forsknings- och utvecklingsarbete inom
+polymerframställande och polymeranvändande industri.
+
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+Kunna utförligt beskriva och analysera allmänna
+polymerisationsreaktioner med kedje- och stegvis mekanism
+Kunna utförligt beskriva principerna för de viktigaste
+metoderna för bestämning av molekylvikter och
+molekylviktsfördelningar.
+Kunna generellt beskriva och förklara polymerers löslighet
+och egenskaper i lösning utifrån termodynamiska begrepp
+Kunna förklara generell kemisk nedbrytning av polymerer och
+beskriva olika strategier att stabilisera polymera material
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+Kunna utvärdera enkla metoder för polymerisation och
+karakterisering av polymerer utifrån beskrivningar, tillämpa
+dessa praktiskt och sammanställa resultaten i skriftliga rapporter
+på engelska
+Kunna lösa komplexa polymerkemiska problem genom beräkningar
+utifrån teori
+Kunna förstå och uttnyttja polymerkemiska begrepp på
+engelska i tal och skrift
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+Ha insikter om kemiskt inriktad verksamhet inom
+polymerframställande och polymeranvändande industri
+
+
+Kursinnehåll
+Kursen behandlar huvudområdena polymerisation, polymerer i
+lösning och nedbrytning av polymerer:
+ 
+
+Polymerisation: stegvis polymerisation, radikalpolymerisation,
+jonisk polymerisation, polymerisation genom organometallisk
+katalys, stereokemi, sampolymerisation
+Polymerer i lösning: polymerers löslighet, polymerlösningars
+termodynamik, fysikaliska egenskaper hos polymerer i lösning
+Karakterisering av polymerer: viskosimetri, gelkromatografi,
+spektroskopi, osmometri, molekylviktsfördelningar
+Nedbrytning av polymerer: nedbrytningsmekanismer, mätmetoder,
+stabilisering av polymerer
+
+Kursens teoretiska innehåll behandlas på föreläsningar.
+Studenternas förmåga att lösa polymerkemiska problem tränas
+under räkneövningar. Genom individuella inlämningsuppgifter
+tränas dessutom studenternas i att självständigt lösa problem.
+Utvalda huvudmoment i kursen belyses praktiskt genom laborationer i
+grupp, och genom studiebesök hos lokal polymertillverkade och
+polymeranvändande industri får studenterna en inblick i modern
+polymerkemisk produktion och utvecklingsarbete.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen. Godkända laborationsrapporter och inlämningsuppgifter, samt deltagande på obligatoriska studiebesök hos industrin. Tentamensresultat ger slutbetyget.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: KASF05 Material- och polymerteknologi eller KASF10 Funktionella material.
+Begränsat antal platser: 20
+Urvalskriterier: Avklarade högskolepoäng inom programmet. Förtur ges till studenter vars program har kursen listad i läro- och timplanen.
+Kursen överlappar följande kurser: KTE080
+Kurslitteratur
+
+J.M.G. Cowie, V. Arrighi: Polymers: Chemistry & Physics of Modern Materials, 3rd edition. CRC Press, 2008, ISBN: 978-0-8493-9813-1.
+Utdelade laborationshandledningar, problemsamling, mm.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Baozhong Zhang, baozhong.zhang@chem.lu.se
+Hemsida: http://canvas.education.lu.se
+
+
+

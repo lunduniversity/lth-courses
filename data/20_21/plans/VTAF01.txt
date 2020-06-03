@@ -1,0 +1,128 @@
+
+Kursplan 2020/21 VTAF01
+
+
+
+
+
+Kursplan för
+Ljud i byggnad och samhälle
+Sound in Building and Environment
+VTAF01, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning V
+Beslutsdatum: 2020-03-23
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Alternativobligatorisk för: V3
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Syftet med kursen är att ge studenterna grundläggande
+kunskaper om ljud och dess effekt på människan med tillämpning
+på bullerproblem som uppstår i byggnad och samhälle.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+Kunna förklara grundläggande akustiska begrepp som ljudnivå,
+frekvens, spektrum, buller, vibrationer, diffraktion, interferens,
+absorption och ljudisolering.
+Kunna redogöra för hur ljud uppstår, sprids och uppfattas av
+människor, samt hur ljudet påverkar människors hälsa och
+välbefinnande.
+Kunna redogöra för olika riktvärden och lagstiftningar mot
+buller samt olika åtgärder för att minska bullerpåverkan i
+samhället.
+Kunna redogöra för hur ljud fortplantas och dämpas i
+byggnader i form av stomljud, och flanktransmissioner.
+Kunna redogöra för olika typer av mätmetoder inom akustiken
+– i rum, mellan rum och i samhället.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+Kunna använda introducerade begrepp samt matematiska och
+fysikaliska verktyg för att beskriva, analysera och föreslå
+åtgärder till olika problem med buller.
+Kunna utföra mätning och beräkning av efterklangstid i ett
+rum, samt föreslå åtgärder för att uppnå önskade akustiska
+egenskaper.
+Kunna utföra en mätning av ljudisolering i en vägg och
+stegljudsisolering i ett golv enligt standardiserad modell, samt
+kunna mäta vibrationer i och mellan strukturelement.
+Kunna genomföra beräkningar av efterklangstid, ljudisolering
+och stegljudsnivå för givna rum och byggnader.
+Kunna planera, utföra och analysera mätningar av ljudnivåer
+från trafikbuller.
+Kunna genomföra beräkningar av ljudnivåer vid olika
+trafiksituationer med hjälp av kommersiell programvara.
+Kunna tolka och analysera olika mätsignaler och
+frekvensspektra.
+Kunna arbeta praktiskt med akustisk mätutrustning.
+Redovisa lösning av ett akustiskt problem i en teknisk
+rapport.
+
+
+Kursinnehåll
+Kursen behandlar de fysiska och matematiska grunderna för
+akustiken och introducerar centrala begrepp som ljudtryck,
+frekvens, ljudnivå, impedans och vibrationer. Vågutbredning med
+akustiska fenomen som reflektion, transmission, stående våg och
+resonans introduceras.
+Fortplantning av plana, cylindriska och sfäriska vågor och
+deras effekter diskuteras, såväl som diffraktion som uppstår vid
+hinder.
+Samtliga fenomen exemplifieras genom en beskrivning av hur de
+inverkar i de bullerproblem vi stöter på i våra byggnader och
+vårt samhälle:
+
+Trafikbuller: beräkningar, mätningar, åtgärder och
+bullerhänsyn vid stadsplanering.
+Rumsakustik: ljudabsorption, olika absorbenter, efterklangstid,
+egenvärdesanalyser och akustik planering.
+Ljudisolering och stomljud: reduktionstal och -koefficient,
+enkel- och dubbelväggar, vibrationsisolering, stegljudisolering,
+flanktransmission, knutpunktsisolering.
+
+Vidare innehåller kursen två laborationer som genomförs under
+två timmar vardera:
+
+Genomgång av utrustning och mätning av ljudisolering och
+ljudabsorption.
+Mätning av vibrationer i balk och sträng.
+
+Ett viktigt moment i kursen är en projektuppgift som skall
+resultera i en rapport som betygsätts. Tre alternativa uppgifter
+finns att välja mellan:
+
+Mätning och simulering av bullernivå i trafiksituation.
+Mätning och beräkning av efterklangstid.
+Fri uppgift
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Godkänd skriftlig tentamen, godkänd projektuppgift som redovisas skriftligt och eventuellt muntligt, samt godkända laborationsrapporter. Kursen betygssätts sedan efter projektuppgiften och tentamensresultatet (3, 4 eller 5).
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: FMAA05 Endimensionell analys OCH
+FMA430 Flerdimensionell analys eller FMAB30 Flerdimensionell analys.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: VTA070
+Kurslitteratur
+
+Grundläggande akustik, E. Nilsson m.fl. upplaga 2008.
+Kompletterande häfte med teori och uppgifter som delas ut på föreläsning utan extra kostnad.
+Laborationsanvisningar.
+Föreläsningsanteckningar, projektuppgifter, formelsamling samt övrigt utdelat eller på hemsidan publicerat material.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Delphine Bard, delphine.bard@construction.lth.se
+Hemsida: http://www.akustik.lth.se/utbildning/kurser/
+
+
+

@@ -1,0 +1,81 @@
+
+Kursplan 2020/21 FMAN01
+
+
+
+
+
+Kursplan för
+Biomatematik
+Biomathematics
+FMAN01, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning F/Pi
+Beslutsdatum: 2020-04-01
+Allmänna uppgifter
+Valfri för: E4-mt, F4, F4-bm, Pi4-biek
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Kursens huvudsyfte är att ge en grundläggande introduktion
+till teori och matematiska metoder inom biologi, i tillräcklig
+omfattning för att kunna ta sig an biologiska problemställningar.
+Vidare är syftet att få studenten att utveckla sin förmåga till
+problemlösning, både med och utan dator. Syftet är också att
+förbereda för fortsatta studier i t ex biologiska system och
+evolutionsbiologi.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna tydligt förklara och självständigt använda
+matematiska grundbegrepp inom biologi, speciellt inom
+cellmodellering, evolutionsdynamik och diffusionsfenomen.
+kunna beskriva och översiktligt förklara den matematiska
+teorin bakom några centrala biologiska modeller, såsom
+icke-linjära differensekvationer, icke-linjära
+differentialekvationer och reaktions-diffusions-ekvationer.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna använda dator för att simulera lösningar till
+biologiska problem.
+kunna visa god förmåga att självständigt identifiera
+biologiska problemställningar som kan lösas med
+matematisk modellering, samt kunna välja lämplig metod.
+med adekvat terminologi, väl strukturerat och logiskt
+sammanhängande kunna redogöra för lösningen till ett biologiskt
+modelleringsproblem.
+
+
+Kursinnehåll
+Populationsmodeller i diskret och kontinuerlig tid.
+Läkemedelskinetik och -dynamik . Kvalitativ analys av system av
+differentialekvationer. Modellering av spridning av
+infektionssjukdomar. Bifurkationer, gränscykler och exciterbara
+system med tillämpning bl a på jägare-bytes modeller. Spatiella
+metoder med tillämpning på diffusion och nervledning.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Obligatoriska inlämningsuppgifter. Godkänt resultat på dessa räcker för godkänt på kursen. För överbetyg fordras godkänt resultat på en hemtentamen och en muntlig tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: FMAF10 Tillämpad matematik - Linjära system.
+Begränsat antal platser: Nej
+Kurslitteratur
+
+Edelstein-Keshet, L.: Mathematical models in Biology. SIAM, 2004, ISBN: 0-07-554950-6.
+
+
+Kontaktinfo och övrigt
+Studierektor: Anders Holst, Studierektor@math.lth.se
+Kursansvarig: Anders Källén, andersk@maths.lth.se
+Kursadministratör: Studerandeexpeditionen, expedition@math.lth.se
+Hemsida: http://www.maths.lth.se/course/biomat/
+
+
+

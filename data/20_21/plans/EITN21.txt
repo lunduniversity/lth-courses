@@ -1,0 +1,99 @@
+
+Kursplan 2020/21 EITN21
+
+
+
+
+
+Kursplan för
+Projekt i trådlös kommunikation
+Project in Wireless Communication
+EITN21, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning E
+Beslutsdatum: 2020-03-19
+Allmänna uppgifter
+Huvudområde: Kommunikationssystem. 
+Obligatorisk för: MWIR2
+Valfri för: C5, D5, E5-ks
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Syftet med kursen är att i projektform ge en sammanhängande
+bild av hur de olika komponenterna i ett trådlöst
+kommunikationssystem fungerar och samverkar. Studenten ska kunna
+simulera ett kommunikationssystem uppbyggt av delblock innefattande
+såväl det fysiska lagret som grundläggande kontrollmekanismer.
+Därigenom ska också en god förståelse skapas för hur man kan
+simulera prestanda och verifiera funktionen och prestanda hos
+kommunikationssystem.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+ha fått förståelse för delsystemens egenskaper och deras
+samverkan i ett komplett trådlöst kommunikationssystem. En viktig
+del är insikten att teknikval leder till olika kompromisser där
+alla önskade egenskaper ofta inte kan uppnås samtidigt.
+vara väl förtrogen med olika tekniker för att simulera och
+på andra sätt utvärdera ett system uppbyggt av delkomponenter i
+ett trådlöst kommunikationssystem i jämförande studier.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna analysera och beskriva egenskaperna för ett byggblock i
+ett trådlöst kommunikationssystem och utifrån detta välja
+lämplig implementationsmetod.
+kunna sätta samman delblock till ett fungerande system.
+utifrån en given projektuppgift kuna ta fram och implementera
+en simuleringskedja för en trådlös kommunikationslänk.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+ha fått övergripande syn på hur olika delkomponenter
+samverkar med övriga komponenter i ett trådlöst
+kommunikationssystem.
+känna sig väl rustad att analysera, implementera och testa
+ett trådlöst kommunikationssystem för att utvärdera och
+verifiera dess egenskaper.
+
+
+Kursinnehåll
+Kursen består till största delen av ett simuleringsprojekt
+där studenterna i grupp analyserar, implementerar, simulerar och
+testar ett kommunikationssystem. Projektet kräver att kunskaper
+från andra närliggande kurser kombineras och innebär studier av
+rekommenderad litteratur, sökande av externa kunskapskällor,
+implementering, simulering och testning. Föreläsningar och
+övningar fungerar som en direkt introduktion till projektet, medan
+huvuddelen av kursen består i projektarbete.
+Vid kursens slut skall projektet redovisas såväl skriftligt
+som vid en muntlig presentation/demonstration.
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: Inlämningsuppgifter, projektrapport och muntlig presentation av projektarbete.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0118. Benämning: Projekt i trådlös kommunikation. 
+Antal högskolepoäng: 4,5. Betygsskala: UG.  Prestationsbedömning: Godkänd projektrapport och muntlig redovisning  Delmomentet omfattar: Muntlig projektpresentation och skriftlig projektrapport 
+Kod: 0218. Benämning: Inlämningsuppgift. 
+Antal högskolepoäng: 3. Betygsskala: UG.  Prestationsbedömning: Godkända skriftliga inlämningsuppgifter och muntlig presentation  Delmomentet omfattar: Inlämningsuppgifter, datorsimuleringar 
+Antagningsuppgifter
+Förkunskapskrav:
+EITG05 Digital kommunikation eller ETT051 Digital kommunikation
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: EITN15, EITN20
+Kontaktinfo och övrigt
+Kursansvarig: Fredrik Tufvesson, fredrik.tufvesson@eit.lth.se
+Hemsida: http://www.eit.lth.se/kurs/eitn21
+
+
+

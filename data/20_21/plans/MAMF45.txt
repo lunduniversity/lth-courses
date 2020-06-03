@@ -1,0 +1,114 @@
+
+Kursplan 2020/21 MAMF45
+
+
+
+
+
+Kursplan för
+Virtual Reality i teori och praktik
+Virtual Reality in Theory and Practice
+MAMF45, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning C/D
+Beslutsdatum: 2020-03-30
+Allmänna uppgifter
+Valfri för: C4-da, D4-bg, E4, F4
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Studenten skall tillägna sig en översikt av området Virtual
+Reality, inte bara från en teknisk synvinkel, utan även utifrån
+det komplexa samspelet mellan människans perceptuella system och
+teknologin.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna förklara olika tekniker inom Virtual Reality och
+angränsande teknologi.
+kunna redogöra för hur man designar och utför Virtual
+Reality-baserade projekt, inte bara från teknisk synpunkt, utan
+även med full förståelse för det komplexa samspelet mellan
+människans perceptuella system och teknologin.
+ha grundläggande kunskap för att göra ett examensarbete i
+ett av universitetets VR-laboratorier.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+ha fått en praktisk erfarenhet om hur man designar och utför
+Virtual Reality-baserade projekt. Kursen ska ge en tillräcklig
+grund för att kunna göra ett examensarbete inom Virtual
+Reality.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna relatera olika teknikers för-och nackdelar inom
+VR-teknologin, mot tillämpningsområdets möjlighter och
+begränsningar.
+
+
+Kursinnehåll
+
+Virtual Reality’s byggstenar, mjukvara och hårdvara
+Människans perception, möjligheter och begränsningar
+Evaluering (t.ex. närvarokänsla)
+Olika tillämpningsområden
+
+Vid kursens slut, kommer deltagaren att kunna designa och
+utföra Virtual Realitybaserade projekt, inte bara från teknisk
+synpunkt, utan även med full förståelse för det komplexa
+samspelet mellan människans perceptuella system och
+teknologin.
+Kursen kommer att bestå av tre huvudaktiviteter:
+föreläsningar, workshops, och projektarbete.
+Projektet ska vara ett omfattande arbete och ska följa ett av
+tre teman:
+ 
+
+Teoretisk – deltagaren ska grundligt undersöka en viss del
+av Virtual Reality-området.
+Lågnivå hårdvara eller mjukvara – deltagaren ska utveckla
+en hårdvara eller mjukvara från första principen kopplat till
+Virtual Reality-området.
+Högnivå Virtual Reality-tillämpning – deltagaren ska
+utveckla en komplett VR-tillämpning, helst baserat på ett problem
+från näringslivet. Man får använda vilket verktyg man vill,
+men det rekommenderas att man håller sig till dem som finns
+tillgängliga i labbet.
+
+Deltagarna förväntas att presentera sitt arbete med en affisch
+eller online-material, och ge en muntlig presentation om
+arbetet. Projektet kan göras enskilt, eller upp till 3
+medlemmar.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: För slutbetyg krävs: godkänd tentamen, godkänt projektarbete samt fullgjorda obligatoriska moment. För slutbetyg sammanräknas resultaten från tentamen och projektarbete.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0118. Benämning: Virtual Reality i teori och praktik. 
+Antal högskolepoäng: 7,5. Betygsskala: TH. 
+Kod: 0218. Benämning: Projektarbete. 
+Antal högskolepoäng: 0. Betygsskala: TH. 
+Antagningsuppgifter
+Begränsat antal platser: 40
+Urvalskriterier: Avklarade högskolepoäng inom programmet. Förtur ges till studenter vars program har kursen listad i läro- och timplanen.
+Kursen överlappar följande kurser: MAM101
+Kurslitteratur
+
+The Handbook of Virtual Reality, Kay Stanney (ed), Lawrence Erlbaum Associates, ISBN: 0-8058-3270-X.
+Artiklar på web-site.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Forskarassistent Joakim Eriksson, Joakim.Eriksson@design.lth.se
+Hemsida: http://www.eat.lth.se
+
+
+

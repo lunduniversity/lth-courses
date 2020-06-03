@@ -1,0 +1,92 @@
+
+Kursplan 2020/21 KASN05
+
+
+
+
+
+Kursplan för
+Kromatografisk analys
+Chromatographic Analysis
+KASN05, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning B/K
+Beslutsdatum: 2020-03-27
+Allmänna uppgifter
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Kursen skall ge fördjupade kunskaper och insikter i analytisk
+kemi med betoning på moderna analytiska tekniker omfattande
+kromatografi, kapillärelektrofores, fältflödesfraktionering och
+masspektrometri.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna på fördjupningsnivå redogöra för de olika
+analytiska principer och tekniker kursen omfattar
+kunna beskriva, värdera valet av och optimera vald
+separationsteknik för analys av olika lågmolekylära och
+makromolekylära analyter
+förstå innebörden av begrepp som används i
+analyskvalitetssammanhang
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+praktiskt kunna använda avancerade analystekniker
+ha förmåga till att självständigt kunna bearbeta och
+behandla experimentellt genererade data samt kvalitetsbedöma och
+sammanställa dessa i en skriftlig rapport
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+inse hur valet av analysteknik och metod påverkar
+analysresultatets kvalitet
+
+
+Kursinnehåll
+Kursen behandlar olika analytiska separationstekniker och
+metoder, så som HPLC, UHPLC och LC/MS, GC och GC/MS, CE
+(kapillärelektrofores), SFC (superkritisk kromatografi) samt
+FFF (fältflödesfraktionering) vilka används för
+karaktärisering och kvantifiering av låg- och makromolekylära
+substanser och som är vanligt förekommande inom läkemedels-,
+livsmedels-, miljö-, bioteknisk och biokemisk analys.
+En viktig del av kursen ägnas åt optimeringsstrategier av
+analystekniker för effektivisering av separations- och
+detektionsbetingelser. Analyskvalitet behandlas med begrepp som
+kvalitetssäkring, kvalitetskontroll, god laboratoriepraxis (GLP)
+och metodvalidering.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen,laborationer och laborationsrapporter. Slutbetyg på kursen baseras på tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Tentamen. 
+Antal högskolepoäng: 7,5. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen omfattande föreläsningar, övningar, all litteratur och laborationer. 
+Kod: 0217. Benämning: Laborationer. 
+Antal högskolepoäng: 0. Betygsskala: UG.  Prestationsbedömning: Obligatorisk närvaro vid laborationer samt godkända laborationsrapporter. 
+Antagningsuppgifter
+Förutsatta förkunskaper: KAKF01 Analytisk kemi
+Begränsat antal platser: 24
+Urvalskriterier: Avklarade högskolepoäng inom programmet. Förtur ges till studenter vars program har kursen listad i läro- och timplanen.
+Kursen överlappar följande kurser: KAKN05, KAK050
+Kurslitteratur
+
+Harris, D. C.: Quantitative Chemical Analysis. 9th ed. Freeman , 2015, ISBN: 1-4641-3538-X.
+Kompendier.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Universitetslektor Margareta Sandahl, margareta.sandahl@chem.lu.se
+Hemsida: http://www.kilu.lu.se/cas/education/undergraduate_education/kemibioteknik/kasn05/
+
+
+

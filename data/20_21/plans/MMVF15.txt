@@ -1,0 +1,96 @@
+
+Kursplan 2020/21 MMVF15
+
+
+
+
+
+Kursplan för
+Strömningslära
+Fluid Mechanics
+MMVF15, 6 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning M
+Beslutsdatum: 2020-03-26
+Allmänna uppgifter
+Valfri för: F4, F4-bem, Pi4-bem
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursen syftar till att ge grundläggande insikter kring
+grundläggande strömningssamband och strömningsfenomen av teknisk
+och fundamental betydelse, samt en översiktlig men god kunskap om
+de metoder som används vid analys av strömningstekniska
+problem.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna definiera och/eller klargöra kortfattat vissa
+grundläggande och mer avancerade begrepp, fenomen och mätmetoder
+inom strömningslära
+förstå generellt och redovisa i viss detalj vissa
+grundläggande och mer avancerade strömningssamband
+redovisa grundläggande förståelse av likformighetslagar, och
+dess praktiska betydelse vid skalningsförsök
+förstå uppkomsten av strömningsförluster och
+strömningsrelaterade krafter vid teknisk aero- och hydrodynamisk
+utformning
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna bedöma rimlighet och noggrannhet av ingångsdata och
+beräknade resultat
+kunna tillämpa kontrollvolymsanalys avseende mass- och
+impulsbalans vid stationär strömning
+kunna utföra en fullständig dimensionsanalys av givet
+dimensionsproblem
+kunna genomföra elementär analys av strömningsmotstånd och
+lyftkrafter på omströmmade kroppar och en- och tvådimensionell
+kompressibel strömning, samt detaljerad strömningsteknisk analys
+av enkla och sammansatta rörsystem vid stationär inkompressibel
+enfasströmning
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna kommunicera skriftligt på ett välstrukturerat,
+förståelseinriktat och illustrativt sätt, avseende tentamen,
+problemlösning och labredogörelser
+
+
+Kursinnehåll
+Översikt och fluidegenskaper; grundekvationer på integral- och
+differentialform; dimensionsanalys inkl. likformighetslagar;
+strömning i rörsystem; gränsskikt; omströmmade kroppar;
+introduktion till turbulens; kompressibel strömning.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Examination sker via bedömning av individuella skriftliga hemuppgifter och laborationsredogörelser, samt en slutlig skriftlig tentamen som avser både teori (utan hjälpmedel) och problemlösning (med hjälpmedel, t.ex. kurslitteraturen). Betyget bestäms av en total poängsumma som består av resultat vid godkänd tentamen, samt ev. bonuspoäng från godkända hemuppgifter, enligt särskild formel.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+FMEA05 Mekanik - Statik och partikeldynamik eller FMEA15 Mekanik - Statik och dynamik
+
+
+Förutsatta förkunskaper: FMA430/FMAB30 Flerdimensionell analys och FMFF01 Vektoranalys ELLER FMA435/FMAB35 Flerdimensionell analys med vektoranalys.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: MMVF10, MMVF01
+Kurslitteratur
+
+F. M. White: Fluid Mechanics, Eighth Edition in SI Units. McGraw-Hill Education, 2016, ISBN: 978-9-814-72017-5.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Prof. Christoffer Norberg, Christoffer.Norberg@energy.lth.se
+Kursansvarig: Johan Revstedt, johan.revstedt@energy.lth.se
+Hemsida: http://www.energy.lth.se
+Övrig information: Schemalagd undervisning sker i form av föreläsningar, övningar, räknestugor och en laboration. För effektiv inlärning uppmuntras studenten till både enskilda studier och samarbete/diskussioner med övriga kursdeltagare.
+
+
+

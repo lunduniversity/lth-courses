@@ -1,0 +1,77 @@
+
+Kursplan 2020/21 FMFF01
+
+
+
+
+
+Kursplan för
+Vektoranalys
+Vector Analysis
+FMFF01, 3 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning N
+Beslutsdatum: 2020-03-27
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: F2
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursen syftar till att ge grunderna i vektoranalys och
+tillämpningar. Teori och tillämpningar är viktiga både som
+grundläggande kunskap och som grund för vidare studier. Syftet
+är även att stärka begreppsbildningen i tillämpad
+matematik.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+ha insikt i grundläggande samband och hur de kan användas i
+fysikaliska sammanhang.
+kunna använda olika koordinatsystem samt inse att fysikaliska
+lagar är oberoende av dessa (invariansprincipen) samt kunna
+anpassa koordinatsystemen efter problemställningarnas
+geometri.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna lösa problem inom kursens område.
+kunna analysera enkla fysikaliska problemställningar och
+formulera en matematisk beskrivning av dessa.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+ha insikt i relationen mellan matematisk modell och fysikalisk
+verklighet.
+
+Kursinnehåll
+Skalär och vektorfält. Gradient och divergens.
+Normalytintegraler och divergenssatsen. Tillämpning på
+värmeledning och elektriska strömmar. Sfäriska och cylindriska
+koordinater. Rotation och Stokes sats. Potentialer och singulära
+fält.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftligt prov.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: FMAB20 Linjär algebra, FMAA05 Endimensionell analys, FMAB30 Flerdimensionell analys, FMEA05 Mekanik - Statik och partikeldynamik, FMEA20 Mekanik - Dynamik.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: ESS050
+Kurslitteratur
+
+Ej fastställd.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Jakob Bengtsson, jakob.bengtsson@matfys.lth.se
+Hemsida: http://www.matfys.lth.se/education/FMFF01
+
+
+

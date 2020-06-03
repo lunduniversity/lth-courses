@@ -1,0 +1,114 @@
+
+Kursplan 2020/21 KOOA05
+
+
+
+
+
+Kursplan för
+Allmän kemi
+General Chemistry
+KOOA05, 8 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning B/K
+Beslutsdatum: 2020-03-27
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: BI1
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Att ge en grundläggande förståelse för och kunskap om
+kemiska processer och förlopp. Att ge nödvändig kunskap för det
+kemiska fackspråket på såväl engelska som svenska.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+Formulera nomenklaturregler för att namnge respektive ange
+kemiska formler för oorganiska och organiska substanser samt
+använda grundläggande kemiska begrepp och termer
+Känna till funktionella grupper hos organiska föreningar
+Förklara och använda termodynamiska storheter och sambanden
+dem emellan
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+Namnge kemiska substanser och använda dessa i
+reaktionsformler
+Beskriva och förklara inter- och intramolekylära krafter hos
+kemiska substanser
+Analysera och lösa jämviktsproblem
+Teckna elektrokemiska celler och analysera förloppen för
+elektrokemiska processer som t.ex. korrosion
+Använda hastighetslagar och beräkna storheter relaterade till
+dessa
+Att på svenska och engelska kunna läsa och förstå
+facklitteratur med ett allmänt kemiskt innehåll.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+Redovisa kemiska beräkningar med korrekta enheter och
+siffernoggrannhet på ett logiskt och relevant sätt.
+
+
+Kursinnehåll
+Med anknytning till verklighetsnära tillämpningar kommer
+fundamentala kemiska fenomen att belysas och förklaras.
+Följande moment behandlas:
+
+Grundläggande kemiska begrepp och nomenklatur
+Atomers uppbyggnad och periodiska systemet
+Kemiska formler, reaktioner och stökiometri
+Gaser, vätskor och fasta faser
+Fasomvandlingar
+Lösningar
+Kemisk bindning
+Molekylgeometrier
+Intermolekylära krafter: dispersionskrafter, vätebindningar,
+dipol-dipol, jon-dipol
+Grundläggande organisk kemi
+Allmän introduktion till begreppen entalpi, entropi, inre
+energi och fri energi
+Termodynamikens huvudsatser
+Standardbildnings- och reaktionsentalpier
+Kalorimetri
+Kemisk jämviktslära med enklare beräkningar
+Elektrokemi: redox-processer och elektrokemiska celler
+Korrosion som potentiell källa till lösta (tung)metaller i
+miljön (demonstrationsförsök)
+Kemisk kinetik: hastighetskonstanten och dess
+temperaturberoende, initialhastighetsmetoden, aktiveringsenergi,
+kedjereaktioner
+
+Arbete med problemlösning spelar en stor roll vid inlärning av
+kursen.
+Kurslitteraturen är på engelska och ska ses som en
+introduktion till det engelska språket med naturvetenskaplig och
+fackmässig inriktning.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen. Tentamensresultatet ger slutbetyg.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: KOO101, KOOA01, KASA01, KOOA20, KOOA15
+Kurslitteratur
+
+Atkins, P., Jones, L, and Laverman, L: Chemical Principles: The Quest for Insight,  7th edition. Freeman, 2016, ISBN: 9781464183959.
+Utdelat material.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Dr. Johan Reimer, Johan.Reimer@kemi.lu.se
+Kursansvarig: Prof. Jan-Olle Malm, jan-olle.malm@chem.lu.se
+Hemsida: http://www.kilu.lu.se/cas/education/undergraduate_education/
+
+
+

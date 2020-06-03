@@ -1,0 +1,93 @@
+
+Kursplan 2020/21 FAFN05
+
+
+
+
+
+Kursplan för
+Ljus - materia växelverkan
+Light - Matter Interaction
+FAFN05, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning F/Pi
+Beslutsdatum: 2020-04-01
+Allmänna uppgifter
+Huvudområde: Nanovetenskap. 
+Valfri för: F4, F4-tf, F4-f, MFOT1, MNAV1
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursen syftar till att ge studenterna fördjupad kunskap inom
+modern atomfysik, speciellt växelverkan mellan ljus och materia.
+En inledning till flera moderna förskningsfält, t.ex. atomer i
+starka laserfält, laserkylning och infångning av atomer, och
+kvantdatorer kommer att ges.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna beskriva växelverkan mellan materia och ljus med hjälp
+av kvantmekanik
+kunna orientera sig bland några forskningsfrågor på en
+advancerad nivå, precis under forskarutbildning
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+självständigt kunna göra realistiska kvantmekaniska
+beräkningar på existerande system både numeriskt och
+analytiskt.
+kunna formulera och lösa några fysikaliska problem inom
+atomfysik, speciellt växelverkan mellan atomer och
+strålning.
+ha ökad förmåga att skriftligt och muntligt presentera
+projekt som de genomfört.
+kunna söka, värdera och integrera kunskaper från litteratur
+på avancerad nivå.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+självstandigt kunna göra bedömningar på de olika metoder
+som kan användas.
+ha ökad erfarenhet av att jobba i grupper för ett gemensamt
+mål.
+
+
+Kursinnehåll
+
+Växelverkan mellan atomer och ljus
+Laser-kylning och infångning, strålningskrafter
+Atomer i starka laserfält. Tillämpning på extremoptik:
+attosekundspulser
+Manipulation av atomer, molekyler och större system med ljus.
+Atomoptik.
+Kvantkommunikation och kvantdatorer
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen. Två obligatoriska laborationer med numeriska förberedelseuppgifter och skriftlig rapport. 
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: Grundkurser i atomfysik och kvantmekanik.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FAF190
+Kurslitteratur
+
+Foot, C.J.: Atomic Physics. Oxford University Press 2004. (Kap. 7-14).
+Laborationsinstruktioner.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Anne L´Huillier, anne.lhuillier@fysik.lth.se
+Hemsida: http://www.atomic.physics.lu.se/education/elective-courses/fafn05-fyst21-light-matter-interaction/
+Övrig information: Närvaro vid första föreläsningen är obligatoriskt för att få tillträde till kursen.
+
+
+
+

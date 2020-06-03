@@ -1,0 +1,100 @@
+
+Kursplan 2020/21 MAMA15
+
+
+
+
+
+Kursplan för
+Interaktionsdesign, grundkurs
+Interaction Design, Basic Course
+MAMA15, 7,5 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning C/D
+Beslutsdatum: 2020-03-30
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: C2
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Studenten skall få en introduktion till det tvärvetenskapliga
+området interaktionsdesign, med fokus på den
+användbarhetsorienterade designprocessen. Studenterna skall genom
+en blandning av teori och praktiska moment nå insikter i hur man
+utformar användbara interaktiva produkter och tjänster.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+definiera och diskutera ämnesområdet interaktionsdesign med
+dess centrala begrepp.
+förklara principerna bakom en användbarhetsorienterad
+designprocess.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+tillämpa principerna för en användbarhetsorienterad
+designprocess vid utformningen av en prototyp för interaktiva
+produkter och tjänster.
+tillämpa grundläggande tekniker inom interaktionsdesign vid
+utformning av interaktiva produkter och tjänster.
+planera och genomföra analys och värdering av användbarheten
+hos interaktiva produkter och tjänster.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+föreslå och motivera förändringar av interaktiva produkter
+och tjänster.
+kommunicera de interaktiva egenskaperna hos en produkt eller
+tjänst med stöd av grundläggande begrepp och principer inom
+området interaktionsdesign.
+
+
+Kursinnehåll
+Kursens struktur bygger på den användbarhetsorienterade
+designprocessen, där föreläsningar, workshops och projekt
+samverkar för att skapa en helhetsbild. Teorier och riktlinjer
+från human factors och designforskning presenteras och utgör en
+utgångspunkt för de övriga kursmomenten. Vidare behandlas
+teorier, metoder och tekniker för den så kallade designprocessen
+och den mer specifika utformningen av interaktiva produkter och
+tjänster.
+Centrala begrepp och moment i kursen:
+Användbarhet, Användarupplevelse, Human factors,
+Designprocessen, Användarstudier, Användbarhetsmål, Konceptuell
+design, Interaktionstekniker, Grafisk design,
+Användbarhetsutvärdering.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig dugga, skriftlig tentamen och godkänt projektarbete. För slutbetyg sammanräknas resultaten från duggan, tentamen och projektarbete.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0111. Benämning: Projektarbete. 
+Antal högskolepoäng: 2,5. Betygsskala: TH.  Prestationsbedömning: Godkänt projektarbete 
+Kod: 0211. Benämning: Skriftlig tentamen. 
+Antal högskolepoäng: 5. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen 
+Antagningsuppgifter
+Förutsatta förkunskaper: TEK210 eller EXTA65
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: MAMN25
+Kurslitteratur
+
+Jennifer Preece, Yvonne Rogers & Helen Sharp: Interaktionsdesign: bortom människa–dator-interaktion. Studentlitteratur, 2016, ISBN: 9789144092072.
+
+
+Kontaktinfo och övrigt
+Examinator: Mattias Wallergård, 
+Kursansvarig: Christofer Rydenfält, christofer.rydenfalt@design.lth.se
+Lärare: Johanna Persson, johanna.persson@design.lth.se
+Hemsida: http://www.eat.lth.se/kurser/interaktionsdesign
+Övrig information: Obligatoriska moment: introduktionsföreläsning, workshops, projektpresentationer, skriftlig projektrapport.
+
+
+

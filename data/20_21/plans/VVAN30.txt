@@ -1,0 +1,106 @@
+
+Kursplan 2020/21 VVAN30
+
+
+
+
+
+Kursplan för
+Urban dagvattenhantering
+Urban Storm Water Management
+VVAN30, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning B/K
+Beslutsdatum: 2020-03-27
+Allmänna uppgifter
+Huvudområde: Vattenresurshantering. 
+Obligatorisk för: MWLU1
+Valfri för: V4-vr, W4-vr
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Den urbana vattensystemet bygger på en väl fungerande
+dagvattenhantering. Befolkningstillväxt, förändrad
+markanvändning, klimatförändringar och kännedom om hur
+föroreningar sprids med dagvatten och önskan att integrera
+vatten i boendemiljön ställer nya krav på hur dagvattensystem
+skall utformas på ett hållbart sätt, både vad gäller flöden
+och föroreningar. Så kallade blå-gröna dagvattenlösningar
+samverkar både med befintligt ledningsnät och stadens övriga
+infrastruktur och både placering och utformning av
+dagvattenlösningarna är viktigt.
+Syftet med kursen är att ge kunskap om dagvattenhantering i
+urbana miljöer för att kunna utforma och driva anläggningar för
+att fördröja och minska dagvattenflöden samt rena dagvatten i
+den urbana miljön.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+redogöra för olika parametrar som påverkar
+dagvattenhantering samt förklara dessa parametrars påverkan
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna välja, dimensionera och planera dagvattenanläggningar
+i urbana miljöer utifrån givna förutsättningar
+kunna använda datormodeller för beräkning
+av dagvattenflöden
+visa förmåga till lagarbete genom att i grupp genomföra ett
+avgränsat, fördjupande projektarbete om dagvattenhantering
+visa förmåga att anpassa skriftlig och muntlig redovisning av
+resultatet av ett projektarbete till anvisad målgrupp
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+genom att självständigt samla och sammanställa information
+som är relevant för planering, dimensionering, och drift  av
+dagvattenanläggningar i ubana miljöer visa en förmåga att
+analysera och värdera olika typer av information
+
+
+Kursinnehåll
+Kursen behandlar kunskapsområdena:
+Översikt över hela det urbana vattensystemet
+Design av dagvattensystem med avseende på hydraulik och rening
+Dagvattensystem (blå-gröna lösningar i förhållande till
+ledningsnät)
+Processlösningar för omhändertagande av dagvatten i s k
+blå-gröna system 
+Flödesmodellering av dagvattensystem
+Dagvatten i stadsplaneringsprocessen
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig examination. Datormodellövningar. Projektuppgifter med muntlig och skriftlig redovisning. Studiebesök. Betyg baseras på den skriftliga sluttentamen (Examination).
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0120. Benämning: Obligatoriska aktiviteter. 
+Antal högskolepoäng: 2. Betygsskala: UG.  Prestationsbedömning: Muntlig och skriftlig redovisning.   Delmomentet omfattar: Datormodellövningar, Projektuppgifter, Studiebesök. 
+Kod: 0220. Benämning: Urban dagvattenhantering (tentamen). 
+Antal högskolepoäng: 5,5. Betygsskala: TH.  Prestationsbedömning: Skiftlig examination  Delmomentet omfattar: Sluttentamen som examinerar urban dagvattenhantering. 
+Antagningsuppgifter
+Förkunskapskrav:
+VVAF01 VA-teknik eller VVRF10 Strömningslära
+VVRA01 Hydrologi och akvatisk ekologi eller VVRA05 Vatten
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: VVA030, VVAN05
+Kurslitteratur
+
+Water Sensitive Urban Design, Technical Design Guidelines for South East Queensland. 2006.
+Föreläsningsanteckningar och annat material.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Karin Jönsson, karin.jonsson@chemeng.lth.se
+Lärare: Henrik Aspegren, henrik.aspegren@chemeng.lth.se
+
+
+

@@ -1,0 +1,109 @@
+
+Kursplan 2020/21 KMBN05
+
+
+
+
+
+Kursplan för
+Metabolic engineering
+Metabolic Engineering
+KMBN05, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning B/K
+Beslutsdatum: 2020-03-27
+Allmänna uppgifter
+Huvudområde: Bioteknik. 
+Alternativobligatorisk för: MBIO2
+Valfri för: B4-mb, B4-pt
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursen syftar till att utifrån tidigare kunskaper i
+framförallt genteknik, matematik och mikrobiologi introducera
+studenterna för metabol teknologi samt diskutera metabola verktyg
+och strategier. Studenterna skall ges insikt i hur teknologin kan
+nyttjas inom området industriell bioteknik.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+Förstå de grundläggande verktyg som används inom metabol
+teknologi inklusive massbalanser, metabola flödesmodeller och
+metabol kontrollanalys.
+Förstå hur dessa verktyg används för att analysera metabolt
+(genetiskt) förändrade mikroorganismer.
+Erhålla fördjupade kunskaper om metabola cellflöden, metabol
+reglering samt hur metabolismen kan förbättras inom
+bioprocessområdet med hjälp av metabol teknologi.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+Visa förmåga att utföra relevanta beräkningar vad avser
+massbalanser, metabola flödesmodeller och metabol kontrollanalys i
+biologiska system
+Visa förmåga att analysera experiment där genetiskt
+modifierade mikroorganismer och motsvarande kontrollorganismer
+karakteriserats
+Visa förmåga att i skrift och tal förstå och behärska
+termologin inom området samt att organisera och strukturera
+vetenskapligt material utifrån ett helhetssammanhang.
+Visa förmåga att kunna skriva och presentera en kritisk
+rapport baserad på vetenskapliga artiklar och eget experimentellt
+arbete
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna göra bedömningar av andra studenters och forskares
+bidrag inom området
+kunna argumentera utifrån vetenskapliga bevis
+
+
+Kursinnehåll
+
+kursen omfattar föreläsningar rörande
+stammodifiering, avancerade genetiska verktyg, metaboliska flöden
+och analys, metabol kontrollanalys, omics samt systembiologi.
+litteraturstudien omfattar en grundlig undersökning
+av olika forskningsstrategier applicerade på en
+specifikt frågeställning inom metabol teknologi.
+i labsimuleringen är målet att kritiskt utvärdera
+data stammande från experiment där biobränsle eller
+bulkkemikalier producerats från sockerarter med hjälp av kontroll
+och genetiskt modifierad mikroorganismer. Analysen inkluderar bl.a.
+tillväxt och produktion, enzymaktivitet och omics-data.
+övningar: Beräkning av kolbalanser, redoxbalanser,
+fluxanalyser och metabolisk kontroll.
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig examination, poängbedömd muntlig litteraturpresentation samt poängbedömd rapport om simulerad laboration
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+KBK041 Genteknik eller KBKF01 Genteknik
+KMB060 Mikrobiologi eller KMBA01 Mikrobiologi
+
+
+Begränsat antal platser: 36
+Urvalskriterier: Avklarade högskolepoäng inom programmet. Förtur ges till studenter vars program har kursen listad i läro- och timplanen.
+Kursen överlappar följande kurser: KMB040
+Kurslitteratur
+
+Kompendium i metabol teknologi.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Professor Marie Gorwa-Grauslund, Marie-Francoise.Gorwa-Grauslund@tmb.lth.se
+Lärare: Ed van Niel, ed.van_niel@tmb.lth.se
+Hemsida: http://www.tmb.lth.se
+Övrig information: Kursen består av obligatoriska moment: introduktionsföreläsningen, lab och literaturstudiepresentationen.
+
+
+

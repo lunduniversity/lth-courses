@@ -1,0 +1,96 @@
+
+Kursplan 2020/21 FKFN25
+
+
+
+
+
+Kursplan för
+Tillämpad kärn-, neutron- och reaktorfysik
+Applied Nuclear, Neutron and Reactor Physics
+FKFN25, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning F/Pi
+Beslutsdatum: 2020-04-01
+Allmänna uppgifter
+Valfri för: F4, F4-aft
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Kursen avser att ge en introduktion till användningen av
+neutroner som ett redskap inom vetenskap och teknik. Centralt i
+kursen är metoder för att producera neutronstrålar, principer
+och koncept för avancerade ("state-of-the-art") neutrondetektorer,
+moderna varianter av fissionsreaktorer samt metoder för
+strålskydd och radiologisk övervakning. Speciell tyndgpunkt
+kommer att läggas på tekniker och tillämpningar som relaterar
+till European Spallation Source (ESS).
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+vara väl förtrogen med (grundläggande) principer för att
+generera strålar av neutroner
+vara väl förtrogen med principerna för
+neutrondetektering
+vara väl förtrogen med uppbyggnad och funktion hos
+fissionsreaktorer
+vara väl förtrogen med principerna för
+neutronstrålskydd
+vara väl förtrogen med principerna för vissa ESS-relaterade
+experimentella metoder och motsvarande instrumentering
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+utföra och fullfölja två stycken laborationer
+med s.k. "flipped-classroom" teknik redovisa innehållet i
+utvalt kursmaterial för övriga studenter och leda en diskussion
+on innehållet
+skriva och redovisa en kursrelevant uppsats eller projekt efter
+eget val
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+på egen hand kunna söka vetenskaplig information som är
+relevant för en uppsats/projekt inom kursens ämnesområde
+genom kamratgranskning kritiskt granska andra studenters
+uppsatser/projekt
+
+
+Kursinnehåll
+Kursens huvudinnehåll är neutronen. Den startas med en bred
+översikt av grunderna i neutronrelaterade tillämpningar och
+fokuseras mot slutet på utvalda ESS-relevanta experimentella
+metoder och motsvarande instrumentering. De neutronrelaterade
+tillämpningarna av kursen består av lektioner, laborationer och
+"flipped-classrom" tutorials. De ESS-relaterade momenten i kursen
+ges som föresläsningar. Studenterna kommer individuellt att
+författa en uppsats eller utföra ett projekt med en nära
+koppling till kursen och presentera sitt arbete.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: För att godkännas på kursen krävs att studenten har godkända laborationer, har genomfört "flipped-classroom tutorials", har godkänd uppsats eller projekt och dessutom deltagit aktivt i lektioner och tutorials. Slutbetyget är en sammanvägning av betygen på laborationsdel, tutorials och uppsats eller projekt, inklusive presentation.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: FAFF10 Atom- och kärnfysik med tillämpningar.
+Begränsat antal platser: Nej
+Kursen kan ställas in: Om färre än 12 anmälda.
+Kursen överlappar följande kurser: FYST18, FKFN01, FKFN10
+Kurslitteratur
+
+Information kommer att vara tillgänglig minst 4 veckor innan kursstart.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Docent Kevin Fissum, Kevin.Fissum@nuclear.lu.se
+Hemsida: http://www.nuclear.lu.se/utbildning/valfria_kurser/
+Övrig information: Observera att det är obligatoriskt att delta i introduktionsmötet för att följa kursen.
+
+
+

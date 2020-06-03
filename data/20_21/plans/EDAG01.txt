@@ -1,0 +1,107 @@
+
+Kursplan 2020/21 EDAG01
+
+
+
+
+
+Kursplan för
+Effektiv C
+Efficient C
+EDAG01, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning C/D
+Beslutsdatum: 2020-03-30
+Allmänna uppgifter
+Valfri för: C4-pv, D4-is, D4-pv, D4-hs, E4, F4, F4-bs, I4, M4, N4, Pi4-pv
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Kursens syfte är att studenterna ska lära sig skriva effektiva
+program i språket C. För att nå detta huvudsyfte är tre andra
+syften med kursen att studenterna ska ha kunskaper dels (1) om
+programspråket ISO C18, dels (2) om modern datorarkitektur, ur
+programmerarens synvinkel, med fokus på mikroprocessorer och
+cacheminnen, och dels (3) om moderna verktyg för att utvärdera C
+program i termer av korrekthet och effektivitet.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+förstå hur minne kan allokeras och avallokeras i C,
+förstå hur pekare fungerar och hur de används,
+förstå typsystemet i C, t.ex vilka typkonverteringar som är
+tillåtna och portabla,
+förstå betydelsen av implementationsdefinierat beteende,
+ospecificerat beteende, odefinierat beteende, och när man ska
+tänka på detta,
+förstå hur moderna mikroprocessorer implementeras med hjälp
+av pipelining och vilka konsekvenser för prestanda detta får för
+programmeraren,
+förstå hur cacheminnen fungerar och vilka konsekvenser för
+prestanda detta får för programmeraren, samt
+förstå hur olika språkkonstruktioner, t.ex. användning av
+pekare, kan översättas till maskinkod och hur detta kan påverka
+prestanda.
+
+ 
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna skriva effektiva program i språket ISO C, dvs C18,
+kunna använda debuggern GDB,
+med hjälp av moderna verktyg kunna hitta defekter och
+analysera prestandan i C program, samt
+kunna maximera prestandan genom att skriva om programmet
+utifrån den information prestandaanalysverktygen ger.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+skapa fördelaktig implementation i C med hänsyn taget till
+tillämpningens krav.
+
+Kursinnehåll
+ISO C18 standarden, C-språkets principer, jämförelse mellan
+språkkonstruktioner i Java och C, struct, pekare, array,
+minnesallokering, globala variabler, static storage duration,
+standardbiblioteket i C, C kompilator, implementationsdefinierat
+beteende, ospecificerat beteende, odefinierat beteende, storage
+class specifiers, type specifiers, C preprocessor, GDB, Valgrind,
+profileringsverktygen GPROF, OPROFILE och GCOV, pipelinade
+mikroprocessorer, cacheminnen, användning av simuleringsverktyg
+för prestandaanalys, samt en metodik för att maximera prestanda
+för C program.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen. För godkänt betyg krävs godkänd tentamen, godkända datorlaborationer samt godkänd inlämningsuppgift. För att få delta i tentamen krävs att laborationerna är fullgjorda. Slutbetyg i kursen grundar sig på resultatet av den skriftliga tentamen.
+
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0120. Benämning: Tentamen. 
+Antal högskolepoäng: 4,5. Betygsskala: TH.  Prestationsbedömning: Slutbetyg på kursen baseras på resultatet av den skriftliga tentamen.  Delmomentet omfattar: Skriftlig tentamen. För att få delta i tentamen krävs att laborationerna är fullgjorda. 
+Kod: 0220. Benämning: Laborationer. 
+Antal högskolepoäng: 2. Betygsskala: UG.  Prestationsbedömning: För godkänt betyg krävs att laborationerna fullgjorts.  Delmomentet omfattar: Laborationer. 
+Kod: 0320. Benämning: Projekt. 
+Antal högskolepoäng: 1. Betygsskala: UG.  Prestationsbedömning: För godkänt betyg krävs att projektuppgiften fullgjorts  Delmomentet omfattar: Projekt. 
+Antagningsuppgifter
+Förkunskapskrav:
+EDAA01 Programmeringsteknik - fördjupningskurs eller EDAA30 Programmering i Java - fortsättningskurs
+
+
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: EDAF15, EDAA25
+Kurslitteratur
+
+Jonas Skeppstedt, Christian Söderberg: Writing Efficient C Code, A Thorough Introduction. Amazon, 2020, ISBN: 1530414156.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Jonas Skeppstedt, jonas.skeppstedt@cs.lth.se
+Hemsida: http://cs.lth.se
+
+
+

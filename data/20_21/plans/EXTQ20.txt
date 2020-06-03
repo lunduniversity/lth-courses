@@ -1,0 +1,82 @@
+
+Kursplan 2020/21 EXTQ20
+
+
+
+
+
+Kursplan för
+Biologiska system
+Biological Systems
+EXTQ20, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning W
+Beslutsdatum: 2020-03-23
+Allmänna uppgifter
+Valfri för: BME5-sbh, Pi4-biek
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Kursen syftar till att ge kunskaper i biologiskt
+modelleringstänkande, både inom traditionella biologiska
+modelleringstekniker, men också till att ge förståelse i hur
+biologiskt inspirerade idéer används inom kommersiell
+programmering. Den ska ge insikt och träning i modellering av
+biologiska system från genetisk till populations- och
+samhällsnivå.
+Ett ytterligare syfte är att ge erfarenhet i att kommunicera
+med biologer som saknar teknisk bakgrund.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+ha kännedom om hur olika modelleringstekniker kan användas
+i olika biologiska organisationsnivåer
+ha kännedom om grundläggande begrepp som används inom
+modellering inom cellbiologi, fysiologi, ekologi, globala ekosystem
+och inom biologiskt inspirerade programmeringstekniker
+ha kännedom om modelleringstraditioner inom ovanstående
+områden
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna tillämpa de olika modelleringsmetoder på olika system
+som ingår i kursen
+
+
+Kursinnehåll
+Temata:
+ 
+
+biologiska organisationsnivåer, systembiologi, molekylära
+nätverk
+modellering av tryck och energiflöden i hjärtat
+beteendemodeller inom dynamisk programmering
+matris- och spelteoretiska modeller på populationsnivå
+metoder inom kommersiell biologisk programmering, t ex
+optimering med genetiska algoritmer
+
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Inlämnade projektarbeten.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: TEK290/EXTG15 Biologisk översiktskurs, FMAF05/FMA450 System och transformer, FRTF05/FRT010 Reglerteknik AK eller motsvarande kurser.
+Begränsat antal platser: Nej
+Kursen kan ställas in: Om färre än 15 anmälda.
+Kursen överlappar följande kurser: TEK292
+Kurslitteratur
+
+Kompendium från lärarna, artiklar.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Anders Brodin, anders.brodin@biol.lu.se
+Hemsida: https://www.biologi.lu.se/utbildning/grund-och-avancerad-utbildning/kurser/kurser-avancerad-niva/biologiska-kurser-pa-avancerad-niva-for-teknologer
+
+
+

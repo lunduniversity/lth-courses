@@ -1,0 +1,108 @@
+
+Kursplan 2020/21 FAFA30
+
+
+
+
+
+Kursplan för
+Fysik - elektricitetslära, gaser och vätskor
+Physics: Electricity - Fluids
+FAFA30, 8 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning N
+Beslutsdatum: 2020-03-27
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: BI1
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Studenten skall utveckla och fördjupa sin förståelse av
+grundläggande begrepp och samband inom strömningslära,
+termodynamik och ellära, vilka behövs för en yrkesroll som
+brandingenjör och som grund för fortsatta kurser inom programmet.
+Många av dessa begrepp har också en viktig allmän betydelse för
+vår omvärldsuppfattning och utgör en del av en naturvetenskaplig
+allmänbildning. Kursen skall öva modelltänkande och
+experimentell färdighet. Den skall också träna
+problemlösningsförmåga samt skriftlig redovisning av
+experimentella data och fysikaliska modeller.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+förstå kopplingen mellan experiment, modeller och teori.
+kunna analysera termodynamiska processer och uppskatta deras
+verkningsgrad.
+kunna beräkna värmetransporten i material via olika
+mekanismer.
+kunna beräkna styrkan av elektriska och magnetiska fält i
+enkla geometrier.
+kunna beskriva elsystemet i ett hus och relatera till
+potentiell brandrisk.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna formulera och lösa fysikaliska problemställningar med
+matematiska metoder.
+ha ökat sin förmåga att planera och genomföra
+experiment.
+skrifligt kunna presentera och analysera experimentella data
+och ställa dessa i relation till olika fysikaliska modeller.
+kunna arbeta i en grupp för att nå ett gemensamt mål
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+ha förmåga att med ett naturvetenskapligt förhållningssätt
+kritiskt granska modeller och tekniska tillämpningar.
+
+
+Kursinnehåll
+Repetition och fördjupning av grundläggande fysik.
+Experimentell metodik: Hantering, analys
+och presentation av mätdata.
+Elektricitet och magnetism:
+Elektrostatik, elektriska och magnetiska fält. Potential,
+elektromagnetisk induktion, lik- och växelströmskretsar, trefas
+växelström. Elektriska mätinstrument.
+Gaser och vätskors fysik: Tryck,
+strömning, ideala och reala gaser, fasövergångar och kinetisk
+gasteori. Termodynamikens huvudsatser, värme- och köldmaskiner.
+Temperaturstrålning. Värmeöverföring genom ledning, konvektion
+och strålning.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Närvaro vid första föreläsningen är obligatoriskt för att få tillträde till kursen.
+Skriftlig tentamen och godkända laborationer.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0114. Benämning: Fysik. 
+Antal högskolepoäng: 6. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen. 
+Kod: 0214. Benämning: Laborationskurs. 
+Antal högskolepoäng: 2. Betygsskala: UG.  Prestationsbedömning: Godkända laborationer. 
+Antagningsuppgifter
+Förutsatta förkunskaper: FMAA05 Endimensionell analys.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FAF604, FAFA05, FAFA15, FAFA20, FAFA40, FAFA45, FAF121, FAFA65, FAFF25, FAFA70, FAFA75
+Kurslitteratur
+
+Jönsson, Göran: Fysik i vätskor och gaser. Teach Support, 2016, ISBN: 978-91-637-9826-9.
+Jönsson, Göran: Tillämpad Ellära. Teach Support, 2017, ISBN: 978-91-639-4348-5.
+Petersson, R: Kompendium i Experimentell metodik med laborationshandledning. Lund 2012.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Mikael Elfman, Mikael.Elfman@nuclear.lu.se
+Kursansvarig: Moa Sporre, moa.sporre@nuclear.lu.se
+Hemsida: http://www.nuclear.lu.se/utbildning/obligatoriska-kurser/
+Övrig information: Närvaro vid första föreläsningen är obligatoriskt för att få tillträde till kursen.
+
+
+

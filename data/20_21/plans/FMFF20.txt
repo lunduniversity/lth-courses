@@ -1,0 +1,81 @@
+
+Kursplan 2020/21 FMFF20
+
+
+
+
+
+Kursplan för
+Nanoteknikens matematiska metoder
+Mathematical Methods of Nanotechnology
+FMFF20, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning N
+Beslutsdatum: 2020-03-27
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: N2
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+förklara och beskriva grundläggande egenskaper hos
+fourierserier, fourierintegraler och laplacetransformer.
+kvalitativt beskriva och förklara tillämpningar baserade på
+fourieranalys såsom bildbehandling, värmeledning och analys av
+mekaniska och elektriska linjära system.
+härleda och beskriva Maxwells ekvationer samt översiktligt
+förklara deras egenskaper.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+lösa enklare räkneuppgifter relaterade till de centrala
+begreppen i kursen.
+med hjälp av datorsimuleringar analysera och visualisera
+grundläggande egenskaper hos modeller som diskuteras under kursen
+samt redovisa analysen skriftligt.
+genomföra, analysera samt skriftligt redovisa experimentella
+laborationer inom centrala områden av kursen.
+
+
+Kursinnehåll
+Utgående från tillämpningar inom främst fysik, införs
+matematiska och beräkningsvetenskapliga verktyg. Med start från
+specifika problem betonas metodernas allmängiltighet.
+Matematiska verktyg som införs är Fourierserier och
+–integraler, Fouriertransformen, partiella
+differentialekvationer, diffusionsekvationen, linjära ekvationer,
+vågekvationen, Maxwells ekvationer, vektoranalys och
+Laplacetransformen.
+Tillämpningar av dessa verktyg genomförs genom ett antal
+projekt inom olika teman, såsom elektriska kretsar, nätverk,
+filter, överföringsfunktioner, Harmoniska signaler, återkopplade
+system, impedans, elektromagnetism, diffusion, akustik,
+musikinstrument och mekaniska system.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Muntlig eller skriftlig tentamen, godkända laborationsrapporter, godkända datorprojektrapporter, godkända inlämningsuppgifter.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: FMAB30 Flerdimensionell analys, FAFA05 Fysik - Våglära, termodynamik och atomfysik, Matlab.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: EXTF20, FFF155, EXTF65
+Kurslitteratur
+
+Kompendier utarbetade på fysiska institutionen och institutionen för teoretisk fysik, L.Gislén.
+Jönsson, P.: Matlab, Studentlitteratur.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Gillis Carlsson, gillis.carlsson@matfys.lth.se
+Hemsida: http://www.teorfys.lu.se/education/FMFF20
+
+
+

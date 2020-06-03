@@ -1,0 +1,86 @@
+
+Kursplan 2020/21 EIEN20
+
+
+
+
+
+Kursplan för
+Elmaskinkonstruktion
+Design of Electrical Machines
+EIEN20, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning E
+Beslutsdatum: 2020-03-19
+Allmänna uppgifter
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Moderna industriprodukter och produktionsutrustning kräver en
+alltmer ökad andel elektromekaniska ställdon = elektriska
+maskiner. Det i sin tur ger de konstruktörer som förstår hur
+sådan ställdon konstrueras och förmår integrera sådan
+konstruktioner i produkter/produktionsutrustning en fördel. Denna
+kurs syftar till att ge sådana kunskaper.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+förstå hur magnetiska, elektriska, termiska och mekaniska
+egenskaper i en elmaskinkonstruktion samverkar för avsedd
+funktion,
+känna till de viktigaste konstruktionsmaterialens
+egenskaper.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna använda ett enklare FEM-program för magnetisk och
+termisk modellering av en elektrisk maskin,
+kunna göra grundläggande magnetisk, elektrisk, termisk och
+mekanisk design av en elektrisk maskin.
+kunna utföra prov och mätningar på en elektromagnetisk
+konstruktion samt analysera dessa.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna föra en diskussion med en maskinkonstuktör och göra
+relevanta bedömningar av elektromekaniska ställdons möjligheter
+och begränsningar i en viss tillämpning.
+
+
+Kursinnehåll
+Föreläsningar: Lindningar, strömbeläggning, momentbildning
+och förluster. Optimering, momentkvalitet, reluktansnätmodeller,
+FEM-analys.
+Projektuppgift: Konstruktion av elmaskin med användning av
+FEMbaserade beräkningsprogram.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Godkänd inlämningsuppgift ger betyget 3. För högre betyg krävs skriftlig tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0113. Benämning: Elmaskinkonstruktion. 
+Antal högskolepoäng: 0. Betygsskala: TH. 
+Kod: 0213. Benämning: Projekt, muntlig och skriftlig rapport. 
+Antal högskolepoäng: 7,5. Betygsskala: UG. 
+Antagningsuppgifter
+Förutsatta förkunskaper: ESSF15 Elenergiteknik (E), ETE055, EITF85 Elektromagnetisk fältteori (F), MIE012, EIEF35 Elektroteknikens grunder (M), ETEF01 Elektromagnetisk fältteori (Pi).
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: EIE050
+Kurslitteratur
+
+Kompendium i elmaskinkonstruktion, IEA, LTH.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Dr Avo Reinap, avo.reinap@iea.lth.se
+Hemsida: http://www.iea.lth.se/emk/
+
+
+

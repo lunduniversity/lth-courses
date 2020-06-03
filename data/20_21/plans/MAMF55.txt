@@ -1,0 +1,113 @@
+
+Kursplan 2020/21 MAMF55
+
+
+
+
+
+Kursplan för
+Aerosolteknologi
+Aerosol Technology
+MAMF55, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning C/D
+Beslutsdatum: 2020-03-30
+Allmänna uppgifter
+Huvudområde: Nanovetenskap. 
+Valfri för: F4, K4, M4, MNAV1, N4-m, W4
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Studenterna skall tillägna sig grundläggande kunskaper om
+aerosoler: system av partiklar suspenderade i gas. Kursen skall ge
+en översikt över luftburna partiklars fysik och kemi,
+mätteknikerna som används för att karaktärisera dem, och deras
+effekter på miljö och hälsa. Våra studenter skall lära sig att
+diskutera dessa ämnen samt teknologiska tillämpningar av
+aerosoler.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+ 
+
+Förstå grundläggande koncept inom aerosolvetenskap inklusive
+ekvivalenta diametrar och flödesregimer.
+Förstå de grundläggande mekanismerna för generering,
+spridning, transformation och deposition av aerosolpartiklar.
+Känna till mättekniker som används inom aerosolvetenskap och
+förstå principerna för hur de fungerar, samt deras
+begräsningar.
+Känna till aerosolpartiklars effekter på människors hälsa
+och miljö, samt förstå mekanismerna bakom effekterna.
+
+ 
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+ 
+
+Kunna genomföra beräkningar av centrala aerosolprocesser
+såsom molndropps-aktivering och lungdeposition.
+Kunna genomföra och tolka mätningar med vanliga
+aerosolinstrument, exempelvis “scanning mobility particle
+sizer”.
+Kunna diskutera exempel från teoretisk och tillämpad
+aerosolvetenskap, muntligen och i skrift.
+
+ 
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+ 
+
+Utvärdera och utveckla sitt eget arbete i sammabete med
+kurskamrater och lärare.
+Ge konstruktiv återkoppling till kurskamrater.
+Kunna motivera lämpliga aerosoltekniker för att undersöka
+forskningsfrågor inom kursens ramar.
+
+ 
+
+Kursinnehåll
+Aerosolfysik, aerosolkemi, uppkomst och förekomst av
+partikelformiga luftföroreningar i inre och yttre miljö,
+lungdeponering, partikelavskiljning, insamlings- och mätmetodik,
+egenskaper hos, i arbetsmiljön och bostadsmiljön, vanligt
+förekommande partikelformiga luftföroreningar. Egenskaper hos
+partikelformiga luftföroreningar i yttre miljön. Orientering om
+luftburna partiklars påverkan på hälsa och klimat. Orientering
+om aerosoltillämpningar inom renhetsteknologin, om
+läkemedelstillämpningar och om nanoteknologitillämpningar.
+Laborationerna är obligatoriska och avser dels att illustrera
+grundläggande aerosolfysikaliska fenomen, dels att ge praktisk
+övning i aerosolmätning. På kursen föreläser disputerade
+lärare samt inbjudna forskare, vilket säkerställer att aktuella
+forskningsrön inom respektive område tas upp och diskuteras.
+Under kursen får studenterna läsa in sig på de senaste
+forskningsresultaten och i samband med detta lära sig göra
+självständiga och kritiska tolkningar.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Individuell skriftlig tentamen (50% av kursbetyget). Gruppvisa laborationsövningar med skriftlig rapport (10%). Räkneövningar med individuell inlämning (20%). Projekt med gruppvis skriftlig och muntlig redovisning (20%). Godkänt kursbetyg kräver godkända delmoment och deltagande i seminarier (seminarierna påverkar inte betyget i övrigt).
+
+
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: Grundläggande naturvetenskap.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: MAM242
+Kurslitteratur
+
+Ett kompendium med kurslitteratur (inklusive vetenskapliga artiklar) finns tillgängligt på internet.
+
+
+Kontaktinfo och övrigt
+Examinator: Christina Isaxon, christina.isaxon@design.lth.se
+Kursansvarig: Axel Eriksson, axel.eriksson@design.lth.se
+Hemsida: http://www.eat.lth.se/kurser/
+Övrig information: Mer om Institutionen för Designvetenskapers arbete med forskningsanknuten grundutbildning och dess policy finns på http://www.design.lth.se/utbildning/forskningsanknytning.
+
+
+

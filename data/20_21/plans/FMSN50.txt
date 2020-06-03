@@ -1,0 +1,113 @@
+
+Kursplan 2020/21 FMSN50
+
+
+
+
+
+Kursplan för
+Monte Carlo-baserade statistiska metoder
+Monte Carlo and Empirical Methods for Stochastic Inference
+FMSN50, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning I
+Beslutsdatum: 2020-04-03
+Allmänna uppgifter
+Huvudområde: Maskininlärning, system och reglerteknik. 
+Alternativobligatorisk för: MMSR1
+Valfri för: BME4, D4, F4, F4-bm, F4-fm, I4-fir, Pi4-bs, Pi4-fm, Pi4-bam
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Kursens syfte är att ge studenten verktyg och kunskap för att
+hantera komplicerade statistiska problem och modeller. Kursens mål
+är att studenten skall tillgodogöra sig moderna datorintensiva
+statistiska metoder och använda dessa för att skatta storheter
+och parametrar i de komplicerade modeller som uppträder inom olika
+tillämpningsområden (t.ex. ekonomi, signalbehandling, biologi,
+klimat och miljöstatistik). Vidare skall studenten kunna bedöma
+osäkerheten hos dessa skattningar. Kursen syftar främst till att
+utöka den mängd statistiska problem som kan lösas av
+studenten.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+beskriva grundläggande principer för Monte Carlo-integration
+och generering av slumpvariabler,
+förklara och använda begreppet statistisk osäkerhet utifrån
+ett frekventistiskt såväl som ett Bayesianskt perspektiv.
+beskriva grundläggande principer för parametrisk och
+ickeparametrisk återsampling.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+givet en statistisk modell och frågeställning, välja
+relevanta storheter på ett sätt som möjliggör approximation med
+hjälp av Monte Carlo-metoder.
+givet en (ev. multivariat) sannolikhetsfördelning, föreslå
+och i ett datorprogram implementera en metod för att generera
+slumpvariabler från densamma.
+givet ett stort antal genererade slumpvariabler från en
+sannolikhetsfördelning, approximera relevanta sannolikheter och
+väntevärden samt uppskatta osäkerheten i de
+approximerade storheterna.
+givet en modellbeskrivning och en statistisk frågeställning,
+föreslå ett enkelt permutationstest och implementera det i ett
+datorprogram.
+givet en modellbeskrivning och en statistisk frågeställning,
+föreslå en återsampling och implementera den i ett
+datorprogram.
+redovisa tillvägagångssätt och slutsatser vid lösning av en
+given statistisk problemställning.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+identifiera och problematisera möjligheter och begränsningar
+vid statistisk slutledning.
+
+
+Kursinnehåll
+Simuleringsbaserade metoder för integration och statistisk
+analys. Monte Carlo-metoder för sekventiella problem.
+Markovkedjemetoder, t.ex. Gibbsampling och
+Metropolis-Hastings-algoritmen, för simulering och inferens.
+Bayesiansk modellering och inferens. Återsamplingsprincipen, både
+ickeparametrisk och parametrisk. Metoder för konstruktion av
+konfidensintervall med hjälp av återsampling. Simuleringsbaserade
+test som alternativ till asymptotiska parametriska tester.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig och muntlig redovisning av projekt. Slutbetyget avgörs genom en sammanvägning av resultaten på de två projektdelarna.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Projektdel 1. 
+Antal högskolepoäng: 2,5. Betygsskala: UG.  Prestationsbedömning: Skriftlig redovisning av första projektet 
+Kod: 0217. Benämning: Projektdel 2. 
+Antal högskolepoäng: 5. Betygsskala: UG.  Prestationsbedömning: Skriftlig och muntlig redovisning av övriga projekt 
+Antagningsuppgifter
+Förkunskapskrav:
+FMSF10 Stationära stokastiska processer eller FMSF15 Markovprocesser
+
+
+Förutsatta förkunskaper: Programmeringsvana. Kunskaper motsvarande FMSF05 Sannolikhetsteori underlättar.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FMS091, MASM11
+Kurslitteratur
+
+Goef H. Givens & Jennifer A. Hoeting: Computational Statistics, 2 ed. Wiley, 2013, ISBN: 978-0-470-53331-4.
+
+
+Kontaktinfo och övrigt
+Studierektor: Johan Lindström, studierektor@matstat.lu.se
+Hemsida: http://www.maths.lth.se/matstat/kurser/fmsn50/
+Övrig information: Bytt kurskod från FMS091. Kursen ges även vid naturvetenskaplig fakultet med koden MASM11.
+
+
+

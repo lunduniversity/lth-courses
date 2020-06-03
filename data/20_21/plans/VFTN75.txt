@@ -1,0 +1,164 @@
+
+Kursplan 2020/21 VFTN75
+
+
+
+
+
+Kursplan för
+Den smarta stadens styrning: AI och etik i en spatial kontext
+Smart City Governance: AI Ethics in a Spatial Context
+VFTN75, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning L
+Beslutsdatum: 2020-03-27
+Allmänna uppgifter
+Valfri för: A5, C5, D5-mai, L5-fr, L5-gi
+Undervisningsspråk: Kursen ges på engelska
+
+Syfte
+Artificiell intelligens (AI) används alltmer för att
+förändra våra städer och hantera trafik och rörelse,
+tillgodose handelns behov, motverka brottslighet, övervaka
+individer och förbättra vår vardag. Men rättsliga, demokratiska
+och etiska intresseavvägningar behöver samtidigt balanseras mot
+tekniska behov av optimering. Hur väger man individers integritet
+mot lärande teknologiers (maskininlärning/AI) beroende av mycket
+data? Hur ser lagstiftningen ut och vilka etiska riktlinjer bör
+man förhålla sig till? Vilken grad av förklarbarhet och
+transparens är rimlig gentemot medborgare, och på vilket sätt
+skiljer sig förväntningar och upplevda nyttor i olika delar av
+världen?
+I linje med behov av ansvarsfull design och etisk reflektion
+kring digitalisering syftar denna kurs till att ge förståelse
+för den roll individers data och autonoma och självlärande
+teknologier (artificiell intelligens) spelar i en urban och spatial
+kontext. Genom att titta på konkreta och i huvudsak
+internationella fall av utveckling och styrning av s.k. smarta
+städer, inklusive applikationer som ansiktsigenkänning i publika
+miljöer eller hur ”staden som plattform” fått genomslag i
+stadsbyggnad, kan förståelse och kunskap nås om vilka intressen
+som behöver balanseras och vilken rättslig styrning som är
+rimlig för hantering av individers data i en urban kontext.
+Kursen ska därmed i generell mening ge insikter i betydelsen av
+digitalisering och nya teknologiers samhälleliga betydelse med
+fokus på rättsliga och etiska utmaningar, med specifikt fokus på
+städer och spatiala kontexter. Det inkluderar fenomen som
+datafiering och insamling av stora individbaserade datamängder,
+digitala plattformars framväxt och betydelse, och autonoma och
+självlärande teknologier inom AI-fältet – och de krafter som
+verkar däri mellan privata och internationella såväl som
+offentliga och nationella aktörer. Kursen är således ämnad för
+att ge teknikvetare och ingenjörer en fördjupad kunskap om
+konsekvenser av hur teknik appliceras i, och samspelar med,
+samhället – med fokus på s.k. smarta städer, styrning och
+etik.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna redogöra för teoretiska ramverk om digitala plattformar
+och smarta städer
+behärska grundläggande engelsk terminologi inom kritisk
+samhällsvetenskaplig forskning om artificiell intelligens, med
+fokus på fältet Fairness, Accountability och Transparency
+(FAT).
+visa på en grundläggande förståelse för digitala och
+datadrivna affärsmodeller och dess betydelse för design och
+teknikutveckling
+visa på en grundläggande förståelse för de mest centrala
+rättsliga avvägningarna inom urban datainsamling och användning
+av AI i en spatial kontext
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna beskriva det europeiska dataskyddets grundläggande
+innehåll och betydelse för datainsamling i en spatial
+kontext
+kunna beskriva centrala nyttor men också konfliktytor som
+utvecklingen mot s.k. smarta städer medför
+förstå, analysera och beskriva stadsbyggnadsutmaningar i
+ljuset av etisk och rättslig styrning av smarta städer i en
+global kontext
+kunna presentera sitt projektarbete (uppsats) muntligt och
+opponera på annan uppsats.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+visa ett kritiskt, självständigt och flervetenskapligt
+förhållningssätt till datainsamling och automation i urbana
+miljöer.
+kunna göra trovärdiga avvägningar mellan olika intressen i
+urbant implementerad artificiell intelligens, med särskilt fokus
+på rättsliga och etiska förhållningssätt.
+
+
+Kursinnehåll
+Kursen är upplagd som en föreläsnings- och seminarieserie,
+samt självständigt skriftligt arbete i mindre grupp utifrån
+konkreta utvecklingsprojekt/fall där AI och data är centrala för
+stadsbyggande eller planering. Kursen erbjuder gästföreläsningar
+från både flervetenskapliga och praktiknära fält, där exv.
+stadsrepresentanter presenterar sitt arbete och sina utmaningar med
+digitalisering, och användning av autonoma och självlärande
+teknologier.
+Följande moment behandlas:
+
+AI och maskininlärning, vad innebär fältet(/n) och hur ser
+appliceringen på urbana miljöer ut;
+Grunderna i tillförlitlig artificiell intelligens –
+transparens, fairness, ansvar och förklarbarhet: hur kunde en
+tillförlitlig användning se ut?
+Digitala plattformar och plattformisering: vad innebär en
+datadrivna organisationsform i allmänhet, och för en spatial
+kontext i synnerhet?
+Det europeiska dataskyddets grunder, i allmänhet, och för en
+spatial kontext i synnerhet
+AI governance - hur ser regleringsidéerna ut för utveckling
+och applicering av AI, både som regleringsform men också i form
+av etiska riktlinjer
+Internationella fall, såväl som svenska, på s.k. smarta
+städer och deras utveckling presenteras och problematiseras.
+
+ 
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: Obligatorisk närvaro på övningar/seminarier, inkl inlämningsuppgift i grupp. Avslutande skriftlig och muntlig redovisning i grupp under publikt seminarium. Vid avslutande presentation förväntas man opponera på annan uppsats/presentation. Vid seminariet närvarar både kursföreståndare och extern föreläsare, i den mån det är möjligt, för att kommentera på presentation och uppsats. 
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+ASBF10 Hållbart stadsbyggande eller ETSF25 Affärsdriven programvaruutveckling eller FMIF45 Hållbarhet och resursanvändning med perspektiv på informations- och kommunikationsteknik eller VFTF10 Fastighetsbildning
+
+
+Begränsat antal platser: 40
+Urvalskriterier: Kursen har 10 platser för sökande från vardera program A, C, D och L. Urval inom respektive program baseras på antal avklarade högskolepoäng inom programmet. I det fall det finns platser kvar efter ordinarie urval fördelas dessa, enligt samma urvalsprincip, till resterande sökande.
+Kurslitteratur
+
+IEEE: Ethically Aligned Design. 2019.
+High-Level Expert Group on AI: Ethics Guidelines for Trustworthy AI. EU Commission, 2019.
+Kitchin, R., Cardullo, P., and Di Feliciantonio, C. : Citizenship, Justice, and the Right to the Smart City. Emerald Publishing, 2019.
+Schwarz, J. A., & Larsson, S. : A Platform Society. Fores, 2018.
+Crawford, K.: Halt the use of facial-recognition technology until it is regulated. Nature, 2019.
+Breslow, H. (2020). The smart city and the containment of informality: The case of Dubai. Urban Studies, 0042098020903233. https://journals.sagepub.com/doi/pdf/10.1177/0042098020903233.
+Brauneis, R., & Goodman, E. P. (2018). Algorithmic transparency for the smart city. Yale JL & Tech., 20, 103. https://heinonline.org/HOL/Page?handle=hein.journals/yjolt20&div=4&g_sent=1&casa_token=&collection=journals.
+Barns, S. (2020). "City Bricolage: Imagining the City as a Platform". In Platform Urbanism (pp. 171-191). Palgrave Macmillan, Singapore. https://link.springer.com/content/pdf/10.1007%2F978-981-32-9725-8_9.pdf.
+Cardullo, P., & Kitchin, R. (2019). Being a ‘citizen’in the smart city: up and down the scaffold of smart citizen participation in Dublin, Ireland. GeoJournal, 84(1), 1-13. http://mural.maynoothuniversity.ie/9228/1/RK-Being-2017.pdf.
+Goodman, E. P., & Powles, J. (2019). Urbanism under google: Lessons from sidewalk Toronto. Fordham L. Rev., 88, 457. https://heinonline.org/HOL/Page?handle=hein.journals/flr88&div=19&g_sent=1&casa_token=&collection=journals.
+Kitchin, R., Cardullo, P., and Di Feliciantonio, C. (2019) “Citizenship, Justice, and the Right to the Smart City”, in Cardullo et al., eds. The Right to the Smart City, Emerald Publishing, First edition, pp. 1-24. http://www.kitchin.org/wp-content/uploads/2019/04/PCP-WP-41-citizenship-social-justice-and-right-to-the-smart-city.pdf.
+Morozov, E., & Bria, F. (2018). Rethinking the smart city. New York: Rosa Luxemburg Stiftung. https://onlineopen.org/media/article/583/open_essay_2018_morozov_rethinking.pdf.
+Larsson, S. & Heintz, F. (forthcoming) Transparency in Artificial Intelligence, Internet Policy Review.
+Schwarz, J. A., & Larsson, S. (2018). A Platform Society. In Developing Platform Economies: A European Policy Landscape (pp. 114-140). European Liberal Forum asbl. http://lup.lub.lu.se/search/ws/files/55024264/Andersson_Schwarz_Larsson_2018_A_Platform_Society.pdf.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Stefan Larsson, stefan.larsson@lth.lu.se
+Hemsida: http://www.lantm.lth.se
+
+
+

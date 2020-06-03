@@ -1,0 +1,127 @@
+
+Kursplan 2020/21 VTVA01
+
+
+
+
+
+Kursplan för
+Infrastrukturteknik
+Infrastructure Technique
+VTVA01, 12 högskolepoäng, G1 (Grundnivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning W
+Beslutsdatum: 2020-03-23
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: L1
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Geologi: grundkunskaper i allmän och tillämpad geologi samt
+hydrogeologi i syfte att ge förståelse för hur de geologiska
+förutsättningarna kan inverka på bygg- och anläggningstekniska
+frågeställningar.
+Anläggningsteknik: syftar till att ge grundläggande kunskaper
+om vägar på landsbygden; om planering, projektering, byggande,
+drift och underhåll samt om VA-anläggningars utformning och
+krav.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna redogöra för de vanligaste geologiska materialen,
+särskilt Sveriges jordarter och deras bildning, förekomst,
+landskapsformer och terrängläge, inre strukturell uppbyggnad,
+jordlagerföljder samt fysikaliska och tekniska egenskaper såsom
+permeabilitet och tjälfarlighet,
+kunna förstå och beskriva hur geologiska egenskaper kan
+inverka på frågeställningar som grundläggning av vägar och
+andra bygganläggningar,
+ha viss förståelse för hur geologiska förhållanden kan
+inverka på andra miljöfrågeställningar som exploatering och
+skydd av naturresurser och grundvatten,
+översiktligt kunna beskriva uppbyggnad och funktion av både
+enskilda VA-anläggningar och gemensamma VA-nät,
+läsa och förstå de ritningar som normalt ingår i en
+arbetsplan och bygghandling för ett mindre vägprojekt, och
+översiktligt kunna beskriva uppbyggnad av och egenskaper hos
+en flexibel överbyggnad i sekundärvägnätet.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna upprätta en geologisk förväntningsmodell, dvs. läsa
+en geologisk karta, upprätta en geologisk sektion med
+lagerföljder och därmed kunna beskriva en jord-/bergmassa i tre
+dimensioner,
+kunna nyttja den geologiska förväntningsmodellen som underlag
+för bedömning om markens lämplighet för byggande och
+anläggning,
+kunna bedöma lämplig dimensionering av en flexibel
+överbyggnad enligt svenska normer,
+översiktligt bedöma hur val av väglinje påverkar
+trafikanter och omgivning,
+kunna redovisa en ingenjörsgeologisk utredning i en skriftlig
+vetenskaplig rapport,
+självständigt kunna inhämta information för att lösa
+specifika uppgifter inom ämnesområdet och
+kunna utforma en enskild mindre avloppsanläggning bestående
+av ledningssystem och reningsanordning.
+
+
+Kursinnehåll
+Kursen är uppdelad i två delar:
+Geologi: De geologiska grunderna med tyngdpunkt på jordarterna
+i Sverige behandlas. Särskild vikt läggs på begreppet
+”Geologisk förväntningsmodell” och hur man upprättar en
+sådan med hjälp av en geologisk karta och en sektion med
+lagerföljder. Denna utgör ett underlag för att bedöma
+markanvändningen med avseende på byggnadsteknik, naturresurser
+och grundvatten.
+Projektarbetet består av en ingenjörsgeologisk utredning som
+fokuserar på samband mellan geologi och markanvändning.
+Utredningen genomförs i grupper om 3-4 studenter och presenteras i
+en kortfattad vetenskaplig rapport. Särskild vikt läggs vid
+skrivträning med återkoppling, ty projektarbetet avslutas med en
+timslång gruppvis feed-back där både geologiska och
+rapportskrivningsmässiga detaljer behandlas.
+Anläggningsteknik: Tre mindre projektuppgifter genomförs under
+delkursen: effekter på sekundärvägnätet i samband med större
+vägbygge och utformning och lokalisering av en enskild
+VA-anläggning. I projekten skall hänsyn tas till rådande
+geologiska förutsättningar .
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Godkänd skriftlig tentamen i geologi och anläggningsteknik (Vägbyggnad och VA). Godkända projektuppgifter. I projektuppgifterna ingår moment med obligatorisk närvaro. Betyget utgör en sammanvägning av resultatet från tentamina, där delarna värderas i proportion till undervisningens omfattning.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0114. Benämning: VA-teknik. 
+Antal högskolepoäng: 3. Betygsskala: UG.  Prestationsbedömning: Skriftlig tentamen Godkänd projektuppgift. 
+Kod: 0214. Benämning: Vägbyggnad. 
+Antal högskolepoäng: 4. Betygsskala: UG.  Prestationsbedömning: Skriftlig tentamen Godkänd projektarbete. 
+Kod: 0314. Benämning: Geologi. 
+Antal högskolepoäng: 5. Betygsskala: UG.  Prestationsbedömning: Godkänd skriftlig tentamen, godkänd projektrapport.  Delmomentet omfattar: Examinationen avser de delar av kursen som behandlar geologiska förutsättningar för anläggningar och exploatering. 
+Antagningsuppgifter
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: VTT090, VTT091
+Kurslitteratur
+
+Conny Svensson: Kompendium i Teknisk geologi. (http://connywww.tg.lth.se).
+Agardh, Sven; Parhamifar, Ebrahim: Vägbyggnad. Liber, 2014, ISBN: 978-91-47-09346-5.
+VA-teknik. Artiklar publiceras på kurshemsidan (live@lund).
+Svenska Språknämnden: Svenska skrivregler. Liber. (referenslitteratur) Senaste upplagan.
+Strömquist, Siv: Skrivboken. Gleerups. (referenslitteratur) Senaste upplagan.
+
+
+Kontaktinfo och övrigt
+Lärare: Åsa Davidsson , asa.davidsson@chemeng.lth.se
+Lärare: Maya Sheidaei , maya.sheidaei@tft.lth.se
+Lärare: Joakim Robygd , joakim.robygd@tg.lth.se
+Kursansvarig: Astrid Byrman, astrid.byrman@miljo.lth.se
+
+
+

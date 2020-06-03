@@ -1,0 +1,155 @@
+
+Kursplan 2020/21 FMAN55
+
+
+
+
+
+Kursplan för
+Kontinuerliga system
+Applied Mathematics
+FMAN55, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning F/Pi
+Beslutsdatum: 2020-04-01
+Allmänna uppgifter
+Huvudområde: Teknik. 
+Obligatorisk för: F2, Pi2
+Valfri för: D4, E4, M4
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Med ett kontinuerligt system menas inom ingenjörsvetenskaperna
+ett system vars tillståndsrum beskrivs av en kontinuerlig familj
+av parametrar. Kontinuerliga system uppträder ymnigt i fysik och
+andra naturvetenskaper, inom mekanik-, elektro- och andra
+teknikvetenskaper, inom ekonomiska vetenskaper etc. Kontinuerliga
+system leder för sin beskrivning i allmänhet till partiella
+differentialekvationer.
+Ett syfte med kursen är att förmedla matematiska
+verktyg, samt förmåga att använda dessa, för hela kedjan
+modellbygge - analys - tolkning av lösningar för
+partiella differentialekvationer som uppkommer för sådana
+system. Ett annat syfte är det omvända: att genom att visa hur
+en matematisk begreppsapparat som t ex Hilbertrum används i
+konkreta tillämpningar lägga grunden för en matematisk
+generalistkompetens användbar såväl i fortsatta studier som i
+yrkesverksamhet. Ett syfte är också att studenten ska stifta
+bekantskap med användning och användbarhet av datorhjälpmedel
+för beräkning och simulering.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna visa förmåga att formulera matematiska modeller för
+fenomen inom värmeledning, diffusion, vågutbredning och
+elektrostatik.
+
+
+kunna visa förmåga att fysikaliskt tolka matematiska modeller
+med olika randvillkor för de tre grundtyperna av partiella
+differentialekvationer: värmeledningsekvationen, vågekvationen
+och Laplace/Poissons ekvation, samt att förstå karaktären av
+deras lösningar.
+
+
+kunna visa förmåga att använda spektralmetoder (Fourier) och
+källfunktionsmetoder (Green) för att lösa problem för de tre
+grundtyperna av ekvationer i några enkla geometrier.
+
+
+kunna visa förmåga att tolka funktioner som abstrakta
+vektorer i ett Hilbertrum, och att för funktioner använda begrepp
+som norm, avstånd och skalärprodukt.
+
+
+kunna visa förmåga att avgöra om en operator är symmetrisk
+och förmåga att identifiera Sturm-Liouvilleoperatorer.
+
+
+kunna visa förmåga att bestämma egenfunktioner och
+egenvärden för några typer av Sturm-Liouvilleoperatorer, i
+synnerhet sådana som är förknippade med Laplaceoperatorn i en,
+två och tre dimensioner.
+
+
+kunna visa förmåga att beskriva projektionsformeln och
+använda den för att lösa minsta kvadrat-problem.
+
+
+ha viss erfarenhet  och förståelse av användning av
+matematiska och numeriska datorprogram för att lösa  problem med
+anknytning till kursen.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna visa förmåga att självständigt välja lämpliga
+metoder för att lösa de tre grundtyperna av partiella
+differentialekvationer och att genomföra lösningen av dessa i
+huvudsak korrekt.
+
+
+kunna visa förmåga att använda teoretiska verktyg från
+områden som Hilbertrum, speciella funktioner, distributionsteori,
+Fourier- och Laplacetransformationer samt Greenfunktioner vid
+lösning av de tre grundtyperna av partiella
+differentialekvationerna i enkla geometrier.
+
+
+i samband med problemlösning kunna visa förmåga att
+integrera kunskaper från de olika delarna i kursen.
+
+
+med adekvat terminologi, väl strukturerat och
+logiskt sammanhängande kunna redogöra för lösningen till
+matematiska problem inom kursens ram.
+
+
+Kursinnehåll
+Fysikaliska modeller. Fouriers metod, serieutvecklingar och
+integraltransformer. Greenfunktioner. Vågutbredning. Funktionsrum
+och funktionsnormer. Hilbertrum. Sturm-Liouvilleoperatorer och
+deras egenvärden och egenfunktioner, speciellt Laplaceoperatorn
+med enkla randvillkor för enkla områden. Speciella funktioner,
+tex Bessel, Legendre, klotytefunktioner. Distributioner.
+Fouriertransform, Laplacetransform. Något om numerisk lösning av
+partiella differentialekvationer.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftligt prov omfattande teori och problem. Datorlaborationer. Via ett frivilligt skriftligt prov efter den första halvan av kursen ges studenterna möjlighet att få bonus att räkna med vid den slutliga tentamen.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0117. Benämning: Kontinuerliga system. 
+Antal högskolepoäng: 7,5. Betygsskala: TH. 
+Kod: 0217. Benämning: Laborationer. 
+Antal högskolepoäng: 0. Betygsskala: UG. 
+Antagningsuppgifter
+Förkunskapskrav:
+FMA420 Linjär algebra eller FMAA20 Linjär algebra med introduktion till datorhjälpmedel eller FMAB20 Linjär algebra eller FMAF01 Matematik - Funktionsteori eller FMAF05 Matematik - System och transformer
+FMA430 Flerdimensionell analys eller FMA435 Flerdimensionell analys med vektoranalys eller FMAB30 Flerdimensionell analys eller FMAB35 Flerdimensionell analys med vektoranalys eller FMAF01 Matematik - Funktionsteori eller FMAF05 Matematik - System och transformer
+
+
+Förutsatta förkunskaper: FMAF01 Funktionsteori och FMAF05 System och transformer.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FMAF15, FMA020, FMA022, FMFF15, FMA021
+Kurslitteratur
+
+Sparr, G & Sparr, A: Kontinuerliga system. Studentlitteratur, 2000, ISBN: 91-44-01355-8.
+Sparr, G & Sparr, A: Kontinuerliga system., Övningsbok. Studentlitteratur, 2000, ISBN: 91-44-01234-9. Helst 2006 års tryckning.
+Matematikcentrum: Laborationshandledningar. Distribueras av institutionen.
+
+
+Kontaktinfo och övrigt
+Studierektor: Studierektor Anders Holst, Studierektor@math.lth.se
+Kursadministratör: Studerandeexpeditionen, expedition@math.lth.se
+Lärare: Mikael Persson Sundqvist, mikael.persson_sundqvist@math.lth.se
+Hemsida: http://www.maths.lth.se/course/kontsysnykod/
+Övrig information: Eventuell bonus från det frivilliga skriftliga provet mitt i kursen gäller vid ordinarie tentamen samt under de båda närmast därpå följande omtentamensperioderna.  Man kan delta i följande års frivilliga prov för att försöka få ny bonus.
+Bonusen kan enbart användas för att höja ett underkänt resultat till godkänt, inte för att höja betyget tre till överbetyg.
+
+
+

@@ -1,0 +1,104 @@
+
+Kursplan 2020/21 EIEN01
+
+
+
+
+
+Kursplan för
+Mekatronik, industriell produktframtagning
+Mechatronics, Industrial Product Design
+EIEN01, 10 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning E
+Beslutsdatum: 2020-03-19
+Allmänna uppgifter
+Valfri för: D4, E4-ra, M4-me, MD4
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Denna kurs har som målsättning att ge studenten kunskaper,
+färdigheter och erfarenheter från att delta i ett industribaserat
+mekatroniskt utvecklingsprojekt som drivs fram till en fungerande
+prototyp. Produktens principkonstruktion har tagits fram i
+kursen EIEF01 Tillämpad mekatronik. Arbetet utförs i en grupp
+där deltagarna bidrar med kompetens från flera olika
+ämnesområden.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+kunna
+
+välja konstruktionskomponenter för ett givet
+produktkoncept,
+specificera tillverkningsmetoder för valda
+konstruktionsmaterial,
+implementera realtidsprogrammering och kommunikation i
+produktkonceptets integrerade styr- och reglersystem och mäta dess
+prestanda,
+konstruera och specificera styrelektronik, kraftelektronik och
+elektromekaniska energiomvandlare som behövs för produktens
+verkningssätt.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+kunna
+
+använda gängse metoder för produktutveckling i ett
+mekatronikteam,
+utarbeta och bedöma vald detaljkonstruktion för ett
+mekatroniskt produktkoncept,
+implementera ett mekatroniskt koncept till en färdig prototyp
+för industriell tillämpning,
+kunna testa och utvärdera prototypen.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna arbeta med alla relevanta kompetenser inom ett
+mekatroniskt utvecklingsteam,
+ha insikt och omdöme att respektera och efterfråga de många
+olika kompetenser som är förutsättningen för ett mekatroniskt
+konstruktionsarbete.
+
+
+Kursinnehåll
+Projektet genomförs under två läsperioder i samarbete med
+kursen MMK101, Produktutvecklingsprojekt. Kursdeltagarna i
+Mekatronik, industriell produktframtagning ska utveckla
+mekatroniska delar i gemensamma projekt eller helt mekatroniska
+produkter.
+En av hörnstenarna i mekatroniskt utvecklingsarbete är att
+medlemmarna med olika kompetenser i ett team finns med redan från
+början av projektet för att öka möjligheterna till innovativa
+lösningar, där sådana ämnen som realtidsprogrammering,
+reglerteknik, elektriska drivsystem och maskinkonstruktion
+samverkar på ett genomgripande sätt. Denna samverkan fortsätter
+inom denna kurs, där beställning av komponenter, bygge av
+produkten, provning och justeringar är målen.
+Kursen avslutas med en offentlig presentation av i de båda
+kurserna framtagna produkterna i närvaro av
+industrirepresentanter, kursledningar och press.
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: Godkänd projektredovisning och skriftlig rapport.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: EIEF01Tillämpad mekatronik.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: EIE075
+Kurslitteratur
+
+Bradley D, Seward D, Dawson D, Burge S: Mechatronics and the design of intelligent machines and systems. Stanley and Thornes, 2000, ISBN: 0-7487-5443-1.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Associate Professor Gunnar Lindstedt, gunnar.lindstedt@iea.lth.se
+Hemsida: http://www.iea.lth.se
+
+
+

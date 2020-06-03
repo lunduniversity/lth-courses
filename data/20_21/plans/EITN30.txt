@@ -1,0 +1,80 @@
+
+Kursplan 2020/21 EITN30
+
+
+
+
+
+Kursplan för
+Internet inuti
+Internet Inside
+EITN30, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning C/D
+Beslutsdatum: 2020-03-30
+Allmänna uppgifter
+Valfri för: C4-ks, C4-sec, D4-is, D4-ns, D4-hs, E4-ks
+Undervisningsspråk: Kursen ges på svenska
+
+Syfte
+Syftet med kursen är att illustrera utvecklingsarbete med
+inbyggda system. Studenterna får integrera kunskaper från flera
+kurser inom programmering och kommunikation genom ett
+självständigt arbete.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+analysera och beskriva system av låg och medelhög
+komplexibilitet
+självständigt testa och felsöka en konstruktion på ett
+systematiskt sätt
+självständigt söka upp och tillgodogöra sig relevant
+information
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna ange förslag på tekniska lösningar för digitala
+kommunikationssystem som uppfyller givna prestandakrav
+visa förmåga att självständigt och kreativt arbeta
+med kvalificerade projekt, samt muntligt klart redogöra,
+motivera och diskutera sina slutsatser
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+Visa prov på insikt om möjligheter och begränsningar med
+inbyggda system
+
+Kursinnehåll
+Kursen är inriktad på en protokollstack för
+datakommunikation. I kursen implementeras en lösning som täcker
+flera logiska lager i protokollstacken.
+
+Kursens examination
+Betygsskala: UG - (U,G) - (Underkänd, Godkänd)
+Prestationsbedömning: Föreläsningsnärvaro tillsammans med godkänt project.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förkunskapskrav:
+EDA016 Programmeringsteknik eller EDA017 Programmeringsteknik eller EDAA45 Programmering, grundkurs eller EDAA55 Programmeringsteknik
+
+
+Förutsatta förkunskaper: Vana att arbeta självständigt, samt en grundkurs i kommunikation. 
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: EIT150
+Kurslitteratur
+
+Stevens W R: TCP/IP Illustrated, Volume 1: The Protocols. Addison-Wesley, ISBN: 0-201-63346-9.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: William Tärneberg , william.tarneberg@eit.lth.se
+Hemsida: http://www.eit.lth.se/kurs/eitn30
+Övrig information: Vid färre än 16 deltagare kan kursen komma att ges med reducerad undervisning och större inslag av självstudier.
+
+
+

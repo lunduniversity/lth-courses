@@ -1,0 +1,88 @@
+
+Kursplan 2020/21 FMFN01
+
+
+
+
+
+Kursplan för
+Kvantmekanik, fortsättningskurs 1
+Quantum Mechanics, Advanced Course 1
+FMFN01, 7,5 högskolepoäng, A (Avancerad nivå)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning F/Pi
+Beslutsdatum: 2020-04-01
+Allmänna uppgifter
+Huvudområde: Nanovetenskap. 
+Valfri för: F4, F4-tf, F4-f, F4-nf, F4-aft, MFOT1, MNAV1, N4-nf
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Kvantmekaniken är grunden för all modern fysik. Denna kurs ger
+den fördjupning inom ämnet som alla fysiker bör ha oberoende av
+om man ägnar sig åt teoretisk eller experimentell fysik. I kursen
+behandlas både teori och tillämpningar. Projekt för att träna
+studenten i någon tillämpning som är central i den valda
+inriktningen.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+
+kunna kvantmekanikens formalism och matematiska metoder
+kunna tillämpa teorin på konkreta problemställningar.
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+kunna använda kvantmekanikens metoder för analys och
+beräkning av relevanta fysikaliska problemställningar
+kunna avgöra om en kvantmekanisk eller klassisk behandling av
+en problemställning är lämplig
+kunna tillämpa kvantmekaniskt tänkande i anslutning till
+konkreta problemställningar.
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+kunna se användbarheten av den kvantmekaniska teorin i några
+tillämpningar.
+
+
+Kursinnehåll
+Kvantmekanikens grundläggande principer. Matrisrepresentation
+och Diracbeteckning. Hamiltonoperatorn för partikel i elektriskt
+och magnetiskt fält. Harmoniska oscillatorn i flera dimensioner
+behandlad med operatorformalism. Landau-nivåer och
+fonontillstånd. Energier och vågfunktioner beräknade i andra
+ordningens störningsteori. Tidsberoende störningsteori och Fermis
+gyllene regel. Generell teori för rörelsemängdsmoment,
+spinnformalism. Elementär teori för kvantisering av
+det elektromagnetiska fältet.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Skriftlig tentamen med problem och teorifrågor. Projektarbete.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Delmoment
+Kod: 0110. Benämning: Tentamen. 
+Antal högskolepoäng: 6. Betygsskala: TH.  Prestationsbedömning: Skriftlig tentamen.  Delmomentet omfattar: Samtliga moment i föreläsningarna 
+Kod: 0210. Benämning: Projekt. 
+Antal högskolepoäng: 1,5. Betygsskala: UG.  Prestationsbedömning: Muntlig och skriftlig presentation.  Delmomentet omfattar: Vald inriktning. 
+Antagningsuppgifter
+Förutsatta förkunskaper: Kunskaper i kvantmekanik motsvarande innehållet i FAFF10 Atom- och kärnfysik med tillämpningar eller FMFF15 Kvantmekanik och matematiska metoder. .
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: FMF032, FMF033
+Kurslitteratur
+
+Andreas Wacker, Gunnar Ohlen, and Stephanie Reimann: Compendium Quantum Mechanics FYSN17/FMFN01. Mathematical Physics, 2013. Finns på kursens hemsida.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Stephanie Reimann, Stephanie.Reimann@matfys.lth.se
+Hemsida: http://www.matfys.lth.se/education/FMFN01
+
+
+

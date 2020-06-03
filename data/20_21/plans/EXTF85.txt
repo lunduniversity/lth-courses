@@ -1,0 +1,142 @@
+
+Kursplan 2020/21 EXTF85
+
+
+
+
+
+Kursplan för
+Partikelfysik, kosmologi och acceleratorer
+Particle Physics, Cosmology and Accelerators
+EXTF85, 7,5 högskolepoäng, G2 (Grundnivå, fördjupad)
+Gäller för: Läsåret 2020/21
+Beslutad av: Programledning N
+Beslutsdatum: 2020-03-27
+Allmänna uppgifter
+Valfri för: F4, F4-aft
+Undervisningsspråk: Kursen ges på begäran på engelska
+
+Syfte
+Kursens syfte är att ge en övergripande redogörelse för de
+fundamentala upptäckter, som gjorts inom partikelfysiken de
+senaste decennierna och som lett fram till dagens bild av materiens
+uppbyggnad baserad på subnukleära beståndsdelar. En introduktion
+till de kvantfältteorier som utvecklats för att beskriva
+växelverkan mellan materiens byggstenar ges. Vidare kommer de
+grundläggande begreppen inom acceleratorteknologin samt den
+experimentella tekniken som används i dagens elektroniska
+detektorer att gås igenom. I kursen ingår också en laboration,
+som avser att mäta livstiden hos kosmiska muoner.
+
+Mål
+Kunskap och förståelse
+För godkänd kurs skall studenten
+· Beskriva materiens uppbyggnad av kvarkar och leptoner i
+standardmodellen.
+
+Beskriva de fundamentala växelverkningarna i
+standardmodellen
+Redogöra för de grundläggande observationerna som lett till
+standardmodellen
+Diskutera förutspådda fenomen bortom standardmodellen.
+Vara orienterad om den aktuella forskningsfronten i
+högenergifysik
+Redogöra för universums utveckling, framför allt ur
+partikelfysikperspektiv
+Redogöra för konsekvenser på partikelnivå av
+astrofysikaliska observationer
+Redogöra för olika partiklars växelverkan med materia,
+speciellt detektormaterial
+Redogöra för hur man identifierar partiklar och bestämmer
+deras rörelsemängd.
+Redogöra för sekundära strålar av neutroner, myoner, pioner
+och fotoner vid t.ex. ESS och MAX.
+Vara orienterad om acceleratorers användning för
+materialstudier och medicinska tillämpningar
+
+
+Färdighet och förmåga
+För godkänd kurs skall studenten
+
+Åskådliggöra reaktioner och sönderfall med
+Feynmandiagram
+Göra kvantitativa beräkningar på reaktioner och sönderfall
+med relativistisk kinematik
+Använda metoden med fyrmomentum för kvantitativa kinematiska
+beräkningar
+Tillämpa bevaringsregler på reaktioner och sönderfall
+Koppla upp en elektronisk detektion av myoner från den
+kosmiska strålningen och mätning av tiden till sönderfall.
+Med hjälp av MATLAB bestämma myonens livstid från de
+uppmätta värdena samt att generalisera livstidsmätningar på
+tidskalor för svaga sönderfall.
+Beräkna laddade partiklars rörelse i elektriska och
+magnetiska fält
+
+
+Värderingsförmåga och förhållningssätt
+För godkänd kurs skall studenten
+
+Värdera naturvetenskapens bild av materiens uppbyggnad
+baserat på experiment, modellbildning och teorier.
+Värdera naturvetenskapes bild av universums uppbyggnad och
+utveckling baserat på observationer, modellbildning och
+teorier.
+
+
+Kursinnehåll
+Kursen består av 2 moment, partikelfysik och kosmologi, 6
+högskolepoäng (hp), samt acceleratorer och deras användning,
+1.5hp.
+Studenten ges en översikt över elementarpartiklar och deras
+växelverkan. Leptoner, kvarkar och sammansatta partiklar
+diskuteras, samt den elektromagnetiska, svaga och starka kraften
+och dess kraftförmedlare. Reaktioner och sönderfall representeras
+med Feynmandiagram. Speciellt införs partikelfysikens
+standardmodell med den elektrosvaga växelverkan och
+kvantkromodynamik. Higgs mekanismen introduceras och möjliga
+teorier bortom standard-modellen diskuteras tillsammans med en
+orientering om forskningsfronten i högenergifysik. Universums
+expansion och utveckling och kosmologins relation till
+partikelfysiken diskuteras. De viktigaste obesvarade frågorna i
+kosmologin, som mörk materia och asymmetrin mellan materia och
+antimateria uppmärksammas.
+Metoder att bestämma identitet och rörelsemängd av partiklar
+gås igenom samt principen för högenergifysikexperiment.
+Experimentella studier av subatomära system kräver
+partikelstrålar med hög energi. Partikelacceleratorer används
+numer även i samhället i stort, t.ex. för medicinska
+tillämpningar och för materialstudier i fysik, farmakologi,
+biologi, kemi etc. Principerna för acceleration, främst
+synkrotron och linjäraccelerator, och lagring av partikelstrålar
+gås igenom. Exempel tas från den subatomära fysikens frontlinje,
+LHC vid CERN, samt de för materialstudier aktuella MAX och ESS i
+Lund. För dessa studeras även hur sekundära strålar av fotoner
+och neutroner skapas för användning för olika
+tillämpningar.
+
+Kursens examination
+Betygsskala: TH - (U,3,4,5) - (Underkänd, Tre, Fyra, Fem)
+Prestationsbedömning: Muntlig tentamen, godkända hemuppgifter, godkänd laborationsrapport samt obligatoriskt studiebesök/obligatorisk uppsats.
+Om så krävs för att en student med varaktig funktionsnedsättning ska ges ett likvärdigt examinationsalternativ jämfört med en student utan funktionsnedsättning, så kan examinator efter samråd med universitetets avdelning för pedagogiskt stöd fatta beslut om alternativ examinationsform för berörd student.
+Antagningsuppgifter
+Förutsatta förkunskaper: FAFF10 Atom- och kärnfysik med tillämpningar.
+Begränsat antal platser: Nej
+Kursen överlappar följande kurser: EXTF05, FKF050
+Kurslitteratur
+
+Kompendium ”Particle Physics and Cosmology”, tillgängligt från Kurslaboratoriet.
+B.R. Martin and G. Shaw, Particle Physics, , John Wiley & Sons, 3 utgåva.
+ISBN 0-471-97285-1.
+Skrivet material som delas ut i samband med lektioner.
+Kompletterande läsning:.
+Williams, W.S.C.: Nuclear and Particle Physics, Oxford Science Publications.
+
+
+Kontaktinfo och övrigt
+Kursansvarig: Caterina Doglioni, caterina.doglioni@hep.lu.se
+Hemsida: https://www.fysik.lu.se/index.php?id=108305
+Övrig information: Kursen ges av naturvetenskapliga fakulteten och följer inte läsperiodsindelningen.
+
+
+
