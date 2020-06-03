@@ -14,6 +14,7 @@
 
 # Java / Scala
 **/*.class
+**/.metals
 
 # Sbt
 
