@@ -2,7 +2,7 @@ object Main {
   def main(args: Array[String]): Unit = args.toList match {
     case "--download" :: xs => DownloadAllCoursePlans(xs)
 
-    case "--programs" :: xs => UpdateProgramNames(xs)  
+    case "--update" :: xs => UpdateProgramNames(xs)  
 
     case "--server"   :: xs =>
       CourseWebServer.start(

@@ -3,6 +3,12 @@ import scala.io.Codec
 import Grid.StringToFile
 
 object UpdateProgramNames {
+  def apply(args: List[String]): Unit = {
+    println("TODO: update to use new api")
+  }
+}
+
+object UpdateProgramNamesOld {
   val outFile = "data/program-names.tsv"
   def file(f: String): java.io.File = new java.io.File(f)
   def isExisting(f: String) = file(f).exists
