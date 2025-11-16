@@ -15,7 +15,7 @@ object UpdateProgramNames {
     if (isExisting(outFile)) Some(Grid.fromFile(outFile)) else None
   
   val url = "https://kurser.lth.se/lot/?val=program"
-  val lines: Vector[String] = Source.fromURL(url)(Codec.UTF8).getLines.toVector
+  val lines: Vector[String] = Source.fromURL(url)(Codec.UTF8).getLines().toVector
   val start = """<label><input type="radio" name="prog" value=""""
   val progLines = lines.filter(_.contains(start))
 
@@ -36,7 +36,7 @@ object UpdateProgramNames {
   def apply(args: List[String]): Unit = {
     oldOpt.foreach { old => 
       println(s"*** CURRENT DATA IN $outFile"); 
-      old.print
+      old.print()
     }
     println(s"Downloaded: ${progNames.size} program names from $url")
     val latest = progNames.map(_._1).toSet

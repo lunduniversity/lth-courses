@@ -3,7 +3,7 @@ import Data._
 object Statistics {
   def apply(args: List[String] = List()): String = {
     println(s"args=$args")
-    val argPairs = args.grouped(2).map{
+    val argPairs = args.grouped(2).collect{
       case Seq(a,b) => (a,b)
     }.toMap
     println(s"argPairs=$argPairs")
@@ -39,7 +39,7 @@ object Statistics {
     // |${filteredCourses.showCourses}
 
     val oblOfProgramFiltered =
-      oblOfProgram.mapValues(oblSet => oblSet.toSeq.findCourses(words).sorted)
+      oblOfProgram.map(kv => kv._1 -> kv._2.toSeq.findCourses(words).sorted)
 
     type SummaryRow = (String, String, Int, Int)
     var summary: Vector[SummaryRow] = Vector()

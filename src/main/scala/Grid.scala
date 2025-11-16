@@ -22,11 +22,11 @@ object Grid {
 
   object Text {
     def fromFile(file: String, enc: String = defaultEnc): Vector[String] =
-        scala.io.Source.fromFile(file, enc).getLines.toVector
+        scala.io.Source.fromFile(file, enc).getLines().toVector
   }
 
   def fromFile(file: String, delim: Char = defaultDelim, enc: String = defaultEnc): Grid = {
-    val lines = io.Source.fromFile(file, enc).getLines.toVector
+    val lines = io.Source.fromFile(file, enc).getLines().toVector
     fromLines(lines, delim)
   }
 

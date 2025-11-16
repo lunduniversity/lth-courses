@@ -74,7 +74,7 @@ object Data {
   def downloadPlanHtml(courseId: String, year: String = defaultYear): String = {
     val id = courseId.toUpperCase
     val buf = Source.fromURL(s"$baseUrl/$year/$id.html")(Codec.UTF8)
-    val result = buf.getLines.mkString("\n")
+    val result = buf.getLines().mkString("\n")
     buf.close
     result
   }
@@ -83,7 +83,7 @@ object Data {
 
   def loadPlan(coursId: String, year: String = defaultYear, suff: String = "txt"): Vector[String] = {
     val buf = Source.fromFile(s"$baseDir/$year/plans/$coursId.$suff")(Codec.UTF8)
-    val lines = buf.getLines.toVector
+    val lines = buf.getLines().toVector
     buf.close
     lines
   }
